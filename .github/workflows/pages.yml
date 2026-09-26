@@ -15,7 +15,8 @@ concurrency:
 
 jobs:
   web:
-    runs-on: ubuntu-latest
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: herschel-runners
     defaults:
       run:
         working-directory: web
@@ -42,7 +43,8 @@ jobs:
           path: web/dist/client
 
   pipeline:
-    runs-on: ubuntu-latest
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: herschel-runners
     defaults:
       run:
         working-directory: pipeline
@@ -60,7 +62,7 @@ jobs:
   desplegar:
     if: github.ref == 'refs/heads/main'
     needs: [web, pipeline]
-    runs-on: ubuntu-latest
+    runs-on: herschel-runners
     permissions:
       pages: write
       id-token: write
