@@ -1,0 +1,43 @@
+[project]
+name = "pau"
+version = "0.1.0"
+description = "Rastreo, extracción y publicación de exámenes de la PAU"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5",
+    "truststore>=0.10.4",
+    "openai>=3.19.2",
+    "python-dotenv>=1.2.3",
+    "pymupdf>=1.28.2",
+    "pydantic>=2",
+]
+
+[project.scripts]
+pau = "pau.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pau"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore:builtin type .* has no __module__ attribute:DeprecationWarning"]
+
+[tool.ruff]
+line-length = 200
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["SIM108"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/pau/dominio/esquema.py" = ["E501"]

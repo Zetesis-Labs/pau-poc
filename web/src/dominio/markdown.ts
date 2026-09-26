@@ -1,0 +1,32 @@
+import katex from "katex";
+import "katex/contrib/mhchem";
+import { Marked } from "marked";
+
+const FORMULA = /\$\$([\s\S]+?)\$\$|\$([^$\n]+?)\$/g;
+const HUECO = /\uE000(\d+)\uE001/g;
+const marked = new Marked({ gfm: true, breaks: false });
+
+const escapar = (texto: string): string =>
+  texto.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c] ?? c);
+
+function formula(tex: string, bloque: boolean): string {
+  try {
+    return katex.renderToString(tex, { displayMode: bloque, throwOnError: false, output: "htmlAndMathml" });
+  } catch {
+    return escapar(tex);
+  }
+}
+
+/** Markdown con fórmulas LaTeX a HTML: las fórmulas se apartan antes de pasar por marked para que no las altere. */
+export function renderizar(md: string): string {
+  const formulas: { tex: string; bloque: boolean }[] = [];
+  const protegido = md.replace(FORMULA, (_, bloque: string | undefined, linea: string | undefined) => {
+    formulas.push({ tex: bloque ?? linea ?? "", bloque: bloque !== undefined });
+    return `\uE000${formulas.length - 1}\uE001`;
+  });
+  const html = marked.parse(protegido, { async: false });
+  return html.replace(HUECO, (_, i: string) => {
+    const f = formulas[Number(i)];
+    return f ? formula(f.tex, f.bloque) : "";
+  });
+}

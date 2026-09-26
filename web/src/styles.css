@@ -1,0 +1,111 @@
+@import "tailwindcss";
+@import "@fontsource-variable/fraunces";
+@import "@fontsource-variable/source-serif-4";
+@import "@fontsource-variable/source-serif-4/wght-italic.css";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+@import "katex/dist/katex.min.css";
+
+@custom-variant dark (&:where([data-tema="oscuro"], [data-tema="oscuro"] *));
+
+@theme {
+  --font-titulo: "Fraunces Variable", Georgia, serif;
+  --font-serif: "Source Serif 4 Variable", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --color-papel: var(--papel);
+  --color-papel-2: var(--papel-2);
+  --color-papel-3: var(--papel-3);
+  --color-tinta: var(--tinta);
+  --color-suave: var(--suave);
+  --color-regla: var(--regla);
+  --color-rojo: var(--rojo);
+  --color-verde: var(--verde);
+  --color-azul: var(--azul);
+  --color-resalte: var(--resalte);
+}
+
+:root {
+  --papel: #f4efe4;
+  --papel-2: #ebe4d4;
+  --papel-3: #e2d9c5;
+  --tinta: #1d1a16;
+  --suave: #6b6355;
+  --regla: #cfc5b0;
+  --rojo: #c8321e;
+  --verde: #2f6b3a;
+  --azul: #1f4e8c;
+  --resalte: rgb(200 50 30 / 0.14);
+  color-scheme: light;
+}
+
+:root[data-tema="oscuro"] {
+  --papel: #16140f;
+  --papel-2: #1f1c16;
+  --papel-3: #29251d;
+  --tinta: #efe7d6;
+  --suave: #a79d8a;
+  --regla: #3a342a;
+  --rojo: #ff6a4d;
+  --verde: #7fcf8c;
+  --azul: #7fb0ff;
+  --resalte: rgb(255 106 77 / 0.18);
+  color-scheme: dark;
+}
+
+@layer base {
+  body {
+    @apply bg-papel text-tinta font-serif antialiased;
+    font-size: 15px;
+    line-height: 1.55;
+  }
+  mark {
+    @apply bg-resalte text-inherit;
+  }
+  kbd {
+    @apply font-mono text-[11px] border border-regla px-1.5 text-suave;
+  }
+}
+
+@layer components {
+  .etiqueta-mono {
+    @apply font-mono text-[10px] font-medium uppercase tracking-[0.14em] text-suave;
+  }
+  .prosa {
+    font-size: 16px;
+  }
+  .prosa p {
+    margin: 6px 0;
+  }
+  .prosa table {
+    @apply my-2 border-collapse text-sm;
+  }
+  .prosa th,
+  .prosa td {
+    @apply border border-regla px-2 py-0.5;
+  }
+  .prosa ul,
+  .prosa ol {
+    @apply my-1 pl-6;
+  }
+  .prosa ul {
+    list-style: disc;
+  }
+  .prosa ol {
+    list-style: decimal;
+  }
+}
+
+.resumen p {
+  display: inline;
+  margin: 0;
+}
+
+.resumen .katex-display {
+  display: inline;
+  margin: 0;
+}
+
+.resumen .katex-display > .katex {
+  display: inline;
+  text-align: inherit;
+}

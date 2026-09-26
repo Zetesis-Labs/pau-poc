@@ -1,0 +1,9 @@
+data/
+pipeline/salida/
+.env
+.venv/
+__pycache__/
+.cache/
+node_modules/
+.pytest_cache/
+.ruff_cache/
