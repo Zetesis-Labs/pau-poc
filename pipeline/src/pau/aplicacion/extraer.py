@@ -53,7 +53,7 @@ def extraer_documento(documento: dict, parametros: Parametros, rutas: Rutas, ext
         )
     except Exception as error:
         return {**registro, "error": f"{type(error).__name__}: {error}"[:500], "segundos": round(time.monotonic() - inicio, 1)}
-    registro.update(segundos=round(time.monotonic() - inicio, 1), uso=extraccion.uso, estado=extraccion.estado)
+    registro.update(segundos=round(time.monotonic() - inicio, 1), uso=extraccion.uso, estado=extraccion.estado, respuesta=extraccion.id)
     if extraccion.examen is None:
         return {**registro, "error": f"sin salida parseada (estado {extraccion.estado}, {extraccion.detalle})"}
     examen, cambios = normalizar(extraccion.examen)

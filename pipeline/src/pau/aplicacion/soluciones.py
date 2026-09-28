@@ -51,7 +51,7 @@ def extraer_solucion(
         )
     except Exception as error:
         return {**salida, "error": f"{type(error).__name__}: {error}"[:500], "segundos": round(time.monotonic() - inicio, 1)}
-    salida.update(segundos=round(time.monotonic() - inicio, 1), uso=respuesta.uso, estado=respuesta.estado)
+    salida.update(segundos=round(time.monotonic() - inicio, 1), uso=respuesta.uso, estado=respuesta.estado, respuesta=respuesta.id)
     if respuesta.resultado is None:
         return {**salida, "error": f"sin salida parseada (estado {respuesta.estado}, {respuesta.detalle})"}
     solucion = normalizar_soluciones(respuesta.resultado, fuente.desde)

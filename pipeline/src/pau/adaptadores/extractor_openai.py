@@ -31,14 +31,16 @@ class ExtractorOpenAI:
             text_format=formato,
             reasoning={"effort": esfuerzo},
             max_output_tokens=MAX_TOKENS_SALIDA,
+            store=False,
         )
         return Salida(
             resultado=respuesta.output_parsed,
             uso=respuesta.usage.model_dump() if respuesta.usage else None,
             estado=respuesta.status,
             detalle=str(respuesta.incomplete_details),
+            id=respuesta.id,
         )
 
     def extraer(self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str) -> Extraccion:
         salida = self.estructurar(pdf, nombre, contexto, instrucciones, modelo, esfuerzo, ExamenExtraido)
-        return Extraccion(examen=salida.resultado, uso=salida.uso, estado=salida.estado, detalle=salida.detalle)
+        return Extraccion(examen=salida.resultado, uso=salida.uso, estado=salida.estado, detalle=salida.detalle, id=salida.id)

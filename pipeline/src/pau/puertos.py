@@ -24,6 +24,7 @@ class Extraccion:
     uso: dict | None
     estado: str
     detalle: str = ""
+    id: str = ""
 
 
 @dataclass(frozen=True)
@@ -34,6 +35,7 @@ class Salida:
     uso: dict | None
     estado: str
     detalle: str = ""
+    id: str = ""
 
 
 class Extractor(Protocol):
