@@ -3,9 +3,10 @@
 import base64
 
 from openai import OpenAI
+from pydantic import BaseModel
 
 from pau.dominio.esquema import ExamenExtraido
-from pau.puertos import Extraccion
+from pau.puertos import Extraccion, Salida
 
 MAX_TOKENS_SALIDA = 100_000
 
@@ -14,7 +15,9 @@ class ExtractorOpenAI:
     def __init__(self, timeout: float = 900, reintentos: int = 3):
         self._cliente = OpenAI(timeout=timeout, max_retries=reintentos)
 
-    def extraer(self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str) -> Extraccion:
+    def estructurar(
+        self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str, formato: type[BaseModel],
+    ) -> Salida:
         respuesta = self._cliente.responses.parse(
             model=modelo,
             instructions=instrucciones,
@@ -25,13 +28,17 @@ class ExtractorOpenAI:
                     {"type": "input_text", "text": contexto},
                 ],
             }],
-            text_format=ExamenExtraido,
+            text_format=formato,
             reasoning={"effort": esfuerzo},
             max_output_tokens=MAX_TOKENS_SALIDA,
         )
-        return Extraccion(
-            examen=respuesta.output_parsed,
+        return Salida(
+            resultado=respuesta.output_parsed,
             uso=respuesta.usage.model_dump() if respuesta.usage else None,
             estado=respuesta.status,
             detalle=str(respuesta.incomplete_details),
         )
+
+    def extraer(self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str) -> Extraccion:
+        salida = self.estructurar(pdf, nombre, contexto, instrucciones, modelo, esfuerzo, ExamenExtraido)
+        return Extraccion(examen=salida.resultado, uso=salida.uso, estado=salida.estado, detalle=salida.detalle)

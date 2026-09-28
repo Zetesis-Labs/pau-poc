@@ -4,6 +4,7 @@ import re
 from collections.abc import Callable
 
 from pau.dominio.geometria import Bloque, Caja
+from pau.dominio.rubrica import rubricas_por_nodo
 
 FORMULA = re.compile(r"\$\$(.+?)\$\$|\$([^$]+)\$", re.S)
 FORMULA_TRIVIAL = re.compile(r"[\w\s.,:;+\-−=%()/·']*")
@@ -51,7 +52,7 @@ def regla(eleccion: dict | None) -> str:
     return f"elegir {cuantos} de {eleccion['de'] or '?'}{media}"
 
 
-def _apartados(nodo: dict, arbol: dict) -> list[dict]:
+def _apartados(nodo: dict, arbol: dict, rubricas: dict[str, dict], soluciones: dict[str, dict]) -> list[dict]:
     return [
         {
             "etiqueta": _por_idioma(h["etiqueta"]),
@@ -59,10 +60,18 @@ def _apartados(nodo: dict, arbol: dict) -> list[dict]:
             "puntos": h["puntos"],
             "estimulos": h["estimulos"],
             "regla": regla(h["eleccion"]),
-            "apartados": _apartados(h, arbol),
+            "rubrica": rubricas.get(h["id"]),
+            "solucion": soluciones.get(h["id"]),
+            "apartados": _apartados(h, arbol, rubricas, soluciones),
         }
         for h in arbol.get(nodo["id"], [])
     ]
+
+
+def fuente_publicada(fuente: dict) -> dict:
+    anexo = fuente["anexo"]
+    publicada = {"tipo": anexo["tipo"], "incrustado": "incrustado" in anexo}
+    return publicada if publicada["incrustado"] else {**publicada, "url": anexo["url"]}
 
 
 def _estimulos_usados(nodo: dict, arbol: dict, ancestros: list[dict]) -> list[str]:
@@ -123,9 +132,15 @@ def unidades(nodos: list[dict], por_id: dict) -> list[dict]:
     return [n for n in nodos if n["tipo"] == "opcion" and n["id"] not in con_hijos_estructurales]
 
 
-def preguntas_de(registro: dict) -> list[dict]:
-    """Preguntas de un registro de extracción. Los campos con `_` son internos del anclaje y no se publican."""
+def preguntas_de(registro: dict, rubrica: dict | None = None, soluciones: dict[str, dict] | None = None) -> list[dict]:
+    """Preguntas de un registro de extracción, con la rúbrica y la solución de cada nodo si las hay.
+
+    Los campos con `_` son internos del anclaje y no se publican.
+    """
+    soluciones = soluciones or {}
     res, doc = registro["resultado"], registro["documento"]
+    con_rubrica = bool(rubrica and rubrica["resultado"]["contiene_criterios"])
+    rubricas, generales = rubricas_por_nodo(rubrica["resultado"]) if con_rubrica else ({}, {})
     por_id = {n["id"]: n for n in res["nodos"]}
     arbol = _hijos(res["nodos"])
     estimulos = {e["id"]: e for e in res["estimulos"]}
@@ -145,7 +160,11 @@ def preguntas_de(registro: dict) -> list[dict]:
             "etiqueta": _por_idioma(nodo["etiqueta"]),
             "enunciado": _por_idioma(nodo["enunciado"]),
             "puntos": nodo["puntos"],
-            "apartados": _apartados(nodo, arbol),
+            "rubrica": rubricas.get(nodo["id"]),
+            "solucion": soluciones.get(nodo["id"]),
+            "criteriosGenerales": generales,
+            "fuenteRubrica": fuente_publicada(rubrica["fuente"]) if con_rubrica else None,
+            "apartados": _apartados(nodo, arbol, rubricas, soluciones),
             "idiomas": sorted({t["idioma"] for t in nodo["enunciado"]} or set(res["idiomas"])),
             "estimulos": [
                 {

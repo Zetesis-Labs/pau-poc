@@ -40,3 +40,21 @@ def test_recortar_ajusta_al_dibujo_y_guarda_png(pdf, tmp_path):
     assert figura["metodo"] == "pdf" and figura["problemas"] == []
     assert (tmp_path / "figuras" / "doc_E1_es_1.png").read_bytes().startswith(b"\x89PNG")
     assert figura["alto"] > figura["ancho"] * 0.6
+
+
+def test_paginas_desde_recorta_el_pdf_y_texto_lee_cada_pagina(tmp_path):
+    documento = pymupdf.open()
+    for n in range(1, 5):
+        documento.new_page().insert_text((72, 100), f"Página {n}")
+    ruta = tmp_path / "cuatro.pdf"
+    documento.save(ruta)
+    lector = LectorPymupdf()
+    recorte = tmp_path / "recorte.pdf"
+    recorte.write_bytes(lector.paginas_desde(ruta, 3))
+    with lector.abrir(recorte) as pdf:
+        assert pdf.paginas == 2
+        assert "Página 3" in pdf.texto(1) and "Página 4" in pdf.texto(2)
+    completo = tmp_path / "completo.pdf"
+    completo.write_bytes(lector.paginas_desde(ruta, 1))
+    with lector.abrir(completo) as pdf:
+        assert pdf.paginas == 4

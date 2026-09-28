@@ -103,7 +103,7 @@ describe("calcularFaceta", () => {
 });
 
 describe("faceta de corrección", () => {
-  it("permite filtrar por criterios y por solución por separado", () => {
+  it("los criterios enlazados cuentan aunque aún no se haya extraído nada", () => {
     const conCriterios = pregunta({
       id: "c",
       examen: {
@@ -130,9 +130,25 @@ describe("faceta de corrección", () => {
     ).valores;
     expect(Object.fromEntries(valores.map((v) => [v.valor, v.cuenta]))).toEqual({
       "Con criterios": 1,
-      "Con solución": 1,
       "Sin corrección": 1,
     });
+  });
+});
+
+describe("faceta de rúbrica", () => {
+  it("marca las preguntas con rúbrica en alguno de sus nodos", () => {
+    const conRubrica = pregunta({
+      id: "r",
+      rubrica: { puntos: 1, criterios: { es: "c" }, desglose: [], paginas: { es: 3 } },
+    });
+    const valores = calcularFaceta(
+      faceta("correccion"),
+      indexar([madrid, conRubrica]),
+      {},
+      "",
+      false,
+    ).valores;
+    expect(valores.find((v) => v.valor === "Con rúbrica")?.cuenta).toBe(1);
   });
 });
 
@@ -187,6 +203,8 @@ describe("materiales", () => {
           etiqueta: { es: "a)" },
           enunciado: { es: "Sin fórmula" },
           puntos: 1,
+          rubrica: null,
+          solucion: null,
           estimulos: [],
           regla: "",
           apartados: [],
@@ -237,7 +255,7 @@ describe("figurasDe", () => {
 
 describe("claveApartado", () => {
   it("distingue apartados con la misma etiqueta y distinto enunciado", () => {
-    const base = { puntos: null, estimulos: [], regla: "", apartados: [] };
+    const base = { puntos: null, estimulos: [], regla: "", rubrica: null, solucion: null, apartados: [] };
     expect(claveApartado({ ...base, etiqueta: { es: "a)" }, enunciado: { es: "Uno" } })).not.toBe(
       claveApartado({ ...base, etiqueta: { es: "a)" }, enunciado: { es: "Dos" } }),
     );

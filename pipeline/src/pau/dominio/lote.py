@@ -39,8 +39,18 @@ def es_candidato(d: dict) -> bool:
     return d["tipo"] in ("examen", "modelo") and bool(d.get("bytes")) and d.get("archivo", "").endswith(".pdf") and d["fuente"] in FUENTES_OFICIALES
 
 
-def medible(paginas: int) -> bool:
-    return 0 < paginas <= MAX_PAGINAS
+def medible(paginas: int, maximo: int = MAX_PAGINAS) -> bool:
+    return 0 < paginas <= maximo
+
+
+def lote_piloto(candidatos: list[dict], regiones: set[str], asignaturas: set[str], procesados: set[tuple]) -> list[dict]:
+    """Todos los exámenes de las asignaturas y regiones del piloto aún sin procesar: uno por examen, de la fuente oficial preferida."""
+    elegidos: dict[tuple, dict] = {}
+    for d in sorted(candidatos, key=lambda d: FUENTES_OFICIALES.index(d["fuente"])):
+        clave = clave_examen(d)
+        if d["region"] in regiones and d["asignatura"] in asignaturas and clave not in procesados and clave not in elegidos:
+            elegidos[clave] = {**d, "estrato": f"piloto · {d['region']} · {d['asignatura']}"}
+    return sorted(elegidos.values(), key=lambda d: (d["region"], d["asignatura"], -(d["anio"] or 0), d["convocatoria"]))
 
 
 def _celdas(candidatos: list[dict]) -> dict[tuple, list[dict]]:

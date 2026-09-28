@@ -1,6 +1,7 @@
 import { memo, useCallback } from "react";
 import { numeroDeFiguras } from "~/dominio/banco";
 import { resaltar } from "~/dominio/resaltado";
+import { origenesDeSolucion, tieneRubrica } from "~/dominio/rubrica";
 import { idiomaPreferido, textoEn } from "~/dominio/textos";
 import type { Pregunta } from "~/dominio/tipos";
 import { Markdown } from "./Markdown";
@@ -55,6 +56,10 @@ export const TarjetaPregunta = memo(function TarjetaPregunta({
           <span className={`${marca} border-current text-azul`}>
             {figuras} figura{figuras > 1 ? "s" : ""}
           </span>
+        )}
+        {tieneRubrica(p) && <span className={`${marca} border-current text-verde`}>rúbrica</span>}
+        {origenesDeSolucion(p).size > 0 && (
+          <span className={`${marca} border-current text-azul`}>solución</span>
         )}
         {p.idiomas.length > 1 && (
           <span className={`${marca} border-regla text-suave`}>{p.idiomas.join(" · ")}</span>

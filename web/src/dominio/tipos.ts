@@ -57,12 +57,39 @@ export interface Estimulo {
   readonly figuras: readonly Figura[];
 }
 
+export interface Tramo {
+  readonly descripcion: Textos;
+  readonly puntos: number;
+}
+
+export interface Rubrica {
+  readonly puntos: number | null;
+  readonly criterios: Textos;
+  readonly desglose: readonly Tramo[];
+  readonly paginas: Readonly<Record<string, number>>;
+}
+
+export interface Solucion {
+  readonly texto: Textos;
+  readonly origen: "oficial" | "academia";
+  readonly fuente: string;
+  readonly incrustado: boolean;
+  readonly url?: string;
+  readonly paginas: Readonly<Record<string, number>>;
+}
+
+export type FuenteRubrica =
+  | { readonly tipo: "criterios" | "solucion"; readonly incrustado: true }
+  | { readonly tipo: "criterios" | "solucion"; readonly incrustado: false; readonly url: string };
+
 export interface Apartado {
   readonly etiqueta: Textos;
   readonly enunciado: Textos;
   readonly puntos: number | null;
   readonly estimulos: readonly string[];
   readonly regla: string;
+  readonly rubrica: Rubrica | null;
+  readonly solucion: Solucion | null;
   readonly apartados: readonly Apartado[];
 }
 
@@ -101,6 +128,10 @@ export interface Pregunta {
   readonly etiqueta: Textos;
   readonly enunciado: Textos;
   readonly puntos: number | null;
+  readonly rubrica: Rubrica | null;
+  readonly solucion: Solucion | null;
+  readonly criteriosGenerales: Textos;
+  readonly fuenteRubrica: FuenteRubrica | null;
   readonly apartados: readonly Apartado[];
   readonly idiomas: readonly string[];
   readonly estimulos: readonly Estimulo[];

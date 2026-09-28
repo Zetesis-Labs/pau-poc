@@ -1,8 +1,10 @@
 import { claveApartado, figurasDe, migas } from "~/dominio/banco";
 import { nombreIdioma, textoEn } from "~/dominio/textos";
-import type { Apartado, Estimulo, Pregunta } from "~/dominio/tipos";
+import type { Apartado, Estimulo, FuenteRubrica, Pregunta } from "~/dominio/tipos";
 import { Correccion } from "./Correccion";
 import { Markdown } from "./Markdown";
+import { RubricaNodo } from "./RubricaNodo";
+import { SolucionNodo } from "./SolucionNodo";
 
 interface Props {
   readonly pregunta: Pregunta;
@@ -53,7 +55,12 @@ export function DetallePregunta({
           origen ↗
         </a>
       </div>
-      <Correccion anexos={p.examen.anexos} examen={p.examen} onIrAPagina={onIrAPagina} />
+      <Correccion
+        anexos={p.examen.anexos}
+        examen={p.examen}
+        generales={textoEn(p.criteriosGenerales, idioma)}
+        onIrAPagina={onIrAPagina}
+      />
       {p.idiomas.length > 1 && (
         <fieldset className="mb-3.5 inline-flex border-[1.5px] border-tinta">
           <legend className="sr-only">Idioma</legend>
@@ -78,10 +85,20 @@ export function DetallePregunta({
         </div>
       )}
       <Markdown texto={textoEn(p.enunciado, idioma)} />
+      {p.rubrica && (
+        <RubricaNodo
+          rubrica={p.rubrica}
+          puntosEnunciado={p.puntos}
+          idioma={idioma}
+          fuente={p.fuenteRubrica}
+          onIrAPagina={onIrAPagina}
+        />
+      )}
+      {p.solucion && <SolucionNodo solucion={p.solucion} idioma={idioma} onIrAPagina={onIrAPagina} />}
       {p.estimulos.map((e) => (
         <BloqueEstimulo key={e.id} estimulo={e} idioma={idioma} recurso={recurso} onAmpliar={onAmpliar} />
       ))}
-      <Apartados lista={p.apartados} idioma={idioma} />
+      <Apartados lista={p.apartados} idioma={idioma} fuente={p.fuenteRubrica} onIrAPagina={onIrAPagina} />
     </article>
   );
 }
@@ -125,26 +142,43 @@ function BloqueEstimulo({
   );
 }
 
-function Apartados({ lista, idioma }: { lista: readonly Apartado[]; idioma: string }) {
+interface PropsApartados {
+  readonly lista: readonly Apartado[];
+  readonly idioma: string;
+  readonly fuente: FuenteRubrica | null;
+  readonly onIrAPagina: (pagina: number) => void;
+}
+
+function Apartados({ lista, idioma, fuente, onIrAPagina }: PropsApartados) {
   if (!lista.length) return null;
   return (
     <ol className="mt-3 col-span-full">
       {lista.map((a) => (
         <li
           key={claveApartado(a)}
-          className="grid grid-cols-[38px_1fr_auto] gap-1.5 border-t border-dashed border-regla py-2"
+          className="grid grid-cols-[38px_minmax(0,1fr)_auto] gap-1.5 border-t border-dashed border-regla py-2"
         >
           <span className="font-titulo text-base font-semibold">{textoEn(a.etiqueta, idioma)}</span>
           <div>
             <Markdown texto={textoEn(a.enunciado, idioma)} />
             {a.regla && <div className="font-mono text-xs text-azul">{a.regla}</div>}
+            {a.rubrica && (
+              <RubricaNodo
+                rubrica={a.rubrica}
+                puntosEnunciado={a.puntos}
+                idioma={idioma}
+                fuente={fuente}
+                onIrAPagina={onIrAPagina}
+              />
+            )}
+            {a.solucion && <SolucionNodo solucion={a.solucion} idioma={idioma} onIrAPagina={onIrAPagina} />}
           </div>
           <span className="pt-0.75 font-mono text-xs whitespace-nowrap text-verde">
             {a.puntos !== null ? `${a.puntos} p.` : ""}
           </span>
           {a.apartados.length > 0 && (
             <div className="col-start-2 col-end-4">
-              <Apartados lista={a.apartados} idioma={idioma} />
+              <Apartados lista={a.apartados} idioma={idioma} fuente={fuente} onIrAPagina={onIrAPagina} />
             </div>
           )}
         </li>

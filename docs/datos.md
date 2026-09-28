@@ -55,7 +55,11 @@ Las rutas dentro de los JSON son relativas a `datos/`.
     "etiqueta": Textos,
     "enunciado": Textos,             // markdown + LaTeX (KaTeX, mhchem)
     "puntos": 2.5 | null,
-    "apartados": [Apartado],         // recursivo: { etiqueta, enunciado, puntos, estimulos: [id], regla, apartados }
+    "rubrica": Rubrica | null,       // lo que dicen los criterios oficiales de este nodo
+    "solucion": Solucion | null,     // la respuesta de este nodo: oficial si la hay, de academia si no
+    "criteriosGenerales": Textos,    // criterios que valen para todo el examen; {} si no hay
+    "fuenteRubrica": { "tipo": "criterios" | "solucion", "incrustado": true } | { "tipo", "incrustado": false, "url" } | null,
+    "apartados": [Apartado],         // recursivo: { etiqueta, enunciado, puntos, estimulos: [id], regla, rubrica, solucion, apartados }
     "idiomas": ["es", "va"],
     "estimulos": [{
       "id": "E1",
@@ -69,6 +73,16 @@ Las rutas dentro de los JSON son relativas a `datos/`.
   }]
 }
 ```
+
+`Rubrica` es `{ "puntos": 1.5 | null, "criterios": Textos, "desglose": [{ "descripcion": Textos, "puntos": 0.5 }], "paginas": { "es": 6 } }`:
+puntos que dan los criterios (pueden no coincidir con los del enunciado), qué valora el corrector, cómo reparte los puntos
+y en qué página del documento de criterios está (del propio PDF si `fuenteRubrica.incrustado`). Se extrae en una etapa
+aparte (`pau rubricas`, prompt `r2`) con el árbol del examen ya extraído, y solo de fuentes oficiales.
+
+`Solucion` es `{ "texto": Textos, "origen": "oficial" | "academia", "fuente": "mundoestudiante", "incrustado": false, "url": "https://…", "paginas": { "es": 2 } }`:
+la respuesta literal del documento del que sale, con su procedencia (`url` solo si no va dentro del PDF del examen).
+Se extrae en otra etapa (`pau soluciones`, prompt `s1`): primero `--origen oficial` y después `--origen academia`, que
+solo se consulta para los exámenes en los que lo oficial deja preguntas sin respuesta.
 
 `Textos` es un objeto `{ [idioma]: markdown }` con idiomas `es`, `va`, `eu`, `en`, `fr`, …
 

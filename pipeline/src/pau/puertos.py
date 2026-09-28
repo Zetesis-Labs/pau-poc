@@ -5,6 +5,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Protocol
 
+from pydantic import BaseModel
+
 from pau.dominio.catalogo import Respuesta
 from pau.dominio.esquema import ExamenExtraido
 from pau.dominio.geometria import Bloque, Caja, GeometriaPagina
@@ -24,8 +26,22 @@ class Extraccion:
     detalle: str = ""
 
 
+@dataclass(frozen=True)
+class Salida:
+    """Respuesta estructurada del modelo en el formato pedido."""
+
+    resultado: BaseModel | None
+    uso: dict | None
+    estado: str
+    detalle: str = ""
+
+
 class Extractor(Protocol):
     def extraer(self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str) -> Extraccion: ...
+
+    def estructurar(
+        self, pdf: bytes, nombre: str, contexto: str, instrucciones: str, modelo: str, esfuerzo: str, formato: type[BaseModel],
+    ) -> Salida: ...
 
 
 @dataclass(frozen=True)
@@ -58,6 +74,10 @@ class DocumentoPdf(Protocol):
 
 class LectorPdf(Protocol):
     def abrir(self, ruta: Path) -> AbstractContextManager[DocumentoPdf]: ...
+
+    def paginas_desde(self, ruta: Path, desde: int) -> bytes:
+        """Un PDF nuevo con las páginas de `ruta` a partir de `desde` (1 = todas)."""
+        ...
 
 
 class ComprobadorKatex(Protocol):

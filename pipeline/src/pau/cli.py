@@ -42,9 +42,9 @@ def _descargar(args: argparse.Namespace, rutas: Rutas) -> None:
     print(f"{len(descargas) - fallos} en disco, {fallos} fallos")
 
 
-def _medidos(rutas: Rutas, excluir: set[tuple] = frozenset()) -> list[dict]:
+def _medidos(rutas: Rutas, excluir: set[tuple] = frozenset(), max_paginas: int | None = None) -> list[dict]:
     from pau.adaptadores.pdf_pymupdf import LectorPymupdf
-    from pau.dominio.lote import clave_examen, es_candidato, medible
+    from pau.dominio.lote import MAX_PAGINAS, clave_examen, es_candidato, medible
 
     lector, vistos, medidos = LectorPymupdf(), set(), []
     for d in json.loads(rutas.examenes.read_text())["documentos"]:
@@ -53,20 +53,29 @@ def _medidos(rutas: Rutas, excluir: set[tuple] = frozenset()) -> list[dict]:
             continue
         with lector.abrir(rutas.data / d["archivo"]) as pdf:
             paginas, texto = pdf.paginas, pdf.caracteres_por_pagina()
-        if medible(paginas):
+        if medible(paginas, max_paginas or MAX_PAGINAS):
             vistos.add(clave)
             medidos.append({**d, "paginas": paginas, "texto_por_pagina": texto})
     return medidos
 
 
 def _lote(args: argparse.Namespace, rutas: Rutas) -> None:
-    from pau.dominio.lote import clave_examen, elegir, muestra
+    from collections import Counter
+
+    from pau.dominio.lote import clave_examen, elegir, lote_piloto, muestra
 
     azar = random.Random(SEMILLA)
+    procesados = {clave_examen(json.loads(r.read_text())["documento"]) for r in rutas.salida.glob("*/*.json") if r.name != "preguntas.json"}
     if args.muestra:
         lote = muestra(_medidos(rutas), azar)
+    elif args.asignaturas:
+        medidos = _medidos(rutas, procesados, args.max_paginas)
+        lote = lote_piloto(medidos, set(args.regiones), set(args.asignaturas), procesados)
+        todos = lote_piloto(_medidos(rutas, procesados, 10_000), set(args.regiones), set(args.asignaturas), procesados)
+        print(f"{len(todos) - len(lote)} exámenes excluidos por pasar de {args.max_paginas} páginas")
+        for (region, asignatura), n in sorted(Counter((d["region"], d["asignatura"]) for d in lote).items()):
+            print(f"  {region} · {asignatura}: {n}")
     else:
-        procesados = {clave_examen(json.loads(r.read_text())["documento"]) for r in rutas.salida.glob("*/*.json") if r.name != "preguntas.json"}
         lote = elegir(_medidos(rutas, procesados), args.total, args.escaneados, azar)
     destino = rutas.lotes / f"{args.nombre}.json"
     destino.write_text(json.dumps(lote, ensure_ascii=False, indent=1))
@@ -115,6 +124,36 @@ def _publicar(args: argparse.Namespace, rutas: Rutas) -> None:
     tamanos = " · ".join(f"{n} {b / 1e6:.1f} MB" for n, b in r.bytes.items())
     print(f"{r.documentos} documentos en el catálogo, {r.procesados} procesados · {r.preguntas} preguntas · {r.figuras} figuras · {r.pdfs} PDFs → {rutas.datos}")
     print(tamanos)
+
+
+def _rubricas(args: argparse.Namespace, rutas: Rutas) -> None:
+    from pau.adaptadores.extractor_openai import ExtractorOpenAI
+    from pau.adaptadores.katex_node import comprobar_katex
+    from pau.adaptadores.pdf_pymupdf import LectorPymupdf
+    from pau.aplicacion.extraer import Parametros
+    from pau.aplicacion.rubricas import extraer_rubricas
+
+    load_dotenv(rutas.raiz / ".env")
+    parametros = Parametros(args.modelo, args.prompt, args.esfuerzo)
+    extraer_rubricas(
+        args.ejecucion, parametros, rutas, ExtractorOpenAI(), LectorPymupdf(), comprobar_katex,
+        args.hilos, args.rehacer, args.ids, args.limite,
+    )
+
+
+def _soluciones(args: argparse.Namespace, rutas: Rutas) -> None:
+    from pau.adaptadores.extractor_openai import ExtractorOpenAI
+    from pau.adaptadores.katex_node import comprobar_katex
+    from pau.adaptadores.pdf_pymupdf import LectorPymupdf
+    from pau.aplicacion.extraer import Parametros
+    from pau.aplicacion.soluciones import extraer_soluciones
+
+    load_dotenv(rutas.raiz / ".env")
+    parametros = Parametros(args.modelo, args.prompt, args.esfuerzo)
+    extraer_soluciones(
+        args.ejecucion, parametros, args.origen, rutas, ExtractorOpenAI(), LectorPymupdf(), comprobar_katex,
+        args.hilos, args.rehacer, args.ids, args.limite,
+    )
 
 
 def _anexos(args: argparse.Namespace, rutas: Rutas) -> None:
@@ -198,6 +237,9 @@ def parser() -> argparse.ArgumentParser:
     s = sub.add_parser("lote", help="elige exámenes nuevos para extraer")
     s.add_argument("--total", type=int, default=100)
     s.add_argument("--escaneados", type=int, default=8)
+    s.add_argument("--asignaturas", nargs="*", help="lote de piloto: todos los exámenes pendientes de estas asignaturas")
+    s.add_argument("--regiones", nargs="*", default=["Madrid", "Comunidad Valenciana"])
+    s.add_argument("--max-paginas", type=int, default=40)
     s.add_argument("--muestra", action="store_true", help="muestra inicial estratificada en vez de un lote de nuevos")
     s.add_argument("--nombre", default="lote-100")
     s.set_defaults(accion=_lote)
@@ -222,6 +264,29 @@ def parser() -> argparse.ArgumentParser:
         s = sub.add_parser(nombre, help=ayuda)
         s.add_argument("ejecucion", nargs="?", default=EJECUCION)
         s.set_defaults(accion=accion)
+
+    s = sub.add_parser("rubricas", help="extrae la rúbrica de corrección de los exámenes procesados con criterios oficiales")
+    s.add_argument("ejecucion", nargs="?", default=EJECUCION)
+    s.add_argument("--modelo", default="gpt-6-luna")
+    s.add_argument("--prompt", default="r2")
+    s.add_argument("--esfuerzo", default="high")
+    s.add_argument("--hilos", type=int, default=6)
+    s.add_argument("--ids", nargs="*")
+    s.add_argument("--limite", type=int)
+    s.add_argument("--rehacer", action="store_true")
+    s.set_defaults(accion=_rubricas)
+
+    s = sub.add_parser("soluciones", help="extrae la respuesta de cada nodo: --origen oficial primero y luego academia para lo que falte")
+    s.add_argument("ejecucion", nargs="?", default=EJECUCION)
+    s.add_argument("--origen", choices=["oficial", "academia"], default="oficial")
+    s.add_argument("--modelo", default="gpt-6-luna")
+    s.add_argument("--prompt", default="s1")
+    s.add_argument("--esfuerzo", default="high")
+    s.add_argument("--hilos", type=int, default=6)
+    s.add_argument("--ids", nargs="*")
+    s.add_argument("--limite", type=int)
+    s.add_argument("--rehacer", action="store_true")
+    s.set_defaults(accion=_soluciones)
 
     s = sub.add_parser("anexos", help="localiza la corrección dentro de los PDF de examen y resume qué examen tiene cuál")
     s.set_defaults(accion=_anexos)

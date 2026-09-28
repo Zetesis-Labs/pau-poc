@@ -132,3 +132,52 @@ def test_variantes_prueban_decimal_con_punto_y_sin_formulas():
     ]
     pdf = "SEGUNDA PREGUNTA. (2.5 puntos)"
     assert primeras_apariciones(lambda t: [fila(5)] if t in pdf else [], variantes("SEGUNDA PREGUNTA. ($2{,}5$ puntos)")) == [fila(5)]
+
+
+def test_preguntas_de_llevan_la_rubrica_de_cada_nodo_y_su_procedencia():
+    registro = {
+        "documento": {
+            "id": "doc1", "region": "Madrid", "asignatura": "Física", "anio": 2024, "convocatoria": "ordinaria",
+            "tipo": "examen", "fuente": "uc3m", "url": "https://x", "archivo": "pdfs/madrid/fisica/x.pdf",
+        },
+        "resultado": {
+            "idiomas": ["es"], "eleccion_raiz": None, "estimulos": [],
+            "nodos": [_nodo("n1"), _nodo("n2", padre="n1", tipo="apartado"), _nodo("n3", padre="n1", tipo="apartado")],
+        },
+    }
+    rubrica = {
+        "fuente": {"archivo": "pdfs/madrid/fisica/x.pdf", "desde": 5, "anexo": {"tipo": "criterios", "incrustado": {"pagina": 5}}},
+        "resultado": {
+            "contiene_criterios": True, "generales": [{"idioma": "es", "markdown": "Se valora la claridad"}],
+            "entradas": [{
+                "nodo": "n2", "puntos": 1.0, "criterios": [{"idioma": "es", "markdown": "Planteamiento"}], "desglose": [],
+                "respuesta": [{"idioma": "es", "markdown": "$x=2$"}], "paginas": [{"idioma": "es", "pagina": 6}],
+            }],
+        },
+    }
+    solucion = {"texto": {"es": "b = 3"}, "origen": "academia", "fuente": "mundoestudiante", "incrustado": False, "url": "u", "paginas": {"es": 1}}
+    [p] = preguntas_de(registro, rubrica, {"n3": solucion})
+    assert p["rubrica"] is None and p["solucion"] is None
+    assert p["apartados"][0]["rubrica"] == {"puntos": 1.0, "criterios": {"es": "Planteamiento"}, "desglose": [], "paginas": {"es": 6}}
+    assert p["apartados"][1]["solucion"] == solucion
+    assert p["apartados"][1]["rubrica"] is None
+    assert p["criteriosGenerales"] == {"es": "Se valora la claridad"}
+    assert p["fuenteRubrica"] == {"tipo": "criterios", "incrustado": True}
+    [sin] = preguntas_de(registro)
+    assert sin["rubrica"] is None and sin["criteriosGenerales"] == {} and sin["fuenteRubrica"] is None
+
+
+def test_la_fuente_suelta_de_la_rubrica_enlaza_a_su_origen():
+    registro = {
+        "documento": {
+            "id": "doc1", "region": "Comunidad Valenciana", "asignatura": "Química", "anio": 2023, "convocatoria": "ordinaria",
+            "tipo": "examen", "fuente": "umh", "url": "https://x", "archivo": "pdfs/x.pdf",
+        },
+        "resultado": {"idiomas": ["es"], "eleccion_raiz": None, "estimulos": [], "nodos": [_nodo("n1")]},
+    }
+    rubrica = {
+        "fuente": {"archivo": "pdfs/c.pdf", "desde": 1, "anexo": {"tipo": "criterios", "id": "c", "url": "https://gva/c.pdf", "titulo": "Criterios"}},
+        "resultado": {"contiene_criterios": True, "generales": [], "entradas": []},
+    }
+    [p] = preguntas_de(registro, rubrica)
+    assert p["fuenteRubrica"] == {"tipo": "criterios", "incrustado": False, "url": "https://gva/c.pdf"}

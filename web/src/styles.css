@@ -109,3 +109,9 @@
   display: inline;
   text-align: inherit;
 }
+
+.prosa .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 2px;
+}

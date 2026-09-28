@@ -67,3 +67,9 @@ class LectorPymupdf:
     def abrir(self, ruta: Path) -> Iterator[DocumentoPymupdf]:
         with pymupdf.open(ruta) as documento:
             yield DocumentoPymupdf(documento)
+
+    def paginas_desde(self, ruta: Path, desde: int) -> bytes:
+        with pymupdf.open(ruta) as documento:
+            if desde > 1:
+                documento.select(list(range(desde - 1, documento.page_count)))
+            return documento.tobytes(garbage=3, deflate=True)

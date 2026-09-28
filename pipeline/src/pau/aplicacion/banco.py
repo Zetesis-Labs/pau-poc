@@ -5,6 +5,7 @@ from pathlib import Path
 
 from pau.aplicacion.rutas import Rutas
 from pau.dominio.banco import fin_de_contenido, franjas, inicio_en_pagina, preguntas_de
+from pau.dominio.soluciones import soluciones_por_nodo
 from pau.puertos import LectorPdf
 
 
@@ -33,9 +34,29 @@ def _anclar_pdf(grupo: list[dict], pdf: Path, lector: LectorPdf) -> None:
                 p["anclas"][idioma]["y1"] = y1
 
 
-def construir(ejecucion: str, rutas: Rutas, lector: LectorPdf) -> list[dict]:
-    """Preguntas ancladas, aún con los campos internos (`_archivo`…) que necesita la publicación."""
-    preguntas = [p for r in registros(rutas.ejecucion(ejecucion)) for p in preguntas_de(r)]
+RUBRICAS = "gpt-6-luna__r2"
+SOLUCIONES = "gpt-6-luna__s1"
+
+
+def registro_de(carpeta: Path, doc_id: str) -> dict | None:
+    ruta = carpeta / f"{doc_id}.json"
+    if not ruta.exists():
+        return None
+    salida = json.loads(ruta.read_text())
+    return salida if "resultado" in salida else None
+
+
+def construir(ejecucion: str, rutas: Rutas, lector: LectorPdf, rubricas: str = RUBRICAS, soluciones: str = SOLUCIONES) -> list[dict]:
+    """Preguntas ancladas, con su rúbrica y su solución, aún con los campos internos (`_archivo`…) que necesita la publicación."""
+    base = rutas.ejecucion(ejecucion)
+    preguntas = []
+    for r in registros(base):
+        doc_id = r["documento"]["id"]
+        por_nodo = soluciones_por_nodo(
+            registro_de(base / "soluciones" / soluciones / "oficial", doc_id),
+            registro_de(base / "soluciones" / soluciones / "academia", doc_id),
+        )
+        preguntas += preguntas_de(r, registro_de(base / "rubricas" / rubricas, doc_id), por_nodo)
     por_pdf: dict[str, list[dict]] = {}
     for p in preguntas:
         por_pdf.setdefault(p["_archivo"], []).append(p)
