@@ -88,11 +88,15 @@ def test_huerfanos_son_anexos_sin_examen_con_su_clave():
     assert [d["id"] for d in huerfanos(documentos)] == ["suelto"]
 
 
-def test_incrustado_por_extraccion_es_la_primera_pagina_tras_el_enunciado():
-    assert incrustado_por_extraccion(["portada", "criterios", "soluciones"], [2, 3], 6) == Incrustado("criterios", 4)
-    assert incrustado_por_extraccion(["soluciones"], [1, 2], 3) == Incrustado("solucion", 3)
-    assert incrustado_por_extraccion(["instrucciones"], [1], 3) is None
-    assert incrustado_por_extraccion(["criterios"], [1, 2, 3], 3) is None
+def test_incrustado_por_extraccion_es_la_primera_pagina_no_vacia_tras_el_enunciado():
+    seis = ["portada", "p2", "p3", "criterios", "más", "más"]
+    assert incrustado_por_extraccion(["portada", "criterios", "soluciones"], [2, 3], seis) == Incrustado("criterios", 4)
+    assert incrustado_por_extraccion(["soluciones"], [1, 2], ["a", "b", "sol"]) == Incrustado("solucion", 3)
+    assert incrustado_por_extraccion(["criterios"], [1, 3], ["a", "", "b", " \n", "criterios"]) == Incrustado("criterios", 5)
+    assert incrustado_por_extraccion(["instrucciones"], [1], ["a", "b", "c"]) is None
+    assert incrustado_por_extraccion(["criterios"], [1, 2, 3], ["a", "b", "c"]) is None
+    assert incrustado_por_extraccion(["criterios"], [1], ["a", "", ""]) is None
+    assert incrustado_por_extraccion(["criterios"], [1, 2], ["", "", ""]) == Incrustado("criterios", 3)
 
 
 def test_incrustado_por_texto_detecta_criterios_y_soluciones_en_castellano_valenciano_y_euskera():

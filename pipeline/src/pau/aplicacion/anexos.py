@@ -45,20 +45,21 @@ def incrustados_guardados(rutas: Rutas) -> dict[str, Incrustado]:
     return {k: Incrustado(v["tipo"], v["pagina"]) for k, v in json.loads(rutas.incrustados.read_text()).items()}
 
 
-def incrustados_de_extraccion(registros: list[dict], paginas: dict[str, int]) -> dict[str, Incrustado]:
-    """En los exámenes procesados manda lo que vio el modelo: sabe dónde acaba el enunciado."""
+def incrustados_de_extraccion(registros: list[dict], textos: dict[str, list[str]]) -> dict[str, Incrustado]:
+    """En los exámenes procesados el modelo sabe dónde acaba el enunciado; sirve cuando el texto no trae un título reconocible."""
     salida = {}
     for r in registros:
         doc_id, resultado = r["documento"]["id"], r["resultado"]
-        incrustado = incrustado_por_extraccion(resultado["otro_contenido"], resultado["paginas_enunciado"], paginas.get(doc_id, 0))
+        incrustado = incrustado_por_extraccion(resultado["otro_contenido"], resultado["paginas_enunciado"], textos.get(doc_id, []))
         if incrustado:
             salida[doc_id] = incrustado
     return salida
 
 
 def anexos_de(documentos: list[dict], registros: list[dict], rutas: Rutas, lector: LectorPdf) -> dict[str, list[dict]]:
-    paginas = {}
+    """El título de los criterios en el texto es más preciso que la extracción, que no ve las hojas en blanco de separación."""
+    textos = {}
     for r in registros:
         with lector.abrir(rutas.data / r["documento"]["archivo"]) as pdf:
-            paginas[r["documento"]["id"]] = pdf.paginas
-    return vincular(documentos, {**incrustados_guardados(rutas), **incrustados_de_extraccion(registros, paginas)})
+            textos[r["documento"]["id"]] = [pdf.texto(n) for n in range(1, pdf.paginas + 1)]
+    return vincular(documentos, {**incrustados_de_extraccion(registros, textos), **incrustados_guardados(rutas)})

@@ -122,11 +122,14 @@ def huerfanos(documentos: list[dict]) -> list[dict]:
     return [d for d in documentos if d["tipo"] in TIPOS_ANEXO and d["id"] not in vinculados]
 
 
-def incrustado_por_extraccion(otro_contenido: list[str], paginas_enunciado: list[int], paginas: int) -> Incrustado | None:
-    """Con la extracción del modelo: la corrección empieza en la primera página tras el último enunciado."""
+def incrustado_por_extraccion(otro_contenido: list[str], paginas_enunciado: list[int], textos_por_pagina: list[str]) -> Incrustado | None:
+    """Con la extracción del modelo: la corrección empieza en la primera página no vacía tras el último enunciado
+    (en un escaneado, sin capa de texto, en la siguiente sin más)."""
     tipos = [t for t in ("criterios", "soluciones") if t in otro_contenido]
-    primera = max(paginas_enunciado, default=0) + 1
-    if not tipos or primera > paginas:
+    tras_enunciado = range(max(paginas_enunciado, default=0) + 1, len(textos_por_pagina) + 1)
+    escaneado = not any(t.strip() for t in textos_por_pagina)
+    primera = next((n for n in tras_enunciado if escaneado or textos_por_pagina[n - 1].strip()), None)
+    if not tipos or primera is None:
         return None
     return Incrustado("criterios" if "criterios" in tipos else "solucion", primera)
 
