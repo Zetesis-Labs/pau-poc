@@ -66,7 +66,7 @@ export const FACETAS: readonly DefinicionFaceta[] = [
   },
   { clave: "idioma", titulo: "Idioma", valores: (p) => p.idiomas, nombre: nombreIdioma },
   { clave: "material", titulo: "Material", valores: materiales },
-  { clave: "correccion", titulo: "Corrección", valores: (p) => [correccionDe(p.examen.anexos)] },
+  { clave: "correccion", titulo: "Corrección", valores: (p) => correccionDe(p.examen.anexos) },
   { clave: "examen", titulo: "Examen", valores: (p) => [nombreExamen(p)], limite: 8 },
 ];
 

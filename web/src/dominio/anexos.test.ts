@@ -1,9 +1,10 @@
 import { describe, expect, it } from "vitest";
-import { correccionDe, destinoAnexo, etiquetaAnexo } from "./anexos";
+import { correccionDe, destinoAnexo, etiquetaAnexo, textoCorto } from "./anexos";
 import type { Anexo } from "./tipos";
 
 const incrustado: Anexo = {
   tipo: "criterios",
+  contenido: ["criterios"],
   origen: "oficial",
   fuente: "uc3m",
   acceso: "publico",
@@ -12,6 +13,7 @@ const incrustado: Anexo = {
 };
 const criteriosSueltos: Anexo = {
   tipo: "criterios",
+  contenido: ["criterios"],
   origen: "oficial",
   fuente: "llibreta",
   acceso: "publico",
@@ -21,6 +23,7 @@ const criteriosSueltos: Anexo = {
 };
 const academia: Anexo = {
   tipo: "solucion",
+  contenido: ["solucion"],
   origen: "academia",
   fuente: "mundoestudiante",
   acceso: "publico",
@@ -34,9 +37,21 @@ const rota: Anexo = { ...academia, acceso: "roto", id: "s3" };
 describe("etiquetaAnexo", () => {
   it("dice qué es y de quién", () => {
     expect(etiquetaAnexo(incrustado)).toBe("Criterios de corrección oficiales");
+    expect(etiquetaAnexo({ ...incrustado, contenido: ["criterios", "solucion"] })).toBe(
+      "Criterios y solución oficiales",
+    );
     expect(etiquetaAnexo({ ...academia, origen: "oficial", fuente: "ehu" })).toBe("Solución oficial");
     expect(etiquetaAnexo(academia)).toBe("Solución de mundoestudiante");
     expect(etiquetaAnexo(privada)).toBe("Solución de La Llibreta");
+  });
+});
+
+describe("textoCorto", () => {
+  it("resume en una o dos palabras", () => {
+    expect(textoCorto({ ...incrustado, contenido: ["criterios", "solucion"] })).toBe("Criterios + solución");
+    expect(textoCorto(criteriosSueltos)).toBe("Criterios");
+    expect(textoCorto({ ...academia, origen: "oficial", fuente: "ehu" })).toBe("Solución");
+    expect(textoCorto(academia)).toBe("Solución academia");
   });
 });
 
@@ -79,11 +94,18 @@ describe("destinoAnexo", () => {
 });
 
 describe("correccionDe", () => {
-  it("resume lo mejor accesible", () => {
-    expect(correccionDe([incrustado, academia])).toBe("Criterios oficiales");
-    expect(correccionDe([{ ...academia, origen: "oficial", fuente: "ehu" }])).toBe("Solución oficial");
-    expect(correccionDe([academia])).toBe("Solo de academia");
-    expect(correccionDe([privada, rota])).toBe("Sin corrección accesible");
-    expect(correccionDe([])).toBe("Sin corrección accesible");
+  it("dice por separado si hay criterios y si hay solución accesibles", () => {
+    expect(correccionDe([incrustado, academia])).toEqual(["Con criterios", "Con solución"]);
+    expect(correccionDe([{ ...incrustado, contenido: ["criterios", "solucion"] }])).toEqual([
+      "Con criterios",
+      "Con solución",
+    ]);
+    expect(correccionDe([criteriosSueltos])).toEqual(["Con criterios"]);
+    expect(correccionDe([academia])).toEqual(["Con solución"]);
+  });
+
+  it("lo privado o roto no cuenta", () => {
+    expect(correccionDe([privada, rota])).toEqual(["Sin corrección"]);
+    expect(correccionDe([])).toEqual(["Sin corrección"]);
   });
 });

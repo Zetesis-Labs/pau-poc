@@ -1,6 +1,7 @@
 from pau.dominio.anexos import (
     Incrustado,
     acceso,
+    combinar,
     encaje,
     huerfanos,
     incrustado_por_extraccion,
@@ -57,7 +58,7 @@ def test_vincular_por_clave_y_variante_sin_mezclar_examenes():
     assert [a["id"] for a in anexos["exA"]] == ["crit", "solA"]
     assert [a["id"] for a in anexos["exB"]] == ["crit", "solB"]
     assert anexos["exA"][0] == {
-        "id": "crit", "tipo": "criterios", "origen": "oficial", "fuente": "llibreta", "acceso": "publico",
+        "id": "crit", "tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "llibreta", "acceso": "publico",
         "coincidencia": "por_clave", "url": "https://origen/crit", "titulo": "crit",
     }
 
@@ -68,10 +69,10 @@ def test_vincular_pone_primero_lo_incrustado_y_lo_oficial():
         doc("sol-academia", "solucion", fuente="mundoestudiante"),
         doc("sol-privada", "solucion", fuente="llibreta", error="privado (requiere cuenta)"),
     ]
-    anexos = vincular(documentos, {"ex": Incrustado("criterios", 5)})["ex"]
+    anexos = vincular(documentos, {"ex": Incrustado(("criterios", "solucion"), 5)})["ex"]
     assert anexos[0] == {
-        "tipo": "criterios", "origen": "oficial", "fuente": "uc3m", "acceso": "publico",
-        "coincidencia": "exacta", "incrustado": {"pagina": 5},
+        "tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m",
+        "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 5},
     }
     assert [a.get("id") for a in anexos[1:]] == ["sol-academia", "sol-privada"]
     assert anexos[2]["acceso"] == "privado"
@@ -90,23 +91,38 @@ def test_huerfanos_son_anexos_sin_examen_con_su_clave():
 
 def test_incrustado_por_extraccion_es_la_primera_pagina_no_vacia_tras_el_enunciado():
     seis = ["portada", "p2", "p3", "criterios", "más", "más"]
-    assert incrustado_por_extraccion(["portada", "criterios", "soluciones"], [2, 3], seis) == Incrustado("criterios", 4)
-    assert incrustado_por_extraccion(["soluciones"], [1, 2], ["a", "b", "sol"]) == Incrustado("solucion", 3)
-    assert incrustado_por_extraccion(["criterios"], [1, 3], ["a", "", "b", " \n", "criterios"]) == Incrustado("criterios", 5)
+    assert incrustado_por_extraccion(["portada", "criterios", "soluciones"], [2, 3], seis) == Incrustado(("criterios", "solucion"), 4)
+    assert incrustado_por_extraccion(["soluciones"], [1, 2], ["a", "b", "sol"]) == Incrustado(("solucion",), 3)
+    assert incrustado_por_extraccion(["criterios"], [1, 3], ["a", "", "b", " \n", "criterios"]) == Incrustado(("criterios",), 5)
     assert incrustado_por_extraccion(["instrucciones"], [1], ["a", "b", "c"]) is None
     assert incrustado_por_extraccion(["criterios"], [1, 2, 3], ["a", "b", "c"]) is None
     assert incrustado_por_extraccion(["criterios"], [1], ["a", "", ""]) is None
-    assert incrustado_por_extraccion(["criterios"], [1, 2], ["", "", ""]) == Incrustado("criterios", 3)
+    assert incrustado_por_extraccion(["criterios"], [1, 2], ["", "", ""]) == Incrustado(("criterios",), 3)
 
 
 def test_incrustado_por_texto_detecta_criterios_y_soluciones_en_castellano_valenciano_y_euskera():
-    assert incrustado_por_texto(["Pregunta 1", "CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN"]) == Incrustado("criterios", 2)
-    assert incrustado_por_texto(["Enunciat", "CRITERIS ESPECÍFICS DE CORRECCIÓ"]) == Incrustado("criterios", 2)
-    assert incrustado_por_texto(["Galdera", "ZUZENTZEKO ETA KALIFIKATZEKO IRIZPIDEAK"]) == Incrustado("criterios", 2)
-    assert incrustado_por_texto(["Ejercicio 1", "Ejercicio 2", "SOLUCIONES\nEjercicio 1"]) == Incrustado("solucion", 3)
-    assert incrustado_por_texto(["Ariketa", "EBAZPENAK"]) == Incrustado("solucion", 2)
+    assert incrustado_por_texto(["Pregunta 1", "CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN"]) == Incrustado(("criterios",), 2)
+    assert incrustado_por_texto(["Enunciat", "CRITERIS ESPECÍFICS DE CORRECCIÓ"]) == Incrustado(("criterios",), 2)
+    assert incrustado_por_texto(["Galdera", "ZUZENTZEKO ETA KALIFIKATZEKO IRIZPIDEAK"]) == Incrustado(("criterios",), 2)
+    assert incrustado_por_texto(["Ejercicio 1", "Ejercicio 2", "SOLUCIONES\nEjercicio 1"]) == Incrustado(("solucion",), 3)
+    assert incrustado_por_texto(["Ariketa", "EBAZPENAK"]) == Incrustado(("solucion",), 2)
 
 
 def test_incrustado_por_texto_no_confunde_instrucciones_con_criterios():
     assert incrustado_por_texto(["CRITERIOS DE CALIFICACIÓN: cada pregunta vale 2 puntos", "Pregunta 2"]) is None
     assert incrustado_por_texto(["Indique la solución de la ecuación", "Pregunta 2"]) is None
+
+
+def test_incrustado_por_texto_suma_las_soluciones_que_siguen_a_los_criterios():
+    textos = ["Enunciado", "CRITERIOS ESPECÍFICOS DE CORRECCIÓN", "SOLUCIONES\nEjercicio 1"]
+    assert incrustado_por_texto(textos) == Incrustado(("criterios", "solucion"), 2)
+
+
+def test_combinar_toma_la_pagina_del_texto_y_el_contenido_de_ambos():
+    texto = {"a": Incrustado(("criterios",), 9), "b": Incrustado(("criterios",), 4)}
+    extraccion = {"a": Incrustado(("criterios", "solucion"), 8), "c": Incrustado(("solucion",), 3)}
+    assert combinar(texto, extraccion) == {
+        "a": Incrustado(("criterios", "solucion"), 9),
+        "b": Incrustado(("criterios",), 4),
+        "c": Incrustado(("solucion",), 3),
+    }

@@ -25,10 +25,14 @@ SOLUCIONES_EN_TEXTO = re.compile(r"^\s*(?:soluci[oó]n(?:es)?|solucions?|ebazpen
 
 @dataclass(frozen=True)
 class Incrustado:
-    """Corrección que viene dentro del propio PDF del examen, a partir de `pagina`."""
+    """Corrección que viene dentro del propio PDF del examen, a partir de `pagina`: criterios, solución o ambos."""
 
-    tipo: TipoAnexo
+    contenido: tuple[TipoAnexo, ...]
     pagina: int
+
+    @property
+    def tipo(self) -> TipoAnexo:
+        return self.contenido[0]
 
 
 def origen(fuente: str, tipo: str) -> Origen:
@@ -66,6 +70,7 @@ def _anexo_suelto(documento: dict, coincidencia: Encaje) -> dict:
     return {
         "id": documento["id"],
         "tipo": documento["tipo"],
+        "contenido": [documento["tipo"]],
         "origen": origen(documento["fuente"], documento["tipo"]),
         "fuente": documento["fuente"],
         "acceso": acceso(documento),
@@ -78,6 +83,7 @@ def _anexo_suelto(documento: dict, coincidencia: Encaje) -> dict:
 def _anexo_incrustado(examen: dict, incrustado: Incrustado) -> dict:
     return {
         "tipo": incrustado.tipo,
+        "contenido": list(incrustado.contenido),
         "origen": origen(examen["fuente"], incrustado.tipo),
         "fuente": examen["fuente"],
         "acceso": "publico",
@@ -131,14 +137,26 @@ def incrustado_por_extraccion(otro_contenido: list[str], paginas_enunciado: list
     primera = next((n for n in tras_enunciado if escaneado or textos_por_pagina[n - 1].strip()), None)
     if not tipos or primera is None:
         return None
-    return Incrustado("criterios" if "criterios" in tipos else "solucion", primera)
+    return Incrustado(tuple("criterios" if t == "criterios" else "solucion" for t in tipos), primera)
 
 
 def incrustado_por_texto(textos_por_pagina: list[str]) -> Incrustado | None:
     """Sin extracción: la primera página, salvo la portada, con el título de unos criterios o unas soluciones."""
     for numero, texto in enumerate(textos_por_pagina[1:], start=2):
         if CRITERIOS_EN_TEXTO.search(texto):
-            return Incrustado("criterios", numero)
+            con_soluciones = any(SOLUCIONES_EN_TEXTO.search(t) for t in textos_por_pagina[numero - 1 :])
+            return Incrustado(("criterios", "solucion") if con_soluciones else ("criterios",), numero)
         if SOLUCIONES_EN_TEXTO.search(texto):
-            return Incrustado("solucion", numero)
+            return Incrustado(("solucion",), numero)
     return None
+
+
+def combinar(por_texto: dict[str, Incrustado], por_extraccion: dict[str, Incrustado]) -> dict[str, Incrustado]:
+    """La página la da el título encontrado en el texto (la extracción no ve las hojas en blanco); el contenido, ambos."""
+    combinados = {}
+    for doc_id in por_texto.keys() | por_extraccion.keys():
+        texto, extraccion = por_texto.get(doc_id), por_extraccion.get(doc_id)
+        base = texto or extraccion
+        contenido = tuple(t for t in ("criterios", "solucion") if any(t in i.contenido for i in (texto, extraccion) if i))
+        combinados[doc_id] = Incrustado(contenido, base.pagina)
+    return combinados

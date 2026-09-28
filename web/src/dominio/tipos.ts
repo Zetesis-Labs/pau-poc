@@ -6,6 +6,7 @@ export type Formato = "pdf" | "drive" | "gdoc" | "youtube" | "audio" | "web" | "
 
 export interface Anexo {
   readonly tipo: "criterios" | "solucion";
+  readonly contenido: readonly ("criterios" | "solucion")[];
   readonly origen: "oficial" | "academia";
   readonly fuente: string;
   readonly acceso: "publico" | "privado" | "roto";

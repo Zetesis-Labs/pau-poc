@@ -80,7 +80,8 @@ privado o roto. Ningún anexo suelto se publica en `pdfs/`: se enlaza a su orige
 
 ```jsonc
 {
-  "tipo": "criterios" | "solucion",
+  "tipo": "criterios" | "solucion",   // lo principal
+  "contenido": ["criterios", "solucion"], // todo lo que trae: la corrección incrustada puede traer ambos
   "origen": "oficial" | "academia",   // criterios siempre oficiales; soluciones oficiales solo de uc3m, ehu y umh
   "fuente": "llibreta",
   "acceso": "publico" | "privado" | "roto",

@@ -103,7 +103,7 @@ describe("calcularFaceta", () => {
 });
 
 describe("faceta de corrección", () => {
-  it("clasifica cada pregunta por la mejor corrección accesible de su examen", () => {
+  it("permite filtrar por criterios y por solución por separado", () => {
     const conCriterios = pregunta({
       id: "c",
       examen: {
@@ -111,6 +111,7 @@ describe("faceta de corrección", () => {
         anexos: [
           {
             tipo: "criterios",
+            contenido: ["criterios", "solucion"],
             origen: "oficial",
             fuente: "uc3m",
             acceso: "publico",
@@ -128,8 +129,9 @@ describe("faceta de corrección", () => {
       false,
     ).valores;
     expect(Object.fromEntries(valores.map((v) => [v.valor, v.cuenta]))).toEqual({
-      "Criterios oficiales": 1,
-      "Sin corrección accesible": 1,
+      "Con criterios": 1,
+      "Con solución": 1,
+      "Sin corrección": 1,
     });
   });
 });

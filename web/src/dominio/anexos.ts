@@ -12,8 +12,17 @@ const NOMBRE_FUENTE: Readonly<Record<string, string>> = {
 export const nombreFuente = (fuente: string): string => NOMBRE_FUENTE[fuente] ?? fuente;
 
 export function etiquetaAnexo(a: Anexo): string {
+  if (a.contenido.includes("criterios") && a.contenido.includes("solucion"))
+    return "Criterios y solución oficiales";
   if (a.tipo === "criterios") return "Criterios de corrección oficiales";
   return a.origen === "oficial" ? "Solución oficial" : `Solución de ${nombreFuente(a.fuente)}`;
+}
+
+/** Rótulo breve para listas donde no cabe la etiqueta completa. */
+export function textoCorto(a: Anexo): string {
+  if (a.contenido.includes("criterios") && a.contenido.includes("solucion")) return "Criterios + solución";
+  if (a.tipo === "criterios") return "Criterios";
+  return a.origen === "oficial" ? "Solución" : "Solución academia";
 }
 
 export type Destino =
@@ -35,11 +44,13 @@ export function destinoAnexo(a: Anexo, examen: { readonly pdf?: string; readonly
 
 const accesible = (a: Anexo) => a.acceso === "publico";
 
-/** La mejor corrección que se puede consultar, para filtrar preguntas por ella. */
-export function correccionDe(anexos: readonly Anexo[]): string {
-  const disponibles = anexos.filter(accesible);
-  if (disponibles.some((a) => a.origen === "oficial" && a.tipo === "criterios")) return "Criterios oficiales";
-  if (disponibles.some((a) => a.origen === "oficial")) return "Solución oficial";
-  if (disponibles.length) return "Solo de academia";
-  return "Sin corrección accesible";
+/** Qué corrección se puede consultar, para filtrar preguntas por criterios y por solución por separado. */
+export function correccionDe(anexos: readonly Anexo[]): string[] {
+  const contenido = new Set(anexos.filter(accesible).flatMap((a) => a.contenido));
+  const valores = [
+    contenido.has("criterios") && "Con criterios",
+    contenido.has("solucion") && "Con solución",
+  ];
+  const presentes = valores.filter((v): v is string => Boolean(v));
+  return presentes.length ? presentes : ["Sin corrección"];
 }

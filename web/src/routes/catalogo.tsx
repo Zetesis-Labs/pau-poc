@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Cabecera } from "~/componentes/Cabecera";
 import { Cargando, ErrorDeCarga } from "~/componentes/Estados";
-import { destinoAnexo, etiquetaAnexo } from "~/dominio/anexos";
+import { destinoAnexo, etiquetaAnexo, textoCorto } from "~/dominio/anexos";
 import { nombreDeExamen } from "~/dominio/banco";
 import {
   cumple,
@@ -378,8 +378,7 @@ function Fila({ documento: d, recurso }: { documento: Documento; recurso: (ruta:
         {(d.anexos ?? []).map((a) => {
           const destino = destinoAnexo(a, d);
           const titulo = [etiquetaAnexo(a), destino.nota].filter(Boolean).join(" · ");
-          const texto =
-            a.tipo === "criterios" ? "Criterios" : a.origen === "oficial" ? "Solución" : "Solución academia";
+          const texto = textoCorto(a);
           if (destino.accion === "ninguna") return null;
           const href =
             destino.accion === "enlace" ? destino.href : `${recurso(d.pdf ?? "")}#page=${destino.pagina}`;

@@ -5,7 +5,7 @@ from collections.abc import Iterable
 from dataclasses import dataclass
 
 from pau.aplicacion.rutas import Rutas
-from pau.dominio.anexos import TIPOS_EXAMEN, Incrustado, incrustado_por_extraccion, incrustado_por_texto, vincular
+from pau.dominio.anexos import TIPOS_EXAMEN, Incrustado, combinar, incrustado_por_extraccion, incrustado_por_texto, vincular
 from pau.puertos import LectorPdf
 
 
@@ -34,7 +34,7 @@ def detectar_incrustados(rutas: Rutas, lector: LectorPdf) -> Deteccion:
             ilegibles.append(f"{d['id']}: {error}")
             continue
         if incrustado:
-            encontrados[d["id"]] = {"tipo": incrustado.tipo, "pagina": incrustado.pagina}
+            encontrados[d["id"]] = {"contenido": list(incrustado.contenido), "pagina": incrustado.pagina}
     rutas.incrustados.write_text(json.dumps(encontrados, ensure_ascii=False, indent=1))
     return Deteccion(revisados, len(encontrados), ilegibles)
 
@@ -42,7 +42,7 @@ def detectar_incrustados(rutas: Rutas, lector: LectorPdf) -> Deteccion:
 def incrustados_guardados(rutas: Rutas) -> dict[str, Incrustado]:
     if not rutas.incrustados.exists():
         return {}
-    return {k: Incrustado(v["tipo"], v["pagina"]) for k, v in json.loads(rutas.incrustados.read_text()).items()}
+    return {k: Incrustado(tuple(v["contenido"]), v["pagina"]) for k, v in json.loads(rutas.incrustados.read_text()).items()}
 
 
 def incrustados_de_extraccion(registros: list[dict], textos: dict[str, list[str]]) -> dict[str, Incrustado]:
@@ -57,9 +57,8 @@ def incrustados_de_extraccion(registros: list[dict], textos: dict[str, list[str]
 
 
 def anexos_de(documentos: list[dict], registros: list[dict], rutas: Rutas, lector: LectorPdf) -> dict[str, list[dict]]:
-    """El título de los criterios en el texto es más preciso que la extracción, que no ve las hojas en blanco de separación."""
     textos = {}
     for r in registros:
         with lector.abrir(rutas.data / r["documento"]["archivo"]) as pdf:
             textos[r["documento"]["id"]] = [pdf.texto(n) for n in range(1, pdf.paginas + 1)]
-    return vincular(documentos, {**incrustados_de_extraccion(registros, textos), **incrustados_guardados(rutas)})
+    return vincular(documentos, combinar(incrustados_guardados(rutas), incrustados_de_extraccion(registros, textos)))
