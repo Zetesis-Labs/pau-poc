@@ -36,7 +36,8 @@ Las rutas dentro de los JSON son relativas a `datos/`.
     "bytes": 297896,                // tamaño descargado, si se descargó
     "error": "HTTP 404",             // solo si la descarga falló
     "procesado": false,             // true si sus preguntas están en preguntas.json
-    "pdf": "pdfs/ac1e68a880cb.pdf"  // solo si procesado
+    "pdf": "pdfs/ac1e68a880cb.pdf", // solo si procesado
+    "anexos": [Anexo]               // solo en exámenes y modelos con alguna corrección vinculada
   }]
 }
 ```
@@ -48,7 +49,7 @@ Las rutas dentro de los JSON son relativas a `datos/`.
   "ejecucion": "gpt-6-luna__p5",   // modelo__prompt que produjo la extracción
   "preguntas": [{
     "id": "012555da3d70:n3",         // <docid>:<nodo>
-    "examen": { "id", "region", "asignatura", "anio", "convocatoria", "tipo", "fuente", "url", "pdf" },
+    "examen": { "id", "region", "asignatura", "anio", "convocatoria", "tipo", "fuente", "url", "pdf", "anexos": [Anexo] },
     "reglaExamen": "elegir 2 de 4",  // "" si no hay
     "contexto": [{ "etiqueta": Textos, "tipo": "bloque" | "opcion" | "pregunta", "enunciado": Textos, "regla": "", "sintetico": false }],
     "etiqueta": Textos,
@@ -70,3 +71,28 @@ Las rutas dentro de los JSON son relativas a `datos/`.
 ```
 
 `Textos` es un objeto `{ [idioma]: markdown }` con idiomas `es`, `va`, `eu`, `en`, `fr`, …
+
+## `Anexo`: la corrección de un examen
+
+Criterios de corrección o soluciones vinculados a un examen. Van ordenados de más a menos fiable: primero lo que
+viene dentro del propio PDF, luego lo oficial, los criterios antes que las soluciones y lo accesible antes que lo
+privado o roto. Ningún anexo suelto se publica en `pdfs/`: se enlaza a su origen.
+
+```jsonc
+{
+  "tipo": "criterios" | "solucion",
+  "origen": "oficial" | "academia",   // criterios siempre oficiales; soluciones oficiales solo de uc3m, ehu y umh
+  "fuente": "llibreta",
+  "acceso": "publico" | "privado" | "roto",
+  "coincidencia": "exacta" | "por_clave", // por_clave: misma asignatura, año y convocatoria, pero una de las dos partes sin variante
+  // anexo suelto, con su propio documento en el catálogo:
+  "id": "0f6f289bd62a", "url": "https://…", "titulo": "…",
+  // o corrección dentro del PDF del examen, a partir de esa página:
+  "incrustado": { "pagina": 3 }
+}
+```
+
+El vínculo se hace por región, asignatura, año y convocatoria, y dentro de eso por variante (opción A/B,
+coincidencias…): variantes distintas no se vinculan nunca. La página de la corrección incrustada sale de la extracción
+en los exámenes procesados (primera página tras el último enunciado) y de `pau anexos`, que busca sus títulos en el
+texto, en el resto.

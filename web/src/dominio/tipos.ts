@@ -4,6 +4,18 @@ export type Convocatoria = "ordinaria" | "extraordinaria" | "modelo" | "reserva"
 export type TipoDocumento = "examen" | "modelo" | "criterios" | "solucion" | "video" | "audio";
 export type Formato = "pdf" | "drive" | "gdoc" | "youtube" | "audio" | "web" | "carpeta";
 
+export interface Anexo {
+  readonly tipo: "criterios" | "solucion";
+  readonly origen: "oficial" | "academia";
+  readonly fuente: string;
+  readonly acceso: "publico" | "privado" | "roto";
+  readonly coincidencia: "exacta" | "por_clave";
+  readonly id?: string;
+  readonly url?: string;
+  readonly titulo?: string;
+  readonly incrustado?: { readonly pagina: number };
+}
+
 export interface Documento {
   readonly id: string;
   readonly region: string;
@@ -22,6 +34,7 @@ export interface Documento {
   readonly error?: string;
   readonly procesado: boolean;
   readonly pdf?: string;
+  readonly anexos?: readonly Anexo[];
 }
 
 export interface Catalogo {
@@ -76,6 +89,7 @@ export interface ExamenDePregunta {
   readonly fuente: string;
   readonly url: string;
   readonly pdf: string;
+  readonly anexos: readonly Anexo[];
 }
 
 export interface Pregunta {

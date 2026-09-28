@@ -1,6 +1,7 @@
 import { claveApartado, figurasDe, migas } from "~/dominio/banco";
 import { nombreIdioma, textoEn } from "~/dominio/textos";
 import type { Apartado, Estimulo, Pregunta } from "~/dominio/tipos";
+import { Correccion } from "./Correccion";
 import { Markdown } from "./Markdown";
 
 interface Props {
@@ -10,11 +11,20 @@ interface Props {
   readonly onIdioma: (idioma: string) => void;
   readonly onAmpliar: (src: string) => void;
   readonly onCerrar: () => void;
+  readonly onIrAPagina: (pagina: number) => void;
 }
 
 const LARGO_PLEGADO = 900;
 
-export function DetallePregunta({ pregunta: p, idioma, recurso, onIdioma, onAmpliar, onCerrar }: Props) {
+export function DetallePregunta({
+  pregunta: p,
+  idioma,
+  recurso,
+  onIdioma,
+  onAmpliar,
+  onCerrar,
+  onIrAPagina,
+}: Props) {
   const introduccion = p.contexto.map((c) => textoEn(c.enunciado, idioma)).filter(Boolean);
   return (
     <article className="overflow-y-auto border-tinta px-6.5 pt-4.5 pb-16 max-[1500px]:border-b-[1.5px] min-[1500px]:border-r-[1.5px] max-md:px-4">
@@ -43,6 +53,7 @@ export function DetallePregunta({ pregunta: p, idioma, recurso, onIdioma, onAmpl
           origen ↗
         </a>
       </div>
+      <Correccion anexos={p.examen.anexos} examen={p.examen} onIrAPagina={onIrAPagina} />
       {p.idiomas.length > 1 && (
         <fieldset className="mb-3.5 inline-flex border-[1.5px] border-tinta">
           <legend className="sr-only">Idioma</legend>

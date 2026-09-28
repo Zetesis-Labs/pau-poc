@@ -5,7 +5,7 @@ import { DetallePregunta } from "~/componentes/DetallePregunta";
 import { Cargando, ErrorDeCarga } from "~/componentes/Estados";
 import { PanelFacetas } from "~/componentes/PanelFacetas";
 import { TarjetaPregunta } from "~/componentes/TarjetaPregunta";
-import { VisorPdf } from "~/componentes/VisorPdf";
+import { type Salto, VisorPdf } from "~/componentes/VisorPdf";
 import { Zoom } from "~/componentes/Zoom";
 import {
   alternar,
@@ -43,6 +43,7 @@ function Banco() {
   const [facetasAbiertas, setFacetasAbiertas] = useState(false);
   const [detalleAbierto, setDetalleAbierto] = useState(false);
   const [ampliada, setAmpliada] = useState<string | null>(null);
+  const [salto, setSalto] = useState<Salto & { readonly pregunta: string }>();
   const [consulta, setConsulta] = useState(estado.consulta);
   const buscador = useRef<HTMLInputElement>(null);
   const lista = useRef<HTMLElement>(null);
@@ -217,8 +218,16 @@ function Banco() {
               onIdioma={(lang) => actualizar((e) => ({ ...e, idioma: lang }))}
               onAmpliar={setAmpliada}
               onCerrar={() => setDetalleAbierto(false)}
+              onIrAPagina={(pagina) =>
+                setSalto({ pregunta: seleccionada.id, pagina, vez: (salto?.vez ?? 0) + 1 })
+              }
             />
-            <VisorPdf lector={pdf} url={datos.recurso(seleccionada.examen.pdf)} ancla={ancla} />
+            <VisorPdf
+              lector={pdf}
+              url={datos.recurso(seleccionada.examen.pdf)}
+              ancla={ancla}
+              salto={salto?.pregunta === seleccionada.id ? salto : undefined}
+            />
           </>
         ) : (
           <p className="col-span-full px-5 py-10 text-center text-suave italic">

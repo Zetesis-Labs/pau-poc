@@ -34,12 +34,13 @@ El núcleo recibe datos (geometría de página, funciones de búsqueda) y devuel
 uv sync && npm install          # Node solo para validar fórmulas con KaTeX
 uv run pau rastrear             # data/examenes.json (--sin-red usa solo data/cache/html)
 uv run pau descargar            # data/pdfs/…
+uv run pau anexos               # data/incrustados.json: corrección dentro de los PDF de examen; resume la cobertura
 uv run pau lote --total 100     # lotes/lote-100.json con exámenes aún no extraídos
 uv run pau extraer --lote lote-58 --modelo gpt-6-luna --prompt p5   # salida/gpt-6-luna__p5/
 uv run pau recortar gpt-6-luna__p5   # rehace los recortes sin llamar al modelo
 uv run pau informe gpt-6-luna__p5    # hallazgos graves y leves
 uv run pau banco gpt-6-luna__p5      # salida/<ejecución>/preguntas.json
-uv run pau publicar gpt-6-luna__p5   # ../datos/
+uv run pau publicar gpt-6-luna__p5   # ../datos/, con cada examen vinculado a sus criterios y soluciones
 uv run pytest && uv run ruff check
 ```
 

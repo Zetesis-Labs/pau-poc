@@ -18,6 +18,10 @@ class Rutas:
         return self.data / "examenes.json"
 
     @property
+    def incrustados(self) -> Path:
+        return self.data / "incrustados.json"
+
+    @property
     def cache_html(self) -> Path:
         return self.data / "cache" / "html"
 

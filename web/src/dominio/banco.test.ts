@@ -102,6 +102,38 @@ describe("calcularFaceta", () => {
   });
 });
 
+describe("faceta de corrección", () => {
+  it("clasifica cada pregunta por la mejor corrección accesible de su examen", () => {
+    const conCriterios = pregunta({
+      id: "c",
+      examen: {
+        ...madrid.examen,
+        anexos: [
+          {
+            tipo: "criterios",
+            origen: "oficial",
+            fuente: "uc3m",
+            acceso: "publico",
+            coincidencia: "exacta",
+            incrustado: { pagina: 3 },
+          },
+        ],
+      },
+    });
+    const valores = calcularFaceta(
+      faceta("correccion"),
+      indexar([madrid, conCriterios]),
+      {},
+      "",
+      false,
+    ).valores;
+    expect(Object.fromEntries(valores.map((v) => [v.valor, v.cuenta]))).toEqual({
+      "Criterios oficiales": 1,
+      "Sin corrección accesible": 1,
+    });
+  });
+});
+
 describe("alternar y limpiar", () => {
   it("añade y quita valores, y deja la faceta vacía como sin filtro", () => {
     const con = alternar({}, "region", "Madrid");

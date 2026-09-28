@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Cabecera } from "~/componentes/Cabecera";
 import { Cargando, ErrorDeCarga } from "~/componentes/Estados";
+import { destinoAnexo, etiquetaAnexo } from "~/dominio/anexos";
 import { nombreDeExamen } from "~/dominio/banco";
 import {
   cumple,
@@ -363,7 +364,7 @@ function Fila({ documento: d, recurso }: { documento: Documento; recurso: (ruta:
           {d.bytes ? <span>{(d.bytes / 1024).toFixed(0)} KB</span> : null}
         </div>
       </div>
-      <div className="flex gap-2 max-md:col-start-2">
+      <div className="flex flex-wrap justify-end gap-2 max-md:col-start-2 max-md:justify-start">
         {d.procesado && (
           <Link className={enlace} to="/" search={{ examen: nombreDeExamen(d) }}>
             Preguntas
@@ -374,6 +375,28 @@ function Fila({ documento: d, recurso }: { documento: Documento; recurso: (ruta:
             PDF
           </a>
         )}
+        {(d.anexos ?? []).map((a) => {
+          const destino = destinoAnexo(a, d);
+          const titulo = [etiquetaAnexo(a), destino.nota].filter(Boolean).join(" · ");
+          const texto =
+            a.tipo === "criterios" ? "Criterios" : a.origen === "oficial" ? "Solución" : "Solución academia";
+          if (destino.accion === "ninguna") return null;
+          const href =
+            destino.accion === "enlace" ? destino.href : `${recurso(d.pdf ?? "")}#page=${destino.pagina}`;
+          return (
+            <a
+              key={a.id ?? "incrustado"}
+              className={enlace}
+              href={href}
+              target="_blank"
+              rel="noopener"
+              title={titulo}
+            >
+              {texto}
+              {a.acceso === "privado" ? " (privada)" : ""}
+            </a>
+          );
+        })}
         <a className={enlace} href={d.url} target="_blank" rel="noopener">
           {NOMBRE_FORMATO[d.formato] ?? "Original"}
         </a>

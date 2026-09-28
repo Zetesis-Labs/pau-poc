@@ -12,6 +12,7 @@ export function pregunta(cambios: Partial<Pregunta> & { id: string }): Pregunta 
       fuente: "uc3m",
       url: "https://origen/ex1.pdf",
       pdf: "pdfs/ex1.pdf",
+      anexos: [],
     },
     reglaExamen: "",
     contexto: [],

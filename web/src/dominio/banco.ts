@@ -1,3 +1,4 @@
+import { correccionDe } from "./anexos";
 import { nombreConvocatoria, nombreIdioma, normalizar, terminos, textoEn } from "./textos";
 import type { Apartado, Pregunta } from "./tipos";
 
@@ -8,6 +9,7 @@ export const CLAVES_FACETA = [
   "convocatoria",
   "idioma",
   "material",
+  "correccion",
   "examen",
 ] as const;
 export type ClaveFaceta = (typeof CLAVES_FACETA)[number];
@@ -64,6 +66,7 @@ export const FACETAS: readonly DefinicionFaceta[] = [
   },
   { clave: "idioma", titulo: "Idioma", valores: (p) => p.idiomas, nombre: nombreIdioma },
   { clave: "material", titulo: "Material", valores: materiales },
+  { clave: "correccion", titulo: "Corrección", valores: (p) => [correccionDe(p.examen.anexos)] },
   { clave: "examen", titulo: "Examen", valores: (p) => [nombreExamen(p)], limite: 8 },
 ];
 

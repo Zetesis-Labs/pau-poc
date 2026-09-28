@@ -3,10 +3,16 @@ import { desplazamientoPara, franjaEn, paginaAcotada } from "~/dominio/franja";
 import type { Ancla } from "~/dominio/tipos";
 import type { DocumentoPdf, LectorPdf } from "~/puertos/pdf";
 
+export interface Salto {
+  readonly pagina: number;
+  readonly vez: number;
+}
+
 interface Props {
   readonly lector: LectorPdf;
   readonly url: string;
   readonly ancla?: Ancla;
+  readonly salto?: Salto;
 }
 
 type Carga =
@@ -18,7 +24,7 @@ const RELLENO = 28;
 const boton =
   "cursor-pointer border border-tinta bg-papel px-2 py-0.5 disabled:cursor-default disabled:opacity-35";
 
-export function VisorPdf({ lector, url, ancla }: Props) {
+export function VisorPdf({ lector, url, ancla, salto }: Props) {
   const [carga, setCarga] = useState<Carga>({ estado: "cargando" });
   const [pagina, setPagina] = useState(ancla?.pagina ?? 1);
   const [alto, setAlto] = useState(0);
@@ -27,6 +33,10 @@ export function VisorPdf({ lector, url, ancla }: Props) {
   const lienzo = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => setPagina(ancla?.pagina ?? 1), [ancla]);
+
+  useEffect(() => {
+    if (salto) setPagina(salto.pagina);
+  }, [salto]);
 
   useEffect(() => {
     let vigente = true;

@@ -20,29 +20,36 @@ class Publicacion:
     """nombres de archivo de las figuras referenciadas"""
 
 
-def documento_publicado(documento: dict, procesados: set[str]) -> dict:
+def documento_publicado(documento: dict, procesados: set[str], anexos: dict[str, list[dict]]) -> dict:
     publicado = {k: documento[k] for k in CAMPOS_CATALOGO if k in documento}
     publicado["procesado"] = documento["id"] in procesados
     if publicado["procesado"]:
         publicado["pdf"] = ruta_pdf(documento["id"])
+    if documento["id"] in anexos:
+        publicado["anexos"] = anexos[documento["id"]]
     return publicado
+
+
+def pregunta_publicada(pregunta: dict, anexos: dict[str, list[dict]]) -> dict:
+    publicada = sin_campos_internos(pregunta)
+    return {**publicada, "examen": {**publicada["examen"], "anexos": anexos.get(publicada["examen"]["id"], [])}}
 
 
 def figuras_referenciadas(preguntas: list[dict]) -> list[str]:
     return sorted({f["src"].removeprefix("figuras/") for p in preguntas for e in p["estimulos"] for f in e["figuras"]})
 
 
-def publicar(examenes: dict, preguntas: list[dict], ejecucion: str) -> Publicacion:
-    """`preguntas` son las del banco ya ancladas, con sus campos internos (`_archivo`)."""
+def publicar(examenes: dict, preguntas: list[dict], ejecucion: str, anexos: dict[str, list[dict]]) -> Publicacion:
+    """`preguntas` son las del banco ya ancladas, con sus campos internos (`_archivo`); `anexos`, la corrección de cada examen."""
     procesados = {p["examen"]["id"] for p in preguntas}
     archivos = {p["examen"]["id"]: p["_archivo"] for p in preguntas}
     return Publicacion(
         catalogo={
             "generado": examenes["generado"],
             "fuentes": examenes["fuentes"],
-            "documentos": [documento_publicado(d, procesados) for d in examenes["documentos"]],
+            "documentos": [documento_publicado(d, procesados, anexos) for d in examenes["documentos"]],
         },
-        preguntas={"ejecucion": ejecucion, "preguntas": [sin_campos_internos(p) for p in preguntas]},
+        preguntas={"ejecucion": ejecucion, "preguntas": [pregunta_publicada(p, anexos) for p in preguntas]},
         pdfs={ruta_pdf(doc_id): archivo for doc_id, archivo in sorted(archivos.items())},
         figuras=figuras_referenciadas(preguntas),
     )

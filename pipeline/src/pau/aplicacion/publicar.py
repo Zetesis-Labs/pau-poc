@@ -4,7 +4,8 @@ import json
 import shutil
 from dataclasses import dataclass
 
-from pau.aplicacion.banco import construir
+from pau.aplicacion.anexos import anexos_de
+from pau.aplicacion.banco import construir, registros
 from pau.aplicacion.rutas import Rutas
 from pau.dominio.publicacion import publicar as componer
 from pau.puertos import LectorPdf
@@ -26,7 +27,8 @@ def _tamano(ruta) -> int:
 
 def publicar(ejecucion: str, rutas: Rutas, lector: LectorPdf) -> Resumen:
     examenes = json.loads(rutas.examenes.read_text())
-    publicacion = componer(examenes, construir(ejecucion, rutas, lector), ejecucion)
+    anexos = anexos_de(examenes["documentos"], registros(rutas.ejecucion(ejecucion)), rutas, lector)
+    publicacion = componer(examenes, construir(ejecucion, rutas, lector), ejecucion, anexos)
     destino = rutas.datos
     if destino.exists():
         shutil.rmtree(destino)

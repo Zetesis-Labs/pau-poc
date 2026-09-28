@@ -38,6 +38,9 @@ class DocumentoPymupdf:
     def bloques(self, pagina: int) -> list[Bloque]:
         return [Bloque(Caja(*b[:4]), b[4], b[6] == 0) for b in self._pagina(pagina).get_text("blocks")]
 
+    def texto(self, pagina: int) -> str:
+        return self._pagina(pagina).get_text()
+
     def geometria(self, pagina: int) -> GeometriaPagina:
         p = self._pagina(pagina)
         return GeometriaPagina(

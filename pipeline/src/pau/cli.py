@@ -117,6 +117,33 @@ def _publicar(args: argparse.Namespace, rutas: Rutas) -> None:
     print(tamanos)
 
 
+def _anexos(args: argparse.Namespace, rutas: Rutas) -> None:
+    from collections import Counter
+
+    from pau.adaptadores.pdf_pymupdf import LectorPymupdf
+    from pau.aplicacion.anexos import detectar_incrustados, incrustados_guardados
+    from pau.dominio.anexos import huerfanos, vincular
+
+    d = detectar_incrustados(rutas, LectorPymupdf())
+    print(f"{d.revisados} PDF de examen revisados · {d.con_correccion} con la corrección dentro · {len(d.ilegibles)} ilegibles → {rutas.incrustados}")
+    for linea in d.ilegibles:
+        print(f"  ilegible {linea}")
+    documentos = json.loads(rutas.examenes.read_text())["documentos"]
+    vinculos = vincular(documentos, incrustados_guardados(rutas))
+    examenes = [x for x in documentos if x["tipo"] in ("examen", "modelo")]
+    cobertura = Counter()
+    for x in examenes:
+        anexos = vinculos.get(x["id"], [])
+        oficial = any(a["origen"] == "oficial" and a["acceso"] == "publico" for a in anexos)
+        cobertura[(x["region"], "oficial" if oficial else "solo academia" if anexos else "sin corrección")] += 1
+    for region in sorted({x["region"] for x in examenes}):
+        print(f"  {region}: " + " · ".join(f"{c} {cobertura[(region, c)]}" for c in ("oficial", "solo academia", "sin corrección")))
+    sueltos = huerfanos(documentos)
+    print(f"{len(sueltos)} criterios o soluciones sin examen al que vincularse")
+    for h in sueltos:
+        print(f"  {h['region']} · {h['asignatura']} · {h['anio']} · {h['convocatoria']} · {h['tipo']} · {h['variante'] or '-'} · {h['id']}")
+
+
 def _informe(args: argparse.Namespace, rutas: Rutas) -> None:
     from pau.dominio.informe import detalle, resumen
 
@@ -195,6 +222,9 @@ def parser() -> argparse.ArgumentParser:
         s = sub.add_parser(nombre, help=ayuda)
         s.add_argument("ejecucion", nargs="?", default=EJECUCION)
         s.set_defaults(accion=accion)
+
+    s = sub.add_parser("anexos", help="localiza la corrección dentro de los PDF de examen y resume qué examen tiene cuál")
+    s.set_defaults(accion=_anexos)
 
     s = sub.add_parser("comparar", help="compara todas las ejecuciones con una de referencia")
     s.add_argument("--referencia", default="gpt-5.6-sol__p1")
