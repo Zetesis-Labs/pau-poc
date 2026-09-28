@@ -180,4 +180,4 @@ def test_la_fuente_suelta_de_la_rubrica_enlaza_a_su_origen():
         "resultado": {"contiene_criterios": True, "generales": [], "entradas": []},
     }
     [p] = preguntas_de(registro, rubrica)
-    assert p["fuenteRubrica"] == {"tipo": "criterios", "incrustado": False, "url": "https://gva/c.pdf"}
+    assert p["fuenteRubrica"] == {"tipo": "criterios", "incrustado": False, "url": "https://gva/c.pdf", "pdf": "pdfs/c.pdf"}

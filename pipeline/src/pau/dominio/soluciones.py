@@ -9,6 +9,7 @@ from typing import Literal
 
 from pydantic import BaseModel, Field
 
+from pau.dominio.banco import ruta_pdf
 from pau.dominio.esquema import ExamenExtraido, Idioma, Pagina, Texto
 from pau.dominio.normalizar import normalizar_markdown
 from pau.dominio.rubrica import CONTROL, es_pdf_local
@@ -125,7 +126,7 @@ def _de_registro(registro: dict | None) -> dict[str, dict]:
     anexo = registro["fuente"]["anexo"]
     procedencia = {"origen": anexo["origen"], "fuente": anexo["fuente"], "incrustado": "incrustado" in anexo}
     if not procedencia["incrustado"]:
-        procedencia["url"] = anexo["url"]
+        procedencia.update(url=anexo["url"], pdf=ruta_pdf(anexo["id"]))
     por_nodo = {}
     for e in registro["resultado"]["entradas"]:
         if e["respuesta"] and e["nodo"] not in por_nodo:

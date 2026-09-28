@@ -13,6 +13,7 @@ interface Props {
   readonly url: string;
   readonly ancla?: Ancla;
   readonly salto?: Salto;
+  readonly onVolver?: () => void;
 }
 
 type Carga =
@@ -24,7 +25,7 @@ const RELLENO = 28;
 const boton =
   "cursor-pointer border border-tinta bg-papel px-2 py-0.5 disabled:cursor-default disabled:opacity-35";
 
-export function VisorPdf({ lector, url, ancla, salto }: Props) {
+export function VisorPdf({ lector, url, ancla, salto, onVolver }: Props) {
   const [carga, setCarga] = useState<Carga>({ estado: "cargando" });
   const [pagina, setPagina] = useState(ancla?.pagina ?? 1);
   const [alto, setAlto] = useState(0);
@@ -92,6 +93,11 @@ export function VisorPdf({ lector, url, ancla, salto }: Props) {
   return (
     <div className="flex min-h-0 flex-col bg-papel-2">
       <div className="flex items-center gap-2 border-b border-regla px-3 py-2 font-mono text-xs text-suave">
+        {onVolver && (
+          <button type="button" className={`${boton} text-tinta`} onClick={onVolver}>
+            ← volver al examen
+          </button>
+        )}
         <button
           type="button"
           className={boton}

@@ -43,7 +43,7 @@ function Banco() {
   const [facetasAbiertas, setFacetasAbiertas] = useState(false);
   const [detalleAbierto, setDetalleAbierto] = useState(false);
   const [ampliada, setAmpliada] = useState<string | null>(null);
-  const [salto, setSalto] = useState<Salto & { readonly pregunta: string }>();
+  const [salto, setSalto] = useState<Salto & { readonly pregunta: string; readonly pdf?: string }>();
   const [consulta, setConsulta] = useState(estado.consulta);
   const buscador = useRef<HTMLInputElement>(null);
   const lista = useRef<HTMLElement>(null);
@@ -116,6 +116,7 @@ function Banco() {
   const ancla = seleccionada
     ? (seleccionada.anclas[idioma] ?? Object.values(seleccionada.anclas)[0])
     : undefined;
+  const anexoAbierto = salto?.pregunta === seleccionada?.id ? salto?.pdf : undefined;
   const activos = filtrosActivos(estado.filtros);
 
   return (
@@ -218,15 +219,16 @@ function Banco() {
               onIdioma={(lang) => actualizar((e) => ({ ...e, idioma: lang }))}
               onAmpliar={setAmpliada}
               onCerrar={() => setDetalleAbierto(false)}
-              onIrAPagina={(pagina) =>
-                setSalto({ pregunta: seleccionada.id, pagina, vez: (salto?.vez ?? 0) + 1 })
+              onIrAPagina={(pagina, documento) =>
+                setSalto({ pregunta: seleccionada.id, pagina, pdf: documento, vez: (salto?.vez ?? 0) + 1 })
               }
             />
             <VisorPdf
               lector={pdf}
-              url={datos.recurso(seleccionada.examen.pdf)}
-              ancla={ancla}
+              url={datos.recurso(anexoAbierto ?? seleccionada.examen.pdf)}
+              ancla={anexoAbierto ? undefined : ancla}
               salto={salto?.pregunta === seleccionada.id ? salto : undefined}
+              onVolver={anexoAbierto ? () => setSalto(undefined) : undefined}
             />
           </>
         ) : (

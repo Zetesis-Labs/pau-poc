@@ -71,7 +71,7 @@ def _apartados(nodo: dict, arbol: dict, rubricas: dict[str, dict], soluciones: d
 def fuente_publicada(fuente: dict) -> dict:
     anexo = fuente["anexo"]
     publicada = {"tipo": anexo["tipo"], "incrustado": "incrustado" in anexo}
-    return publicada if publicada["incrustado"] else {**publicada, "url": anexo["url"]}
+    return publicada if publicada["incrustado"] else {**publicada, "url": anexo["url"], "pdf": ruta_pdf(anexo["id"])}
 
 
 def _estimulos_usados(nodo: dict, arbol: dict, ancestros: list[dict]) -> list[str]:

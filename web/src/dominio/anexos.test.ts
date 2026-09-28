@@ -88,6 +88,15 @@ describe("destinoAnexo", () => {
     });
   });
 
+  it("los anexos sueltos publicados se abren en el visor desde su primera página", () => {
+    expect(destinoAnexo({ ...academia, pdf: "pdfs/s1.pdf" }, publicado)).toEqual({
+      accion: "pagina",
+      pdf: "pdfs/s1.pdf",
+      pagina: 1,
+      nota: "",
+    });
+  });
+
   it("no enlaza lo que está roto", () => {
     expect(destinoAnexo(rota, publicado)).toEqual({ accion: "ninguna", nota: "enlace roto" });
   });

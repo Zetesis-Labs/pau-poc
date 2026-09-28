@@ -15,6 +15,7 @@ export interface Anexo {
   readonly url?: string;
   readonly titulo?: string;
   readonly incrustado?: { readonly pagina: number };
+  readonly pdf?: string;
 }
 
 export interface Documento {
@@ -75,12 +76,18 @@ export interface Solucion {
   readonly fuente: string;
   readonly incrustado: boolean;
   readonly url?: string;
+  readonly pdf?: string;
   readonly paginas: Readonly<Record<string, number>>;
 }
 
 export type FuenteRubrica =
   | { readonly tipo: "criterios" | "solucion"; readonly incrustado: true }
-  | { readonly tipo: "criterios" | "solucion"; readonly incrustado: false; readonly url: string };
+  | {
+      readonly tipo: "criterios" | "solucion";
+      readonly incrustado: false;
+      readonly url: string;
+      readonly pdf?: string;
+    };
 
 export interface Apartado {
   readonly etiqueta: Textos;

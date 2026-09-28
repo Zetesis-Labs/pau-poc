@@ -13,7 +13,7 @@ interface Props {
   readonly onIdioma: (idioma: string) => void;
   readonly onAmpliar: (src: string) => void;
   readonly onCerrar: () => void;
-  readonly onIrAPagina: (pagina: number) => void;
+  readonly onIrAPagina: (pagina: number, pdf?: string) => void;
 }
 
 const LARGO_PLEGADO = 900;
@@ -146,7 +146,7 @@ interface PropsApartados {
   readonly lista: readonly Apartado[];
   readonly idioma: string;
   readonly fuente: FuenteRubrica | null;
-  readonly onIrAPagina: (pagina: number) => void;
+  readonly onIrAPagina: (pagina: number, pdf?: string) => void;
 }
 
 function Apartados({ lista, idioma, fuente, onIrAPagina }: PropsApartados) {

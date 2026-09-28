@@ -82,6 +82,16 @@ describe("destinoRubrica", () => {
     });
   });
 
+  it("si el documento de criterios está publicado lo abre en el visor por su página", () => {
+    const fuente = {
+      tipo: "criterios",
+      incrustado: false,
+      url: "https://gva/c.pdf",
+      pdf: "pdfs/c.pdf",
+    } as const;
+    expect(destinoRubrica(rubrica, fuente, "es")).toEqual({ accion: "pagina", pdf: "pdfs/c.pdf", pagina: 6 });
+  });
+
   it("sin página conocida no lleva a ninguna parte", () => {
     expect(
       destinoRubrica({ ...rubrica, paginas: {} }, { tipo: "criterios", incrustado: true }, "es"),
@@ -94,6 +104,14 @@ describe("soluciones", () => {
   it("lleva a su página: la del PDF que se ve o la del documento de la academia", () => {
     expect(destinoSolucion(oficial, "es")).toEqual({ accion: "pagina", pagina: 7 });
     expect(destinoSolucion(academia, "es")).toEqual({ accion: "enlace", href: "https://me/sol.pdf#page=2" });
+  });
+
+  it("si el documento de la academia está publicado lo abre en el visor por su página", () => {
+    expect(destinoSolucion({ ...academia, pdf: "pdfs/me.pdf" }, "es")).toEqual({
+      accion: "pagina",
+      pdf: "pdfs/me.pdf",
+      pagina: 2,
+    });
   });
 
   it("dice de dónde sale", () => {

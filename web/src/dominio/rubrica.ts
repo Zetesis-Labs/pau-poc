@@ -34,34 +34,33 @@ export function discrepanciaDePuntos(enunciado: number | null, rubrica: Rubrica)
 }
 
 export type DestinoOriginal =
-  | { readonly accion: "pagina"; readonly pagina: number }
+  | { readonly accion: "pagina"; readonly pdf?: string; readonly pagina: number }
   | { readonly accion: "enlace"; readonly href: string };
 
-/** Dónde ver algo en su documento original: una página del PDF que ya se muestra o la del documento enlazado. */
+interface Documento {
+  readonly incrustado: boolean;
+  readonly url?: string;
+  readonly pdf?: string;
+}
+
+/** Dónde ver algo en su documento original: una página del PDF del examen, la de su PDF publicado o la del enlazado. */
 function destinoEnOriginal(
   paginas: Readonly<Record<string, number>>,
-  incrustado: boolean,
-  url: string | undefined,
+  { incrustado, url, pdf }: Documento,
   idioma: string,
 ): DestinoOriginal | null {
   const pagina = paginas[idiomaPreferido(Object.keys(paginas), idioma)];
   if (pagina === undefined) return null;
   if (incrustado) return { accion: "pagina", pagina };
+  if (pdf) return { accion: "pagina", pdf, pagina };
   return url ? { accion: "enlace", href: `${url}#page=${pagina}` } : null;
 }
 
 export const destinoRubrica = (rubrica: Rubrica, fuente: FuenteRubrica | null, idioma: string) =>
-  fuente
-    ? destinoEnOriginal(
-        rubrica.paginas,
-        fuente.incrustado,
-        fuente.incrustado ? undefined : fuente.url,
-        idioma,
-      )
-    : null;
+  fuente ? destinoEnOriginal(rubrica.paginas, fuente, idioma) : null;
 
 export const destinoSolucion = (solucion: Solucion, idioma: string) =>
-  destinoEnOriginal(solucion.paginas, solucion.incrustado, solucion.url, idioma);
+  destinoEnOriginal(solucion.paginas, solucion, idioma);
 
 export const etiquetaSolucion = (s: Solucion): string =>
   s.origen === "oficial" ? "solución oficial" : `solución de ${nombreFuente(s.fuente)} (academia)`;

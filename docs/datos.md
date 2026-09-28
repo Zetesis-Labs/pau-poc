@@ -8,7 +8,7 @@ datos/
   catalogo.json        todos los documentos rastreados (metadatos y enlace de origen)
   preguntas.json       banco de preguntas de los exámenes procesados
   figuras/<nombre>.png recortes de las figuras de las preguntas
-  pdfs/<docid>.pdf     solo los PDF de exámenes procesados
+  pdfs/<docid>.pdf     los PDF de los exámenes procesados y de sus anexos sueltos públicos
 ```
 
 Las rutas dentro de los JSON son relativas a `datos/`.
@@ -58,7 +58,7 @@ Las rutas dentro de los JSON son relativas a `datos/`.
     "rubrica": Rubrica | null,       // lo que dicen los criterios oficiales de este nodo
     "solucion": Solucion | null,     // la respuesta de este nodo: oficial si la hay, de academia si no
     "criteriosGenerales": Textos,    // criterios que valen para todo el examen; {} si no hay
-    "fuenteRubrica": { "tipo": "criterios" | "solucion", "incrustado": true } | { "tipo", "incrustado": false, "url" } | null,
+    "fuenteRubrica": { "tipo": "criterios" | "solucion", "incrustado": true } | { "tipo", "incrustado": false, "url", "pdf" } | null,
     "apartados": [Apartado],         // recursivo: { etiqueta, enunciado, puntos, estimulos: [id], regla, rubrica, solucion, apartados }
     "idiomas": ["es", "va"],
     "estimulos": [{
@@ -79,8 +79,8 @@ puntos que dan los criterios (pueden no coincidir con los del enunciado), qué v
 y en qué página del documento de criterios está (del propio PDF si `fuenteRubrica.incrustado`). Se extrae en una etapa
 aparte (`pau rubricas`, prompt `r2`) con el árbol del examen ya extraído, y solo de fuentes oficiales.
 
-`Solucion` es `{ "texto": Textos, "origen": "oficial" | "academia", "fuente": "mundoestudiante", "incrustado": false, "url": "https://…", "paginas": { "es": 2 } }`:
-la respuesta literal del documento del que sale, con su procedencia (`url` solo si no va dentro del PDF del examen).
+`Solucion` es `{ "texto": Textos, "origen": "oficial" | "academia", "fuente": "mundoestudiante", "incrustado": false, "url": "https://…", "pdf": "pdfs/…", "paginas": { "es": 2 } }`:
+la respuesta literal del documento del que sale, con su procedencia (`url` y `pdf` solo si no va dentro del PDF del examen).
 Se extrae en otra etapa (`pau soluciones`, prompt `s1`): primero `--origen oficial` y después `--origen academia`, que
 solo se consulta para los exámenes en los que lo oficial deja preguntas sin respuesta.
 
@@ -90,7 +90,8 @@ solo se consulta para los exámenes en los que lo oficial deja preguntas sin res
 
 Criterios de corrección o soluciones vinculados a un examen. Van ordenados de más a menos fiable: primero lo que
 viene dentro del propio PDF, luego lo oficial, los criterios antes que las soluciones y lo accesible antes que lo
-privado o roto. Ningún anexo suelto se publica en `pdfs/`: se enlaza a su origen.
+privado o roto. Los anexos sueltos de los exámenes procesados que son públicos y están descargados en PDF se publican
+en `pdfs/` y llevan `pdf`; el resto (privados, rotos, páginas web) solo se enlaza a su origen.
 
 ```jsonc
 {
@@ -102,6 +103,7 @@ privado o roto. Ningún anexo suelto se publica en `pdfs/`: se enlaza a su orige
   "coincidencia": "exacta" | "por_clave", // por_clave: misma asignatura, año y convocatoria, pero una de las dos partes sin variante
   // anexo suelto, con su propio documento en el catálogo:
   "id": "0f6f289bd62a", "url": "https://…", "titulo": "…",
+  "pdf": "pdfs/0f6f289bd62a.pdf",     // solo si es público y está descargado en PDF
   // o corrección dentro del PDF del examen, a partir de esa página:
   "incrustado": { "pagina": 3 }
 }

@@ -381,7 +381,9 @@ function Fila({ documento: d, recurso }: { documento: Documento; recurso: (ruta:
           const texto = textoCorto(a);
           if (destino.accion === "ninguna") return null;
           const href =
-            destino.accion === "enlace" ? destino.href : `${recurso(d.pdf ?? "")}#page=${destino.pagina}`;
+            destino.accion === "enlace"
+              ? destino.href
+              : `${recurso(destino.pdf ?? d.pdf ?? "")}#page=${destino.pagina}`;
           return (
             <a
               key={a.id ?? "incrustado"}

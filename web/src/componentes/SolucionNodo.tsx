@@ -6,7 +6,7 @@ import { Markdown } from "./Markdown";
 interface Props {
   readonly solucion: Solucion;
   readonly idioma: string;
-  readonly onIrAPagina: (pagina: number) => void;
+  readonly onIrAPagina: (pagina: number, pdf?: string) => void;
 }
 
 export function SolucionNodo({ solucion, idioma, onIrAPagina }: Props) {
@@ -31,7 +31,7 @@ export function SolucionNodo({ solucion, idioma, onIrAPagina }: Props) {
         <button
           type="button"
           className="font-mono text-[11px] text-suave underline"
-          onClick={() => onIrAPagina(destino.pagina)}
+          onClick={() => onIrAPagina(destino.pagina, destino.pdf)}
         >
           ver en el PDF, p. {destino.pagina} →
         </button>

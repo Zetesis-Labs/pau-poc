@@ -86,7 +86,7 @@ def test_soluciones_por_nodo_da_la_oficial_y_completa_con_la_de_academia():
     assert por_nodo["n2"] == {"texto": {"es": "Oficial a"}, "origen": "oficial", "fuente": "uc3m", "incrustado": True, "paginas": {"es": 6}}
     assert por_nodo["n3"] == {
         "texto": {"es": "Academia b"}, "origen": "academia", "fuente": "mundoestudiante", "incrustado": False,
-        "url": "https://me/sol.pdf", "paginas": {"es": 2},
+        "url": "https://me/sol.pdf", "pdf": "pdfs/me.pdf", "paginas": {"es": 2},
     }
     assert soluciones_por_nodo(None, None) == {}
 

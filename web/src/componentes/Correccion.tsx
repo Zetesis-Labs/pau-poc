@@ -6,7 +6,7 @@ interface Props {
   readonly anexos: readonly Anexo[];
   readonly examen: { readonly pdf?: string; readonly url: string };
   readonly generales: string;
-  readonly onIrAPagina: (pagina: number) => void;
+  readonly onIrAPagina: (pagina: number, pdf?: string) => void;
 }
 
 const claveAnexo = (a: Anexo) => a.id ?? `incrustado-${a.incrustado?.pagina}`;
@@ -27,7 +27,11 @@ export function Correccion({ anexos, examen, generales, onIrAPagina }: Props) {
             return (
               <li key={claveAnexo(a)} className="flex flex-wrap items-baseline gap-x-2">
                 {destino.accion === "pagina" && (
-                  <button type="button" className={enlace} onClick={() => onIrAPagina(destino.pagina)}>
+                  <button
+                    type="button"
+                    className={enlace}
+                    onClick={() => onIrAPagina(destino.pagina, destino.pdf)}
+                  >
                     {etiqueta} →
                   </button>
                 )}

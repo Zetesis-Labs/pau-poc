@@ -25,12 +25,13 @@ export function textoCorto(a: Anexo): string {
   return a.origen === "oficial" ? "Solución" : "Solución academia";
 }
 
+/** `pdf` es el documento publicado que hay que abrir en el visor; sin él, la página es del PDF del examen. */
 export type Destino =
-  | { readonly accion: "pagina"; readonly pagina: number; readonly nota: string }
+  | { readonly accion: "pagina"; readonly pdf?: string; readonly pagina: number; readonly nota: string }
   | { readonly accion: "enlace"; readonly href: string; readonly nota: string }
   | { readonly accion: "ninguna"; readonly nota: string };
 
-/** Adónde lleva un anexo: a una página del PDF que ya se ve, a su origen o a ninguna parte si el enlace está roto. */
+/** Adónde lleva un anexo: a una página del PDF del examen, a su propio PDF publicado, a su origen o a ninguna parte. */
 export function destinoAnexo(a: Anexo, examen: { readonly pdf?: string; readonly url: string }): Destino {
   if (a.incrustado) {
     const { pagina } = a.incrustado;
@@ -38,6 +39,7 @@ export function destinoAnexo(a: Anexo, examen: { readonly pdf?: string; readonly
       ? { accion: "pagina", pagina, nota: `en este PDF, p. ${pagina}` }
       : { accion: "enlace", href: examen.url, nota: `dentro del PDF del examen, p. ${pagina}` };
   }
+  if (a.pdf) return { accion: "pagina", pdf: a.pdf, pagina: 1, nota: "" };
   if (a.acceso === "roto" || !a.url) return { accion: "ninguna", nota: "enlace roto" };
   return { accion: "enlace", href: a.url, nota: a.acceso === "privado" ? "requiere acceso" : "" };
 }
