@@ -1,3 +1,4 @@
+import pytest
 from conftest import examen, nodo, regla, texto
 
 from pau.dominio.normalizar import inferir_reglas, normalizar, normalizar_markdown
@@ -41,6 +42,38 @@ def test_validar_detecta_estructura_rota():
 def test_validar_pregunta_dentro_de_pregunta_y_enunciado_vacio():
     ex = examen(nodo("n1"), nodo("n2", padre="n1", enunciado=""))
     assert {"pregunta-dentro-de-pregunta", "enunciado-vacio"} <= reglas(validar(ex, sin_errores))
+
+
+@pytest.mark.parametrize("tipo_padre", [None, "bloque", "opcion"])
+def test_detecta_apartados_que_la_publicacion_perderia(tipo_padre):
+    padres = [nodo("grupo", tipo=tipo_padre)] if tipo_padre else []
+    ex = examen(nodo("pregunta"), *padres, nodo("inciso", tipo="apartado", padre="grupo" if padres else None))
+    assert "apartado-fuera-de-pregunta" in reglas(validar(ex, sin_errores))
+
+
+def test_admite_apartados_anidados_bajo_su_pregunta():
+    ex = examen(nodo("p"), nodo("a", padre="p", tipo="apartado"), nodo("i", padre="a", tipo="apartado"))
+    assert "apartado-fuera-de-pregunta" not in reglas(validar(ex, sin_errores))
+
+
+def test_detecta_alternativa_ausente_aunque_no_haya_puntuaciones():
+    ex = examen(nodo("bloque", tipo="bloque", eleccion=regla(1, 1, 2)), nodo("4.1", padre="bloque"))
+    assert "eleccion-hijos-distintos" in reglas(validar(ex, sin_errores))
+
+
+def test_cuenta_solo_alternativas_directas_y_tambien_revisa_la_raiz():
+    ex = examen(
+        nodo("p1"), nodo("a", padre="p1", tipo="apartado"), nodo("b", padre="p1", tipo="apartado", orden=2),
+        nodo("p2", orden=2), eleccion_raiz=regla(1, 1, 2),
+    )
+    assert "eleccion-hijos-distintos" not in reglas(validar(ex, sin_errores))
+    incompleto = ex.model_copy(update={"nodos": ex.nodos[:-1]})
+    assert "eleccion-hijos-distintos" in reglas(validar(incompleto, sin_errores))
+
+
+def test_detecta_reglas_sin_hijos_y_elecciones_imposibles_sin_puntos():
+    ex = examen(nodo("p", eleccion=regla(3, 3, 2)))
+    assert {"eleccion-hijos-distintos", "eleccion-imposible"} <= reglas(validar(ex, sin_errores))
 
 
 def test_validar_puntos_y_media_implicita():

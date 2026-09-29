@@ -31,8 +31,8 @@ def _tipo(texto: str, url: str) -> str:
     return "examen"
 
 
-def _variante(texto: str, nombre_fichero: str) -> str:
-    opcion = re.search(r"opcion[ _]([ab])\b", plano(f"{texto} {nombre_fichero}"))
+def variante_de(texto: str, nombre_fichero: str) -> str:
+    opcion = re.search(r"opcion[ _]([a-z])\b", plano(f"{texto} {nombre_fichero}"))
     if opcion:
         return f"Opción {opcion.group(1).upper()}"
     return "V2" if " V2" in nombre_fichero else ""
@@ -61,7 +61,7 @@ def parse(html: str) -> list[Documento]:
                 tipo=_tipo(texto, url),
                 url=url,
                 titulo=f"{materia} — {texto} ({contexto})",
-                variante=_variante(texto, nombre_fichero),
+                variante=variante_de(texto, nombre_fichero),
             )
         )
     return documentos

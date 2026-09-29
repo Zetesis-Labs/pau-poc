@@ -4,6 +4,9 @@ import re
 from collections import defaultdict
 from dataclasses import dataclass
 from typing import Literal
+from urllib.parse import unquote
+
+from pau.dominio.fuentes.mundoestudiante import variante_de
 
 TipoAnexo = Literal["criterios", "solucion"]
 Origen = Literal["oficial", "academia"]
@@ -49,7 +52,13 @@ def acceso(documento: dict) -> Acceso:
 
 
 def _variante(documento_o_variante: dict | str) -> str:
-    v = documento_o_variante if isinstance(documento_o_variante, str) else documento_o_variante.get("variante", "")
+    if isinstance(documento_o_variante, str):
+        v = documento_o_variante
+    else:
+        v = documento_o_variante.get("variante", "")
+        if not v and documento_o_variante.get("fuente") == "mundoestudiante":
+            nombre = unquote(documento_o_variante.get("url", "")).rsplit("/", 1)[-1].replace("+", " ")
+            v = variante_de("", nombre)
     return "" if v in VARIANTES_SIN_SIGNIFICADO else v
 
 
@@ -114,7 +123,7 @@ def vincular(documentos: list[dict], incrustados: dict[str, Incrustado]) -> dict
             continue
         propios = [_anexo_incrustado(examen, incrustados[examen["id"]])] if examen["id"] in incrustados else []
         for anexo in anexos_por_clave.get(clave(examen), []):
-            coincidencia = encaje(examen.get("variante", ""), anexo.get("variante", ""))
+            coincidencia = encaje(_variante(examen), _variante(anexo))
             if coincidencia:
                 propios.append(_anexo_suelto(anexo, coincidencia))
         if propios:

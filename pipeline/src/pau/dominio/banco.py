@@ -55,6 +55,7 @@ def regla(eleccion: dict | None) -> str:
 def _apartados(nodo: dict, arbol: dict, rubricas: dict[str, dict], soluciones: dict[str, dict]) -> list[dict]:
     return [
         {
+            "_nodo": h["id"],
             "etiqueta": _por_idioma(h["etiqueta"]),
             "enunciado": _por_idioma(h["enunciado"]),
             "puntos": h["puntos"],
@@ -149,6 +150,8 @@ def preguntas_de(registro: dict, rubrica: dict | None = None, soluciones: dict[s
     for nodo in unidades(res["nodos"], por_id):
         ancestros = _ancestros(nodo, por_id)
         usados = _estimulos_usados(nodo, arbol, ancestros)
+        eleccion = nodo["eleccion"]
+        literal = eleccion.get("literal", []) if eleccion else []
         salida.append({
             "id": f"{doc['id']}:{nodo['id']}",
             "examen": {**{k: doc[k] for k in CAMPOS_EXAMEN}, "pdf": ruta_pdf(doc["id"])},
@@ -160,6 +163,8 @@ def preguntas_de(registro: dict, rubrica: dict | None = None, soluciones: dict[s
             "etiqueta": _por_idioma(nodo["etiqueta"]),
             "enunciado": _por_idioma(nodo["enunciado"]),
             "puntos": nodo["puntos"],
+            "regla": regla(eleccion),
+            **({"literalRegla": _por_idioma(literal)} if literal else {}),
             "rubrica": rubricas.get(nodo["id"]),
             "solucion": soluciones.get(nodo["id"]),
             "criteriosGenerales": generales,
@@ -189,7 +194,10 @@ def preguntas_de(registro: dict, rubrica: dict | None = None, soluciones: dict[s
 
 
 def sin_campos_internos(pregunta: dict) -> dict:
-    return {k: v for k, v in pregunta.items() if not k.startswith("_")}
+    salida = {k: v for k, v in pregunta.items() if not k.startswith("_")}
+    if "apartados" in salida:
+        salida["apartados"] = [sin_campos_internos(a) for a in salida["apartados"]]
+    return salida
 
 
 def apariciones(buscar: Buscar, texto: str, minimo: int = 3) -> list[Caja]:

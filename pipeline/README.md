@@ -17,6 +17,7 @@ src/pau/
     validar.py     validaciones deterministas (KaTeX llega inyectado)
     geometria.py   Caja y ajuste de los recortes de figuras a la geometría real del PDF
     banco.py       aplanado en preguntas y franja de cada pregunta en su página
+    conservacion.py pérdidas de contenido entre extracción y banco
     lote.py        selección estratificada de exámenes
     publicacion.py qué sale a datos/
     informe.py, comparacion.py
@@ -40,11 +41,24 @@ uv run pau extraer --lote lote-58 --modelo gpt-6-luna --prompt p5   # salida/gpt
 uv run pau recortar gpt-6-luna__p5   # rehace los recortes sin llamar al modelo
 uv run pau informe gpt-6-luna__p5    # hallazgos graves y leves
 uv run pau banco gpt-6-luna__p5      # salida/<ejecución>/preguntas.json
-uv run pau publicar gpt-6-luna__p5   # ../datos/, con cada examen vinculado a sus criterios y soluciones
+uv run pau verificar gpt-6-luna__p5  # informe local de conservación; sin IA
+uv run pau publicar gpt-6-luna__p5   # sustituye ../datos/ solo si supera los controles
 uv run pytest && uv run ruff check
 ```
 
 `extraer` lee `OPENAI_API_KEY` del entorno o de `../.env`. `PAU_RAIZ` cambia la raíz del repo.
+
+`banco`, `verificar` y `publicar` admiten `--rubricas modelo__prompt` y
+`--soluciones modelo__prompt`; conservan por defecto r2/s1 y no mezclan versiones.
+Cuando falta solución, el constructor aprovecha respuestas de la rúbrica seleccionada
+que pasan el filtro de identidad, procedencia y referencias. Las identifica con
+`extraccion: "rubrica"`; el verificador registra el motivo de las exclusiones y
+comprueba su conservación. No requiere llamadas nuevas de IA ni certifica fidelidad
+académica. Véase [recuperación de respuestas](../docs/recuperacion-respuestas-2026-09-29/README.md).
+`verificar` escribe `salida/<ejecución>/verificacion/informe.json` y termina con
+código 1 si hay pendientes. `publicar` conserva el banco anterior ante pérdidas.
+Alcance y resultados en [verificacion-banco.md](../docs/verificacion-banco.md).
+Los candidatos p6/r3/s2 se explican en [prompts-extraccion.md](../docs/prompts-extraccion.md).
 
 ## Datos
 

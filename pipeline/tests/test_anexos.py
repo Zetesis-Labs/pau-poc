@@ -9,6 +9,7 @@ from pau.dominio.anexos import (
     origen,
     vincular,
 )
+from pau.dominio.fuentes import mundoestudiante
 
 
 def doc(id: str, tipo: str = "examen", variante: str = "", fuente: str = "uc3m", **extra) -> dict:
@@ -61,6 +62,29 @@ def test_vincular_por_clave_y_variante_sin_mezclar_examenes():
         "id": "crit", "tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "llibreta", "acceso": "publico",
         "coincidencia": "por_clave", "url": "https://origen/crit", "titulo": "crit",
     }
+
+
+def test_solucion_opcion_d_no_se_vincula_al_examen_de_coincidencias():
+    url = "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2025/Soluci%C3%B3n+PAU+Madrid+Lengua+Castellana+2025+Junio+Opci%C3%B3n+D.pdf"
+    html = f'''<h3>Exámenes PAU Comunidad de Madrid (junio 2025)</h3>
+      <div class="gb-block-layout-column-inner"><p>LENGUA CASTELLANA Y LITERATURA</p>
+      <a href="{url}">SOLUCIÓN</a></div>'''
+    solucion = mundoestudiante.parse(html)[0].to_json()
+    examen = doc("e880b6f47a91", variante="coincidencias", asignatura="Lengua Castellana y Literatura II", anio=2025)
+
+    assert solucion["id"] == "2337676aef2a"
+    assert solucion["variante"] == "Opción D"
+    assert examen["id"] not in vincular([examen, solucion], {})
+
+
+def test_catalogo_antiguo_con_variante_vacia_no_oculta_opcion_explicita_en_url():
+    examen = doc("e880b6f47a91", variante="coincidencias", asignatura="Lengua Castellana y Literatura II", anio=2025)
+    solucion = doc(
+        "2337676aef2a", "solucion", fuente="mundoestudiante", asignatura="Lengua Castellana y Literatura II", anio=2025,
+        url="https://cdn.mundoestudiante.com/2025/Soluci%C3%B3n+PAU+Madrid+Lengua+Castellana+2025+Junio+Opci%C3%B3n+D.pdf",
+    )
+
+    assert examen["id"] not in vincular([examen, solucion], {})
 
 
 def test_vincular_pone_primero_lo_incrustado_y_lo_oficial():
