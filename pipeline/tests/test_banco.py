@@ -12,6 +12,7 @@ from pau.dominio.banco import (
     unidades,
     variantes,
 )
+from pau.dominio.conservacion import comprobar_conservacion
 from pau.dominio.geometria import Bloque, Caja
 
 ALTO = 800
@@ -98,6 +99,50 @@ def test_preguntas_de_un_registro_siguen_el_contrato():
     assert p["estimulos"][0]["figuras"] == [{"src": "figuras/doc1_E1_es_1.png", "idioma": "es"}]
     assert p["apartados"][0]["enunciado"] == {"es": "Enunciado de n2 con varias palabras"}
     assert not any(k.startswith("_") for k in sin_campos_internos(p))
+
+
+def test_pregunta_publicada_conserva_su_eleccion_y_el_literal_bilingue():
+    pregunta = _nodo("n2", padre="n1")
+    pregunta["enunciado"] = []
+    pregunta["eleccion"] = {
+        "minimo": 2, "maximo": 2, "de": 4, "agregacion": "suma",
+        "literal": [
+            {"idioma": "va", "markdown": "Definiu DOS dels conceptes següents."},
+            {"idioma": "es", "markdown": "Defina DOS de los conceptos siguientes."},
+        ],
+    }
+    registro = {
+        "documento": {
+            "id": "cdd0f4f759e1", "region": "Comunidad Valenciana", "asignatura": "Historia de España",
+            "anio": 2026, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "llibreta",
+            "url": "https://origen/examen.pdf", "archivo": "pdfs/examen.pdf",
+        },
+        "resultado": {
+            "idiomas": ["es", "va"], "eleccion_raiz": None, "estimulos": [],
+            "nodos": [_nodo("n1", tipo="bloque"), pregunta, *(
+                _nodo(f"a{i}", padre="n2", tipo="apartado", orden=i) for i in range(1, 5)
+            )],
+        },
+    }
+
+    [interna] = preguntas_de(registro)
+    [publicada] = [sin_campos_internos(interna)]
+
+    assert publicada["id"] == "cdd0f4f759e1:n2"
+    assert publicada["regla"] == "elegir 2 de 4"
+    assert publicada["literalRegla"] == {
+        "va": "Definiu DOS dels conceptes següents.",
+        "es": "Defina DOS de los conceptos siguientes.",
+    }
+    assert publicada["reglaExamen"] == ""
+    assert publicada["contexto"][0]["regla"] == ""
+    assert all(apartado["regla"] == "" for apartado in publicada["apartados"])
+    assert comprobar_conservacion(registro, [interna]) == []
+    incompleta = {k: v for k, v in interna.items() if k not in {"regla", "literalRegla"}}
+    assert {(h.regla, h.detalle) for h in comprobar_conservacion(registro, [incompleta])} >= {
+        ("campo-alterado", "n2.regla"),
+        ("campo-alterado", "n2.literalRegla"),
+    }
 
 
 def test_texto_plano_conserva_formulas_triviales_y_quita_las_complejas():

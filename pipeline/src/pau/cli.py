@@ -109,7 +109,7 @@ def _banco(args: argparse.Namespace, rutas: Rutas) -> None:
     from pau.aplicacion.banco import ancladas, construir
     from pau.dominio.banco import sin_campos_internos
 
-    preguntas = construir(args.ejecucion, rutas, LectorPymupdf())
+    preguntas = construir(args.ejecucion, rutas, LectorPymupdf(), args.rubricas, args.soluciones)
     destino = rutas.ejecucion(args.ejecucion) / "preguntas.json"
     destino.write_text(json.dumps({"ejecucion": args.ejecucion, "preguntas": [sin_campos_internos(p) for p in preguntas]}, ensure_ascii=False))
     examenes = len({p["examen"]["id"] for p in preguntas})
@@ -120,10 +120,21 @@ def _publicar(args: argparse.Namespace, rutas: Rutas) -> None:
     from pau.adaptadores.pdf_pymupdf import LectorPymupdf
     from pau.aplicacion.publicar import publicar
 
-    r = publicar(args.ejecucion, rutas, LectorPymupdf())
+    r = publicar(args.ejecucion, rutas, LectorPymupdf(), args.rubricas, args.soluciones)
     tamanos = " · ".join(f"{n} {b / 1e6:.1f} MB" for n, b in r.bytes.items())
     print(f"{r.documentos} documentos en el catálogo, {r.procesados} procesados · {r.preguntas} preguntas · {r.figuras} figuras · {r.pdfs} PDFs → {rutas.datos}")
     print(tamanos)
+
+
+def _verificar(args: argparse.Namespace, rutas: Rutas) -> None:
+    from pau.aplicacion.verificacion import guardar, verificar
+
+    informe = verificar(args.ejecucion, rutas, args.rubricas, args.soluciones)
+    destino = guardar(informe, rutas)
+    resumen = informe["resumen"]
+    print(f"{resumen['controles_superados']} exámenes con controles superados · {resumen['pendientes_revision']} pendientes → {destino}")
+    if informe["estado"] != "controles_superados":
+        raise SystemExit(1)
 
 
 def _rubricas(args: argparse.Namespace, rutas: Rutas) -> None:
@@ -219,6 +230,7 @@ def _comparar(args: argparse.Namespace, rutas: Rutas) -> None:
 def parser() -> argparse.ArgumentParser:
     from pathlib import Path
 
+    from pau.aplicacion.banco import RUBRICAS, SOLUCIONES
     from pau.aplicacion.rastrear import FUENTES
 
     p = argparse.ArgumentParser(prog="pau", description="Rastreo, extracción y publicación de exámenes de la PAU")
@@ -259,10 +271,14 @@ def parser() -> argparse.ArgumentParser:
         ("recortar", _recortar, "rehace los recortes de figuras de una ejecución"),
         ("banco", _banco, "construye y ancla el banco de preguntas de una ejecución"),
         ("publicar", _publicar, "escribe datos/ para la web"),
+        ("verificar", _verificar, "comprueba conservación del banco sin API ni modificar datos/"),
         ("informe", _informe, "resume los hallazgos de una ejecución"),
     ):
         s = sub.add_parser(nombre, help=ayuda)
         s.add_argument("ejecucion", nargs="?", default=EJECUCION)
+        if nombre in ("banco", "publicar", "verificar"):
+            s.add_argument("--rubricas", default=RUBRICAS, help="ejecución de rúbricas (modelo__prompt) dentro del banco de preguntas")
+            s.add_argument("--soluciones", default=SOLUCIONES, help="ejecución de soluciones (modelo__prompt), oficial y academia")
         s.set_defaults(accion=accion)
 
     s = sub.add_parser("rubricas", help="extrae la rúbrica de corrección de los exámenes procesados con criterios oficiales")
@@ -298,8 +314,13 @@ def parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> None:
+    from pau.aplicacion.verificacion import PublicacionBloqueada
+
     args = parser().parse_args(argv)
     try:
         args.accion(args, rutas_por_defecto())
+    except PublicacionBloqueada as error:
+        print(str(error), file=sys.stderr)
+        sys.exit(1)
     except BrokenPipeError:
         sys.exit(0)

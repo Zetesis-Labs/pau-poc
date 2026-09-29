@@ -56,11 +56,21 @@ def estructura(examen: ExamenExtraido) -> list[Hallazgo]:
         padre = por_id.get(nodo.padre)
         if nodo.tipo == "pregunta" and padre is not None and padre.tipo == "pregunta":
             hallazgos.append(Hallazgo("pregunta-dentro-de-pregunta", True, f"{nodo.id} en {padre.id}"))
+        if nodo.tipo == "apartado" and (padre is None or padre.tipo not in TIPOS_CON_ENUNCIADO):
+            hallazgos.append(Hallazgo("apartado-fuera-de-pregunta", True, f"{nodo.id} en {nodo.padre}"))
     hijos = _hijos(examen.nodos)
     for padre_id, hermanos in hijos.items():
         regla = examen.eleccion_raiz if padre_id is None else por_id[padre_id].eleccion if padre_id in por_id else None
         if sum(h.tipo == "opcion" for h in hermanos) >= 2 and regla is None:
             hallazgos.append(Hallazgo("opciones-sin-regla", True, str(padre_id)))
+    for padre_id, regla in [(None, examen.eleccion_raiz), *((n.id, n.eleccion) for n in examen.nodos)]:
+        if regla is None:
+            continue
+        cantidad = len(hijos.get(padre_id, []))
+        if regla.de is not None and regla.de != cantidad:
+            hallazgos.append(Hallazgo("eleccion-hijos-distintos", True, f"{padre_id}: de {regla.de}, hijos {cantidad}"))
+        if regla.de and ((regla.maximo or 0) > regla.de or (regla.minimo or 0) > (regla.maximo or regla.de)):
+            hallazgos.append(Hallazgo("eleccion-imposible", True, f"{regla.minimo}–{regla.maximo} de {regla.de}"))
     return hallazgos
 
 
@@ -127,9 +137,6 @@ def puntuacion(examen: ExamenExtraido) -> list[Hallazgo]:
             hallazgos.append(Hallazgo("media-implicita", False, f"{elegidas} preguntas de {esperado:g}: la nota sería la media"))
         else:
             hallazgos.append(Hallazgo("total-distinto", True, f"calculado {total:g}, esperado {esperado:g}"))
-    for regla in [examen.eleccion_raiz, *(n.eleccion for n in examen.nodos)]:
-        if regla and regla.de and ((regla.maximo or 0) > regla.de or (regla.minimo or 0) > (regla.maximo or regla.de)):
-            hallazgos.append(Hallazgo("eleccion-imposible", True, f"{regla.minimo}–{regla.maximo} de {regla.de}"))
     return hallazgos
 
 

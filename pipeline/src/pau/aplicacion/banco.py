@@ -5,6 +5,7 @@ from pathlib import Path
 
 from pau.aplicacion.rutas import Rutas
 from pau.dominio.banco import fin_de_contenido, franjas, inicio_en_pagina, preguntas_de
+from pau.dominio.recuperacion import recuperar_respuestas
 from pau.dominio.soluciones import soluciones_por_nodo
 from pau.puertos import LectorPdf
 
@@ -56,7 +57,9 @@ def construir(ejecucion: str, rutas: Rutas, lector: LectorPdf, rubricas: str = R
             registro_de(base / "soluciones" / soluciones / "oficial", doc_id),
             registro_de(base / "soluciones" / soluciones / "academia", doc_id),
         )
-        preguntas += preguntas_de(r, registro_de(base / "rubricas" / rubricas, doc_id), por_nodo)
+        rubrica = registro_de(base / "rubricas" / rubricas, doc_id)
+        por_nodo, _ = recuperar_respuestas(r, rubrica, por_nodo)
+        preguntas += preguntas_de(r, rubrica, por_nodo)
     por_pdf: dict[str, list[dict]] = {}
     for p in preguntas:
         por_pdf.setdefault(p["_archivo"], []).append(p)
