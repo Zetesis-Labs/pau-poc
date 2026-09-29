@@ -63,4 +63,10 @@ export const destinoSolucion = (solucion: Solucion, idioma: string) =>
   destinoEnOriginal(solucion.paginas, solucion, idioma);
 
 export const etiquetaSolucion = (s: Solucion): string =>
-  s.origen === "oficial" ? "solución oficial" : `solución de ${nombreFuente(s.fuente)} (academia)`;
+  s.extraccion === "rubrica"
+    ? s.origen === "oficial"
+      ? "Respuesta en los criterios oficiales"
+      : `Respuesta en los criterios de ${nombreFuente(s.fuente)} (academia)`
+    : s.origen === "oficial"
+      ? "solución oficial"
+      : `solución de ${nombreFuente(s.fuente)} (academia)`;

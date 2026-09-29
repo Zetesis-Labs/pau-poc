@@ -15,7 +15,7 @@ interface Props {
 }
 
 const marca =
-  "font-mono text-[10px] leading-none font-medium uppercase tracking-[0.08em] px-1.25 py-0.75 border";
+  "font-mono text-[10px] leading-none font-medium uppercase tracking-[0.08em] px-2 py-1 rounded-full bg-papel/60";
 
 export const TarjetaPregunta = memo(function TarjetaPregunta({
   pregunta: p,
@@ -35,7 +35,7 @@ export const TarjetaPregunta = memo(function TarjetaPregunta({
       data-id={p.id}
       aria-current={seleccionada}
       onClick={() => onElegir(p.id)}
-      className={`block w-full cursor-pointer border-b border-regla px-3.5 pt-2.75 pb-3 text-left hover:bg-papel-2 ${seleccionada ? "bg-papel-3 shadow-[inset_4px_0_0_var(--rojo)]" : ""}`}
+      className={`my-2 block w-full cursor-pointer rounded-2xl px-4 py-4 text-left transition-colors hover:bg-papel-2 ${seleccionada ? "bg-papel-3/80 ring-1 ring-regla" : ""}`}
     >
       <div className="flex justify-between gap-2 font-mono text-[11px] text-suave">
         <span>{p.examen.asignatura}</span>

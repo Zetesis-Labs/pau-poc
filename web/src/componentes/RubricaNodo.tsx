@@ -8,7 +8,7 @@ interface Props {
   readonly puntosEnunciado: number | null;
   readonly idioma: string;
   readonly fuente: FuenteRubrica | null;
-  readonly onIrAPagina: (pagina: number, pdf?: string) => void;
+  readonly onIrAPagina: (pagina: number, pdf?: string, grupo?: "criterios" | "soluciones") => void;
 }
 
 const numero = (n: number) => n.toLocaleString("es", { maximumFractionDigits: 2 });
@@ -38,7 +38,7 @@ export function RubricaNodo({ rubrica, puntosEnunciado, idioma, fuente, onIrAPag
         <button
           type="button"
           className="font-mono text-[11px] text-suave underline"
-          onClick={() => onIrAPagina(destino.pagina, destino.pdf)}
+          onClick={() => onIrAPagina(destino.pagina, destino.pdf, "criterios")}
         >
           ver en el PDF, p. {destino.pagina} →
         </button>

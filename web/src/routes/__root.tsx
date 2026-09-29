@@ -10,7 +10,7 @@ export interface ContextoRouter {
   readonly pdf: LectorPdf;
 }
 
-const TEMA_INICIAL = `try{var t=localStorage.getItem("pau-tema");document.documentElement.dataset.tema=t||(matchMedia("(prefers-color-scheme: dark)").matches?"oscuro":"claro")}catch(e){}`;
+const TEMA_INICIAL = `var t;try{t=localStorage.getItem("pau-tema")}catch(e){}document.documentElement.dataset.tema=t==="claro"||t==="oscuro"?t:(matchMedia("(prefers-color-scheme: dark)").matches?"oscuro":"claro");`;
 
 export const Route = createRootRouteWithContext<ContextoRouter>()({
   head: () => ({

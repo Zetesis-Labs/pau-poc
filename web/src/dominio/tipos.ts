@@ -74,6 +74,7 @@ export interface Solucion {
   readonly texto: Textos;
   readonly origen: "oficial" | "academia";
   readonly fuente: string;
+  readonly extraccion?: "rubrica";
   readonly incrustado: boolean;
   readonly url?: string;
   readonly pdf?: string;
@@ -134,6 +135,8 @@ export interface Pregunta {
   readonly contexto: readonly Contexto[];
   readonly etiqueta: Textos;
   readonly enunciado: Textos;
+  readonly regla?: string;
+  readonly literalRegla?: Textos;
   readonly puntos: number | null;
   readonly rubrica: Rubrica | null;
   readonly solucion: Solucion | null;
