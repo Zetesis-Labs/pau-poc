@@ -25,9 +25,9 @@
 }
 
 :root {
-  --papel: #f4efe4;
-  --papel-2: #ebe4d4;
-  --papel-3: #e2d9c5;
+  --papel: #faf8f3;
+  --papel-2: #f0ede5;
+  --papel-3: #e6e0d3;
   --tinta: #1d1a16;
   --suave: #6b6355;
   --regla: #cfc5b0;
@@ -114,4 +114,23 @@
   overflow-x: auto;
   overflow-y: hidden;
   padding-block: 2px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--rojo);
+  outline-offset: 3px;
+}
+summary {
+  list-style-position: inside;
+}
+html {
+  scrollbar-color: var(--regla) transparent;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto;
+    transition: none;
+  }
 }

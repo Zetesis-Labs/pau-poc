@@ -11,13 +11,18 @@ const escapar = (texto: string): string =>
 
 function formula(tex: string, bloque: boolean): string {
   try {
-    return katex.renderToString(tex, { displayMode: bloque, throwOnError: false, output: "htmlAndMathml" });
+    return katex.renderToString(tex, {
+      displayMode: bloque,
+      throwOnError: false,
+      output: "htmlAndMathml",
+      trust: false,
+    });
   } catch {
     return escapar(tex);
   }
 }
 
-/** Markdown con fórmulas LaTeX a HTML: las fórmulas se apartan antes de pasar por marked para que no las altere. */
+/** Convierte Markdown/LaTeX en HTML sin sanear; el componente Markdown protege la inserción en el DOM. */
 export function renderizar(md: string): string {
   const formulas: { tex: string; bloque: boolean }[] = [];
   const protegido = md.replace(FORMULA, (_, bloque: string | undefined, linea: string | undefined) => {

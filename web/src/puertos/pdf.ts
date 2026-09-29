@@ -6,7 +6,12 @@ export interface PaginaRenderizada {
 export interface DocumentoPdf {
   readonly paginas: number;
   /** Pinta la página en el lienzo con `anchoCss` píxeles de ancho visibles y devuelve el tamaño en píxeles CSS. */
-  pintar(pagina: number, lienzo: HTMLCanvasElement, anchoCss: number): Promise<PaginaRenderizada>;
+  pintar(
+    pagina: number,
+    lienzo: HTMLCanvasElement,
+    anchoCss: number,
+    signal?: AbortSignal,
+  ): Promise<PaginaRenderizada>;
 }
 
 export interface LectorPdf {
