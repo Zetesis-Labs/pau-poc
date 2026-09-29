@@ -1,0 +1,112 @@
+[
+  {
+    "id": "RUB-009",
+    "estado": "confirmado",
+    "tipo": "pagina_criterio_incorrecta",
+    "prioridad": "media",
+    "documento": "3c134e1125e6",
+    "nodos": ["n9"],
+    "pdf": "datos/pdfs/7c5377981b00.pdf",
+    "paginas": [4, 5],
+    "descripcion": "El criterio castellano comienza en la página 4; r2 y el campo público pagina.es lo sitúan en la 5."
+  },
+  {
+    "id": "RUB-010",
+    "estado": "confirmado",
+    "tipo": "pagina_criterio_incorrecta",
+    "prioridad": "media",
+    "documento": "cdd0f4f759e1",
+    "nodos": ["n9"],
+    "pdf": "datos/pdfs/a94284193403.pdf",
+    "paginas": [4, 5],
+    "descripcion": "El criterio castellano comienza en la página 4; r2 y el campo público pagina.es lo sitúan en la 5."
+  },
+  {
+    "id": "RUB-001",
+    "estado": "confirmado",
+    "tipo": "extraccion",
+    "prioridad": "alta",
+    "documento": "070c3795d83c",
+    "nodos": ["n5", "n13"],
+    "pdf": "datos/pdfs/d84a81a0f038.pdf",
+    "paginas": [2, 4],
+    "descripcion": "Cuatro bandas alternativas de la escala 0-5 se publican como tramos sumables de 0+1.5+3.5+5=10."
+  },
+  {
+    "id": "RUB-002",
+    "estado": "confirmado",
+    "tipo": "extraccion",
+    "prioridad": "media",
+    "documento": "9c4cbc92103b",
+    "nodos": ["n21", "n25"],
+    "pdf": "datos/pdfs/9c4cbc92103b.pdf",
+    "paginas": [3, 5],
+    "descripcion": "La frase francesa del enunciado de la página 3 aparece como criterio; la página 5 indicada solo contiene los criterios en español y no hay paginas.fr."
+  },
+  {
+    "id": "RUB-003",
+    "estado": "confirmado",
+    "tipo": "fuente_no_corresponde",
+    "prioridad": "alta",
+    "documento": "5091bd5d23ad",
+    "nodos": ["n26"],
+    "pdf": "datos/pdfs/8399809a0379.pdf",
+    "paginas": [9],
+    "descripcion": "El examen pregunta por un poema en la pregunta 10; el PDF enlazado responde la pregunta 10 de Historia de una escalera. R2 detecta la falta de correspondencia y deja el nodo sin rúbrica."
+  },
+  {
+    "id": "RUB-004",
+    "estado": "confirmado",
+    "tipo": "baremo_fuente_difiere_examen",
+    "prioridad": "alta",
+    "documento": "ab690a84e30c",
+    "nodos": ["n3", "n8", "n9", "n10", "n32", "n38", "n43", "n44", "n45", "n67"],
+    "pdf": "datos/pdfs/02c5957c411d.pdf",
+    "paginas": [1, 2, 3, 4],
+    "descripcion": "El baremo y el número de ítems del PDF oficial difieren del examen publicado; R2 registra las discrepancias en incidencias."
+  },
+  {
+    "id": "RUB-005",
+    "estado": "confirmado_en_fuente",
+    "tipo": "contradiccion_documental",
+    "prioridad": "media",
+    "documento": "4a7c96ae2912",
+    "nodos": ["n3", "n11"],
+    "pdf": "datos/pdfs/4a7c96ae2912.pdf",
+    "paginas": [15],
+    "descripcion": "El PDF da máximo 2.5 al apartado 2 pero reparte 1+1+1; R2 reproduce y anota la contradicción."
+  },
+  {
+    "id": "RUB-006",
+    "estado": "procedencia_no_acreditada",
+    "tipo": "procedencia",
+    "prioridad": "alta",
+    "documento": "6649ce9eecb2",
+    "nodos": [],
+    "pdf": "datos/pdfs/c4afc8d9c75a.pdf",
+    "paginas": [1, 10],
+    "descripcion": "El documento lleva www.academialallibreta.es, contiene respuestas desarrolladas y está marcado origen=oficial por tipo=criterios; falta acreditar autoría oficial."
+  },
+  {
+    "id": "RUB-007",
+    "estado": "procedencia_no_acreditada",
+    "tipo": "procedencia",
+    "prioridad": "alta",
+    "documento": "b996e7795739",
+    "nodos": [],
+    "pdf": "datos/pdfs/361720afddf5.pdf",
+    "paginas": [1, 8],
+    "descripcion": "El documento lleva www.academialallibreta.es, contiene respuestas desarrolladas y está marcado origen=oficial por tipo=criterios; falta acreditar autoría oficial."
+  },
+  {
+    "id": "RUB-008",
+    "estado": "confirmado",
+    "tipo": "perdida_publicacion",
+    "prioridad": "alta",
+    "documento": null,
+    "nodos": [],
+    "pdf": null,
+    "paginas": [],
+    "descripcion": "652 entradas r2 tienen respuesta; 587 respuestas en nodos publicados no llegan a solucion según general/respuestas-r2-publicacion.json."
+  }
+]

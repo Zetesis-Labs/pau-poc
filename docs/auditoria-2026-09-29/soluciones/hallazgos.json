@@ -1,0 +1,353 @@
+[
+  {
+    "id": "S01",
+    "severidad": "alta",
+    "documento": "184bfaad518f",
+    "nodos": [
+      "n31"
+    ],
+    "paginas_fuente": [
+      6
+    ],
+    "tipo": "error matemático e incidencia falsa",
+    "estado": "confirmado",
+    "evidencia_fuente": "P(A∩M̄)=P(A)−P(A∩M)=…=0.15; la barra sobre M está visible en el PDF.",
+    "evidencia_salida": "P(A\\cap M)=P(A)-P(A\\cap M); incidencia afirma que la igualdad contradictoria está impresa y se transcribió literalmente.",
+    "impacto": "Cambia varón por mujer y atribuye falsamente el error a la fuente. Se publica así."
+  },
+  {
+    "id": "S02",
+    "severidad": "alta",
+    "documento": "25fcf7208b8f",
+    "nodos": [
+      "n7"
+    ],
+    "paginas_fuente": [
+      3
+    ],
+    "tipo": "error matemático",
+    "estado": "confirmado",
+    "evidencia_fuente": "Recuadro manuscrito 1/(2·raíz cuarta de e)−1/(2e). También paso previo e^(-1/2²).",
+    "evidencia_salida": "1/(2\\sqrt e)-1/(2e).",
+    "impacto": "Pierde índice4 de raíz, cambia resultado integral. Se publica así."
+  },
+  {
+    "id": "S03",
+    "severidad": "alta",
+    "documento": "25fcf7208b8f",
+    "nodos": [
+      "n15"
+    ],
+    "paginas_fuente": [
+      5
+    ],
+    "tipo": "error matemático",
+    "estado": "confirmado",
+    "evidencia_fuente": "Corrección continuidad69,5; numerator69,5−55,4; z>2,23; resultado0,0129.",
+    "evidencia_salida": "67,5 en las dos apariciones; conserva z>2,23 y0,0129.",
+    "impacto": "La cadena numérica deja de ser consistente y no avisa. Se publica así."
+  },
+  {
+    "id": "S04",
+    "severidad": "alta",
+    "documento": "184bfaad518f",
+    "nodos": [
+      "n3",
+      "n4",
+      "n5",
+      "n6",
+      "n8",
+      "n9",
+      "n10",
+      "n12",
+      "n13",
+      "n14",
+      "n16",
+      "n17"
+    ],
+    "paginas_fuente": [
+      5
+    ],
+    "tipo": "recorte de fuente en pipeline",
+    "estado": "confirmado",
+    "evidencia_fuente": "Página5: SOLUCIONES OPCIÓN A, ejercicios1a–d,2a–c,3a–c,4a–b.",
+    "evidencia_salida": "fuente.desde=6; solo9 entradas de B.",
+    "impacto": "12 soluciones no llegan al modelo s1. No es una omisión imputable al modelo sobre el PDF recibido; banco deja A sin solución."
+  },
+  {
+    "id": "S05",
+    "severidad": "alta",
+    "documento": "0b7e227a5499",
+    "nodos": [],
+    "paginas_fuente": [
+      6
+    ],
+    "tipo": "omisión por árbol incompleto y falta de incidencia",
+    "estado": "confirmado",
+    "evidencia_fuente": "4.2 a: matrices, casos λ∉{−1,4},λ=−1,λ=4; b: (16/5,−3/5,0)+t(1,−3,−5).",
+    "evidencia_salida": "p5 no tiene pregunta4.2; s1 ni entradas ni sin_correspondencia.",
+    "impacto": "Dos respuestas desaparecen de forma silenciosa. s1 debió registrarlas sin correspondencia aunque p5 carezca del nodo."
+  },
+  {
+    "id": "S06",
+    "severidad": "alta",
+    "documento": "334e3227bf82",
+    "nodos": [
+      "n8",
+      "n9",
+      "n10",
+      "n11"
+    ],
+    "paginas_fuente": [
+      5,
+      6
+    ],
+    "tipo": "pérdida en publicación",
+    "estado": "confirmado",
+    "evidencia_fuente": "Solucionario define Soberanía,Absolutismo,Huelga revolucionaria,Golpe de Estado; s1 tiene las4 respuestas.",
+    "evidencia_salida": "datos/preguntas.json publica8 preguntas del documento y ninguna de las4 definiciones.",
+    "impacto": "p5 clasifica conceptos como apartados del bloque n7 sin pregunta. Publicación los descarta. No es un fallo s1."
+  },
+  {
+    "id": "S07",
+    "severidad": "media",
+    "documento": "114bff1bacb1",
+    "nodos": [
+      "n17",
+      "n18"
+    ],
+    "paginas_fuente": [
+      5,
+      6
+    ],
+    "tipo": "pérdida de estructura visual",
+    "estado": "confirmado",
+    "evidencia_fuente": "Árboles sintácticos con líneas que asocian palabras a sintagmas y funciones.",
+    "evidencia_salida": "Listas Etiquetas del esquema y secuencias \\quad; no figura ni correspondencias.",
+    "impacto": "Las etiquetas sueltas no representan el análisis sintáctico. Incumple instrucción de sustituir figuras por marcador; un recorte sería necesario para recuperar la respuesta completa."
+  },
+  {
+    "id": "S08",
+    "severidad": "media",
+    "documento": "32384d10aa13",
+    "nodos": [
+      "n15",
+      "n16"
+    ],
+    "paginas_fuente": [
+      6
+    ],
+    "tipo": "página errónea",
+    "estado": "confirmado",
+    "evidencia_fuente": "Reyes Católicos (3) y CarlosI (4) íntegramente en p6.",
+    "evidencia_salida": "Ambos entradas paginas.es=5.",
+    "impacto": "Referencia lleva a una página sin esa respuesta. Exportado sin cambio."
+  },
+  {
+    "id": "S09",
+    "severidad": "baja",
+    "documento": "09feb8541d90",
+    "nodos": [
+      "n3"
+    ],
+    "paginas_fuente": [
+      1,
+      2
+    ],
+    "tipo": "página de continuación",
+    "estado": "confirmado",
+    "evidencia_fuente": "La respuesta Documentos3y4 empieza al final de p1 y sigue en p2.",
+    "evidencia_salida": "paginas.es=2.",
+    "impacto": "Referencia parcial, no inicio. El esquema solo permite una página y no explicita inicio; no se computa como página totalmente equivocada."
+  },
+  {
+    "id": "S10",
+    "severidad": "baja",
+    "documento": "1b0c55921d01",
+    "nodos": [
+      "n16"
+    ],
+    "paginas_fuente": [
+      6,
+      7
+    ],
+    "tipo": "página de continuación",
+    "estado": "confirmado",
+    "evidencia_fuente": "Comparación absolutismo/liberalismo empieza en p6 y continúa p7.",
+    "evidencia_salida": "paginas.es=7.",
+    "impacto": "Referencia pierde inicio; el texto completo sí está transcrito."
+  },
+  {
+    "id": "S11",
+    "severidad": "baja",
+    "documento": "3c134e1125e6",
+    "nodos": [
+      "n9"
+    ],
+    "paginas_fuente": [
+      4,
+      5
+    ],
+    "tipo": "página de continuación",
+    "estado": "confirmado",
+    "evidencia_fuente": "La segunda (2.2)… Madoz… empieza al pie de p4 y continúa p5.",
+    "evidencia_salida": "paginas.es=5; va=2 correcto.",
+    "impacto": "Referencia castellana pierde el inicio; texto completo presente."
+  },
+  {
+    "id": "S12",
+    "severidad": "media",
+    "documento": "25fcf7208b8f",
+    "nodos": [
+      "n2",
+      "n3",
+      "n5",
+      "n9",
+      "n10",
+      "n13",
+      "n16",
+      "n19",
+      "n20",
+      "n22",
+      "n23",
+      "n24"
+    ],
+    "paginas_fuente": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "tipo": "síntesis y paráfrasis",
+    "estado": "confirmado",
+    "evidencia_fuente": "Matrices A/B explícitas en A1 p1,eliminación por filas en B1 p6,desarrollos numéricos y frases manuscritas.",
+    "evidencia_salida": "A1 omite matrices; B1 salta de sistema a De las ecuaciones se obtiene; n13 dice tenemos un consejero donde fuente dice consejo.",
+    "impacto": "No cumple transcripción literal ni conservación de todos los pasos aunque muchos resultados coincidan."
+  },
+  {
+    "id": "S13",
+    "severidad": "media",
+    "documento": "49e9ef3c3296",
+    "nodos": [
+      "n2",
+      "n8",
+      "n9"
+    ],
+    "paginas_fuente": [
+      1,
+      2
+    ],
+    "tipo": "omisión de contexto de solución",
+    "estado": "confirmado",
+    "evidencia_fuente": "Primer ejercicio define x,y,z como número de recipientes de cada productor. Tercer ejercicio incluye árbol completo con eventos E,H,R,A,M y probabilidades.",
+    "evidencia_salida": "n2 solo sistema; n8/n9 solo cálculo en p2; sin entrada para árbol ni marcador.",
+    "impacto": "Solución incompleta; árbol aporta0,5 puntos según criterios p5. El criterio de puntuación no debía ir en respuesta, pero el paso gráfico sí debía estar indicado."
+  },
+  {
+    "id": "S14",
+    "severidad": "baja",
+    "documento": "3c134e1125e6",
+    "nodos": [
+      "n8",
+      "n13"
+    ],
+    "paginas_fuente": [
+      1,
+      2
+    ],
+    "tipo": "regularización o traducción",
+    "estado": "confirmado",
+    "evidencia_fuente": "n8va Primera Guerra Carlista; n13va Amb la mort de Fernando VII; en es quals.",
+    "evidencia_salida": "n8va Primera Guerra Carlina; n13va Ferran VII; en els quals.",
+    "impacto": "Cambios semánticamente próximos pero prohibidos por no traduzcas/no corrijas; no equivalen a alucinación extensa."
+  },
+  {
+    "id": "S15",
+    "severidad": "baja",
+    "documento": "114bff1bacb1",
+    "nodos": [
+      "n20"
+    ],
+    "paginas_fuente": [
+      1,
+      5
+    ],
+    "tipo": "contradicción fuente/enunciado no registrada",
+    "estado": "confirmado",
+    "evidencia_fuente": "Enunciado pregunta generalización singular; solucionario analiza General+iz+a+cion+es con morfema flexivo número.",
+    "evidencia_salida": "s1 conserva es y plural,incidencias vacío.",
+    "impacto": "No es invención del plural por Luna. Falta avisar de discordancia de la fuente como exige s1."
+  },
+  {
+    "id": "S16",
+    "severidad": "limitación",
+    "documento": "0743849de2d6",
+    "nodos": [
+      "n10",
+      "n11"
+    ],
+    "paginas_fuente": [
+      5,
+      6
+    ],
+    "tipo": "figura perdida por contrato",
+    "estado": "confirmado",
+    "evidencia_fuente": "Dos análisis sintácticos gráficos con notas explicativas.",
+    "evidencia_salida": "Solo (ver figura en la solución original).",
+    "impacto": "Cumple regla s1, pero alumno no ve análisis ni recorte. Fuente original conserva la respuesta."
+  },
+  {
+    "id": "S17",
+    "severidad": "limitación",
+    "documento": "2787fc4d640f",
+    "nodos": [
+      "n5"
+    ],
+    "paginas_fuente": [
+      4
+    ],
+    "tipo": "figura perdida por contrato",
+    "estado": "confirmado",
+    "evidencia_fuente": "Estructuras de Lewis de Cl2 y NH3 con electrones no enlazantes.",
+    "evidencia_salida": "Solo (ver figura en la solución original).",
+    "impacto": "Cumple s1; esquema no guarda figura ni electrones."
+  },
+  {
+    "id": "S18",
+    "severidad": "limitación",
+    "documento": "49e9ef3c3296",
+    "nodos": [
+      "n18"
+    ],
+    "paginas_fuente": [
+      3
+    ],
+    "tipo": "figura perdida por contrato",
+    "estado": "confirmado",
+    "evidencia_fuente": "Región sombreada entre parábola y coseno.",
+    "evidencia_salida": "El recinto solicitado es: (ver figura en la solución original).",
+    "impacto": "Cumple s1; no se conserva dibujo pedido."
+  },
+  {
+    "id": "S19",
+    "severidad": "baja",
+    "documento": "2787fc4d640f",
+    "nodos": [
+      "n35",
+      "n42",
+      "n44"
+    ],
+    "paginas_fuente": [
+      5
+    ],
+    "tipo": "corrección/adición menor",
+    "estado": "confirmado",
+    "evidencia_fuente": "n35 resultado v=K[A]·[B]²;n42 4,4×10^-3 sin unidad escrita;n44 corchete sobrante.",
+    "evidencia_salida": "n35 cambia K a k;n42 añade mol;n44 elimina corchete,con incidencia.",
+    "impacto": "Normalización razonable matemáticamente,pero no literal estricta. No se identifica cambio de resultado."
+  }
+]

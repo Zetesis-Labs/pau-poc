@@ -1,0 +1,938 @@
+{
+  "advertencia": "Índice de observaciones, no número de bugs independientes: hay solapamientos, limitaciones y procedencias pendientes de acreditar. No todos son errores de Luna.",
+  "observaciones": [
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-01",
+      "prioridad": "P1",
+      "documento": "0b7e227a5499",
+      "pagina_pdf": 2,
+      "nodos": [
+        "n13",
+        "n14",
+        "n15",
+        "n16"
+      ],
+      "original": "Pregunta 4.2. Sea el sistema de ecuaciones ... a) (1 punto) Discutir el sistema en función del parámetro real λ. b) (1 punto) Resolver el sistema si λ = −1.",
+      "salida": "El bloque n13 declara elegir 1 de 2, pero solo tiene la Pregunta 4.1 (n14); no hay 4.2 ni sus apartados.",
+      "efecto": "Falta una alternativa completa de 2 puntos en el banco publicado.",
+      "verificado": "PDF p. 2, capa de texto y render visual; resultado p5 y datos/preguntas.json"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-02",
+      "prioridad": "P1",
+      "documento": "fda5ea13b6c5",
+      "pagina_pdf": 1,
+      "nodos": [
+        "n3",
+        "n4",
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9",
+        "n18",
+        "n19",
+        "n20",
+        "n21",
+        "n22",
+        "n23",
+        "n24"
+      ],
+      "original": "PREGUNTA A1 ... Qüestió a), b), c), d); estructura equivalente en A2/A3/B1/B2/B3.",
+      "salida": "Las 24 cuestiones cuelgan de EXERCICI A/B (n1/n2), como hermanas de las seis preguntas, en vez de ser sus hijas.",
+      "efecto": "Las seis preguntas publicadas tienen apartados vacíos; se pierden las 24 cuestiones. Regresión p4→p5.",
+      "verificado": "PDF pp. 1-4, árboles p4/p5, datos/preguntas.json"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-03",
+      "prioridad": "P1",
+      "documento": "ed03ea4e6cf8",
+      "pagina_pdf": 1,
+      "nodos": [
+        "n4",
+        "n5",
+        "n11",
+        "n12",
+        "n13",
+        "n19"
+      ],
+      "original": "Responda dos preguntas de 3 puntos a elegir indistintamente entre A.1, B.1, A.3 y B.3.",
+      "salida": "n4 conserva la regla elegir 2 de 4 pero solo tiene A.1; B.1, A.3 y B.3 cuelgan de n11 sin elección.",
+      "efecto": "La navegación y la regla de optatividad del banco no representan las cuatro alternativas reales.",
+      "verificado": "PDF p. 1 y resultado p5"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-04",
+      "prioridad": "P1",
+      "documento": "42576f6f84fc",
+      "pagina_pdf": 3,
+      "nodos": [
+        "n6",
+        "n28",
+        "n29",
+        "n30",
+        "n31",
+        "n32"
+      ],
+      "original": "Elija cinco (5) de las diez (10) preguntas; la página 3 continúa con 7), 8), 9), 10) bajo el epígrafe Educación literaria.",
+      "salida": "n6 declara elegir 5 de 10 pero tiene seis preguntas y un bloque n28; las preguntas 7-10 son hijas de n28, sin regla.",
+      "efecto": "La elección de cinco preguntas queda estructuralmente rota.",
+      "verificado": "PDF pp. 2-3, render visual de p. 3 y resultado p5"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-05",
+      "prioridad": "P1",
+      "documento": "41fdc1fe038d",
+      "pagina_pdf": 1,
+      "nodos": [
+        "n6",
+        "n7",
+        "n8"
+      ],
+      "original": "4. a) Exposeu els motius i les conseqüències de la primera guerra carlina ... b) Relacioneu aquella contesa ...; la versión castellana repite la estructura en p. 3.",
+      "salida": "n6 representa la pregunta 4 vacía, mientras a)/b) cuelgan directamente de la opción n1; en la segunda opción n12 sí es el padre de sus apartados.",
+      "efecto": "La pregunta 4 de la primera opción sale sin sus dos apartados en el banco.",
+      "verificado": "PDF pp. 1/3, resultado p5 y datos/preguntas.json"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-06",
+      "prioridad": "P2",
+      "documento": "2422938d704e",
+      "pagina_pdf": 2,
+      "nodos": [
+        "n30",
+        "n40"
+      ],
+      "original": "PREGUNTA 4 (10 punts) ... 4.3. És indispensable el centrosoma ... (2 punts).",
+      "salida": "n40 es pregunta hija de la pregunta n30, aunque 4.3 es un apartado.",
+      "efecto": "El esquema p5 incumple el contrato y puede confundir procesos que distingan tipos de nodo; el banco actual sí publica 4.3 como apartado de la pregunta 4.",
+      "verificado": "PDF p. 2, resultado p5 y datos/preguntas.json"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-07",
+      "prioridad": "P1",
+      "documento": "a25ae1a53c4f",
+      "pagina_pdf": 1,
+      "nodos": [
+        "n16",
+        "n17",
+        "n26",
+        "n27",
+        "n28",
+        "n29"
+      ],
+      "original": "A.2 (1,5 puntos) FUENTE ...; B.2 (1,5 puntos) FUENTE ...; elegir una fuente.",
+      "salida": "A.2 ya existe bajo n16 como pregunta n17; n26 duplica A.2 como bloque raíz y n27 coloca B.2 como bloque raíz, con sus apartados.",
+      "efecto": "La regla n16 queda con solo una de dos fuentes; B.2 no aparece entre las 15 preguntas de ese examen en datos/preguntas.json.",
+      "verificado": "PDF pp. 1-2, resultado p5 y datos/preguntas.json"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-08",
+      "prioridad": "P2",
+      "documento": "d54d5d841933",
+      "pagina_pdf": 2,
+      "nodos": [
+        "n16"
+      ],
+      "original": "II.3. Luces de bohemia en el contexto histórico y literario de su época (0-2 puntos).",
+      "salida": "n16 tiene la frase completa como etiqueta y enunciado vacío; la etiqueta impresa era II.3.",
+      "efecto": "El banco pierde la distinción entre marca y enunciado y la tarjeta muestra como título el contenido.",
+      "verificado": "PDF p. 2 y resultado p5"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-09",
+      "prioridad": "P2",
+      "documento": "2787fc4d640f",
+      "pagina_pdf": 2,
+      "nodos": [
+        "n31"
+      ],
+      "original": "b) Ácido metanoico + propan-2-ol →",
+      "salida": "n31 pone toda la reacción en etiqueta y deja enunciado vacío; falta la marca b).",
+      "efecto": "Apartado mostrado sin su etiqueta real; viola la literalidad de la marca impresa.",
+      "verificado": "PDF p. 2 y resultado p5"
+    },
+    {
+      "informe_origen": "preguntas/hallazgos-confirmados.json",
+      "id": "PREG-10",
+      "prioridad": "P2",
+      "documento": "9c4cbc92103b",
+      "pagina_pdf": 5,
+      "nodos": [],
+      "original": "Puntuación máxima de la prueba: 10 puntos aparece solo en CRITERIOS ESPECÍFICOS DE CORRECCIÓN (p. 5), fuera de las páginas de enunciado 1-4.",
+      "salida": "puntuacion_total=10; la propia incidencia reconoce su origen en criterios.",
+      "efecto": "Se incorpora al contrato de extracción una puntuación no declarada por el enunciado, contra p5.",
+      "verificado": "PDF pp. 1-5 y resultado p5"
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-009",
+      "estado": "confirmado",
+      "tipo": "pagina_criterio_incorrecta",
+      "prioridad": "media",
+      "documento": "3c134e1125e6",
+      "nodos": [
+        "n9"
+      ],
+      "pdf": "datos/pdfs/7c5377981b00.pdf",
+      "paginas": [
+        4,
+        5
+      ],
+      "descripcion": "El criterio castellano comienza en la página 4; r2 y el campo público pagina.es lo sitúan en la 5."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-010",
+      "estado": "confirmado",
+      "tipo": "pagina_criterio_incorrecta",
+      "prioridad": "media",
+      "documento": "cdd0f4f759e1",
+      "nodos": [
+        "n9"
+      ],
+      "pdf": "datos/pdfs/a94284193403.pdf",
+      "paginas": [
+        4,
+        5
+      ],
+      "descripcion": "El criterio castellano comienza en la página 4; r2 y el campo público pagina.es lo sitúan en la 5."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-001",
+      "estado": "confirmado",
+      "tipo": "extraccion",
+      "prioridad": "alta",
+      "documento": "070c3795d83c",
+      "nodos": [
+        "n5",
+        "n13"
+      ],
+      "pdf": "datos/pdfs/d84a81a0f038.pdf",
+      "paginas": [
+        2,
+        4
+      ],
+      "descripcion": "Cuatro bandas alternativas de la escala 0-5 se publican como tramos sumables de 0+1.5+3.5+5=10."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-002",
+      "estado": "confirmado",
+      "tipo": "extraccion",
+      "prioridad": "media",
+      "documento": "9c4cbc92103b",
+      "nodos": [
+        "n21",
+        "n25"
+      ],
+      "pdf": "datos/pdfs/9c4cbc92103b.pdf",
+      "paginas": [
+        3,
+        5
+      ],
+      "descripcion": "La frase francesa del enunciado de la página 3 aparece como criterio; la página 5 indicada solo contiene los criterios en español y no hay paginas.fr."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-003",
+      "estado": "confirmado",
+      "tipo": "fuente_no_corresponde",
+      "prioridad": "alta",
+      "documento": "5091bd5d23ad",
+      "nodos": [
+        "n26"
+      ],
+      "pdf": "datos/pdfs/8399809a0379.pdf",
+      "paginas": [
+        9
+      ],
+      "descripcion": "El examen pregunta por un poema en la pregunta 10; el PDF enlazado responde la pregunta 10 de Historia de una escalera. R2 detecta la falta de correspondencia y deja el nodo sin rúbrica."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-004",
+      "estado": "confirmado",
+      "tipo": "baremo_fuente_difiere_examen",
+      "prioridad": "alta",
+      "documento": "ab690a84e30c",
+      "nodos": [
+        "n3",
+        "n8",
+        "n9",
+        "n10",
+        "n32",
+        "n38",
+        "n43",
+        "n44",
+        "n45",
+        "n67"
+      ],
+      "pdf": "datos/pdfs/02c5957c411d.pdf",
+      "paginas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": "El baremo y el número de ítems del PDF oficial difieren del examen publicado; R2 registra las discrepancias en incidencias."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-005",
+      "estado": "confirmado_en_fuente",
+      "tipo": "contradiccion_documental",
+      "prioridad": "media",
+      "documento": "4a7c96ae2912",
+      "nodos": [
+        "n3",
+        "n11"
+      ],
+      "pdf": "datos/pdfs/4a7c96ae2912.pdf",
+      "paginas": [
+        15
+      ],
+      "descripcion": "El PDF da máximo 2.5 al apartado 2 pero reparte 1+1+1; R2 reproduce y anota la contradicción."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-006",
+      "estado": "procedencia_no_acreditada",
+      "tipo": "procedencia",
+      "prioridad": "alta",
+      "documento": "6649ce9eecb2",
+      "nodos": [],
+      "pdf": "datos/pdfs/c4afc8d9c75a.pdf",
+      "paginas": [
+        1,
+        10
+      ],
+      "descripcion": "El documento lleva www.academialallibreta.es, contiene respuestas desarrolladas y está marcado origen=oficial por tipo=criterios; falta acreditar autoría oficial."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-007",
+      "estado": "procedencia_no_acreditada",
+      "tipo": "procedencia",
+      "prioridad": "alta",
+      "documento": "b996e7795739",
+      "nodos": [],
+      "pdf": "datos/pdfs/361720afddf5.pdf",
+      "paginas": [
+        1,
+        8
+      ],
+      "descripcion": "El documento lleva www.academialallibreta.es, contiene respuestas desarrolladas y está marcado origen=oficial por tipo=criterios; falta acreditar autoría oficial."
+    },
+    {
+      "informe_origen": "rubricas/hallazgos.json",
+      "id": "RUB-008",
+      "estado": "confirmado",
+      "tipo": "perdida_publicacion",
+      "prioridad": "alta",
+      "documento": null,
+      "nodos": [],
+      "pdf": null,
+      "paginas": [],
+      "descripcion": "652 entradas r2 tienen respuesta; 587 respuestas en nodos publicados no llegan a solucion según general/respuestas-r2-publicacion.json."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S01",
+      "severidad": "alta",
+      "documento": "184bfaad518f",
+      "nodos": [
+        "n31"
+      ],
+      "paginas_fuente": [
+        6
+      ],
+      "tipo": "error matemático e incidencia falsa",
+      "estado": "confirmado",
+      "evidencia_fuente": "P(A∩M̄)=P(A)−P(A∩M)=…=0.15; la barra sobre M está visible en el PDF.",
+      "evidencia_salida": "P(A\\cap M)=P(A)-P(A\\cap M); incidencia afirma que la igualdad contradictoria está impresa y se transcribió literalmente.",
+      "impacto": "Cambia varón por mujer y atribuye falsamente el error a la fuente. Se publica así."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S02",
+      "severidad": "alta",
+      "documento": "25fcf7208b8f",
+      "nodos": [
+        "n7"
+      ],
+      "paginas_fuente": [
+        3
+      ],
+      "tipo": "error matemático",
+      "estado": "confirmado",
+      "evidencia_fuente": "Recuadro manuscrito 1/(2·raíz cuarta de e)−1/(2e). También paso previo e^(-1/2²).",
+      "evidencia_salida": "1/(2\\sqrt e)-1/(2e).",
+      "impacto": "Pierde índice4 de raíz, cambia resultado integral. Se publica así."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S03",
+      "severidad": "alta",
+      "documento": "25fcf7208b8f",
+      "nodos": [
+        "n15"
+      ],
+      "paginas_fuente": [
+        5
+      ],
+      "tipo": "error matemático",
+      "estado": "confirmado",
+      "evidencia_fuente": "Corrección continuidad69,5; numerator69,5−55,4; z>2,23; resultado0,0129.",
+      "evidencia_salida": "67,5 en las dos apariciones; conserva z>2,23 y0,0129.",
+      "impacto": "La cadena numérica deja de ser consistente y no avisa. Se publica así."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S04",
+      "severidad": "alta",
+      "documento": "184bfaad518f",
+      "nodos": [
+        "n3",
+        "n4",
+        "n5",
+        "n6",
+        "n8",
+        "n9",
+        "n10",
+        "n12",
+        "n13",
+        "n14",
+        "n16",
+        "n17"
+      ],
+      "paginas_fuente": [
+        5
+      ],
+      "tipo": "recorte de fuente en pipeline",
+      "estado": "confirmado",
+      "evidencia_fuente": "Página5: SOLUCIONES OPCIÓN A, ejercicios1a–d,2a–c,3a–c,4a–b.",
+      "evidencia_salida": "fuente.desde=6; solo9 entradas de B.",
+      "impacto": "12 soluciones no llegan al modelo s1. No es una omisión imputable al modelo sobre el PDF recibido; banco deja A sin solución."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S05",
+      "severidad": "alta",
+      "documento": "0b7e227a5499",
+      "nodos": [],
+      "paginas_fuente": [
+        6
+      ],
+      "tipo": "omisión por árbol incompleto y falta de incidencia",
+      "estado": "confirmado",
+      "evidencia_fuente": "4.2 a: matrices, casos λ∉{−1,4},λ=−1,λ=4; b: (16/5,−3/5,0)+t(1,−3,−5).",
+      "evidencia_salida": "p5 no tiene pregunta4.2; s1 ni entradas ni sin_correspondencia.",
+      "impacto": "Dos respuestas desaparecen de forma silenciosa. s1 debió registrarlas sin correspondencia aunque p5 carezca del nodo."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S06",
+      "severidad": "alta",
+      "documento": "334e3227bf82",
+      "nodos": [
+        "n8",
+        "n9",
+        "n10",
+        "n11"
+      ],
+      "paginas_fuente": [
+        5,
+        6
+      ],
+      "tipo": "pérdida en publicación",
+      "estado": "confirmado",
+      "evidencia_fuente": "Solucionario define Soberanía,Absolutismo,Huelga revolucionaria,Golpe de Estado; s1 tiene las4 respuestas.",
+      "evidencia_salida": "datos/preguntas.json publica8 preguntas del documento y ninguna de las4 definiciones.",
+      "impacto": "p5 clasifica conceptos como apartados del bloque n7 sin pregunta. Publicación los descarta. No es un fallo s1."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S07",
+      "severidad": "media",
+      "documento": "114bff1bacb1",
+      "nodos": [
+        "n17",
+        "n18"
+      ],
+      "paginas_fuente": [
+        5,
+        6
+      ],
+      "tipo": "pérdida de estructura visual",
+      "estado": "confirmado",
+      "evidencia_fuente": "Árboles sintácticos con líneas que asocian palabras a sintagmas y funciones.",
+      "evidencia_salida": "Listas Etiquetas del esquema y secuencias \\quad; no figura ni correspondencias.",
+      "impacto": "Las etiquetas sueltas no representan el análisis sintáctico. Incumple instrucción de sustituir figuras por marcador; un recorte sería necesario para recuperar la respuesta completa."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S08",
+      "severidad": "media",
+      "documento": "32384d10aa13",
+      "nodos": [
+        "n15",
+        "n16"
+      ],
+      "paginas_fuente": [
+        6
+      ],
+      "tipo": "página errónea",
+      "estado": "confirmado",
+      "evidencia_fuente": "Reyes Católicos (3) y CarlosI (4) íntegramente en p6.",
+      "evidencia_salida": "Ambos entradas paginas.es=5.",
+      "impacto": "Referencia lleva a una página sin esa respuesta. Exportado sin cambio."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S09",
+      "severidad": "baja",
+      "documento": "09feb8541d90",
+      "nodos": [
+        "n3"
+      ],
+      "paginas_fuente": [
+        1,
+        2
+      ],
+      "tipo": "página de continuación",
+      "estado": "confirmado",
+      "evidencia_fuente": "La respuesta Documentos3y4 empieza al final de p1 y sigue en p2.",
+      "evidencia_salida": "paginas.es=2.",
+      "impacto": "Referencia parcial, no inicio. El esquema solo permite una página y no explicita inicio; no se computa como página totalmente equivocada."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S10",
+      "severidad": "baja",
+      "documento": "1b0c55921d01",
+      "nodos": [
+        "n16"
+      ],
+      "paginas_fuente": [
+        6,
+        7
+      ],
+      "tipo": "página de continuación",
+      "estado": "confirmado",
+      "evidencia_fuente": "Comparación absolutismo/liberalismo empieza en p6 y continúa p7.",
+      "evidencia_salida": "paginas.es=7.",
+      "impacto": "Referencia pierde inicio; el texto completo sí está transcrito."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S11",
+      "severidad": "baja",
+      "documento": "3c134e1125e6",
+      "nodos": [
+        "n9"
+      ],
+      "paginas_fuente": [
+        4,
+        5
+      ],
+      "tipo": "página de continuación",
+      "estado": "confirmado",
+      "evidencia_fuente": "La segunda (2.2)… Madoz… empieza al pie de p4 y continúa p5.",
+      "evidencia_salida": "paginas.es=5; va=2 correcto.",
+      "impacto": "Referencia castellana pierde el inicio; texto completo presente."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S12",
+      "severidad": "media",
+      "documento": "25fcf7208b8f",
+      "nodos": [
+        "n2",
+        "n3",
+        "n5",
+        "n9",
+        "n10",
+        "n13",
+        "n16",
+        "n19",
+        "n20",
+        "n22",
+        "n23",
+        "n24"
+      ],
+      "paginas_fuente": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "síntesis y paráfrasis",
+      "estado": "confirmado",
+      "evidencia_fuente": "Matrices A/B explícitas en A1 p1,eliminación por filas en B1 p6,desarrollos numéricos y frases manuscritas.",
+      "evidencia_salida": "A1 omite matrices; B1 salta de sistema a De las ecuaciones se obtiene; n13 dice tenemos un consejero donde fuente dice consejo.",
+      "impacto": "No cumple transcripción literal ni conservación de todos los pasos aunque muchos resultados coincidan."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S13",
+      "severidad": "media",
+      "documento": "49e9ef3c3296",
+      "nodos": [
+        "n2",
+        "n8",
+        "n9"
+      ],
+      "paginas_fuente": [
+        1,
+        2
+      ],
+      "tipo": "omisión de contexto de solución",
+      "estado": "confirmado",
+      "evidencia_fuente": "Primer ejercicio define x,y,z como número de recipientes de cada productor. Tercer ejercicio incluye árbol completo con eventos E,H,R,A,M y probabilidades.",
+      "evidencia_salida": "n2 solo sistema; n8/n9 solo cálculo en p2; sin entrada para árbol ni marcador.",
+      "impacto": "Solución incompleta; árbol aporta0,5 puntos según criterios p5. El criterio de puntuación no debía ir en respuesta, pero el paso gráfico sí debía estar indicado."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S14",
+      "severidad": "baja",
+      "documento": "3c134e1125e6",
+      "nodos": [
+        "n8",
+        "n13"
+      ],
+      "paginas_fuente": [
+        1,
+        2
+      ],
+      "tipo": "regularización o traducción",
+      "estado": "confirmado",
+      "evidencia_fuente": "n8va Primera Guerra Carlista; n13va Amb la mort de Fernando VII; en es quals.",
+      "evidencia_salida": "n8va Primera Guerra Carlina; n13va Ferran VII; en els quals.",
+      "impacto": "Cambios semánticamente próximos pero prohibidos por no traduzcas/no corrijas; no equivalen a alucinación extensa."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S15",
+      "severidad": "baja",
+      "documento": "114bff1bacb1",
+      "nodos": [
+        "n20"
+      ],
+      "paginas_fuente": [
+        1,
+        5
+      ],
+      "tipo": "contradicción fuente/enunciado no registrada",
+      "estado": "confirmado",
+      "evidencia_fuente": "Enunciado pregunta generalización singular; solucionario analiza General+iz+a+cion+es con morfema flexivo número.",
+      "evidencia_salida": "s1 conserva es y plural,incidencias vacío.",
+      "impacto": "No es invención del plural por Luna. Falta avisar de discordancia de la fuente como exige s1."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S16",
+      "severidad": "limitación",
+      "documento": "0743849de2d6",
+      "nodos": [
+        "n10",
+        "n11"
+      ],
+      "paginas_fuente": [
+        5,
+        6
+      ],
+      "tipo": "figura perdida por contrato",
+      "estado": "confirmado",
+      "evidencia_fuente": "Dos análisis sintácticos gráficos con notas explicativas.",
+      "evidencia_salida": "Solo (ver figura en la solución original).",
+      "impacto": "Cumple regla s1, pero alumno no ve análisis ni recorte. Fuente original conserva la respuesta."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S17",
+      "severidad": "limitación",
+      "documento": "2787fc4d640f",
+      "nodos": [
+        "n5"
+      ],
+      "paginas_fuente": [
+        4
+      ],
+      "tipo": "figura perdida por contrato",
+      "estado": "confirmado",
+      "evidencia_fuente": "Estructuras de Lewis de Cl2 y NH3 con electrones no enlazantes.",
+      "evidencia_salida": "Solo (ver figura en la solución original).",
+      "impacto": "Cumple s1; esquema no guarda figura ni electrones."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S18",
+      "severidad": "limitación",
+      "documento": "49e9ef3c3296",
+      "nodos": [
+        "n18"
+      ],
+      "paginas_fuente": [
+        3
+      ],
+      "tipo": "figura perdida por contrato",
+      "estado": "confirmado",
+      "evidencia_fuente": "Región sombreada entre parábola y coseno.",
+      "evidencia_salida": "El recinto solicitado es: (ver figura en la solución original).",
+      "impacto": "Cumple s1; no se conserva dibujo pedido."
+    },
+    {
+      "informe_origen": "soluciones/hallazgos.json",
+      "id": "S19",
+      "severidad": "baja",
+      "documento": "2787fc4d640f",
+      "nodos": [
+        "n35",
+        "n42",
+        "n44"
+      ],
+      "paginas_fuente": [
+        5
+      ],
+      "tipo": "corrección/adición menor",
+      "estado": "confirmado",
+      "evidencia_fuente": "n35 resultado v=K[A]·[B]²;n42 4,4×10^-3 sin unidad escrita;n44 corchete sobrante.",
+      "evidencia_salida": "n35 cambia K a k;n42 añade mol;n44 elimina corchete,con incidencia.",
+      "impacto": "Normalización razonable matemáticamente,pero no literal estricta. No se identifica cambio de resultado."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-01",
+      "prioridad": "P1",
+      "documentos": [
+        "184bfaad518f"
+      ],
+      "estimulos": [
+        "E1"
+      ],
+      "paginas": [
+        2
+      ],
+      "causa": "modelo",
+      "estado": "confirmado",
+      "descripcion": "La gráfica se sustituye por texto de otras preguntas."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-02",
+      "prioridad": "P1",
+      "documentos": [
+        "1f06fc98f001"
+      ],
+      "estimulos": [
+        "E2",
+        "E3"
+      ],
+      "paginas": [
+        2
+      ],
+      "causa": "modelo",
+      "estado": "confirmado",
+      "descripcion": "Gráficas incompletas: se corta su zona inferior y ejes."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-03",
+      "prioridad": "P1",
+      "documentos": [
+        "fdd6ca513f80"
+      ],
+      "estimulos": [
+        "E5"
+      ],
+      "paginas": [
+        7
+      ],
+      "causa": "ajuste_pdf",
+      "estado": "confirmado",
+      "descripcion": "La pieza A2 se sustituye por la casilla de identificación del alumno."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-04",
+      "prioridad": "P1",
+      "documentos": [
+        "61e34b1b42fa"
+      ],
+      "estimulos": [
+        "E4",
+        "E5"
+      ],
+      "paginas": [
+        2
+      ],
+      "causa": "modelo_y_ajuste_pdf",
+      "estado": "confirmado",
+      "descripcion": "Tabla siderúrgica sustituida por tabla de electrodomésticos; segunda tabla reducida a última fila."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-05",
+      "prioridad": "P1",
+      "documentos": [
+        "9c4cbc92103b"
+      ],
+      "estimulos": [
+        "E2",
+        "E3"
+      ],
+      "paginas": [
+        4
+      ],
+      "causa": "modelo_y_recorte",
+      "estado": "confirmado",
+      "descripcion": "Jóvenes con móviles sustituidos por conejo; recorte del conejo casi vacío."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-06",
+      "prioridad": "P2",
+      "documentos": [
+        "03364198c8fb"
+      ],
+      "estimulos": [
+        "E2"
+      ],
+      "paginas": [
+        4
+      ],
+      "causa": "modelo",
+      "estado": "confirmado",
+      "descripcion": "Primera de cuatro posiciones cortada casi por completo."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-07",
+      "prioridad": "P1",
+      "documentos": [
+        "67eea232db63"
+      ],
+      "estimulos": [
+        "E2"
+      ],
+      "paginas": [
+        3
+      ],
+      "causa": "modelo",
+      "estado": "confirmado",
+      "descripcion": "Se pierde parte superior del contorno de Dibujo Técnico."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-08",
+      "prioridad": "P1",
+      "documentos": [
+        "4a7c96ae2912",
+        "3068d1110070"
+      ],
+      "estimulos": [],
+      "paginas": [],
+      "causa": "validacion_geometrica",
+      "estado": "confirmado",
+      "descripcion": "12 páginas de partituras descartadas por casi-pagina. Contraste visual de páginas representativas 5 y 7."
+    },
+    {
+      "informe_origen": "figuras/hallazgos.json",
+      "id": "FIG-09",
+      "prioridad": "P1",
+      "documentos": [
+        "3068d1110070"
+      ],
+      "estimulos": [
+        "E2"
+      ],
+      "paginas": [
+        4,
+        5,
+        6
+      ],
+      "causa": "web",
+      "estado": "confirmado",
+      "descripcion": "Fallback de idioma muestra una de tres páginas publicadas; ejecución del cuerpo real de figurasDe, sin navegador."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "META-01",
+      "documento": "09fa045004f2",
+      "prioridad": "P1",
+      "estado": "confirmado",
+      "causa": "catalogo",
+      "descripcion": "Examen CIUG Galicia catalogado como Comunidad Valenciana."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "META-02",
+      "documento": "61e34b1b42fa",
+      "prioridad": "P1",
+      "estado": "confirmado",
+      "causa": "catalogo",
+      "descripcion": "Examen CIUG Galicia catalogado como Comunidad Valenciana."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "META-03",
+      "documento": "cb9d8c2c12d7",
+      "prioridad": "P1",
+      "estado": "confirmado",
+      "causa": "catalogo",
+      "descripcion": "Literatura Universal catalogada como Lengua Castellana y Literatura II."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "PUB-01",
+      "documento": null,
+      "prioridad": "P1",
+      "estado": "confirmado",
+      "causa": "publicacion",
+      "descripcion": "80 preguntas pierden su regla propia de elección; distinto de los 80 apartados fuera de pregunta."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "PUB-02",
+      "documento": null,
+      "prioridad": "P2",
+      "estado": "limitacion_confirmada",
+      "causa": "contrato_publicacion",
+      "descripcion": "225 exámenes tienen instrucciones generales extraídas no publicadas; impacto variable según texto y PDF accesible."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "PUB-03",
+      "documento": null,
+      "prioridad": "P1",
+      "estado": "confirmado",
+      "causa": "jerarquia_y_publicacion",
+      "descripcion": "86 entradas de corrección cuelgan de nodos no publicados: 82 r2 y 4 s1 de academia."
+    },
+    {
+      "informe_origen": "general/hallazgos.json",
+      "id": "FORM-01",
+      "documento": "25fcf7208b8f",
+      "prioridad": "P2",
+      "estado": "confirmado",
+      "causa": "latex",
+      "descripcion": "Una fórmula s1 publicada no compila en KaTeX: texto con superíndice dentro de text. La otra fórmula inválida del corpus pertenece al histórico p4 (3ad09f75385c, sen)."
+    }
+  ]
+}

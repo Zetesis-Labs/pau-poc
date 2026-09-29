@@ -1,0 +1,7741 @@
+[
+  {
+    "documento": "012555da3d70",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "012555da3d70_E1_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.024,
+      0.55,
+      0.456
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      29.999969482421875,
+      330.0,
+      396.39996337890625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "012555da3d70",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E2",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "012555da3d70_E2_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.477,
+      0.477,
+      0.668
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      399.89996337890625,
+      288.6499938964844,
+      599.699951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "012555da3d70",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E3",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "012555da3d70_E3_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.681,
+      0.71,
+      0.967
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      603.197998046875,
+      420.8500061035156,
+      818.0479736328125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "012555da3d70",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "otro",
+    "archivo": "012555da3d70_E4_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.024,
+      0.653,
+      0.602
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      29.99993896484375,
+      388.0500183105469,
+      516.199951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "012555da3d70",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E5",
+    "pagina": 6,
+    "idioma": "otro",
+    "archivo": "012555da3d70_E5_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.617,
+      0.378,
+      0.971
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      519.698974609375,
+      232.25,
+      822.698974609375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "01808acbd270",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "01808acbd270_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.7,
+      0.76,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      128.0,
+      554.760009765625,
+      438.8900146484375,
+      710.5599975585938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "01808acbd270",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "01808acbd270_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.535,
+      0.79,
+      0.715
+    ],
+    "caja_recalculada_puntos_pdf": [
+      84.36600158691407,
+      433.5887911987305,
+      487.1412054443359,
+      618.8111874389648
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "03364198c8fb",
+    "asignatura": "Francés",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "fr",
+    "archivo": "03364198c8fb_E2_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.75,
+      0.26,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      66.50083984375,
+      614.5797106933594,
+      171.609560546875,
+      841.8900146484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "03364198c8fb",
+    "asignatura": "Francés",
+    "estimulo": "E3",
+    "pagina": 5,
+    "idioma": "fr",
+    "archivo": "03364198c8fb_E3_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.29,
+      0.37,
+      0.49
+    ],
+    "caja_recalculada_puntos_pdf": [
+      96.55999755859375,
+      230.24002075195312,
+      223.1199951171875,
+      398.5600280761719
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "03364198c8fb",
+    "asignatura": "Francés",
+    "estimulo": "E4",
+    "pagina": 5,
+    "idioma": "fr",
+    "archivo": "03364198c8fb_E4_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.16,
+      0.57,
+      0.45,
+      0.76
+    ],
+    "caja_recalculada_puntos_pdf": [
+      106.16000366210938,
+      456.67999267578125,
+      263.79998779296875,
+      676.3599853515625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "03364198c8fb",
+    "asignatura": "Francés",
+    "estimulo": "E5",
+    "pagina": 5,
+    "idioma": "fr",
+    "archivo": "03364198c8fb_E5_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.5,
+      0.57,
+      0.8,
+      0.76
+    ],
+    "caja_recalculada_puntos_pdf": [
+      289.8800048828125,
+      456.67999267578125,
+      448.239990234375,
+      677.3200073242188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "070c3795d83c",
+    "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "070c3795d83c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.145,
+      0.232,
+      0.884,
+      0.663
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.703277587890625,
+      124.05938720703125,
+      588.5742797851562,
+      711.930419921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "070c3795d83c",
+    "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "070c3795d83c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.145,
+      0.178,
+      0.884,
+      0.659
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.703277587890625,
+      124.05938720703125,
+      588.5742797851562,
+      711.930419921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "070c3795d83c",
+    "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+    "estimulo": "E3",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "070c3795d83c_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.245,
+      0.151,
+      0.783,
+      0.762
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.703277587890625,
+      124.05938720703125,
+      588.5742797851562,
+      711.930419921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "070c3795d83c",
+    "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+    "estimulo": "E4",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "070c3795d83c_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.146,
+      0.207,
+      0.882,
+      0.607
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.703277587890625,
+      124.05938720703125,
+      588.5742797851562,
+      711.930419921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "0b7e227a5499",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "0b7e227a5499_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.3,
+      0.96,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.71923065185547,
+      240.3232421875,
+      546.3229370117188,
+      745.5810546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "13244a0fa596",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "13244a0fa596_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.64,
+      0.82,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      116.0,
+      534.510009765625,
+      477.25,
+      738.9400024414062
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "13244a0fa596",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "13244a0fa596_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.09,
+      0.44,
+      0.85,
+      0.55
+    ],
+    "caja_recalculada_puntos_pdf": [
+      63.400001525878906,
+      262.08001708984375,
+      499.5,
+      457.6199951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "184bfaad518f",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "184bfaad518f_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.33,
+      0.682,
+      0.716,
+      0.837
+    ],
+    "caja_recalculada_puntos_pdf": [
+      186.12,
+      524.304,
+      454.032,
+      678.744
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "19e1e026fa90",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 6,
+    "idioma": "va",
+    "archivo": "19e1e026fa90_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.03,
+      0.96,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      8.420399780273435,
+      588.3480065917969,
+      842.0399780273438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "19e1e026fa90",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 7,
+    "idioma": "va",
+    "archivo": "19e1e026fa90_E1_va_3.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.02,
+      0.96,
+      0.81
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      0.0,
+      588.3480065917969,
+      698.8931817626953
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1bc800a06e3b",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "1bc800a06e3b_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.31,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1bc800a06e3b",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "1bc800a06e3b_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1d26a968086e",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "1d26a968086e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.7,
+      0.9,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      66.34400177001953,
+      575.9400024414062,
+      525.760009765625,
+      684.5
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1d26a968086e",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "1d26a968086e_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.27,
+      0.52,
+      0.73,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      144.08039367675784,
+      421.260009765625,
+      451.95958435058594,
+      615.0396142578126
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1f06fc98f001",
+    "asignatura": "Física",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "1f06fc98f001_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.66,
+      0.58,
+      0.97,
+      0.7
+    ],
+    "caja_recalculada_puntos_pdf": [
+      375.86000000000007,
+      471.52,
+      593.99,
+      606.24
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1f06fc98f001",
+    "asignatura": "Física",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "1f06fc98f001_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.51,
+      0.12,
+      0.71,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      286.61,
+      84.19999999999999,
+      439.28999999999996,
+      227.34
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "1f06fc98f001",
+    "asignatura": "Física",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "1f06fc98f001_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.71,
+      0.12,
+      0.93,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      405.61,
+      84.19999999999999,
+      570.19,
+      227.34
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "215c4577b13a",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "215c4577b13a_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.27,
+      0.76,
+      0.535
+    ],
+    "caja_recalculada_puntos_pdf": [
+      143.5,
+      247.3800048828125,
+      447.75,
+      452.8800048828125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2290f27c0d9c",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2290f27c0d9c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.3,
+      0.96,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2290f27c0d9c",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2290f27c0d9c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39916229248047,
+      76.92496490478516,
+      492.87945556640625,
+      218.06996154785156
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "va",
+    "archivo": "2422938d704e_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.3,
+      0.5,
+      0.73,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      152.60000610351562,
+      409.4999694824219,
+      442.6000061035156,
+      613.0999755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "2422938d704e_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.3,
+      0.5,
+      0.74,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      149.30999755859375,
+      424.80859375,
+      446.159423828125,
+      628.8817749023438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "2422938d704e_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.32,
+      0.24,
+      0.67,
+      0.33
+    ],
+    "caja_recalculada_puntos_pdf": [
+      194.25,
+      230.0999755859375,
+      401.1000061035156,
+      322.0999755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E2",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "2422938d704e_E2_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.32,
+      0.24,
+      0.68,
+      0.34
+    ],
+    "caja_recalculada_puntos_pdf": [
+      189.6999969482422,
+      220.8999481201172,
+      405.5,
+      316.949951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "2422938d704e_E3_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.15,
+      0.55,
+      0.84,
+      0.66
+    ],
+    "caja_recalculada_puntos_pdf": [
+      72.45720153808594,
+      446.2811883544922,
+      516.9096057128905,
+      572.5871850585938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E3",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "2422938d704e_E3_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.15,
+      0.55,
+      0.84,
+      0.66
+    ],
+    "caja_recalculada_puntos_pdf": [
+      72.45720153808594,
+      446.2811883544922,
+      516.9096057128905,
+      572.5871850585938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "2422938d704e_E4_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.4,
+      0.64,
+      0.6,
+      0.79
+    ],
+    "caja_recalculada_puntos_pdf": [
+      246.4499969482422,
+      596.5,
+      348.8999938964844,
+      760.25
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "2422938d704e_E4_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.4,
+      0.64,
+      0.6,
+      0.8
+    ],
+    "caja_recalculada_puntos_pdf": [
+      239.9499969482422,
+      568.2999267578125,
+      355.25,
+      752.449951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E5",
+    "pagina": 4,
+    "idioma": "va",
+    "archivo": "2422938d704e_E5_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.48,
+      0.82,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      149.9499969482422,
+      403.9999694824219,
+      481.25,
+      568.5999755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E5",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "2422938d704e_E5_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.48,
+      0.82,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      118.5,
+      355.89996337890625,
+      476.70001220703125,
+      535.8499755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E6",
+    "pagina": 4,
+    "idioma": "va",
+    "archivo": "2422938d704e_E6_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.84,
+      0.97,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      690.4727819824218,
+      594.3012066650391,
+      825.1991784667969
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2422938d704e",
+    "asignatura": "Biología",
+    "estimulo": "E6",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "2422938d704e_E6_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.84,
+      0.97,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      690.4727819824218,
+      594.3012066650391,
+      825.1991784667969
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "244a2772cd9c",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "244a2772cd9c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.26,
+      0.645,
+      0.77,
+      0.89
+    ],
+    "caja_recalculada_puntos_pdf": [
+      166.0399932861328,
+      544.2800903320312,
+      426.03997802734375,
+      722.4400634765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "244a2772cd9c",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "244a2772cd9c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.53,
+      0.77,
+      0.84
+    ],
+    "caja_recalculada_puntos_pdf": [
+      120.23879455566407,
+      429.6852099609375,
+      475.8011834716797,
+      724.5672167968751
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "25fcf7208b8f",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "25fcf7208b8f_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.275,
+      0.958,
+      0.958
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "25fcf7208b8f",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "25fcf7208b8f_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.184,
+      0.103,
+      0.854,
+      0.26
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "26b80e1966f5",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "26b80e1966f5_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.15,
+      0.615,
+      0.81,
+      0.864
+    ],
+    "caja_recalculada_puntos_pdf": [
+      101.77999877929688,
+      502.70001220703125,
+      465.2200012207031,
+      710.1400146484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "26b80e1966f5",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "26b80e1966f5_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.204,
+      0.573,
+      0.746,
+      0.761
+    ],
+    "caja_recalculada_puntos_pdf": [
+      104.5848740234375,
+      465.626,
+      460.8740981445312,
+      657.6020000000001
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "28f5e820a133",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "28f5e820a133_E1_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.65,
+      0.88,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      138.5,
+      531.260009765625,
+      428.5,
+      729.010009765625
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "28f5e820a133",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "28f5e820a133_E2_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.44,
+      0.81,
+      0.68
+    ],
+    "caja_recalculada_puntos_pdf": [
+      121.25,
+      258.02996826171875,
+      445.75,
+      428.77996826171875
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "2d573323997e",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2d573323997e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.05,
+      0.95,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.71923065185547,
+      240.3232421875,
+      546.3229370117188,
+      745.5810546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2d925fa916b9",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2d925fa916b9_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.31,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2f32a4ccbaab",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "2f32a4ccbaab_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.325,
+      0.37,
+      0.49
+    ],
+    "caja_recalculada_puntos_pdf": [
+      45.36,
+      241.56000000000003,
+      242.28,
+      403.91999999999996
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2f32a4ccbaab",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2f32a4ccbaab_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.16,
+      0.09,
+      0.79,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39916229248047,
+      76.92496490478516,
+      492.87945556640625,
+      218.06996154785156
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2f32a4ccbaab",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2f32a4ccbaab_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.31,
+      0.88,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2f3ff3e8cb8c",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2f3ff3e8cb8c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.31,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "2f3ff3e8cb8c",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "2f3ff3e8cb8c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.08,
+      0.87,
+      0.26
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "de",
+    "archivo": "3068d1110070_E2_de_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.04,
+      0.98,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      7.574399414062501,
+      16.84800048828125,
+      610.5599975585938,
+      825.5520239257812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E2",
+    "pagina": 5,
+    "idioma": "de",
+    "archivo": "3068d1110070_E2_de_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.04,
+      0.98,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      7.574399414062501,
+      16.84800048828125,
+      610.5599975585938,
+      825.5520239257812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E2",
+    "pagina": 6,
+    "idioma": "de",
+    "archivo": "3068d1110070_E2_de_3.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.04,
+      0.98,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      7.574399414062501,
+      16.84800048828125,
+      610.5599975585938,
+      825.5520239257812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E3",
+    "pagina": 7,
+    "idioma": "fr",
+    "archivo": "3068d1110070_E3_fr_1.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E3",
+    "pagina": 8,
+    "idioma": "fr",
+    "archivo": "3068d1110070_E3_fr_2.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E3",
+    "pagina": 9,
+    "idioma": "fr",
+    "archivo": "3068d1110070_E3_fr_3.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "3068d1110070",
+    "asignatura": "Análisis Musical II",
+    "estimulo": "E3",
+    "pagina": 10,
+    "idioma": "fr",
+    "archivo": "3068d1110070_E3_fr_4.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "32384d10aa13",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "32384d10aa13_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.065,
+      0.607,
+      0.94,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      54.70000076293945,
+      486.89996337890625,
+      540.4998779296875,
+      751.4999389648438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "32384d10aa13",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "32384d10aa13_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.195,
+      0.255,
+      0.791,
+      0.51
+    ],
+    "caja_recalculada_puntos_pdf": [
+      130.52000427246094,
+      233.3599853515625,
+      464.8000183105469,
+      422.4399719238281
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "37d3ea174a4a",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "37d3ea174a4a_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.225,
+      0.68,
+      0.755,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      117.1086019897461,
+      555.6671887207032,
+      466.3050051879883,
+      648.2783868408203
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.6,
+      0.19,
+      0.99,
+      0.41
+    ],
+    "caja_recalculada_puntos_pdf": [
+      345.0799865722656,
+      173.17999267578125,
+      560.8599853515625,
+      329.91998291015625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.42,
+      0.34,
+      0.83
+    ],
+    "caja_recalculada_puntos_pdf": [
+      56.58599853515625,
+      329.17901611328125,
+      237.97999572753906,
+      550.6640014648438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.24,
+      0.16,
+      0.84,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      159.44000244140625,
+      147.01161193847656,
+      487.6600036621094,
+      442.8999938964844
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E4",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.26,
+      0.45,
+      0.48
+    ],
+    "caja_recalculada_puntos_pdf": [
+      66.49079589843751,
+      202.08,
+      284.6889868164062,
+      420.99999999999994
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E5",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.45,
+      0.26,
+      0.86,
+      0.48
+    ],
+    "caja_recalculada_puntos_pdf": [
+      251.00898681640624,
+      202.08,
+      528.7291748046875,
+      420.99999999999994
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E6",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E6_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.67,
+      0.55,
+      0.98,
+      0.82
+    ],
+    "caja_recalculada_puntos_pdf": [
+      381.0799865722656,
+      437.239990234375,
+      563.5599975585938,
+      618.219970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3ad09f75385c",
+    "asignatura": "Tecnología e Ingeniería II",
+    "estimulo": "E7",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "3ad09f75385c_E7_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.03,
+      0.32,
+      0.98,
+      0.6
+    ],
+    "caja_recalculada_puntos_pdf": [
+      47.17999267578125,
+      270.260009765625,
+      570.3999633789062,
+      465.1600036621094
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3e33052fedf6",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "3e33052fedf6_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.59,
+      0.35,
+      0.81,
+      0.52
+    ],
+    "caja_recalculada_puntos_pdf": [
+      360.6789855957031,
+      305.20574951171875,
+      510.4114990234375,
+      420.9169921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "3e33052fedf6",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "3e33052fedf6_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.31,
+      0.93,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "4043dfadf4dd",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "4043dfadf4dd_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.303,
+      0.663,
+      0.711,
+      0.89
+    ],
+    "caja_recalculada_puntos_pdf": [
+      183.79995727539062,
+      538.89990234375,
+      411.4998779296875,
+      717.7498779296875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "4043dfadf4dd",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "4043dfadf4dd_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.384,
+      0.233,
+      0.633,
+      0.407
+    ],
+    "caja_recalculada_puntos_pdf": [
+      235.20994567871094,
+      234.36004638671875,
+      360.366455078125,
+      421.55487060546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "423dd33e007e",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "423dd33e007e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.05,
+      0.86,
+      0.24
+    ],
+    "caja_recalculada_puntos_pdf": [
+      122.08717346191406,
+      72.11538696289062,
+      489.91680908203125,
+      205.3751220703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "423dd33e007e",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "423dd33e007e_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.3,
+      0.95,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.71923065185547,
+      240.3232421875,
+      546.3229370117188,
+      745.5810546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "42e04e11e8ed",
+    "asignatura": "Historia de España",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "42e04e11e8ed_E4_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.02,
+      0.51,
+      0.98,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      134.58799743652344,
+      400.26800537109375,
+      460.73199462890625,
+      705.4119873046875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "42e04e11e8ed",
+    "asignatura": "Historia de España",
+    "estimulo": "E4",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "42e04e11e8ed_E4_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.02,
+      0.51,
+      0.98,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      134.58799743652344,
+      385.62799072265625,
+      460.73199462890625,
+      690.77197265625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "43d8d44c5114",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "43d8d44c5114_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.235,
+      0.721,
+      0.73,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      146.5,
+      554.760009765625,
+      420.4800109863281,
+      737.8099975585938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "43d8d44c5114",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "43d8d44c5114_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.375,
+      0.525,
+      0.63,
+      0.755
+    ],
+    "caja_recalculada_puntos_pdf": [
+      206.40660308837892,
+      425.16959136962896,
+      391.89000427246094,
+      652.4879867553711
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "45c44a65437e",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "45c44a65437e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.27,
+      0.628,
+      0.87,
+      0.885
+    ],
+    "caja_recalculada_puntos_pdf": [
+      167.1199951171875,
+      516.9199829101562,
+      428.32000732421875,
+      693.2799682617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "45c44a65437e",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "45c44a65437e_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.195,
+      0.272,
+      0.79,
+      0.503
+    ],
+    "caja_recalculada_puntos_pdf": [
+      153.20001220703125,
+      244.75997924804688,
+      435.4000244140625,
+      415.719970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "46a7525321b4",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "46a7525321b4_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.3,
+      0.96,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "46a7525321b4",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "46a7525321b4_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.09,
+      0.87,
+      0.27
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "47ffbcd1fca6",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "47ffbcd1fca6_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.3,
+      0.96,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "47ffbcd1fca6",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "47ffbcd1fca6_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.28
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_1.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_2.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_3.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_4.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 9,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_5.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 10,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_6.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E1",
+    "pagina": 11,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E1_es_7.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "4a7c96ae2912",
+    "asignatura": "Historia de la Música y de la Danza",
+    "estimulo": "E2",
+    "pagina": 12,
+    "idioma": "es",
+    "archivo": "4a7c96ae2912_E2_es_1.png",
+    "publicado": false,
+    "metodo_guardado": null,
+    "metodo_recalculado": null,
+    "problemas": [
+      "casi-pagina"
+    ],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.01,
+      0.99,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": null,
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "56bd7dc00fe3",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "56bd7dc00fe3_E1_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.023,
+      0.947,
+      0.376
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      30.0,
+      380.25,
+      328.29998779296875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "56bd7dc00fe3",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E2",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "56bd7dc00fe3_E2_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.389,
+      0.923,
+      0.642
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      332.49993896484375,
+      301.8999938964844,
+      548.449951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "56bd7dc00fe3",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E3",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "56bd7dc00fe3_E3_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.655,
+      0.676,
+      0.916
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      552.4979858398438,
+      157.35000610351562,
+      789.7479858398438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "56bd7dc00fe3",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "otro",
+    "archivo": "56bd7dc00fe3_E4_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.023,
+      0.88,
+      0.484
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      29.999969482421875,
+      523.7000122070312,
+      365.14996337890625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "56bd7dc00fe3",
+    "asignatura": "Historia del Arte",
+    "estimulo": "E5",
+    "pagina": 6,
+    "idioma": "otro",
+    "archivo": "56bd7dc00fe3_E5_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.493,
+      0.832,
+      0.959
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      419.2449645996094,
+      495.45001220703125,
+      774.594970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "57c556902e6d",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "57c556902e6d_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.66,
+      0.405,
+      0.95,
+      0.5
+    ],
+    "caja_recalculada_puntos_pdf": [
+      388.80010986328125,
+      344.25677490234375,
+      563.2601928710938,
+      430.1567687988281
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "57c556902e6d",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "57c556902e6d_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.66,
+      0.085,
+      0.95,
+      0.18
+    ],
+    "caja_recalculada_puntos_pdf": [
+      388.80010986328125,
+      78.52608489990234,
+      563.2601928710938,
+      164.42608642578125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "5a168e605053",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "5a168e605053_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.64,
+      0.8,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      137.75,
+      537.510009765625,
+      461.5,
+      749.031982421875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "5a168e605053",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "5a168e605053_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.13,
+      0.535,
+      0.87,
+      0.86
+    ],
+    "caja_recalculada_puntos_pdf": [
+      89.0,
+      244.1500244140625,
+      503.29998779296875,
+      480.9000244140625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "5e8b4ad65b41",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "5e8b4ad65b41_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.16,
+      0.63,
+      0.85,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      78.51599609375,
+      513.9372119140625,
+      523.4843817138672,
+      800.3940185546876
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "5e8b4ad65b41",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "5e8b4ad65b41_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.56,
+      0.9,
+      0.72
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.75359741210937,
+      454.96081054687505,
+      553.2863806152344,
+      623.4648144531251
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "61e34b1b42fa",
+    "asignatura": "Historia de España",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "61e34b1b42fa_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.21,
+      0.758,
+      0.79,
+      0.902
+    ],
+    "caja_recalculada_puntos_pdf": [
+      98.5,
+      697.0199584960938,
+      497.0599670410156,
+      776.7999877929688
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "61e34b1b42fa",
+    "asignatura": "Historia de España",
+    "estimulo": "E5",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "61e34b1b42fa_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.085,
+      0.912,
+      0.92,
+      0.997
+    ],
+    "caja_recalculada_puntos_pdf": [
+      33.76380096435547,
+      750.9926247558594,
+      564.5328063964844,
+      841.9199829101562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "6426459db740",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "6426459db740_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.65,
+      0.82,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      124.0,
+      548.1080322265625,
+      468.0,
+      749.6080322265625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "6426459db740",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "6426459db740_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.55,
+      0.78,
+      0.82
+    ],
+    "caja_recalculada_puntos_pdf": [
+      66.58079711914064,
+      446.4720129394532,
+      481.6655871582031,
+      707.6160205078126
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "67eea232db63_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.44,
+      0.35,
+      0.89,
+      0.56
+    ],
+    "caja_recalculada_puntos_pdf": [
+      245.056787109375,
+      277.86,
+      546.5857739257813,
+      488.36
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "67eea232db63_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.03,
+      0.56,
+      0.97,
+      0.87
+    ],
+    "caja_recalculada_puntos_pdf": [
+      1.0165991210937477,
+      454.68000000000006,
+      594.2033715820313,
+      749.38
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E3",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "67eea232db63_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.37,
+      0.64,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      173.8936004638672,
+      532.4151000976562,
+      760.333984375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E4",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "67eea232db63_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.67,
+      0.65,
+      0.93,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      173.8936004638672,
+      542.3800048828125,
+      753.1600341796875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E5",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "67eea232db63_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.15,
+      0.79,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      156.093017578125,
+      532.4151000976562,
+      821.718994140625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E6",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "67eea232db63_E6_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.32,
+      0.89,
+      0.86
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      173.8936004638672,
+      542.8599853515625,
+      711.760009765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E7",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "67eea232db63_E7_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.16,
+      0.89,
+      0.86
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      173.8936004638672,
+      532.4151000976562,
+      743.260009765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E8",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "67eea232db63_E8_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.34,
+      0.54,
+      0.57
+    ],
+    "caja_recalculada_puntos_pdf": [
+      90.29959472656249,
+      269.44000000000005,
+      338.2587841796875,
+      496.7799999999999
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E9",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "67eea232db63_E9_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.56,
+      0.34,
+      0.83,
+      0.57
+    ],
+    "caja_recalculada_puntos_pdf": [
+      316.4831835937501,
+      269.44000000000005,
+      510.8725756835937,
+      496.7799999999999
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E10",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "67eea232db63_E10_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.58,
+      0.55,
+      0.74
+    ],
+    "caja_recalculada_puntos_pdf": [
+      90.29959472656249,
+      471.52,
+      344.21098388671874,
+      639.9200000000001
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E11",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "67eea232db63_E11_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.56,
+      0.58,
+      0.88,
+      0.84
+    ],
+    "caja_recalculada_puntos_pdf": [
+      316.4831835937501,
+      471.52,
+      540.63357421875,
+      724.12
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E12",
+    "pagina": 9,
+    "idioma": "es",
+    "archivo": "67eea232db63_E12_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.24,
+      0.62,
+      0.59
+    ],
+    "caja_recalculada_puntos_pdf": [
+      54.58639648437499,
+      185.23999999999998,
+      385.8763818359375,
+      513.62
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E13",
+    "pagina": 9,
+    "idioma": "es",
+    "archivo": "67eea232db63_E13_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.7,
+      0.24,
+      0.97,
+      0.59
+    ],
+    "caja_recalculada_puntos_pdf": [
+      399.8139794921875,
+      185.23999999999998,
+      594.2033715820313,
+      513.62
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E14",
+    "pagina": 9,
+    "idioma": "es",
+    "archivo": "67eea232db63_E14_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.61,
+      0.62,
+      0.85
+    ],
+    "caja_recalculada_puntos_pdf": [
+      54.58639648437499,
+      496.78000000000003,
+      385.8763818359375,
+      732.54
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E15",
+    "pagina": 10,
+    "idioma": "es",
+    "archivo": "67eea232db63_E15_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.34,
+      0.29,
+      0.66,
+      0.59
+    ],
+    "caja_recalculada_puntos_pdf": [
+      185.5347900390625,
+      227.33999999999997,
+      409.6851806640625,
+      513.62
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E16",
+    "pagina": 10,
+    "idioma": "es",
+    "archivo": "67eea232db63_E16_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.34,
+      0.62,
+      0.67,
+      0.87
+    ],
+    "caja_recalculada_puntos_pdf": [
+      185.5347900390625,
+      505.2,
+      415.63738037109374,
+      749.38
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E17",
+    "pagina": 11,
+    "idioma": "es",
+    "archivo": "67eea232db63_E17_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.37,
+      0.12,
+      0.9,
+      0.54
+    ],
+    "caja_recalculada_puntos_pdf": [
+      203.39138916015625,
+      84.19999999999999,
+      552.5379736328125,
+      471.52
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E18",
+    "pagina": 11,
+    "idioma": "es",
+    "archivo": "67eea232db63_E18_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.55,
+      0.59,
+      0.85
+    ],
+    "caja_recalculada_puntos_pdf": [
+      90.29959472656249,
+      446.26000000000005,
+      368.0197827148437,
+      732.54
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E19",
+    "pagina": 12,
+    "idioma": "es",
+    "archivo": "67eea232db63_E19_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.36,
+      0.77,
+      0.85
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.51167297363281,
+      173.8936004638672,
+      532.4151000976562,
+      699.9979858398438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "67eea232db63",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E20",
+    "pagina": 13,
+    "idioma": "es",
+    "archivo": "67eea232db63_E20_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.54,
+      0.45,
+      0.79,
+      0.78
+    ],
+    "caja_recalculada_puntos_pdf": [
+      304.57878417968755,
+      362.06000000000006,
+      487.06377685546875,
+      673.6
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7159ec231c04",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "7159ec231c04_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.26
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7159ec231c04",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "7159ec231c04_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.27,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "78f2610feda8",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "78f2610feda8_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.26
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "78f2610feda8",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "78f2610feda8_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.31,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.36,
+      0.22,
+      0.65,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.35,
+      0.54,
+      0.65,
+      0.7
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E4",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.74,
+      0.36,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E5",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.59,
+      0.69,
+      0.79,
+      0.86
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E6",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E6_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.28,
+      0.64,
+      0.62
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7e1bad7a80fd",
+    "asignatura": "Ciencias Generales",
+    "estimulo": "E7",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "7e1bad7a80fd_E7_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.14,
+      0.28,
+      0.92,
+      0.46
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      91.51176452636719,
+      595.3200073242188,
+      743.813720703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7f137014114d",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "7f137014114d_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.197,
+      0.682,
+      0.775,
+      0.925
+    ],
+    "caja_recalculada_puntos_pdf": [
+      121.25,
+      543.9099731445312,
+      445.0,
+      720.6599731445312
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "7f137014114d",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "7f137014114d_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.198,
+      0.572,
+      0.808,
+      0.808
+    ],
+    "caja_recalculada_puntos_pdf": [
+      101.03496179199219,
+      464.7398305664062,
+      497.8569655761719,
+      697.1097458496095
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8298a6121d59",
+    "asignatura": "Física",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "8298a6121d59_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.834,
+      0.442,
+      0.938,
+      0.517
+    ],
+    "caja_recalculada_puntos_pdf": [
+      488.8399963378906,
+      369.4396057128906,
+      568.1199951171875,
+      463.4796142578125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8298a6121d59",
+    "asignatura": "Física",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "8298a6121d59_E1_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.834,
+      0.445,
+      0.938,
+      0.518
+    ],
+    "caja_recalculada_puntos_pdf": [
+      490.8799743652344,
+      387.43963623046875,
+      570.6399536132812,
+      482.07965087890625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8298a6121d59",
+    "asignatura": "Física",
+    "estimulo": "E2",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "8298a6121d59_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.625,
+      0.516,
+      0.958,
+      0.667
+    ],
+    "caja_recalculada_puntos_pdf": [
+      346.8800048828125,
+      484.2795715332031,
+      567.4000244140625,
+      622.4796142578125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8298a6121d59",
+    "asignatura": "Física",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "8298a6121d59_E2_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.616,
+      0.517,
+      0.937,
+      0.664
+    ],
+    "caja_recalculada_puntos_pdf": [
+      336.44000244140625,
+      483.9195861816406,
+      557.6799926757812,
+      622.4796142578125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "872e799df038",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "872e799df038_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.215,
+      0.728,
+      0.75,
+      0.952
+    ],
+    "caja_recalculada_puntos_pdf": [
+      136.97999572753906,
+      597.3040161132812,
+      430.010009765625,
+      771.85400390625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "872e799df038",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "872e799df038_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.11,
+      0.762,
+      0.337
+    ],
+    "caja_recalculada_puntos_pdf": [
+      126.5,
+      113.88996887207031,
+      440.0400085449219,
+      292.8399658203125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "89098e676403",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "89098e676403_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.13,
+      0.66,
+      0.82,
+      0.91
+    ],
+    "caja_recalculada_puntos_pdf": [
+      92.0,
+      519.9099731445312,
+      474.3399963378906,
+      711.4099731445312
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "89098e676403",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "89098e676403_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.59,
+      0.88,
+      0.84
+    ],
+    "caja_recalculada_puntos_pdf": [
+      30.78720092773437,
+      479.89439025878903,
+      540.7200061035156,
+      724.0511853027343
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8d4709dd94fc",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "8d4709dd94fc_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.627,
+      0.9,
+      0.939
+    ],
+    "caja_recalculada_puntos_pdf": [
+      132.67999267578125,
+      519.56005859375,
+      459.39996337890625,
+      752.3200073242188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8d4709dd94fc",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "8d4709dd94fc_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.017,
+      0.284,
+      0.773,
+      0.494
+    ],
+    "caja_recalculada_puntos_pdf": [
+      19.040000915527344,
+      275.00006103515625,
+      452.20001220703125,
+      425.9200134277344
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8daec23be074",
+    "asignatura": "Cultura Audiovisual",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "8daec23be074_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.02,
+      0.1,
+      0.98,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      38.599998474121094,
+      112.89996337890625,
+      518.4500122070312,
+      700.5999755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "8daec23be074",
+    "asignatura": "Cultura Audiovisual",
+    "estimulo": "E2",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "8daec23be074_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.05,
+      0.96,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      71.8499984741211,
+      74.949951171875,
+      523.7000122070312,
+      724.949951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "90a0459332b9",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "90a0459332b9_E1_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.03,
+      0.78,
+      0.98,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": [
+      135.10000610351562,
+      646.8599853515625,
+      431.9900207519531,
+      780.135986328125
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "90a0459332b9",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "90a0459332b9_E2_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.16,
+      0.11,
+      0.8,
+      0.4
+    ],
+    "caja_recalculada_puntos_pdf": [
+      111.9000015258789,
+      120.53999328613281,
+      455.04998779296875,
+      316.989990234375
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "90dce8c112ac",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "90dce8c112ac_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.28,
+      0.64,
+      0.71,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      175.08999633789062,
+      532.3499755859375,
+      417.1400146484375,
+      750.760009765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "90dce8c112ac",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "90dce8c112ac_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.52,
+      0.84,
+      0.8
+    ],
+    "caja_recalculada_puntos_pdf": [
+      84.47639587402345,
+      421.260009765625,
+      517.5239819335937,
+      690.8664160156251
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "91449450587c_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.77,
+      0.3,
+      0.975,
+      0.445
+    ],
+    "caja_recalculada_puntos_pdf": [
+      420.8500061035156,
+      260.5999755859375,
+      572.3499755859375,
+      363.8499755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "va",
+    "archivo": "91449450587c_E1_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.77,
+      0.3,
+      0.975,
+      0.445
+    ],
+    "caja_recalculada_puntos_pdf": [
+      420.8500061035156,
+      254.99996948242188,
+      572.3499755859375,
+      358.2499694824219
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E2",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "91449450587c_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.69,
+      0.67,
+      0.97,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      417.79998779296875,
+      562.6500244140625,
+      572.0999755859375,
+      707.25
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "va",
+    "archivo": "91449450587c_E2_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.69,
+      0.67,
+      0.97,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      428.0,
+      522.4500122070312,
+      572.0999755859375,
+      657.5
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "91449450587c_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.7,
+      0.055,
+      0.965,
+      0.2
+    ],
+    "caja_recalculada_puntos_pdf": [
+      394.8999938964844,
+      55.999961853027344,
+      573.4500122070312,
+      175.199951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E3",
+    "pagina": 4,
+    "idioma": "va",
+    "archivo": "91449450587c_E3_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.7,
+      0.055,
+      0.965,
+      0.2
+    ],
+    "caja_recalculada_puntos_pdf": [
+      387.8500061035156,
+      36.89997863769531,
+      569.9500122070312,
+      158.3499755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "91449450587c_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.49,
+      0.31,
+      0.965,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      276.3500061035156,
+      202.5499725341797,
+      573.3499755859375,
+      323.8499755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "91449450587c",
+    "asignatura": "Física",
+    "estimulo": "E4",
+    "pagina": 4,
+    "idioma": "va",
+    "archivo": "91449450587c_E4_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.49,
+      0.31,
+      0.965,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      276.3500061035156,
+      191.24998474121094,
+      573.3499755859375,
+      312.54998779296875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E1",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "933b666312f9_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.09,
+      1.0,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      68.9000244140625,
+      112.8489990234375,
+      536.77734375,
+      595.219970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "933b666312f9_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.02,
+      0.88,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      38.5400390625,
+      45.67999267578125,
+      521.372314453125,
+      381.1968688964844
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "933b666312f9_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.11,
+      0.72,
+      0.87,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      89.18000030517578,
+      445.2799987792969,
+      559.8189086914062,
+      752.9563598632812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E4",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "933b666312f9_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.13,
+      0.12,
+      1.0,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      94.70001220703125,
+      80.5,
+      536.1162109375,
+      595.219970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E5",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "933b666312f9_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.16,
+      0.13,
+      0.81,
+      0.71
+    ],
+    "caja_recalculada_puntos_pdf": [
+      122.72000122070312,
+      164.96002197265625,
+      472.9599914550781,
+      600.6400146484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E6",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "933b666312f9_E6_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.02,
+      0.72,
+      0.95,
+      0.8
+    ],
+    "caja_recalculada_puntos_pdf": [
+      44.2400016784668,
+      620.3599853515625,
+      551.0800170898438,
+      680.6199951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "933b666312f9",
+    "asignatura": "Geografía",
+    "estimulo": "E7",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "933b666312f9_E7_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.16,
+      0.87,
+      0.84
+    ],
+    "caja_recalculada_puntos_pdf": [
+      75.86000061035156,
+      169.82000732421875,
+      519.3400268554688,
+      488.9200134277344
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "98dbad03a155",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 6,
+    "idioma": "va",
+    "archivo": "98dbad03a155_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.046,
+      0.509,
+      0.936,
+      0.829
+    ],
+    "caja_recalculada_puntos_pdf": [
+      38.52000045776367,
+      422.3744812011719,
+      542.3250732421875,
+      683.457275390625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "98dbad03a155",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "98dbad03a155_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.046,
+      0.292,
+      0.936,
+      0.61
+    ],
+    "caja_recalculada_puntos_pdf": [
+      38.52000045776367,
+      245.23199462890625,
+      542.3250732421875,
+      506.3372497558594
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9a5ffea388d0",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "9a5ffea388d0_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.249,
+      0.771,
+      0.713,
+      0.965
+    ],
+    "caja_recalculada_puntos_pdf": [
+      152.0,
+      619.802978515625,
+      414.25,
+      777.8529663085938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9a5ffea388d0",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "9a5ffea388d0_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.134,
+      0.735,
+      0.393
+    ],
+    "caja_recalculada_puntos_pdf": [
+      141.27999877929688,
+      126.53996276855469,
+      425.7099914550781,
+      331.8399658203125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9c232efc4ff3",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "9c232efc4ff3_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.01,
+      0.72,
+      0.93,
+      0.905
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      589.764013671875,
+      571.1675799560547,
+      779.3310180664063
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9c232efc4ff3",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "9c232efc4ff3_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.235,
+      0.268,
+      0.617,
+      0.546
+    ],
+    "caja_recalculada_puntos_pdf": [
+      123.21899444580077,
+      208.94496484375003,
+      384.6070668334961,
+      476.8663310546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9c4cbc92103b",
+    "asignatura": "Francés",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "fr",
+    "archivo": "9c4cbc92103b_E2_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.095,
+      0.519,
+      0.445,
+      0.762
+    ],
+    "caja_recalculada_puntos_pdf": [
+      79.4000015258789,
+      468.20001220703125,
+      265.7200012207031,
+      654.52001953125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9c4cbc92103b",
+    "asignatura": "Francés",
+    "estimulo": "E3",
+    "pagina": 4,
+    "idioma": "fr",
+    "archivo": "9c4cbc92103b_E3_fr_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.093,
+      0.854,
+      0.436,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      38.52286779785156,
+      702.1362722167969,
+      276.37813671875006,
+      841.8900146484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9d2c2caffedb",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "9d2c2caffedb_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.04,
+      0.86,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9d2c2caffedb",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "9d2c2caffedb_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.26,
+      0.96,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9d70af4a5d41",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "9d70af4a5d41_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.45,
+      0.79,
+      0.51
+    ],
+    "caja_recalculada_puntos_pdf": [
+      131.25999450683594,
+      374.28997802734375,
+      465.6199951171875,
+      422.2699890136719
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "9e8570ee562e",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "eu",
+    "archivo": "9e8570ee562e_E1_eu_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.18,
+      0.79,
+      0.91
+    ],
+    "caja_recalculada_puntos_pdf": [
+      108.56082153320312,
+      150.420654296875,
+      482.59765625,
+      767.3863525390625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a25ae1a53c4f",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "a25ae1a53c4f_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.014,
+      0.676,
+      0.96,
+      0.908
+    ],
+    "caja_recalculada_puntos_pdf": [
+      20.719999313354492,
+      543.6079711914062,
+      546.4010009765625,
+      697.0
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a25ae1a53c4f",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "a25ae1a53c4f_E2_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.105,
+      0.552,
+      0.845,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      45.67020111083984,
+      447.90143090820317,
+      519.883805847168,
+      648.2783868408203
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.36,
+      0.89,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.35,
+      0.31,
+      0.75,
+      0.51
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.33,
+      0.73,
+      0.76,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      762.0399780273438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E4",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.39,
+      0.31,
+      0.64,
+      0.56
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E5",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E5_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.3,
+      0.69,
+      0.74,
+      0.91
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      755.56005859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E6",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E6_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.34,
+      0.34,
+      0.69,
+      0.58
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E7",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E7_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.37,
+      0.15,
+      0.66,
+      0.4
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E8",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E8_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.15,
+      0.47,
+      0.52,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E9",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E9_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.52,
+      0.47,
+      0.89,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E10",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E10_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.15,
+      0.15,
+      0.53,
+      0.39
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E11",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E11_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.53,
+      0.15,
+      0.89,
+      0.39
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E12",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "a2af56a74785_E12_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.32,
+      0.65,
+      0.71,
+      0.83
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      747.7716674804688
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a2af56a74785",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E13",
+    "pagina": 8,
+    "idioma": "eu",
+    "archivo": "a2af56a74785_E13_eu_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.32,
+      0.22,
+      0.72,
+      0.41
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      120.89204406738281,
+      591.66162109375,
+      715.1080932617188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a46252664577",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "a46252664577_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.3,
+      0.67,
+      0.74,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      93.8239974975586,
+      531.260009765625,
+      509.17401123046875,
+      709.9400024414062
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a46252664577",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "a46252664577_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.24,
+      0.62,
+      0.79,
+      0.83
+    ],
+    "caja_recalculada_puntos_pdf": [
+      126.03840209960937,
+      505.1519897460937,
+      487.1412054443359,
+      715.6319854736328
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a776d935bdc1",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "a776d935bdc1_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.015,
+      0.65,
+      0.795,
+      0.878
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.31999969482422,
+      511.03997802734375,
+      457.4809875488281,
+      690.6400146484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a776d935bdc1",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "a776d935bdc1_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.28,
+      0.598,
+      0.69,
+      0.772
+    ],
+    "caja_recalculada_puntos_pdf": [
+      149.85120239257816,
+      486.6297501220703,
+      427.609204711914,
+      666.8006264648437
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a91229e62578",
+    "asignatura": "Fundamentos Artísticos",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "va",
+    "archivo": "a91229e62578_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.681,
+      0.358,
+      0.97
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      573.4659423828125,
+      220.5500030517578,
+      819.5359497070312
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a91229e62578",
+    "asignatura": "Fundamentos Artísticos",
+    "estimulo": "E2",
+    "pagina": 5,
+    "idioma": "va",
+    "archivo": "a91229e62578_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.437,
+      0.681,
+      0.773,
+      0.97
+    ],
+    "caja_recalculada_puntos_pdf": [
+      257.54998779296875,
+      573.4619750976562,
+      456.0,
+      819.511962890625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a91229e62578",
+    "asignatura": "Fundamentos Artísticos",
+    "estimulo": "E3",
+    "pagina": 6,
+    "idioma": "va",
+    "archivo": "a91229e62578_E3_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.025,
+      0.414,
+      0.638,
+      0.733
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      353.1199645996094,
+      379.08001708984375,
+      607.719970703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "a91229e62578",
+    "asignatura": "Fundamentos Artísticos",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "va",
+    "archivo": "a91229e62578_E4_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.645,
+      0.414,
+      0.971,
+      0.733
+    ],
+    "caja_recalculada_puntos_pdf": [
+      377.1000061035156,
+      353.1199951171875,
+      568.2999877929688,
+      607.6699829101562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "aa5655e3b9e2",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "aa5655e3b9e2_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.018,
+      0.81,
+      0.98,
+      0.975
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.31999969482422,
+      657.8699951171875,
+      457.77001953125,
+      765.9759521484375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "aa5655e3b9e2",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "aa5655e3b9e2_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.115,
+      0.112,
+      0.89,
+      0.48
+    ],
+    "caja_recalculada_puntos_pdf": [
+      51.60960174560546,
+      77.45663842773438,
+      546.566410522461,
+      420.9599914550781
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "aac3495c1069",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "aac3495c1069_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.235,
+      0.647,
+      0.795,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      146.72999572753906,
+      537.8569946289062,
+      456.22998046875,
+      746.1069946289062
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "aac3495c1069",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "aac3495c1069_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.243,
+      0.523,
+      0.783,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      127.82436212158201,
+      423.4857514038086,
+      482.9739653930664,
+      648.2783868408203
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ac1e68a880cb",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "estimulo": "E4",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "ac1e68a880cb_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.42,
+      0.75,
+      0.5
+    ],
+    "caja_recalculada_puntos_pdf": [
+      152.24000549316406,
+      361.6399841308594,
+      444.4000244140625,
+      422.67999267578125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ad5e5f0a2ac6",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "ad5e5f0a2ac6_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.765,
+      0.87,
+      0.985
+    ],
+    "caja_recalculada_puntos_pdf": [
+      146.47999572753906,
+      621.447998046875,
+      420.52996826171875,
+      794.2979736328125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ad5e5f0a2ac6",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "ad5e5f0a2ac6_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.11,
+      0.89,
+      0.31
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.38400268554688,
+      171.25,
+      501.71002197265625,
+      283.90997314453125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b33ba5342851",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "b33ba5342851_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.015,
+      0.701,
+      0.78,
+      0.844
+    ],
+    "caja_recalculada_puntos_pdf": [
+      19.040000915527344,
+      582.800048828125,
+      452.20001220703125,
+      691.0
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b33ba5342851",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "b33ba5342851_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.125,
+      0.522,
+      0.89,
+      0.817
+    ],
+    "caja_recalculada_puntos_pdf": [
+      79.4000015258789,
+      253.40008544921875,
+      512.5599975585938,
+      488.080078125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b33f8ac01792",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "b33f8ac01792_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.05,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b3ab481497c0",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "va",
+    "archivo": "b3ab481497c0_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.42,
+      0.83,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      84.31,
+      336.8,
+      510.68999999999994,
+      597.8199999999999
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b3ab481497c0",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "b3ab481497c0_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.17,
+      0.42,
+      0.83,
+      0.69
+    ],
+    "caja_recalculada_puntos_pdf": [
+      84.31,
+      336.8,
+      510.68999999999994,
+      597.8199999999999
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b5604273f1c3",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "b5604273f1c3_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.04,
+      0.97,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b7806bfd43fe",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "b7806bfd43fe_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.778,
+      0.843,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      80.98400115966797,
+      633.8699951171875,
+      486.1100158691406,
+      758.7760009765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b7806bfd43fe",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "b7806bfd43fe_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.355,
+      0.121,
+      0.633,
+      0.437
+    ],
+    "caja_recalculada_puntos_pdf": [
+      210.6999969482422,
+      127.68997192382812,
+      370.489990234375,
+      368.28997802734375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b8fa0d73f649",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "b8fa0d73f649_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.425,
+      0.412,
+      0.595,
+      0.474
+    ],
+    "caja_recalculada_puntos_pdf": [
+      236.17020355224608,
+      330.0796713867187,
+      371.056203918457,
+      415.9677491455078
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "b8fa0d73f649",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "b8fa0d73f649_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.425,
+      0.516,
+      0.595,
+      0.579
+    ],
+    "caja_recalculada_puntos_pdf": [
+      236.17020355224608,
+      417.6518291015625,
+      371.056203918457,
+      504.3819468383789
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "be3eae38d7a8",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "be3eae38d7a8_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.31,
+      0.648,
+      0.62,
+      0.9
+    ],
+    "caja_recalculada_puntos_pdf": [
+      192.55999755859375,
+      533.9600219726562,
+      374.55999755859375,
+      723.760009765625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "be3eae38d7a8",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "be3eae38d7a8_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.26,
+      0.153,
+      0.67,
+      0.427
+    ],
+    "caja_recalculada_puntos_pdf": [
+      164.60000610351562,
+      254.83999633789062,
+      402.52001953125,
+      451.0
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c09cb7258334",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "c09cb7258334_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.285,
+      0.66,
+      0.71,
+      0.915
+    ],
+    "caja_recalculada_puntos_pdf": [
+      171.25,
+      551.56005859375,
+      420.0,
+      730.6100463867188
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c09cb7258334",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "c09cb7258334_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.195,
+      0.278,
+      0.76,
+      0.57
+    ],
+    "caja_recalculada_puntos_pdf": [
+      124.39999389648438,
+      273.33001708984375,
+      451.32000732421875,
+      457.1920471191406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c422fff5f7b9",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "c422fff5f7b9_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.253,
+      0.642,
+      0.752,
+      0.887
+    ],
+    "caja_recalculada_puntos_pdf": [
+      153.55999755859375,
+      523.280029296875,
+      445.05999755859375,
+      721.06005859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c422fff5f7b9",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "c422fff5f7b9_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.188,
+      0.611,
+      0.803,
+      0.786
+    ],
+    "caja_recalculada_puntos_pdf": [
+      95.20511547851562,
+      497.9293315429688,
+      495.47050274658204,
+      679.0711357421876
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c84f682ed0b2",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "c84f682ed0b2_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.22,
+      0.635,
+      0.7,
+      0.855
+    ],
+    "caja_recalculada_puntos_pdf": [
+      139.39999389648438,
+      516.9199829101562,
+      406.8399963378906,
+      676.239990234375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "c84f682ed0b2",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "c84f682ed0b2_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.56,
+      0.77,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.22560058593751,
+      454.6368237304688,
+      475.2348065185547,
+      648.2784338378906
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "va",
+    "archivo": "cbf947ff0c0c_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.64,
+      0.89,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      81.17500305175781,
+      539.1099853515625,
+      514.0750122070312,
+      743.3599853515625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E1",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "cbf947ff0c0c_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.64,
+      0.89,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      81.17500305175781,
+      530.9599609375,
+      514.0750122070312,
+      735.2099609375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "va",
+    "archivo": "cbf947ff0c0c_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.11,
+      0.29,
+      0.88,
+      0.58
+    ],
+    "caja_recalculada_puntos_pdf": [
+      82.7750015258789,
+      254.57998657226562,
+      512.4750061035156,
+      467.22998046875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E2",
+    "pagina": 8,
+    "idioma": "es",
+    "archivo": "cbf947ff0c0c_E2_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.11,
+      0.29,
+      0.88,
+      0.58
+    ],
+    "caja_recalculada_puntos_pdf": [
+      82.7750015258789,
+      225.72998046875,
+      512.4750061035156,
+      438.3799743652344
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "cbf947ff0c0c_E3_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.32,
+      0.96,
+      0.52
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      252.61199340820315,
+      588.3480065917969,
+      454.70158813476564
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cbf947ff0c0c",
+    "asignatura": "Geología y Ciencias Ambientales",
+    "estimulo": "E3",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "cbf947ff0c0c_E3_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.32,
+      0.96,
+      0.52
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      252.61199340820315,
+      588.3480065917969,
+      454.70158813476564
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cc4ce021beb2",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "cc4ce021beb2_E1_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.245,
+      0.666,
+      0.718,
+      0.924
+    ],
+    "caja_recalculada_puntos_pdf": [
+      140.75,
+      540.3099365234375,
+      426.0,
+      734.64990234375
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "cc4ce021beb2",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "cc4ce021beb2_E2_es_1.png",
+    "publicado": false,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.163,
+      0.526,
+      0.838,
+      0.827
+    ],
+    "caja_recalculada_puntos_pdf": [
+      80.19876153564454,
+      426.0115113525391,
+      515.7165657958984,
+      713.1062255249022
+    ],
+    "revision_visual": "sin-imagen-publicada"
+  },
+  {
+    "documento": "cdd0f4f759e1",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "cdd0f4f759e1_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.075,
+      0.052,
+      0.99,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      59.80007553100586,
+      65.74664306640625,
+      571.7693481445312,
+      402.046630859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cdd0f4f759e1",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "cdd0f4f759e1_E2_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.075,
+      0.052,
+      0.99,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      59.80007553100586,
+      69.140625,
+      571.7693481445312,
+      405.44061279296875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ce6f09d504dc",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "ce6f09d504dc_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.295,
+      0.637,
+      0.709,
+      0.894
+    ],
+    "caja_recalculada_puntos_pdf": [
+      178.39999389648438,
+      518.6099853515625,
+      409.8599853515625,
+      736.5599975585938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ce6f09d504dc",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "ce6f09d504dc_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.185,
+      0.575,
+      0.812,
+      0.864
+    ],
+    "caja_recalculada_puntos_pdf": [
+      93.29580169677733,
+      467.2655905151367,
+      500.23824560546876,
+      744.2572648925781
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cf8f175f86e7",
+    "asignatura": "Movimientos Culturales y Artísticos",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "cf8f175f86e7_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.146,
+      0.454,
+      0.597,
+      0.702
+    ],
+    "caja_recalculada_puntos_pdf": [
+      43.34674072265625,
+      166.64353942871094,
+      539.5338134765625,
+      662.83056640625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cf8f175f86e7",
+    "asignatura": "Movimientos Culturales y Artísticos",
+    "estimulo": "E2",
+    "pagina": 4,
+    "idioma": "es",
+    "archivo": "cf8f175f86e7_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.348,
+      0.167,
+      0.714,
+      0.475
+    ],
+    "caja_recalculada_puntos_pdf": [
+      43.34674072265625,
+      157.5210418701172,
+      539.5338134765625,
+      662.83056640625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cf8f175f86e7",
+    "asignatura": "Movimientos Culturales y Artísticos",
+    "estimulo": "E3",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "cf8f175f86e7_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.244,
+      0.505,
+      0.816,
+      0.739
+    ],
+    "caja_recalculada_puntos_pdf": [
+      43.34674072265625,
+      166.64353942871094,
+      539.5338134765625,
+      662.83056640625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "cf8f175f86e7",
+    "asignatura": "Movimientos Culturales y Artísticos",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "cf8f175f86e7_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.245,
+      0.184,
+      0.816,
+      0.475
+    ],
+    "caja_recalculada_puntos_pdf": [
+      43.34674072265625,
+      166.64353942871094,
+      539.5338134765625,
+      662.83056640625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d0cb552cbd36",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "d0cb552cbd36_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.674,
+      0.77,
+      0.926
+    ],
+    "caja_recalculada_puntos_pdf": [
+      122.72000122070312,
+      539.8399658203125,
+      445.1199951171875,
+      724.239990234375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d0cb552cbd36",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "d0cb552cbd36_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.36,
+      0.58,
+      0.64,
+      0.83
+    ],
+    "caja_recalculada_puntos_pdf": [
+      197.56079956054685,
+      471.54238769531247,
+      397.9991979980469,
+      715.7339813232421
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d487a226ab90",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "d487a226ab90_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.26,
+      0.674,
+      0.7,
+      0.916
+    ],
+    "caja_recalculada_puntos_pdf": [
+      159.5,
+      546.9599609375,
+      406.77001953125,
+      737.6099853515625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d487a226ab90",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "d487a226ab90_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.015,
+      0.238,
+      0.985,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      13.760000228881836,
+      211.17999267578125,
+      553.3599853515625,
+      340.40997314453125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d5bb406de29e",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "d5bb406de29e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.235,
+      0.675,
+      0.84,
+      0.932
+    ],
+    "caja_recalculada_puntos_pdf": [
+      144.25,
+      538.9100341796875,
+      447.6499938964844,
+      746.4100341796875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "d5bb406de29e",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "d5bb406de29e_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.23,
+      0.23,
+      0.81,
+      0.41
+    ],
+    "caja_recalculada_puntos_pdf": [
+      119.5,
+      255.83001708984375,
+      472.5,
+      425.08001708984375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "dff10bd824da",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "dff10bd824da_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.05,
+      0.95,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.71923065185547,
+      240.3232421875,
+      546.3229370117188,
+      745.5810546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e1f43a3363d4",
+    "asignatura": "Economía de la Empresa",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "e1f43a3363d4_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.075,
+      0.78,
+      0.925,
+      0.91
+    ],
+    "caja_recalculada_puntos_pdf": [
+      27.808200988769528,
+      639.9503833007813,
+      567.5118063354493,
+      783.0971795654298
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e1f43a3363d4",
+    "asignatura": "Economía de la Empresa",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "e1f43a3363d4_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.11,
+      0.8,
+      0.89,
+      0.935
+    ],
+    "caja_recalculada_puntos_pdf": [
+      48.64440124511719,
+      656.7911828613281,
+      546.6756060791016,
+      804.1481790161133
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e1f43a3363d4",
+    "asignatura": "Economía de la Empresa",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "va",
+    "archivo": "e1f43a3363d4_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.305,
+      0.36,
+      0.68,
+      0.445
+    ],
+    "caja_recalculada_puntos_pdf": [
+      164.73180267333984,
+      286.29359252929686,
+      421.65840454101567,
+      391.5485897827149
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e1f43a3363d4",
+    "asignatura": "Economía de la Empresa",
+    "estimulo": "E2",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "e1f43a3363d4_E2_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.305,
+      0.33,
+      0.68,
+      0.42
+    ],
+    "caja_recalculada_puntos_pdf": [
+      164.73180267333984,
+      261.0323931884766,
+      421.65840454101567,
+      370.4975903320312
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e2595a3b7e0d",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "e2595a3b7e0d_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.45,
+      0.17,
+      0.58,
+      0.3
+    ],
+    "caja_recalculada_puntos_pdf": [
+      250.91,
+      126.30000000000001,
+      361.93999999999994,
+      269.44
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e2595a3b7e0d",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e2595a3b7e0d_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.45,
+      0.695,
+      0.58,
+      0.825
+    ],
+    "caja_recalculada_puntos_pdf": [
+      250.91,
+      568.3499999999999,
+      361.93999999999994,
+      711.49
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e28ef720b913",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e28ef720b913_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.078,
+      0.31,
+      0.963,
+      0.959
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e28ef720b913",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e28ef720b913_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.09,
+      0.045,
+      0.87,
+      0.3
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e300944f0ec3",
+    "asignatura": "Geografía",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "e300944f0ec3_E2_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.038,
+      0.298,
+      0.951,
+      0.754
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.350000381469727,
+      179.8479766845703,
+      570.0999755859375,
+      648.9299926757812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e300944f0ec3",
+    "asignatura": "Geografía",
+    "estimulo": "E4",
+    "pagina": 3,
+    "idioma": "va",
+    "archivo": "e300944f0ec3_E4_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.062,
+      0.297,
+      0.925,
+      0.998
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.31999969482422,
+      230.7279815673828,
+      549.1749877929688,
+      613.4299926757812
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e71581fd27e5",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "e71581fd27e5_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.58,
+      0.44,
+      0.94,
+      0.55
+    ],
+    "caja_recalculada_puntos_pdf": [
+      339.12,
+      332.64000000000004,
+      591.12,
+      451.44
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e71581fd27e5",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e71581fd27e5_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.05,
+      0.86,
+      0.27
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e71581fd27e5",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e71581fd27e5_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.3,
+      0.96,
+      0.98
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e731338592c5",
+    "asignatura": "Geografía",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "otro",
+    "archivo": "e731338592c5_E1_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.03,
+      0.12,
+      0.93,
+      0.43
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.299999237060547,
+      66.08796691894531,
+      550.5,
+      333.75
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e731338592c5",
+    "asignatura": "Geografía",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "otro",
+    "archivo": "e731338592c5_E2_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.48,
+      0.92,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.299999237060547,
+      403.197998046875,
+      574.7000122070312,
+      767.7999877929688
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e731338592c5",
+    "asignatura": "Geografía",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "otro",
+    "archivo": "e731338592c5_E3_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.1,
+      0.92,
+      0.46
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.83160095214844,
+      67.36319824218751,
+      564.5352062988281,
+      404.17918945312505
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e731338592c5",
+    "asignatura": "Geografía",
+    "estimulo": "E4",
+    "pagina": 3,
+    "idioma": "otro",
+    "archivo": "e731338592c5_E4_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.02,
+      0.47,
+      0.97,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.299999237060547,
+      472.3999938964844,
+      570.8999633789062,
+      770.7999877929688
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e734936a32d3",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "va",
+    "archivo": "e734936a32d3_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.09,
+      0.98,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      58.94279846191406,
+      595.3200073242188,
+      842.0399780273438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e734936a32d3",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 6,
+    "idioma": "va",
+    "archivo": "e734936a32d3_E1_va_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.04,
+      0.02,
+      0.98,
+      0.55
+    ],
+    "caja_recalculada_puntos_pdf": [
+      6.972000732421872,
+      0.0,
+      595.3200073242188,
+      479.96278747558597
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e7907173dac8",
+    "asignatura": "Valenciano",
+    "estimulo": "E3",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "e7907173dac8_E3_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.1,
+      0.916,
+      0.89,
+      0.995
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.691201171875,
+      754.4678203125001,
+      546.6756060791016,
+      842.0399780273438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e887d3851c95",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e887d3851c95_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.12,
+      0.26,
+      0.95,
+      0.92
+    ],
+    "caja_recalculada_puntos_pdf": [
+      65.71923065185547,
+      240.3232421875,
+      546.3229370117188,
+      745.5810546875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e887d3851c95",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "e887d3851c95_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.21,
+      0.045,
+      0.86,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      122.08717346191406,
+      72.11538696289062,
+      489.91680908203125,
+      205.3751220703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e96e07529cae",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 5,
+    "idioma": "es",
+    "archivo": "e96e07529cae_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.045,
+      0.02,
+      0.945,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      9.956400451660155,
+      0.0,
+      579.529201965332,
+      825.0815832519531
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "e96e07529cae",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 6,
+    "idioma": "es",
+    "archivo": "e96e07529cae_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.045,
+      0.06,
+      0.945,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      9.956400451660155,
+      33.676799316406246,
+      579.529201965332,
+      816.6623834228515
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ed03ea4e6cf8",
+    "asignatura": "Artes Escénicas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "ed03ea4e6cf8_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.19,
+      0.1,
+      0.95,
+      0.75
+    ],
+    "caja_recalculada_puntos_pdf": [
+      157.85000610351562,
+      93.75003051757812,
+      684.75,
+      424.3500671386719
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ed03ea4e6cf8",
+    "asignatura": "Artes Escénicas II",
+    "estimulo": "E4",
+    "pagina": 7,
+    "idioma": "es",
+    "archivo": "ed03ea4e6cf8_E4_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.95,
+      0.84
+    ],
+    "caja_recalculada_puntos_pdf": [
+      147.0,
+      77.6500244140625,
+      695.0499877929688,
+      445.70001220703125
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ed9f75746f60",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "ed9f75746f60_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.744,
+      0.331,
+      0.964,
+      0.462
+    ],
+    "caja_recalculada_puntos_pdf": [
+      438.0,
+      184.10008239746094,
+      560.7999877929688,
+      299.90008544921875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "ed9f75746f60",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "ed9f75746f60_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.744,
+      0.79,
+      0.964,
+      0.922
+    ],
+    "caja_recalculada_puntos_pdf": [
+      438.10009765625,
+      663.800048828125,
+      560.9000854492188,
+      779.6000366210938
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f14d74605043",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "f14d74605043_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.68,
+      0.32,
+      0.9,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      400.32000000000005,
+      237.6,
+      566.6400000000001,
+      372.24
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f14d74605043",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "f14d74605043_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.1,
+      0.86,
+      0.25
+    ],
+    "caja_recalculada_puntos_pdf": [
+      102.39913940429688,
+      76.925048828125,
+      492.8792724609375,
+      218.06959533691406
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f14d74605043",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E3",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "f14d74605043_E3_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.08,
+      0.29,
+      0.96,
+      0.96
+    ],
+    "caja_recalculada_puntos_pdf": [
+      42.482948303222656,
+      255.72122192382812,
+      552.8359985351562,
+      792.2803344726562
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f6ae3b95185b",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "va",
+    "archivo": "f6ae3b95185b_E1_va_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.256,
+      0.399,
+      0.58,
+      0.579
+    ],
+    "caja_recalculada_puntos_pdf": [
+      135.56112231445312,
+      319.1331516723633,
+      362.12640380859375,
+      504.3819468383789
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f6ae3b95185b",
+    "asignatura": "Matemáticas II",
+    "estimulo": "E1",
+    "pagina": 3,
+    "idioma": "es",
+    "archivo": "f6ae3b95185b_E1_es_2.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.254,
+      0.81,
+      0.595,
+      0.983
+    ],
+    "caja_recalculada_puntos_pdf": [
+      134.37048229980468,
+      665.2115826416016,
+      371.056203918457,
+      842.0399780273438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f7ba90e6218e",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "f7ba90e6218e_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.211,
+      0.625,
+      0.805,
+      0.929
+    ],
+    "caja_recalculada_puntos_pdf": [
+      127.75999450683594,
+      512.0000610351562,
+      463.5999755859375,
+      736.1200561523438
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f7ba90e6218e",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "f7ba90e6218e_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.139,
+      0.469,
+      0.876,
+      0.766
+    ],
+    "caja_recalculada_puntos_pdf": [
+      88.5199966430664,
+      216.6800537109375,
+      503.5599670410156,
+      423.6400451660156
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f88f210f0efc",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "f88f210f0efc_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.18,
+      0.6,
+      0.8,
+      0.88
+    ],
+    "caja_recalculada_puntos_pdf": [
+      119.47999572753906,
+      491.7200012207031,
+      462.280029296875,
+      727.0
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f88f210f0efc",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "f88f210f0efc_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.2,
+      0.245,
+      0.76,
+      0.51
+    ],
+    "caja_recalculada_puntos_pdf": [
+      134.72000122070312,
+      214.52001953125,
+      446.44000244140625,
+      424.96002197265625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f924b77166cd",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "f924b77166cd_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.365,
+      0.764,
+      0.6,
+      0.988
+    ],
+    "caja_recalculada_puntos_pdf": [
+      216.5,
+      621.4509887695312,
+      350.0,
+      789.8909912109375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "f924b77166cd",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "f924b77166cd_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.266,
+      0.106,
+      0.697,
+      0.367
+    ],
+    "caja_recalculada_puntos_pdf": [
+      162.4499969482422,
+      120.53997802734375,
+      404.5299987792969,
+      301.28997802734375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fa08351c342d",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "fa08351c342d_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.235,
+      0.697,
+      0.73,
+      0.935
+    ],
+    "caja_recalculada_puntos_pdf": [
+      146.0,
+      567.4099731445312,
+      420.8999938964844,
+      725.239990234375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fa08351c342d",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "fa08351c342d_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.015,
+      0.523,
+      0.805,
+      0.744
+    ],
+    "caja_recalculada_puntos_pdf": [
+      0.0,
+      423.4857514038086,
+      496.07100555419925,
+      643.2268669433594
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fae5d170fbef",
+    "asignatura": "Historia de España",
+    "estimulo": "E1",
+    "pagina": 1,
+    "idioma": "es",
+    "archivo": "fae5d170fbef_E1_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.27,
+      0.76,
+      0.7,
+      0.99
+    ],
+    "caja_recalculada_puntos_pdf": [
+      167.74998474121094,
+      619.802734375,
+      399.0,
+      776.573974609375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fae5d170fbef",
+    "asignatura": "Historia de España",
+    "estimulo": "E2",
+    "pagina": 2,
+    "idioma": "es",
+    "archivo": "fae5d170fbef_E2_es_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.27,
+      0.13,
+      0.75,
+      0.38
+    ],
+    "caja_recalculada_puntos_pdf": [
+      164.25,
+      126.54254150390625,
+      416.9405517578125,
+      287.04254150390625
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E1",
+    "pagina": 2,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E1_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.5,
+      0.91,
+      0.93
+    ],
+    "caja_recalculada_puntos_pdf": [
+      45.900001525878906,
+      428.04998779296875,
+      527.9000244140625,
+      784.0499877929688
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E2",
+    "pagina": 3,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E2_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.22,
+      0.49,
+      0.79,
+      0.94
+    ],
+    "caja_recalculada_puntos_pdf": [
+      141.10000610351562,
+      425.89996337890625,
+      468.6000061035156,
+      777.3999633789062
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E3",
+    "pagina": 5,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E3_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.45,
+      0.92,
+      0.63
+    ],
+    "caja_recalculada_puntos_pdf": [
+      50.95000076293945,
+      386.49993896484375,
+      537.25,
+      571.949951171875
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E4",
+    "pagina": 6,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E4_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.27,
+      0.31,
+      0.91,
+      0.95
+    ],
+    "caja_recalculada_puntos_pdf": [
+      59.75,
+      263.19989013671875,
+      537.75,
+      807.8499755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E5",
+    "pagina": 7,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E5_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "pdf",
+    "metodo_recalculado": "pdf",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.61,
+      0.08,
+      0.97,
+      0.26
+    ],
+    "caja_recalculada_puntos_pdf": [
+      271.29998779296875,
+      22.0999755859375,
+      563.2999877929688,
+      82.0999755859375
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E6",
+    "pagina": 7,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E6_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.58,
+      0.29,
+      0.97,
+      0.45
+    ],
+    "caja_recalculada_puntos_pdf": [
+      328.4448046875,
+      227.3507940673828,
+      594.3012066650391,
+      395.7587896728516
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E7",
+    "pagina": 8,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E7_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.44,
+      0.26,
+      0.67,
+      0.41
+    ],
+    "caja_recalculada_puntos_pdf": [
+      245.10000366210937,
+      202.0895947265625,
+      415.70520446777346,
+      362.0771905517578
+    ],
+    "revision_visual": "hoja-contacto"
+  },
+  {
+    "documento": "fdd6ca513f80",
+    "asignatura": "Dibujo Técnico II",
+    "estimulo": "E8",
+    "pagina": 8,
+    "idioma": "otro",
+    "archivo": "fdd6ca513f80_E8_otro_1.png",
+    "publicado": true,
+    "metodo_guardado": "modelo",
+    "metodo_recalculado": "modelo",
+    "problemas": [],
+    "caja_modelo_fraccion": [
+      0.07,
+      0.46,
+      0.34,
+      0.65
+    ],
+    "caja_recalculada_puntos_pdf": [
+      24.83160095214844,
+      370.4975903320313,
+      219.24960205078128,
+      564.1667852783204
+    ],
+    "revision_visual": "hoja-contacto"
+  }
+]

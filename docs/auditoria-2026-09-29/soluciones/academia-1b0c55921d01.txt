@@ -1,0 +1,1190 @@
+DOCUMENTO {"id": "1b0c55921d01", "region": "Comunidad Valenciana", "asignatura": "Historia de España", "anio": 2022, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "umh", "url": "https://bancdelaselectivitat.umh.es/files/2023/03/ExamenHistoriaEspanaOrdinaria2022.pdf", "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2022-ordinaria-examen-umh-1b0c55921d01.pdf", "paginas": 4, "estrato": "piloto · Comunidad Valenciana · Historia de España"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/historia-de-espana/2022-ordinaria-solucion-llibreta-b2c85fae1b4e.pdf", "desde": 1, "anexo": {"id": "b2c85fae1b4e", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/013A%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20junio%202022.pdf", "titulo": "Junio 2022 — Solución"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Respon a una de les dues opcions (Fins a 1 punt)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 1 punto)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Respon a una de les dues opcions (Fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 2,
+   "maximo": 2,
+   "de": 4,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Definiu DOS dels conceptes següents (Fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Defina DOS de los conceptos siguientes (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Inquisició"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Inquisición"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Constitució"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Constitución"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Transició política"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Transición política"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Autonomia política"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Autonomía política"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Respon a una de les dues opcions (Fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Expliqueu les principals reformes polítiques del Trienni Liberal i feu especial èmfasi en les mesures que van afectar la religió."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique las principales reformas políticas del Trienio Liberal haciendo especial énfasis en las medidas que afectaron a la religión."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Exposeu el procés de reforma política a Espanya des de novembre de 1975 i les principals disposicions legals i constitucionals per a la democratització i organització territorial de l’Estat espanyol."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Exponga el proceso de reforma política en España desde noviembre de 1975 y las principales disposiciones legales y constitucionales para la democratización y organización territorial del Estado español"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "5ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "5ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Respon una de les dues opcions (Fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda una de las dos opciones (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Descriviu les diferències ideològiques i polítiques entre l’absolutisme i el liberalisme a Espanya entre 1808 i 1837."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Describa las diferencias ideológicas y políticas entre el absolutismo y el liberalismo en España entre 1808 y 1837."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Compareu el procés polític i legal de democratització política a Espanya en 1931 i en 1977-1978."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Compare el proceso político y legal de democratización política en España en 1931 y en 1977-1978."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Los documentos $1$ y $2$ son fuentes primarias y jurídicas, ya que ambos reflejan decisiones legislativas tomadas en el contexto del Trienio Liberal ($1820\\text{-}1823$). Estos textos provienen de actores contemporáneos a los eventos descritos, lo que los convierte en testimonios directos del período histórico.\n\n- **Documento $1$:** El decreto sobre la abolición de la Inquisición, emitido el $9$ de marzo de $1820$, es un texto de carácter político y legislativo. Refleja la incompatibilidad entre el tribunal de la Inquisición y los principios liberales de la Constitución de Cádiz ($1812$), lo que justifica su eliminación. Su objetivo era reforzar los valores de libertad y justicia propios del liberalismo.\n- **Documento $2$:** La carta del obispo de Orihuela, Simón López, tiene un carácter político y religioso. En este texto, el obispo critica la orden del gobierno que obliga a los sacerdotes a explicar la Constitución de Cádiz en las misas. Desde su perspectiva, esta medida representa una intromisión en los asuntos religiosos y transforma la enseñanza espiritual en instrucción política, un aspecto que revela la tensión entre el liberalismo y la Iglesia.\n\nAmbos documentos son relevantes para entender las reformas liberales del Trienio y el conflicto entre el Estado y la Iglesia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Documento $3$:** El discurso de Juan Carlos I ante el Congreso de los Estados Unidos ($2$ de junio de $1976$) es una fuente primaria de carácter político. Representa la visión de la monarquía parlamentaria en los inicios de la Transición, destacando su papel como garante de la democracia, la estabilidad política y la unidad nacional en un contexto de apertura tras la dictadura franquista.\n\n**Documento $4$:** El Estatuto de Autonomía de Cataluña ($1979$) es una fuente primaria y jurídica, que establece la estructura y funciones del gobierno catalán tras el restablecimiento de las autonomías en el marco de la Constitución de $1978$. Refleja la voluntad de consolidar un sistema descentralizado basado en la solidaridad entre regiones y nacionalidades.\n\nAmbos documentos son representativos de la construcción democrática en España durante la Transición y del esfuerzo por integrar pluralidad territorial y política."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Documento $1$:**\n\n- **Idea principal:** La abolición definitiva del tribunal de la Inquisición, al considerarse incompatible con los principios liberales de la Constitución de Cádiz ($1812$). Además, se ordena la liberación de los presos por motivos religiosos y políticos, reflejando los ideales de justicia y libertad del liberalismo.\n- **Contexto histórico:** Este decreto fue promulgado durante el Trienio Liberal ($1820\\text{-}1823$), un período iniciado tras el pronunciamiento de Riego, en el que se restauró la Constitución de Cádiz. En estos años, los liberales impulsaron reformas para desmantelar el Antiguo Régimen, enfrentándose a la oposición de sectores absolutistas y de la Iglesia.\n\n**Documento $2$:**\n\n- **Idea principal:** El obispo de Orihuela critica la orden del gobierno que obliga a los sacerdotes a enseñar la Constitución en las iglesias, considerando que esta medida interfiere en el ámbito espiritual y transforma la religión en política.\n- **Contexto histórico:** Este texto refleja el conflicto entre el liberalismo y la Iglesia Católica durante el Trienio Liberal. Los liberales veían a la Iglesia como un obstáculo para las reformas, mientras que la Iglesia percibía las medidas liberales como una amenaza a su influencia. Este enfrentamiento fue una constante en los intentos de modernización política en España."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Documento $3$:**\n\n- **Idea principal:** El discurso de Juan Carlos I destaca la función de la monarquía como garante de la democracia, la justicia y la unidad nacional. Además, subraya su papel en asegurar una transición política pacífica y ordenada, respetando la voluntad del pueblo.\n- **Contexto histórico:** Este discurso se pronuncia durante los inicios de la Transición Democrática ($1975\\text{-}1978$), tras la muerte de Franco. Juan Carlos I fue una figura clave para liderar la apertura política hacia la democracia, enfrentando tensiones entre los sectores inmovilistas del franquismo y las demandas de reforma.\n\n**Documento $4$:**\n\n- **Idea principal:** El Estatuto de Autonomía de Cataluña reafirma el derecho de la región al autogobierno, en el marco de la Constitución de $1978$. Reconoce la identidad colectiva catalana y su integración en España, promoviendo valores como la libertad, la justicia y la solidaridad.\n- **Contexto histórico:** Este documento forma parte del proceso de descentralización llevado a cabo durante la Transición Democrática, que buscaba integrar las demandas autonómicas de Cataluña y otras regiones dentro de un modelo de Estado democrático y plural."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La Inquisición Española fue una institución fundada en $1478$ bajo los Reyes Católicos para perseguir y castigar la herejía, garantizando la ortodoxia católica. Su actividad se caracterizó por el uso de tribunales, censura y torturas para reprimir desviaciones religiosas y morales. Aunque perdió influencia en el siglo $XVIII$, no fue abolida oficialmente hasta el Trienio Liberal ($1820\\text{-}1823$), cuando los valores liberales declararon incompatible su existencia con la libertad de conciencia y la justicia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Una constitución es el conjunto de normas fundamentales que rigen la organización política, económica y social de un Estado. Establece los derechos y deberes de los ciudadanos, la división de poderes y el funcionamiento de las instituciones. En España, la Constitución de $1812$ marcó un hito como la primera carta magna liberal, mientras que la Constitución de $1978$ consolidó la democracia tras la dictadura franquista."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La Transición política en España ($1975\\text{-}1978$) fue el proceso de cambio del régimen franquista a una democracia parlamentaria. Liderada por figuras como el rey Juan Carlos I y Adolfo Suárez, se caracterizó por la aprobación de la Ley para la Reforma Política ($1976$), la legalización de partidos políticos y la promulgación de la Constitución de $1978$, que estableció un sistema democrático y descentralizado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La autonomía política es el derecho de una región o territorio a autogobernarse dentro de un Estado, gestionando sus propias instituciones y competencias. En España, la Constitución de $1978$ reconoció este derecho para nacionalidades y regiones, como Cataluña, a través de estatutos de autonomía, que definieron las relaciones entre el Estado central y las comunidades autónomas."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Trienio Liberal ($1820\\text{-}1823$) marcó un esfuerzo por implantar los principios del liberalismo en España tras el pronunciamiento de Riego y la restauración de la Constitución de Cádiz ($1812$). Durante estos años, se llevaron a cabo reformas políticas que buscaban desmantelar las instituciones del Antiguo Régimen y modernizar el Estado.\n\nEn el ámbito político, se abolieron instituciones como los señoríos jurisdiccionales y la Inquisición, reflejando el compromiso con la igualdad jurídica y la libertad individual. También se redujo el poder de la monarquía, limitando sus funciones a través de la Constitución. En el ámbito económico, se intentaron implementar medidas desamortizadoras para redistribuir la riqueza y fomentar la propiedad privada.\n\nLas reformas religiosas generaron fuertes tensiones. La abolición de la Inquisición fue un paso decisivo hacia la libertad de conciencia, pero enfrentó la resistencia de la Iglesia y los sectores conservadores. También se promovió la supresión de privilegios eclesiásticos y se obligó a los sacerdotes a enseñar la Constitución en las iglesias, lo que fue percibido como una intrusión en la esfera religiosa. Este conflicto entre los valores liberales y la tradición religiosa fue una de las causas de la inestabilidad del Trienio."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El proceso de reforma política en España iniciado en noviembre de $1975$ tras la muerte de Francisco Franco marcó el tránsito del régimen dictatorial a una democracia parlamentaria. Este período, conocido como la Transición Democrática ($1975\\text{-}1978$), fue liderado por el rey Juan Carlos I, quien asumió la jefatura del Estado con el compromiso de llevar a cabo una apertura política. La reforma se caracterizó por ser un proceso gradual, pacífico y consensuado, diseñado para evitar una ruptura abrupta con el franquismo y garantizar la estabilidad del país.\n\n### Etapas clave de la reforma política\n\n**$1$. La Ley para la Reforma Política ($1976$):**\n\nEste fue el pilar legislativo de la Transición, promovido por Adolfo Suárez, presidente del gobierno desde $1976$. La ley estableció las bases para desmontar el aparato legal del franquismo, reconociendo la soberanía nacional y convocando elecciones libres. Fue aprobada por las Cortes franquistas y refrendada en un referéndum nacional en diciembre de $1976$, lo que legitimó el proceso de reforma.\n\n**$2$. Las primeras elecciones democráticas ($1977$):**\n\nEn junio de $1977$ se celebraron las primeras elecciones generales desde la Segunda República, con la participación de fuerzas políticas de todo el espectro ideológico, incluidas las recién legalizadas, como el Partido Comunista de España (PCE). Estas elecciones dieron lugar a las primeras Cortes Constituyentes, encargadas de redactar una nueva constitución.\n\n**$3$. La Constitución de $1978$:**\n\nEl $6$ de diciembre de $1978$, el pueblo español aprobó mediante referéndum la Constitución de $1978$, que estableció las bases de la democracia. Este texto consagró:\n\n- La soberanía nacional como fundamento del poder político.\n- La monarquía parlamentaria como forma de Estado, con Juan Carlos I como jefe del Estado.\n- La división de poderes y un sistema político pluralista.\n- Los derechos y libertades fundamentales, como la libertad de expresión, el derecho de reunión y la igualdad ante la ley.\n- El sufragio universal, que garantizó la participación política de todos los ciudadanos.\n\n### La organización territorial del Estado\n\nUno de los aspectos más destacados de la Constitución de $1978$ fue la creación de un modelo de Estado descentralizado, diseñado para integrar las demandas autonómicas de las regiones históricas y evitar tensiones territoriales.\n\n**$1$. Reconocimiento de las autonomías:**\n\nEl artículo $2$ de la Constitución establece que España es un Estado que garantiza la unidad pero reconoce el derecho a la autonomía de las \"nacionalidades y regiones\". Esto permitió que comunidades históricas como Cataluña, el País Vasco y Galicia recuperaran sus instituciones de autogobierno.\n\n**$2$. Estatutos de Autonomía:**\n\nLa Constitución ofreció un marco legal para que las comunidades autónomas elaboraran sus propios estatutos de autonomía, regulando sus competencias y relaciones con el Estado central. Ejemplos significativos son el Estatuto de Autonomía de Cataluña ($1979$) y el del País Vasco ($1979$).\n\n**$3$. Distribución de competencias:**\n\nEl modelo autonómico definió competencias exclusivas para el Estado (defensa, relaciones internacionales), compartidas (educación, sanidad) y transferidas a las comunidades autónomas, promoviendo una descentralización progresiva.\n\n**$4$. Solidaridad entre regiones:**\n\nPara evitar desequilibrios, la Constitución incluyó principios de solidaridad entre comunidades, garantizando la igualdad de derechos de todos los ciudadanos, independientemente de su región de residencia.\n\n### Conclusión\n\nEl proceso de reforma política iniciado en $1975$ fue un modelo de transición pacífica hacia la democracia. Con la Constitución de $1978$ como eje, se consolidaron las libertades fundamentales, un sistema democrático y un modelo de Estado descentralizado que ha permitido integrar la diversidad territorial de España. Aunque el proceso enfrentó desafíos como intentos golpistas ($23$-F en $1981$) o tensiones territoriales posteriores, sentó las bases de una democracia estable y plural."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Entre $1808$ y $1837$, España vivió una profunda transformación política marcada por la confrontación entre absolutismo y liberalismo, dos ideologías opuestas que luchaban por definir el modelo de Estado. Este período estuvo dominado por la Guerra de la Independencia ($1808\\text{-}1814$), las Cortes de Cádiz, el regreso de Fernando VII y las primeras guerras carlistas.\n\nEl absolutismo defendía la concentración del poder en el monarca, cuya autoridad derivaba directamente de Dios. Bajo este sistema, el rey legislaba, ejecutaba y juzgaba sin ningún tipo de limitación. El absolutismo estaba estrechamente vinculado a la estructura del Antiguo Régimen, basada en la desigualdad social, los privilegios estamentales, la economía feudal y el poder hegemónico de la Iglesia Católica. Fernando VII simbolizó este modelo al restaurar el absolutismo tras la caída de Napoleón, anulando la Constitución de Cádiz y persiguiendo a los liberales durante el Sexenio Absolutista ($1814\\text{-}1820$).\n\nPor otro lado, el liberalismo surgió como una ideología revolucionaria que aspiraba a acabar con el Antiguo Régimen e implantar un sistema basado en la soberanía nacional. Los liberales defendían la separación de poderes, la igualdad jurídica, el derecho a la propiedad privada y la eliminación de los privilegios estamentales. Estas ideas quedaron plasmadas en la Constitución de Cádiz ($1812$), que consagró derechos como la libertad de imprenta y limitó el poder del rey, aunque su aplicación fue efímera debido a la restauración absolutista.\n\nEntre $1820$ y $1837$, las tensiones entre absolutistas y liberales alcanzaron su punto álgido. El Trienio Liberal ($1820\\text{-}1823$) intentó reinstaurar las ideas de Cádiz, pero fue sofocado por la intervención de la Santa Alianza. Tras la muerte de Fernando VII en $1833$, el conflicto se trasladó al terreno militar con la Primera Guerra Carlista ($1833\\text{-}1840$), donde los carlistas defendían el absolutismo mientras los isabelinos apoyaban el liberalismo. Este proceso culminó con la aprobación del Estatuto Real ($1834$) y la Constitución de $1837$, que consolidaron el liberalismo como el sistema político predominante."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La democratización en España tuvo dos hitos fundamentales en el siglo XX: la proclamación de la Segunda República ($1931$) y la Transición Democrática ($1977\\text{-}1978$) tras la dictadura franquista. Aunque ambos procesos compartieron el objetivo de instaurar un sistema democrático, sus contextos, desafíos y resultados fueron distintos.\n\nEn $1931$, la democratización comenzó con la proclamación de la Segunda República, tras las elecciones municipales que demostraron el rechazo popular hacia la monarquía de Alfonso XIII. Este proceso se caracterizó por un espíritu reformista que buscaba modernizar el país, promoviendo derechos como el sufragio universal, la reforma agraria y la separación entre la Iglesia y el Estado. La Constitución de $1931$ consagró principios democráticos, como la soberanía popular y la igualdad de derechos entre hombres y mujeres. Sin embargo, el contexto de crisis económica, polarización ideológica y resistencia de sectores conservadores dificultaron la estabilidad del régimen, que acabó siendo sustituido por la dictadura franquista tras la Guerra Civil ($1936\\text{-}1939$).\n\nEn $1977\\text{-}1978$, la democratización tuvo lugar en un contexto diferente. Tras la muerte de Franco en $1975$, se inició la Transición Democrática, liderada por el rey Juan Carlos I y Adolfo Suárez. Este proceso se caracterizó por la reconciliación nacional y el consenso entre las distintas fuerzas políticas. La aprobación de la Ley para la Reforma Política ($1976$) marcó el inicio del cambio, que culminó con la promulgación de la Constitución de $1978$. Este texto estableció un sistema democrático basado en la soberanía nacional, la descentralización territorial y los derechos fundamentales. A diferencia de $1931$, el proceso de $1977\\text{-}1978$ fue más gradual y contó con el apoyo de amplios sectores sociales y políticos, lo que permitió consolidar una democracia estable.\n\nEn resumen, mientras que la democratización de $1931$ estuvo marcada por el idealismo reformista y la inestabilidad, la de $1977\\text{-}1978$ fue un proceso pragmático y consensuado que logró superar los traumas del pasado y sentar las bases del sistema democrático actual."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "El solucionario repite las etiquetas «4a» para los dos desarrollos de la cuarta sección y «4b» para los dos de la quinta; se asociaron a los nodos correspondientes por su contenido."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+Pregunta 1: Descripción del tipo de fuentes utilizadas
+Documentos 1 y 2
+Los documentos 1 y 2 son fuentes primarias y jurídicas, ya que ambos reflejan decisiones
+legislativas tomadas en el contexto del Trienio Liberal (1820-1823). Estos textos
+provienen de actores contemporáneos a los eventos descritos, lo que los convierte en
+testimonios directos del período histórico.
+●Documento 1: El decreto sobre la abolición de la Inquisición, emitido el 9 de
+marzo de 1820, es un texto de carácter político y legislativo. Refleja la
+incompatibilidad entre el tribunal de la Inquisición y los principios liberales de la
+Constitución de Cádiz (1812), lo que justifica su eliminación. Su objetivo era
+reforzar los valores de libertad y justicia propios del liberalismo.
+●Documento 2: La carta del obispo de Orihuela, Simón López, tiene un carácter
+político y religioso. En este texto, el obispo critica la orden del gobierno que
+obliga a los sacerdotes a explicar la Constitución de Cádiz en las misas. Desde
+su perspectiva, esta medida representa una intromisión en los asuntos religiosos
+y transforma la enseñanza espiritual en instrucción política, un aspecto que
+revela la tensión entre el liberalismo y la Iglesia.
+Ambos documentos son relevantes para entender las reformas liberales del Trienio y el
+conflicto entre el Estado y la Iglesia.
+Documentos 3 y 4
+●Documento 3: El discurso de Juan Carlos I ante el Congreso de los Estados
+Unidos (2 de junio de 1976) es una fuente primaria de carácter político.
+Representa la visión de la monarquía parlamentaria en los inicios de la
+Transición, destacando su papel como garante de la democracia, la estabilidad
+política y la unidad nacional en un contexto de apertura tras la dictadura
+franquista.
+●Documento 4: El Estatuto de Autonomía de Cataluña (1979) es una fuente
+primaria y jurídica, que establece la estructura y funciones del gobierno catalán
+tras el restablecimiento de las autonomías en el marco de la Constitución de
+1978. Refleja la voluntad de consolidar un sistema descentralizado basado en la
+solidaridad entre regiones y nacionalidades.
+
+=== PAGINA 2 ===
+Ambos documentos son representativos de la construcción democrática en España
+durante la Transición y del esfuerzo por integrar pluralidad territorial y política.
+Pregunta 2: Identificación de ideas principales y contexto histórico
+Documentos 1 y 2
+1.
+Documento 1:
+○Idea principal: La abolición definitiva del tribunal de la Inquisición, al
+considerarse incompatible con los principios liberales de la Constitución
+de Cádiz (1812). Además, se ordena la liberación de los presos por
+motivos religiosos y políticos, reflejando los ideales de justicia y libertad
+del liberalismo.
+○Contexto histórico: Este decreto fue promulgado durante el Trienio
+Liberal (1820-1823), un período iniciado tras el pronunciamiento de
+Riego, en el que se restauró la Constitución de Cádiz. En estos años, los
+liberales impulsaron reformas para desmantelar el Antiguo Régimen,
+enfrentándose a la oposición de sectores absolutistas y de la Iglesia.
+2. Documento 2:
+○Idea principal: El obispo de Orihuela critica la orden del gobierno que
+obliga a los sacerdotes a enseñar la Constitución en las iglesias,
+considerando que esta medida interfiere en el ámbito espiritual y
+transforma la religión en política.
+○Contexto histórico: Este texto refleja el conflicto entre el liberalismo y la
+Iglesia Católica durante el Trienio Liberal. Los liberales veían a la Iglesia
+como un obstáculo para las reformas, mientras que la Iglesia percibía las
+medidas liberales como una amenaza a su influencia. Este enfrentamiento
+fue una constante en los intentos de modernización política en España.
+Documentos 3 y 4
+1.
+Documento 3:
+○Idea principal: El discurso de Juan Carlos I destaca la función de la
+monarquía como garante de la democracia, la justicia y la unidad nacional.
+Además, subraya su papel en asegurar una transición política pacífica y
+ordenada, respetando la voluntad del pueblo.
+
+=== PAGINA 3 ===
+○Contexto histórico: Este discurso se pronuncia durante los inicios de la
+Transición Democrática (1975-1978), tras la muerte de Franco. Juan
+Carlos I fue una figura clave para liderar la apertura política hacia la
+democracia, enfrentando tensiones entre los sectores inmovilistas del
+franquismo y las demandas de reforma.
+2. Documento 4:
+○Idea principal: El Estatuto de Autonomía de Cataluña reafirma el derecho
+de la región al autogobierno, en el marco de la Constitución de 1978.
+Reconoce la identidad colectiva catalana y su integración en España,
+promoviendo valores como la libertad, la justicia y la solidaridad.
+○Contexto histórico: Este documento forma parte del proceso de
+descentralización llevado a cabo durante la Transición Democrática, que
+buscaba integrar las demandas autonómicas de Cataluña y otras regiones
+dentro de un modelo de Estado democrático y plural.
+Pregunta 3: Definición de conceptos
+1.
+Inquisición
+La Inquisición Española fue una institución fundada en 1478 bajo los Reyes
+Católicos para perseguir y castigar la herejía, garantizando la ortodoxia católica.
+Su actividad se caracterizó por el uso de tribunales, censura y torturas para
+reprimir desviaciones religiosas y morales. Aunque perdió influencia en el siglo
+XVIII, no fue abolida oficialmente hasta el Trienio Liberal (1820-1823), cuando
+los valores liberales declararon incompatible su existencia con la libertad de
+conciencia y la justicia.
+2. Constitución
+Una constitución es el conjunto de normas fundamentales que rigen la
+organización política, económica y social de un Estado. Establece los derechos y
+deberes de los ciudadanos, la división de poderes y el funcionamiento de las
+instituciones. En España, la Constitución de 1812 marcó un hito como la primera
+carta magna liberal, mientras que la Constitución de 1978 consolidó la
+democracia tras la dictadura franquista.
+3. Transición
+ 
+política
+La Transición política en España (1975-1978) fue el proceso de cambio del
+régimen franquista a una democracia parlamentaria. Liderada por figuras como el
+rey Juan Carlos I y Adolfo Suárez, se caracterizó por la aprobación de la Ley
+
+=== PAGINA 4 ===
+para la Reforma Política (1976), la legalización de partidos políticos y la
+promulgación de la Constitución de 1978, que estableció un sistema democrático
+y descentralizado.
+4. Autonomía
+ 
+política
+La autonomía política es el derecho de una región o territorio a autogobernarse
+dentro de un Estado, gestionando sus propias instituciones y competencias. En
+España, la Constitución de 1978 reconoció este derecho para nacionalidades y
+regiones, como Cataluña, a través de estatutos de autonomía, que definieron las
+relaciones entre el Estado central y las comunidades autónomas.
+Pregunta 4a: Reformas del Trienio Liberal y medidas que
+afectaron a la religión
+El Trienio Liberal (1820-1823) marcó un esfuerzo por implantar los principios del
+liberalismo en España tras el pronunciamiento de Riego y la restauración de la
+Constitución de Cádiz (1812). Durante estos años, se llevaron a cabo reformas políticas
+que buscaban desmantelar las instituciones del Antiguo Régimen y modernizar el
+Estado.
+En el ámbito político, se abolieron instituciones como los señoríos jurisdiccionales y la
+Inquisición, reflejando el compromiso con la igualdad jurídica y la libertad individual.
+También se redujo el poder de la monarquía, limitando sus funciones a través de la
+Constitución. En el ámbito económico, se intentaron implementar medidas
+desamortizadoras para redistribuir la riqueza y fomentar la propiedad privada.
+Las reformas religiosas generaron fuertes tensiones. La abolición de la Inquisición fue
+un paso decisivo hacia la libertad de conciencia, pero enfrentó la resistencia de la Iglesia
+y los sectores conservadores. También se promovió la supresión de privilegios
+eclesiásticos y se obligó a los sacerdotes a enseñar la Constitución en las iglesias, lo
+que fue percibido como una intrusión en la esfera religiosa. Este conflicto entre los
+valores liberales y la tradición religiosa fue una de las causas de la inestabilidad del
+Trienio.
+4a: El proceso de reforma política en España desde noviembre de 1975 y las principales
+disposiciones legales y constitucionales para la democratización y organización
+territorial del Estado
+
+=== PAGINA 5 ===
+El proceso de reforma política en España iniciado en noviembre de 1975 tras la muerte
+de Francisco Franco marcó el tránsito del régimen dictatorial a una democracia
+parlamentaria. Este período, conocido como la Transición Democrática (1975-1978),
+fue liderado por el rey Juan Carlos I, quien asumió la jefatura del Estado con el
+compromiso de llevar a cabo una apertura política. La reforma se caracterizó por ser un
+proceso gradual, pacífico y consensuado, diseñado para evitar una ruptura abrupta con
+el franquismo y garantizar la estabilidad del país.
+Etapas clave de la reforma política
+1.
+La Ley para la Reforma Política (1976):
+Este fue el pilar legislativo de la Transición, promovido por Adolfo Suárez, 
+presidente del gobierno desde 1976. La ley estableció las bases para desmontar 
+el aparato legal del franquismo, reconociendo la soberanía nacional y convocando
+elecciones libres. Fue aprobada por las Cortes franquistas y refrendada en un 
+referéndum nacional en diciembre de 1976, lo que legitimó el proceso de reforma.
+2. Las primeras elecciones democráticas (1977):
+En junio de 1977 se celebraron las primeras elecciones generales desde la 
+Segunda República, con la participación de fuerzas políticas de todo el espectro 
+ideológico, incluidas las recién legalizadas, como el Partido Comunista de España
+(PCE). Estas elecciones dieron lugar a las primeras Cortes Constituyentes, 
+encargadas de redactar una nueva constitución.
+3. La Constitución de 1978:
+El 6 de diciembre de 1978, el pueblo español aprobó mediante referéndum la 
+Constitución de 1978, que estableció las bases de la democracia. Este texto 
+consagró:
+○La soberanía nacional como fundamento del poder político.
+○La monarquía parlamentaria como forma de Estado, con Juan Carlos I 
+como jefe del Estado.
+○La división de poderes y un sistema político pluralista.
+○Los derechos y libertades fundamentales, como la libertad de expresión, 
+el derecho de reunión y la igualdad ante la ley.
+○El sufragio universal, que garantizó la participación política de todos los 
+ciudadanos.
+La organización territorial del Estado
+
+=== PAGINA 6 ===
+Uno de los aspectos más destacados de la Constitución de 1978 fue la creación de un
+modelo de Estado descentralizado, diseñado para integrar las demandas autonómicas de
+las regiones históricas y evitar tensiones territoriales.
+1.
+Reconocimiento de las autonomías:
+El artículo 2 de la Constitución establece que España es un Estado que 
+garantiza la unidad pero reconoce el derecho a la autonomía de las 
+"nacionalidades y regiones". Esto permitió que comunidades históricas como 
+Cataluña, el País Vasco y Galicia recuperaran sus instituciones de autogobierno.
+2. Estatutos de Autonomía:
+La Constitución ofreció un marco legal para que las comunidades autónomas 
+elaboraran sus propios estatutos de autonomía, regulando sus competencias y 
+relaciones con el Estado central. Ejemplos significativos son el Estatuto de 
+Autonomía de Cataluña (1979) y el del País Vasco (1979).
+3. Distribución de competencias:
+El modelo autonómico definió competencias exclusivas para el Estado (defensa, 
+relaciones internacionales), compartidas (educación, sanidad) y transferidas a las 
+comunidades autónomas, promoviendo una descentralización progresiva.
+4. Solidaridad entre regiones:
+Para evitar desequilibrios, la Constitución incluyó principios de solidaridad entre 
+comunidades, garantizando la igualdad de derechos de todos los ciudadanos, 
+independientemente de su región de residencia.
+Conclusión
+El proceso de reforma política iniciado en 1975 fue un modelo de transición pacífica
+hacia la democracia. Con la Constitución de 1978 como eje, se consolidaron las
+libertades fundamentales, un sistema democrático y un modelo de Estado
+descentralizado que ha permitido integrar la diversidad territorial de España. Aunque el
+proceso enfrentó desafíos como intentos golpistas (23-F en 1981) o tensiones
+territoriales posteriores, sentó las bases de una democracia estable y plural.
+Pregunta 4b: Diferencias ideológicas y políticas entre el absolutismo y el liberalismo en
+España (1808-1837)
+Entre 1808 y 1837, España vivió una profunda transformación política marcada por la
+confrontación entre absolutismo y liberalismo, dos ideologías opuestas que luchaban por
+definir el modelo de Estado. Este período estuvo dominado por la Guerra de la
+
+=== PAGINA 7 ===
+Independencia (1808-1814), las Cortes de Cádiz, el regreso de Fernando VII y las
+primeras guerras carlistas.
+El absolutismo defendía la concentración del poder en el monarca, cuya autoridad
+derivaba directamente de Dios. Bajo este sistema, el rey legislaba, ejecutaba y juzgaba
+sin ningún tipo de limitación. El absolutismo estaba estrechamente vinculado a la
+estructura del Antiguo Régimen, basada en la desigualdad social, los privilegios
+estamentales, la economía feudal y el poder hegemónico de la Iglesia Católica. Fernando
+VII simbolizó este modelo al restaurar el absolutismo tras la caída de Napoleón,
+anulando la Constitución de Cádiz y persiguiendo a los liberales durante el Sexenio
+Absolutista (1814-1820).
+Por otro lado, el liberalismo surgió como una ideología revolucionaria que aspiraba a
+acabar con el Antiguo Régimen e implantar un sistema basado en la soberanía nacional.
+Los liberales defendían la separación de poderes, la igualdad jurídica, el derecho a la
+propiedad privada y la eliminación de los privilegios estamentales. Estas ideas quedaron
+plasmadas en la Constitución de Cádiz (1812), que consagró derechos como la libertad
+de imprenta y limitó el poder del rey, aunque su aplicación fue efímera debido a la
+restauración absolutista.
+Entre 1820 y 1837, las tensiones entre absolutistas y liberales alcanzaron su punto
+álgido. El Trienio Liberal (1820-1823) intentó reinstaurar las ideas de Cádiz, pero fue
+sofocado por la intervención de la Santa Alianza. Tras la muerte de Fernando VII en
+1833, el conflicto se trasladó al terreno militar con la Primera Guerra Carlista (1833-
+1840), donde los carlistas defendían el absolutismo mientras los isabelinos apoyaban el
+liberalismo. Este proceso culminó con la aprobación del Estatuto Real (1834) y la
+Constitución de 1837, que consolidaron el liberalismo como el sistema político
+predominante.
+Pregunta 4b: Comparación de los procesos de democratización en 1931 y 1977-1978
+La democratización en España tuvo dos hitos fundamentales en el siglo XX: la
+proclamación de la Segunda República (1931) y la Transición Democrática (1977-1978)
+tras la dictadura franquista. Aunque ambos procesos compartieron el objetivo de
+instaurar un sistema democrático, sus contextos, desafíos y resultados fueron distintos.
+En 1931, la democratización comenzó con la proclamación de la Segunda República, tras
+las elecciones municipales que demostraron el rechazo popular hacia la monarquía de
+Alfonso XIII. Este proceso se caracterizó por un espíritu reformista que buscaba
+modernizar el país, promoviendo derechos como el sufragio universal, la reforma agraria
+
+=== PAGINA 8 ===
+y la separación entre la Iglesia y el Estado. La Constitución de 1931 consagró principios
+democráticos, como la soberanía popular y la igualdad de derechos entre hombres y
+mujeres. Sin embargo, el contexto de crisis económica, polarización ideológica y
+resistencia de sectores conservadores dificultaron la estabilidad del régimen, que acabó
+siendo sustituido por la dictadura franquista tras la Guerra Civil (1936-1939).
+En 1977-1978, la democratización tuvo lugar en un contexto diferente. Tras la muerte
+de Franco en 1975, se inició la Transición Democrática, liderada por el rey Juan Carlos
+I y Adolfo Suárez. Este proceso se caracterizó por la reconciliación nacional y el
+consenso entre las distintas fuerzas políticas. La aprobación de la Ley para la Reforma
+Política (1976) marcó el inicio del cambio, que culminó con la promulgación de la
+Constitución de 1978. Este texto estableció un sistema democrático basado en la
+soberanía nacional, la descentralización territorial y los derechos fundamentales. A
+diferencia de 1931, el proceso de 1977-1978 fue más gradual y contó con el apoyo de
+amplios sectores sociales y políticos, lo que permitió consolidar una democracia estable.
+En resumen, mientras que la democratización de 1931 estuvo marcada por el idealismo
+reformista y la inestabilidad, la de 1977-1978 fue un proceso pragmático y consensuado
+que logró superar los traumas del pasado y sentar las bases del sistema democrático
+actual.

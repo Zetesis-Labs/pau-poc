@@ -1,0 +1,1363 @@
+{
+ "documento": {
+  "id": "fda5ea13b6c5",
+  "region": "Comunidad Valenciana",
+  "asignatura": "Ciencias de la Tierra y Medioambientales",
+  "anio": 2013,
+  "convocatoria": "extraordinaria",
+  "tipo": "examen",
+  "fuente": "umh",
+  "url": "http://bancdelaselectivitat.umh.es/files/2014/05/EXAMEN_CTM_Juliol2013.pdf",
+  "archivo": "pdfs/comunidad-valenciana/ciencias-de-la-tierra-y-medioambientales/2013-extraordinaria-examen-umh-fda5ea13b6c5.pdf",
+  "paginas": 4,
+  "estrato": "Comunidad Valenciana · hasta-2019"
+ },
+ "modelo": "gpt-6-luna",
+ "esfuerzo": "high",
+ "esquema": "v3",
+ "prompt": "p6",
+ "segundos": 89.0,
+ "uso": {
+  "input_tokens": 19432,
+  "input_tokens_details": {
+   "cache_write_tokens": 19429,
+   "cached_tokens": 0
+  },
+  "output_tokens": 12053,
+  "output_tokens_details": {
+   "reasoning_tokens": 3442
+  },
+  "total_tokens": 31485
+ },
+ "estado": "completed",
+ "respuesta": "resp_0fc156613920fedd016abb01db02f087d192ecfd173afccb17",
+ "normalizaciones": 0,
+ "resultado": {
+  "es_examen": true,
+  "idiomas": [
+   "va",
+   "es"
+  ],
+  "paginas_enunciado": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "otro_contenido": [
+   "instrucciones"
+  ],
+  "instrucciones": [
+   {
+    "idioma": "va",
+    "markdown": "L'examen consta de dos exercicis (A i B) amb tres preguntes i quatre qüestions cada una. L'alumne ha de triar un dels dos exercicis proposats (A o B), i ha de respondre a les preguntes i qüestions de l'opció triada. Cada pregunta es puntua sobre $10$ i el total es divideix entre $3$."
+   },
+   {
+    "idioma": "es",
+    "markdown": "El examen consta de dos ejercicios (A y B) con tres preguntas y cuatro cuestiones cada una. El alumno debe escoger uno de los dos ejercicios propuestos (A o B), y debe responder a las preguntas y cuestiones de la opción elegida. Cada pregunta se puntúa sobre $10$ y el total se divide entre $3$."
+   }
+  ],
+  "eleccion_raiz": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "L'alumne ha de triar un dels dos exercicis proposats (A o B), i ha de respondre a les preguntes i qüestions de l'opció triada."
+    },
+    {
+     "idioma": "es",
+     "markdown": "El alumno debe escoger uno de los dos ejercicios propuestos (A o B), y debe responder a las preguntas y cuestiones de la opción elegida."
+    }
+   ]
+  },
+  "puntuacion_total": 10.0,
+  "estimulos": [],
+  "nodos": [
+   {
+    "id": "n1",
+    "padre": null,
+    "tipo": "opcion",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "EXERCICI A"
+     },
+     {
+      "idioma": "es",
+      "markdown": "EJERCICIO A"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [],
+    "puntos": null,
+    "eleccion": {
+     "minimo": 3,
+     "maximo": 3,
+     "de": 3,
+     "agregacion": "media",
+     "literal": []
+    },
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n2",
+    "padre": null,
+    "tipo": "opcion",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "EXERCICI B"
+     },
+     {
+      "idioma": "es",
+      "markdown": "EJERCICIO B"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [],
+    "puntos": null,
+    "eleccion": {
+     "minimo": 3,
+     "maximo": 3,
+     "de": 3,
+     "agregacion": "media",
+     "literal": []
+    },
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n3",
+    "padre": "n1",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA A1."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA A1."
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "RECURSOS ENERGÈTICS"
+     },
+     {
+      "idioma": "es",
+      "markdown": "RECURSOS ENERGÉTICOS"
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n4",
+    "padre": "n1",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA A2."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA A2."
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "RECURSOS NATURALS. EL SÒL (veure figura A2)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "RECURSOS NATURALES. EL SUELO (ver figura A2)"
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n5",
+    "padre": "n1",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA A3."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA A3."
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "AVALUACIÓ D'IMPACTE AMBIENTAL (veure figura A3)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "EVALUACIÓN DE IMPACTO AMBIENTAL (ver figura A3)"
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n6",
+    "padre": "n2",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA B1."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA B1."
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "CONTAMINACIÓ D’AIGÜES I GESTIÓ DE RECURSOS HÍDRICS (veure figura B1)\n\nEn una xicoteta illa mediterrània s’ha previst construir un complex hoteler de luxe, amb un centre lúdic termal i un camp de golf. Els pocs recursos hídrics superficials existents (només hi ha un xicotet rierol però de cabal constant) han obligat a construir un pou per a utilitzar aigua bombada de l'aqüífer."
+     },
+     {
+      "idioma": "es",
+      "markdown": "CONTAMINACIÓN DE AGUAS Y GESTIÓN DE RECURSOS HÍDRICOS (ver figura B1)\n\nEn una pequeña isla mediterránea se tiene previsto construir un complejo hotelero de lujo, con un centro lúdico-termal y un campo de golf. Los pocos recursos hídricos superficiales existentes (sólo hay un pequeño arroyo pero de caudal constante) han obligado a construir un pozo para utilizar agua bombeada del acuífero."
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n7",
+    "padre": "n2",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA B2."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA B2."
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "NOVES TECNOLOGIES EN LA INVESTIGACIÓ DE RECURSOS, RISCOS I IMPACTES AMBIENTALS"
+     },
+     {
+      "idioma": "es",
+      "markdown": "NUEVAS TECNOLOGÍAS EN LA INVESTIGACIÓN DE RECURSOS, RIESGOS E IMPACTOS AMBIENTALES"
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n8",
+    "padre": "n2",
+    "tipo": "pregunta",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "PREGUNTA B3."
+     },
+     {
+      "idioma": "es",
+      "markdown": "PREGUNTA B3."
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "EL TEMPS ATMOSFÈRIC\n\nL'huracà Katrina va ser el més destructiu i el que va causar més víctimes mortals de la temporada d'huracans en l'Atlàntic de $2005$. Es tracta de l'huracà que ha provocat més danys econòmics, així com un dels cinc huracans més mortífers de la història dels Estats Units. Així mateix, el Katrina és el sext més intens de tots els huracans de l'Atlàntic registrats. Almenys $1.833$ persones van morir a causa del propi huracà o les consegüents inundacions, convertint-se en l'huracà més mortífer als Estats Units des de l'huracà Sant Felip II, de $1928$. La xifra total de danys materials es va estimar en un principi en $108$ mil milions de dòlars, quasi el quàdruple que la dels desperfectes causats per l'huracà Andrew en $1992$."
+     },
+     {
+      "idioma": "es",
+      "markdown": "EL TIEMPO ATMOSFÉRICO\n\nEl huracán Katrina fue el más destructivo y el que causó más víctimas mortales de la temporada de huracanes en el Atlántico de $2005$. Se trata del huracán que ha provocado más daños económicos, así como uno de los cinco huracanes más mortíferos, de la historia de Estados Unidos. Asimismo, el Katrina es el sexto más intenso de todos los huracanes del Atlántico registrados. Al menos $1833$ personas fallecieron debido al propio huracán o las consiguientes inundaciones, convirtiéndose en el huracán más mortífero en Estados Unidos desde el huracán San Felipe II, de $1928$. La cifra total de daños materiales se estimó en un principio en $108$ mil millones de dólares, casi el cuádruple que la de los desperfectos causados por el huracán Andrew en $1992$."
+     }
+    ],
+    "puntos": 10.0,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n9",
+    "padre": "n3",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Explique l'origen del carbó. Cite altres quatre fonts d'energia, dos renovables i altres dos no renovables."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Explique el origen del carbón. Cite otras cuatro fuentes de energía, dos renovables y otras dos no renovables."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n10",
+    "padre": "n3",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Cite tres processos per a la producció d'energia a partir de biomassa, i explique un d'estos processos."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Cite tres procesos para la producción de energía a partir de biomasa, y explique uno de estos procesos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n11",
+    "padre": "n3",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Indique dos inconvenients associats a la utilització de combustibles fòssils per a la producció d'energia. Comente dos impactes derivats d'esta utilització."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Indique dos inconvenientes asociados a la utilización de combustibles fósiles para la producción de energía. Comente dos impactos derivados de esta utilización."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n12",
+    "padre": "n3",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Cite cinc mesures per a fomentar l'estalvi energètic."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Cite cinco medidas para fomentar el ahorro energético."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n13",
+    "padre": "n4",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Com es denomina el procés de formació del sòl? Considerant la figura, explique la formació i evolució del sòl, tot indicant com es va estructurant el perfil edàfic."
+     },
+     {
+      "idioma": "es",
+      "markdown": "¿Cómo se denomina el proceso de formación del suelo?. Considerando la figura, explique la formación y evolución del suelo, indicando cómo se va estructurando el perfil edáfico."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n14",
+    "padre": "n4",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Les fletxes de la figura fan referència als factors formadors del sòl. Indique'ls."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Las flechas de la figura hacen referencia a los factores formadores del suelo. Indíquelos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n15",
+    "padre": "n4",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Cite tres processos de degradació del sòl i explique un d'ells."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Cite tres procesos de degradación del suelo y explique uno de ellos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n16",
+    "padre": "n4",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Comente cinc mesures per a la conservació o recuperació de sòls."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Comente cinco medidas para la conservación o recuperación de suelos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n17",
+    "padre": "n5",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Explique la tècnica d'Avaluació d'Impacte Ambiental (EIA) que es mostra en la figura. Cite dos tècniques més que s'utilitzen en EIA."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Explique la técnica de Evaluación de Impacto Ambiental (EIA) que se muestra en la figura. Cite dos técnicas más que se utilicen en EIA."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n18",
+    "padre": "n5",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Basant-se en la figura, pose tres exemples d'impactes negatius i dos positius associats a un projecte d'urbanització."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Basándose en la figura, ponga tres ejemplos de impactos negativos y dos positivos asociados a un proyecto de urbanización."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n19",
+    "padre": "n5",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Explique la branca de la figura relativa a l'erosió, justificant l'impacte que pot produir la urbanització de zones rurals interiors de l'àmbit mediterrani sobre aquest procés."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Explique la rama de la figura relativa a la erosión, justificando el impacto que puede producir la urbanización de zonas rurales interiores del ámbito mediterráneo sobre este proceso."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n20",
+    "padre": "n5",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Comente dos impactes ambientals provocats per projectes d'urbanització en les zones litorals. Cite dos tipus d'ecosistemes afectats per la urbanització en estes zones."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Comente dos impactos ambientales provocados por proyectos de urbanización en las zonas litorales. Cite dos tipos de ecosistemas afectados por la urbanización en estas zonas."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 1
+     },
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "id": "n21",
+    "padre": "n6",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "En el dibuix a s'indica la posició del nivell freàtic i del límit de la zona d'aigua dolça i aigua salada (interfície). Marque en el dibuix b quina seria aproximadament la morfologia d'aquestes dos línies després d'un període llarg d'explotació d'aigua del pou."
+     },
+     {
+      "idioma": "es",
+      "markdown": "En el dibujo a se indica la posición del nivel freático y del límite de la zona de agua dulce y agua salada (interfaz). Marque en el dibujo b cual sería aproximadamente la morfología de estas dos líneas después de un periodo largo de explotación de agua del pozo."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n22",
+    "padre": "n6",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "La utilització del pou, pot provocar algun problema en la qualitat de l'aigua de l'aqüífer?. Quin? De què depén?."
+     },
+     {
+      "idioma": "es",
+      "markdown": "La utilización del pozo, ¿puede provocar algún problema en la calidad del agua del acuífero?. ¿Cuál?. ¿De qué depende?."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n23",
+    "padre": "n6",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Es vol aprofitar el rierol que passa per la zona per a canalitzar la seua aigua i construir llacunes en el camp de golf. Comente dos conseqüències ambientals que puga provocar la utilització d'aquesta aigua."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Se quiere aprovechar el arroyo que pasa por la zona para canalizar su agua y construir lagunas en el campo de golf. Comente dos consecuencias ambientales que pueda provocar la utilización de esta agua."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n24",
+    "padre": "n6",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "L'empresa promotora de l'obra ha decidit construir una depuradora que li permeta reutilitzar les aigües residuals de les instal·lacions. Descriga breument els processos principals de tractament que segueix l'aigua bruta en una depuradora."
+     },
+     {
+      "idioma": "es",
+      "markdown": "La empresa promotora de la obra ha decidido construir una depuradora que le permita reutilizar las aguas residuales de las instalaciones. Describa brevemente los procesos principales de tratamiento que sigue el agua bruta en una depuradora."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n25",
+    "padre": "n7",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Comente què és la teledetecció i quins són els components d'un sistema de teledetecció per satèl·lit."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Comente qué es la teledetección y cuáles son los componentes de un sistema de teledetección por satélite."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n26",
+    "padre": "n7",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Explique què són els SIG i enumere cinc aplicacions dels SIG en relació al medi ambient."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Explique qué son los SIG y enumere cinco aplicaciones de los SIG en relación al medio ambiente."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n27",
+    "padre": "n7",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Quina és la base del funcionament d'un sistema GPS?. Indique tres exemples d'ús en estudis mediambientals."
+     },
+     {
+      "idioma": "es",
+      "markdown": "¿Cuál es la base del funcionamiento de un sistema GPS?. Indique tres ejemplos de uso en estudios medioambientales."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n28",
+    "padre": "n7",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Què són els models de simulació ambiental?. Comente la seua utilitat en la prevenció / planificació ambiental, citant tres exemples."
+     },
+     {
+      "idioma": "es",
+      "markdown": "¿Qué son los modelos de simulación ambiental?. Comente su utilidad en la prevención / planificación ambiental, citando tres ejemplos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n29",
+    "padre": "n8",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "a)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "a)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 1,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Definisca temps atmosfèric, definisca clima i indique la principal diferència entre estos dos conceptes."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Defina tiempo atmosférico, defina clima e indique la principal diferencia entre estos dos conceptos."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n30",
+    "padre": "n8",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "b)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "b)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 2,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Què és un mapa meteorològic i quines variables fonamentals s'utilitzen per a confeccionar-los?"
+     },
+     {
+      "idioma": "es",
+      "markdown": "¿Qué es un mapa meteorológico y qué variables fundamentales se utilizan para confeccionarlos?."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n31",
+    "padre": "n8",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "c)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "c)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 3,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Descriga el procés de formació dels ciclons forts (huracans), indicant les regions on preferentment es formen, i realitzant una estimació de la velocitat que aconsegueixen els vents en superfície."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Describa el proceso de formación de los ciclones fuertes (huracanes), indicando las regiones dónde preferentemente se forman, y realizando una estimación de la velocidad que alcanzan los vientos en superficie."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "id": "n32",
+    "padre": "n8",
+    "tipo": "apartado",
+    "etiqueta": [
+     {
+      "idioma": "va",
+      "markdown": "d)"
+     },
+     {
+      "idioma": "es",
+      "markdown": "d)"
+     }
+    ],
+    "sintetico": false,
+    "orden": 4,
+    "enunciado": [
+     {
+      "idioma": "va",
+      "markdown": "Cite quatre conseqüències catastròfiques que ocasionen els huracans i comente una d'elles."
+     },
+     {
+      "idioma": "es",
+      "markdown": "Cite cuatro consecuencias catastróficas que ocasionan los huracanes y comente una de ellas."
+     }
+    ],
+    "puntos": null,
+    "eleccion": null,
+    "estimulos": [],
+    "paginas": [
+     {
+      "idioma": "va",
+      "pagina": 2
+     },
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   }
+  ],
+  "incidencias": [
+   "PREGUNTA A2: la figura A2 se cita en las versiones valenciana y española (páginas 1 y 3), pero no aparece en el PDF proporcionado; no se crea estímulo ni recorte.",
+   "PREGUNTA A3: la figura A3 se cita en las versiones valenciana y española (páginas 1 y 3), pero no aparece en el PDF proporcionado; no se crea estímulo ni recorte.",
+   "PREGUNTA B1: los dibujos a y b se citan en las versiones valenciana y española (páginas 2 y 4), pero no aparecen en el PDF proporcionado; no se crea estímulo ni recorte.",
+   "En la versión española de PREGUNTA B1, apartado a), aparece «cual sería» sin tilde; se conserva literalmente."
+  ]
+ },
+ "figuras": [],
+ "hallazgos": []
+}

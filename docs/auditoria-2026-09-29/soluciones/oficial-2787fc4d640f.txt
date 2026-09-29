@@ -1,0 +1,2210 @@
+DOCUMENTO {"id": "2787fc4d640f", "region": "Madrid", "asignatura": "Química", "anio": 2019, "convocatoria": "modelo", "tipo": "modelo", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1DdoCq7pLAyU6KWqLi6k2uYxqJu3_asuT/view?usp=sharing", "archivo": "pdfs/madrid/quimica/2019-modelo-modelo-uc3m-2787fc4d640f.pdf", "paginas": 11, "estrato": "Madrid · hasta-2019"}
+FUENTE {"archivo": "pdfs/madrid/quimica/2019-modelo-modelo-uc3m-2787fc4d640f.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Considere las sustancias $\\ce{Cl2}$, $\\ce{NH3}$, $\\ce{Mg}$ y $\\ce{NaBr}$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Justifique el tipo de enlace presente en cada una de ellas."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique si conducen la corriente eléctrica a temperatura ambiente."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba las estructuras de Lewis de aquellas que sean covalentes."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Justifique si $\\ce{NH3}$ puede formar enlace de hidrógeno."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La solubilidad del cromato de plata en agua a $25\\,^{\\circ}\\mathrm{C}$ es $0{,}00435\\,\\mathrm{g}/100\\,\\mathrm{mL}$. Datos: Masas atómicas: $\\mathrm{O}=16{,}0$; $\\mathrm{Cr}=52{,}0$; $\\mathrm{Ag}=107{,}8$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba el equilibrio de solubilidad en agua del cromato de plata, indicando los estados de cada especie."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule el producto de solubilidad de la sal a $25\\,^{\\circ}\\mathrm{C}$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule si se formará precipitado cuando se mezclan $20\\,\\mathrm{mL}$ de cromato de sodio $0{,}8\\,\\mathrm{M}$ con $300\\,\\mathrm{mL}$ de nitrato de plata $0{,}5\\,\\mathrm{M}$. Considere los volúmenes aditivos."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Se toman $2\\,\\mathrm{mL}$ de una disolución de ácido nítrico $0{,}1\\,\\mathrm{M}$ y se añade el agua necesaria para preparar $250\\,\\mathrm{mL}$ de una nueva disolución. Calcule: Datos: $pK_{\\mathrm{a}}$ (ácido etanoico) = $4{,}74$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El pH de esta nueva disolución."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La concentración de una disolución de ácido etanoico que tiene el mismo pH que la disolución del apartado anterior."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El volumen de una disolución de hidróxido de sodio $0{,}2\\,\\mathrm{M}$ que se necesita para neutralizar $10\\,\\mathrm{mL}$ de la disolución de ácido nítrico $0{,}1\\,\\mathrm{M}$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El aminoácido valina es el ácido $2$-amino-$3$-metilbutanoico."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba su fórmula semidesarrollada."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Formule y nombre un compuesto que sea isómero de cadena de la valina."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba la reacción de la valina con el metanol, nombre el producto orgánico formado e indique a qué tipo de reacción corresponde."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Formule y nombre el compuesto que resulta al sustituir el grupo amino por un grupo hidroxilo en la valina."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A5"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "En una celda electrolítica conteniendo $\\ce{CuCl2}$ fundido se hace pasar una cierta cantidad de corriente durante $2\\,\\mathrm{h}$, observándose que se deposita cobre metálico y se desprende cloro. Datos. Masa atómica: $\\mathrm{Cu}=63{,}5$. $F=96485\\,\\mathrm{C}$. $R=0{,}082\\,\\mathrm{atm\\cdot L\\cdot mol^{-1}\\cdot K^{-1}}$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Disocie la sal y escriba ajustadas las reacciones que se producen en el ánodo y en el cátodo."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determine la intensidad de corriente necesaria para depositar $15{,}9\\,\\mathrm{g}$ de cobre."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule el volumen de cloro obtenido a $25\\,^{\\circ}\\mathrm{C}$ y $1\\,\\mathrm{atm}$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Considere las configuraciones electrónicas de tres elementos A: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^4$; B: $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^5$ y C: $1s^2\\,2s^2\\,2p^6\\,3s^1$. Datos. $h=6{,}626\\times10^{-34}\\,\\mathrm{J\\cdot s}$; $N_{\\mathrm{A}}=6{,}022\\times10^{23}\\,\\mathrm{mol^{-1}}$; $R_{\\mathrm{H}}=2{,}180\\times10^{-18}\\,\\mathrm{J}$; $R_{\\mathrm{H}}=1{,}097\\times10^7\\,\\mathrm{m^{-1}}$; $c=3\\times10^8\\,\\mathrm{m\\cdot s^{-1}}$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Indique para cada elemento el grupo, el periodo, el nombre y el símbolo."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Defina primera energía de ionización y justifique en cuál de los tres elementos es menor."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "En el espectro de emisión del átomo de hidrógeno hay una línea situada en la zona visible cuya energía asociada es $291{,}87\\,\\mathrm{kJ\\cdot mol^{-1}}$. Calcule a qué transición corresponde."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n29",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Complete las siguientes reacciones formulando los reactivos y el producto mayoritario. Nombre el producto e identifique el tipo de reacción al que corresponden."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n30",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "$\\ce{Metilbut-2-eno + HBr ->}$"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n31",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "$\\ce{Ácido metanoico + propan-2-ol ->}$"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n32",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "$\\ce{Ácido butanoico + reductor fuerte/ácido ->}$"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n33",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "$\\ce{Pentan-2-ol + H2SO4/calor ->}$"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n34",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Tras estudiar la reacción en fase gaseosa $\\ce{A + 2B -> 2C}$, se ha determinado que si se duplica la concentración de $A$, manteniendo constante la de $B$, la velocidad se duplica y si se duplica la concentración de $B$, manteniendo constante la de $A$, la velocidad se multiplica por $4$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n35",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Obtenga razonadamente la ecuación de velocidad para dicha reacción."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n36",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Justifique si la reacción puede ser elemental."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n37",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Obtenga las unidades de la constante de velocidad."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n38",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique cómo afecta a la velocidad de la reacción la presencia de un catalizador."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n39",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "En medio básico el permanganato de potasio reacciona con el sulfito de potasio, dando dióxido de manganeso, sulfato de potasio e hidróxido de potasio."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n40",
+  "padre": "n39",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba las semirreacciones ajustadas que tienen lugar e indique cuál es el oxidante y cuál el reductor."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n41",
+  "padre": "n39",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Escriba ajustadas la reacción iónica global y la reacción molecular global."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n42",
+  "padre": "n39",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule el volumen de una disolución de permanganato de potasio $0{,}25\\,\\mathrm{M}$ que reacciona con $20\\,\\mathrm{mL}$ de una disolución de sulfito de potasio $0{,}33\\,\\mathrm{M}$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n43",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B5"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "En un recipiente cerrado, se calienta a $182\\,^{\\circ}\\mathrm{C}$ pentacloruro de arsénico gaseoso que se disocia en tricloruro de arsénico gaseoso y en cloro molecular. En el equilibrio y a una presión total de $1\\,\\mathrm{atm}$, el pentacloruro de arsénico se disocia un $29{,}2\\,\\%$. Calcule: Dato: $R=0{,}082\\,\\mathrm{atm\\cdot L\\cdot mol^{-1}\\cdot K^{-1}}$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n44",
+  "padre": "n43",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Las presiones parciales de los tres gases en el equilibrio."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n45",
+  "padre": "n43",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "$K_{\\mathrm{c}}$ y $K_{\\mathrm{p}}$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n46",
+  "padre": "n43",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Las concentraciones molares de todas las sustancias en el equilibrio."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{Cl2}$ y $\\ce{NH3}$ presentan enlace covalente al ser entre no metales; $\\ce{Mg}$ presenta enlace metálico porque es un metal y $\\ce{NaBr}$ presenta enlace iónico, por ser entre un no metal y un metal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n4",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Solo conduce la electricidad a temperatura ambiente el $\\ce{Mg}$, por su carácter metálico y poseer electrones que se mueven fácilmente. Las moléculas covalentes $\\ce{Cl2}$ y $\\ce{NH3}$ no conducen la electricidad y la sustancia iónica $\\ce{NaBr}$ tampoco porque a temperatura ambiente es sólida y no es posible el movimiento de sus iones."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "(ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El $\\ce{NH3}$ puede formar enlace de hidrógeno ya que el $\\ce{H}$ está unido a un átomo muy electronegativo y pequeño, como $\\ce{N}$, y puede formar por tanto enlace de hidrógeno con otra molécula de $\\ce{NH3}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{Ag2CrO4(s) <=> 2Ag+(ac) + CrO4^2-(ac)}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$K_{\\mathrm{s}}=[\\ce{Ag+}]^2[\\ce{CrO4^2-}]=(2s)^2\\cdot s=4s^3$; $s=\\frac{0{,}00435}{0{,}1\\times331{,}6}=1{,}3\\times10^{-4}\\,\\mathrm{M}$. $K_{\\mathrm{s}}=4\\times(1{,}3\\times10^{-4})^3=8{,}8\\times10^{-12}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sí, se formará precipitado de cromato de plata. El cromato de plata precipita si $Q\\geq K_{\\mathrm{s}}$. $[\\ce{Ag+}]=\\frac{0{,}5\\times0{,}3}{0{,}32}=0{,}47\\,\\mathrm{M}$. $[\\ce{CrO4^2-}]=\\frac{0{,}8\\times0{,}020}{0{,}32}=0{,}05\\,\\mathrm{M}$. $Q=(0{,}47)^2\\times0{,}05=0{,}011>8{,}8\\times10^{-12}$, por tanto, sí precipita $\\ce{Ag2CrO4}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$[\\ce{H3O+}]=[\\ce{HNO3}]=\\frac{0{,}1\\times0{,}002}{0{,}250}=8\\times10^{-4}\\,\\mathrm{M}$; $\\mathrm{pH}=-\\log[\\ce{H3O+}]=3{,}1$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-COOH + H2O <=> CH3-COO- + H3O+}$\n\n|  | $\\ce{CH3-COOH}$ | $\\ce{CH3-COO-}$ | $\\ce{H3O+}$ |\n|---|---:|---:|---:|\n| $c_0$ | $c$ | $-$ | $-$ |\n| $c_{\\mathrm{eq}}$ | $c-x$ | $x$ | $x$ |\n\n$pK_{\\mathrm{a}}=4{,}74$; $K_{\\mathrm{a}}=10^{-4{,}74}=1{,}8\\times10^{-5}$.\n\nComo el pH es el mismo: $[\\ce{H3O+}]=x=8\\times10^{-4}\\,\\mathrm{M}$; $K_{\\mathrm{a}}=\\frac{[\\ce{CH3-COO-}][\\ce{H3O+}]}{[\\ce{CH3-COOH}]}$; $1{,}8\\times10^{-5}=\\frac{(8\\times10^{-4})^2}{c-8\\times10^{-4}}$; $c=0{,}036\\,\\mathrm{M}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$n_{\\text{ácido}}=n_{\\text{base}}$; $V_{\\text{ácido}}\\times M_{\\text{ácido}}=V_{\\text{base}}\\times M_{\\text{base}}$; $V_{\\text{base}}=\\frac{0{,}01\\times0{,}1}{0{,}2}=5{,}0\\times10^{-3}\\,\\mathrm{L}=5{,}0\\,\\mathrm{mL}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CH(CH3)-CH(NH2)-COOH}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CH2-CH2-CH(NH2)-COOH}$ ácido $2$-aminopentanoico. También valdría el ácido $2$-amino-$2$-metilbutanoico $\\ce{CH3-CH2-C(CH3)(NH2)-COOH}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n18",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CH(CH3)-CH(NH2)-COOH + CH3OH -> CH3-CH(CH3)-CH(NH2)-COOCH3 + H2O}$\n\n$2$-amino-$3$-metilbutanoato de metilo. Reacción de condensación (esterificación)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CH(CH3)-CHOH-COOH}$ ácido $2$-hidroxi-$3$-metilbutanoico."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n21",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CuCl2 -> 2Cl- + Cu^2+}$. Ánodo: $\\ce{2Cl- -> Cl2 + 2e-}$. Cátodo: $\\ce{Cu^2+ + 2e- -> Cu}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n22",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$I=\\frac{n_{\\ce{Cu}}\\cdot n_{\\mathrm{e}}\\cdot F}{t}=\\frac{(15{,}9/63{,}5)\\times2\\times96485}{2\\times3600}=6{,}7\\,\\mathrm{A}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n23",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$n(\\ce{Cl2})=15{,}9/63{,}5=0{,}25\\,\\mathrm{mol}$. $V=\\frac{n\\cdot R\\cdot T}{p}=\\frac{0{,}25\\times0{,}082\\times298}{1}=6{,}1\\,\\mathrm{L}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n26",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$A$: grupo $16$, tercer periodo, azufre y $\\ce{S}$. $B$: grupo $17$, tercer periodo, cloro y $\\ce{Cl}$. $C$: grupo $1$, tercer periodo, sodio y $\\ce{Na}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n27",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La energía de ionización es la energía que necesita un átomo de un elemento en estado gaseoso y nivel fundamental para perder un electrón convirtiéndose en un ion positivo o catión. Los tres elementos son del mismo periodo y la energía de ionización aumenta a lo largo de un periodo, por tanto, el sodio, que está más a la izquierda en el sistema periódico, tendrá la menor energía de ionización."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n28",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La zona visible corresponde a la serie Balmer, donde $n_1=2$. $\\Delta E=\\frac{291{,}87\\times1000}{6{,}022\\times10^{23}}=4{,}9\\times10^{-19}\\,\\mathrm{J}$; $\\Delta E=R_{\\mathrm{H}}\\left(\\frac{1}{n_1^2}-\\frac{1}{n_2^2}\\right)$; $4{,}9\\times10^{-19}=2{,}18\\times10^{-18}\\times\\left(\\frac{1}{4}-\\frac{1}{n_2^2}\\right)$; $n_2=6$. Transición de $n=6$ a $n=2$.\n\nOtra forma de resolverlo: $\\Delta E=\\frac{291{,}87\\times1000}{6{,}022\\times10^{23}}=4{,}9\\times10^{-19}\\,\\mathrm{J}$\n\n$\\Delta E=\\frac{h\\cdot c}{\\lambda}$; $\\lambda=\\frac{h\\cdot c}{\\Delta E}=\\frac{6{,}626\\times10^{-34}\\times3\\times10^8}{4{,}9\\times10^{-19}}=4{,}1\\times10^{-7}\\,\\mathrm{m}$.\n\n$\\frac{1}{\\lambda}=R_{\\mathrm{H}}\\left(\\frac{1}{n_1^2}-\\frac{1}{n_2^2}\\right)$; $\\frac{1}{4{,}1\\times10^{-7}}=1{,}097\\times10^7\\times\\left(\\frac{1}{2^2}-\\frac{1}{n_2^2}\\right)$; $n_2=6$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n30",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-C(CH3)=CH-CH3 + HBr -> CH3-C(CH3)Br-CH2-CH3}$ $2$-bromo-$2$-metilbutano. Es una adición."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n31",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{HCOOH + CH3-CHOH-CH3 -> HCOO-CH(CH3)2}$ metanoato de isopropilo. Es una reacción de condensación o esterificación."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n32",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CH2-CH2-COOH}$ + reductor fuerte/ácido $\\ce{-> CH3-CH2-CH2-CH2OH}$. Butan-$1$-ol. Es una reacción de reducción."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n33",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{CH3-CHOH-CH2-CH2-CH3 + H+ -> CH3-CH=CH-CH2-CH3}$ pent-$2$-eno. Es una reacción de eliminación (deshidratación)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n35",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$v=k\\cdot[A]^{\\alpha}\\cdot[B]^{\\beta}$. Los valores de $\\alpha$ y $\\beta$ los obtenemos a partir del enunciado: $2v=k(2[A])^{\\alpha}\\cdot[B]^{\\beta}$; $\\alpha=1$. $4v=k[A]^{\\alpha}\\cdot(2[B])^{\\beta}$; $\\beta=2$; $v=k[A]\\cdot[B]^2$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n36",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Como los órdenes parciales coinciden con los coeficientes estequiométricos, la reacción puede ser elemental."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n37",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\{\\text{unidades }k\\}=\\frac{\\{\\text{unidades }v\\}}{\\{\\text{unidades }c\\}^3}=\\{\\text{unidades }c\\}^{-2}\\times\\{\\text{unidades }t\\}^{-1}$.\n\nPor ejemplo $\\mathrm{mol^{-2}\\cdot L^2\\cdot s^{-1}}$ o $\\mathrm{M^{-2}\\cdot s^{-1}}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n38",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La introducción de un catalizador disminuye la energía de activación por lo que aumenta la velocidad de la reacción."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n40",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{MnO4- + 2H2O + 3e- -> MnO2 + 4OH-}$; el oxidante es $\\ce{MnO4-}$ o $\\ce{KMnO4}$.\n\n$\\ce{SO3^2- + 2OH- -> SO4^2- + H2O + 2e-}$; el reductor es $\\ce{SO3^2-}$ o $\\ce{K2SO3}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n41",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Iónica global: $\\ce{2MnO4- + H2O + 3SO3^2- -> 2MnO2 + 3SO4^2- + 2OH-}$.\n\nMolecular global: $\\ce{2KMnO4 + H2O + 3K2SO3 -> 2MnO2 + 3K2SO4 + 2KOH}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n42",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$n(\\ce{K2SO3})=0{,}02\\times0{,}33=6{,}6\\times10^{-3}\\,\\mathrm{mol}$; $n(\\ce{KMnO4})=6{,}6\\times10^{-3}\\times\\frac{2}{3}=4{,}4\\times10^{-3}\\,\\mathrm{mol}$; $V=\\frac{4{,}4\\times10^{-3}}{0{,}25}=0{,}0176\\,\\mathrm{L}=17{,}6\\,\\mathrm{mL}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n44",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$\\ce{AsCl5(g) <=> AsCl3(g) + Cl2(g)}$\n\n|  | $\\ce{AsCl5}$ | $\\ce{AsCl3}$ | $\\ce{Cl2}$ |\n|---|---:|---:|---:|\n| $n_0$ | $n$ | $-$ | $-$ |\n| $n_{\\mathrm{eq}}$ | $n(1-\\alpha)$ | $n\\alpha$ | $n\\alpha$ |\n\n$n_{\\mathrm{t}}=n(1-\\alpha)+n\\alpha+n\\alpha=n(1+\\alpha)$; $\\alpha=0{,}292$; $n_{\\mathrm{t}}=n(1+0{,}292)=1{,}292n$.\n\n$p_{\\ce{AsCl5}}=\\frac{n(1-\\alpha)}{n(1+\\alpha)}\\times p_{\\mathrm{t}}=\\frac{1-0{,}292}{1{,}292}\\times1=0{,}55\\,\\mathrm{atm}$; $p_{\\ce{AsCl3}}=p_{\\ce{Cl2}}=\\frac{n\\alpha}{n(1+\\alpha)}\\times p_{\\mathrm{t}}=\\frac{0{,}292}{1{,}292}\\times1=0{,}23\\,\\mathrm{atm}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n45",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$K_{\\mathrm{p}}=\\frac{p_{\\ce{Cl2}}\\times p_{\\ce{AsCl3}}}{p_{\\ce{AsCl5}}}=\\frac{0{,}23\\times0{,}23}{0{,}55}=0{,}096$; $K_{\\mathrm{c}}=\\frac{K_{\\mathrm{p}}}{(R\\cdot T)^{\\Delta n}}$; $\\Delta n=2-1=1$; $T=273+182=455\\,\\mathrm{K}$; $K_{\\mathrm{c}}=\\frac{0{,}096}{0{,}082\\times455}=2{,}6\\times10^{-3}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n46",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$p\\cdot V=nRT$; $\\frac{n}{V}=\\frac{p}{RT}$; $[\\ce{AsCl5}]=\\frac{0{,}55}{0{,}082\\times455}=0{,}015\\,\\mathrm{M}$; $[\\ce{AsCl3}]=[\\ce{Cl2}]=\\frac{0{,}23}{0{,}082\\times455}=6{,}2\\times10^{-3}\\,\\mathrm{M}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "El nodo n31 se asocia con el apartado b) de B2 por el contenido y el orden, ya que su etiqueta en el árbol es la ecuación de reactivos en vez de «b)».",
+  "En B2 b), la ecuación del solucionario presenta el éster sin incluir agua como producto.",
+  "En B5 a), el solucionario contiene un corchete de cierre sobrante en la expresión de la presión parcial de los productos."
+ ]
+}
+PDF
+=== PAGINA 3 ===
+ 
+ 
+ 
+QUÍMICA 
+ 
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN 
+ 
+Cada una de las preguntas se podrá calificar con un máximo de 2 puntos. 
+ 
+Si se han contestado preguntas de más de una opción, únicamente deberán corregirse las de la opción a 
+la que corresponda la pregunta resuelta en primer lugar. 
+ 
+Se tendrá en cuenta en la calificación de la prueba: 
+ 
+1.- Claridad de comprensión y exposición de conceptos. 
+2.- Uso correcto de formulación, nomenclatura y lenguaje químico. 
+3.- Capacidad de análisis y relación. 
+4.- Desarrollo de la resolución de forma coherente y uso correcto de unidades. 
+5.- Aplicación y exposición correcta de conceptos en el planteamiento de las preguntas. 
+ 
+ 
+Distribución de puntuaciones máximas para este ejercicio 
+ 
+OPCIÓN A 
+ 
+Pregunta A1.- 0,5 puntos por apartado. 
+Pregunta A2.- 0,5 puntos apartado a); 0,75 puntos apartados b) y c).  
+Pregunta A3.- 0,75 puntos apartados a) y b); 0,5 puntos apartado c). 
+Pregunta A4.- 0,5 puntos por apartado. 
+Pregunta A5.- 0,5 puntos apartado a); 0,75 puntos apartados b) y c). 
+ 
+OPCIÓN B 
+ 
+Pregunta B1.- 0,75 puntos apartados a) y c); 0,5 puntos apartado b).  
+Pregunta B2.- 0,5 puntos por apartado.  
+Pregunta B3.- 0,5 puntos por apartado.  
+Pregunta B4.- 0,75 puntos apartados a) y c); 0,5 puntos apartado b). 
+Pregunta B5.- 0,75 puntos apartados a) y b); 0,5 puntos apartado c). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA 4 ===
+ 
+ 
+QUÍMICA 
+SOLUCIONES (Orientaciones para el corrector) 
+OPCIÓN A 
+Pregunta A1.- Puntuación máxima por apartado: 0,5 puntos. 
+a) Cl2 y NH3 presentan enlace covalente al ser entre no metales; Mg presenta enlace metálico porque es 
+un metal y NaBr presenta enlace iónico, por ser entre un no metal y un metal. 
+b) Solo conduce la electricidad a temperatura ambiente el Mg, por su carácter metálico y poseer electrones 
+que se mueven fácilmente. Las moléculas covalentes Cl2 y NH3 no conducen la electricidad y la sustancia 
+iónica NaBr tampoco porque a temperatura ambiente es sólida y no es posible el movimiento de sus 
+iones. 
+c)  
+ 
+N
+H
+H
+H
+Cl
+Cl
+ 
+d) El NH3 puede formar enlace de hidrógeno ya que el H está unido a un átomo muy electronegativo y 
+pequeño, como N, y puede formar por tanto enlace de hidrógeno con otra molécula de NH3. 
+ Pregunta A2.- Puntuación máxima por apartado: 0,5 puntos a); 0,75 puntos b) y c). 
+a) Ag2CrO4 (s)  2 Ag+ (ac) + CrO42− (ac). 
+b) Ks = [Ag+]2[CrO42−]  = (2s)2·s = 4 s3; s = 0,00435  / (0,1 × 331,6)  = 1,3×10−4 M. Ks = 4 × (1,3×10−4)3 = 
+8,8×10−12. 
+c) Sí, se formará precipitado de cromato de plata. El cromato de plata precipita si Q ≥ Ks. [Ag+] = 0,5 × 0,3 
+/ 0,32 = 0,47 M. [CrO42−] = 0,8 × 0,020 / 0,32 = 0,05 M.  Q = (0,47)2 × 0,05 = 0,011 > 8,8×10−12, por tanto, 
+sí precipita Ag2CrO4. 
+Pregunta A3.- Puntuación máxima por apartado: 0,75 puntos a) y b); 0,5 puntos c). 
+a) [H3O+] = [HNO3] = 0,1 × 0,002 / 0,250 = 8×10−4 M; pH = − log [H3O+] = 3,1. 
+b)                               CH3−COOH + H2O  CH3−COO− + H3O+ 
+ 
+ c0                               c                                -                - 
+   ceq                           c - x                             x                x 
+pKa = 4,74; Ka = 10−4,74 = 1,8 × 10−5.  
+       Como el pH es el mismo: [H3O+] = x = 8×10−4 M; Ka = [CH3−COO−][H3O+]/[CH3−COOH]; 1,8×10−5 = 
+(8×10−4)2 / (c − 8×10−4); c = 0,036 M. 
+c) nácido = nbase; Vácido × Mácido = Vbase × Mbase; Vbase = 0,01 × 0,1 / 0,2  = 5,0×10–3 L = 5,0 mL. 
+ 
+Pregunta A4.- Puntuación máxima por apartado: 0,5 puntos. 
+  a) CH3−CH(CH3)−CH(NH2)−COOH. 
+b) CH3−CH2−CH2−CH(NH2)−COOH ácido 2-aminopentanoico. También valdría el ácido 2-amino-2-
+metilbutanoico CH3−CH2−C(CH3)(NH2)−COOH. 
+c) CH3−CH(CH3)−CH(NH2)−COOH + CH3OH → CH3−CH(CH3)−CH(NH2)−COOCH3 + H2O 
+   2-amino-3-metilbutanoato de metilo. Reacción de condensación (esterificación). 
+d)  CH3−CH(CH3)−CHOH−COOH  ácido 2-hidroxi-3-metilbutanoico. 
+ (Nota: se admite que el alumno utilice la nomenclatura anterior a 1993). 
+Pregunta A5.- Puntuación máxima por apartado: 0,5 puntos a); 0,75 puntos b) y c).  
+a) CuCl2→ 2 Cl− + Cu2+. Ánodo: 2 Cl−  → Cl2 + 2 e−. Cátodo: Cu2+ + 2 e− → Cu.  
+b) I = nCu·ne·F / t = (15,9 / 63,5) × 2 × 96485  / (2 × 3600) = 6,7 A. 
+c) n(Cl2) = 15,9 / 63,5= 0,25 mol .V = n·R·T/p = (0,25 × 0,082 × 298) / 1 = 6,1 L. 
+ 
+ 
+ 
+
+=== PAGINA 5 ===
+ 
+OPCIÓN B 
+ 
+Pregunta B1.  Puntuación máxima por apartado: 0,75 puntos a) y c); 0,5 puntos b). 
+a) A: grupo 16, tercer periodo, azufre y S. B: grupo 17, tercer periodo, cloro y Cl. C: grupo 1, tercer periodo, 
+sodio y Na. 
+b) La energía de ionización es la energía que necesita un átomo de un elemento en estado gaseoso y nivel 
+fundamental para perder un electrón convirtiéndose en un ion positivo o catión. Los tres elementos son 
+del mismo periodo y la energía de ionización aumenta a lo largo de un periodo, por tanto, el sodio, que 
+está más a la izquierda en el sistema periódico, tendrá la menor energía de ionización. 
+c) La zona visible corresponde a la serie Balmer, donde la n1 = 2. ∆E = 291,87 × 1000 / 6,022 × 1023  = 
+4,9×10–19 J; ∆E = RH·(1/n12−1/n22);  4,9×10–19 = 2,18×10–18 × (1/4−1/ n22); n2 = 6. Transición de n = 6 a n 
+= 2. 
+Otra forma de resolverlo: ∆E = 291,87 × 1000 / 6,022×1023  = 4,9×10–19 J 
+∆E = h·c/λ; λ = h·c/∆E = 6,626×10–34 × 3×108 / 4,9×10–19 = 4,1×10–7 m. 
+1/λ = RH (1/n12 – 1/n22); 1 / 4,1×10–7 = 1,097×107 × (1/22 – 1/n22); n2 = 6. 
+Pregunta B2.  Puntuación máxima por apartado: 0,5 puntos. 
+a) CH3−C(CH3)=CH−CH3 + HBr →  CH3−C(CH3)Br−CH2−CH3  2-bromo-2-metilbutano. Es una adición.  
+b) HCOOH + CH3−CHOH−CH3 → HCOO−CH(CH3)2 metanoato de isopropilo. Es una reacción de 
+condensación o esterificación. 
+c) CH3−CH2−CH2−COOH + reductor fuerte/ácido → CH3−CH2−CH2−CH2OH. Butan-1-ol. Es una reacción 
+de reducción. 
+d) CH3−CHOH−CH2−CH2−CH3 + H+→ CH3−CH=CH−CH2−CH3 pent-2-eno. Es una reacción de eliminación 
+(deshidratación).  
+    (Nota: se admite que el alumno utilice la nomenclatura anterior a 1993). 
+Pregunta B3.  Puntuación máxima por apartado: 0,5 puntos. 
+a) v = k ·[A]α·[B]β. Los valores de α y β los obtenemos a partir del enunciado 2v = k (2[A])α·[B]β; α = 1.   
+4v = k [A]α·(2[B])β; β = 2; v = K[A]·[B]2. 
+b) Como los órdenes parciales coinciden con los coeficientes estequiométricos, la reacción puede ser 
+elemental. 
+c) {Unidades k} = {unidades v} / {unidades c }3 = {unidades c}–2  × {unidades t}–1.  
+Por ejemplo = mol–2·L2·s–1 o M–2·s–1.  
+d) La introducción de un catalizador disminuye la energía de activación por lo que aumenta la velocidad de 
+la reacción.  
+Pregunta B4.  Puntuación máxima por apartado: 0,75 puntos a) y c); 0,5 puntos b). 
+a) MnO4− + 2 H2O + 3 e− → MnO2 + 4 OH−; el oxidante es MnO4− o KMnO4. 
+SO32− + 2 OH− → SO42− + H2O + 2 e−; el reductor es SO32− o K2SO3.  
+b) Iónica global: 2 MnO4− + H2O + 3 SO32− → 2 MnO2 + 3 SO42−  + 2 OH−. 
+Molecular global: 2 KMnO4 + H2O + 3 K2SO3 → 2 MnO2 + 3 K2SO4 + 2 KOH. 
+c) n(K2SO3) = 0,02 × 0,33 = 6,6×10–3 mol; n(KMnO4) = 6,6×10–3  × 2 / 3  = 4,4×10−3; V = 4,4×10−3 / 0,25 = 
+0,0176 L = 17,6 mL. 
+Pregunta B5. Puntuación máxima por apartado: 0,75 puntos a) y b); 0,5 puntos c). 
+a)                 AsCl5 (g)  AsCl3 (g) + Cl2 (g) 
+no                 n                  -                - 
+neq          n (1 − α)           nα             nα   
+nt = n(1 − α) + nα + nα = n (1+α); α = 0,292; nt = n(1+0,292) = 1,292n. 
+pAsCl5 = [n(1−α) / n (1+α)] × pt = (1−0,292) / 1,292 ×1 = 0,55 atm; pAsCl3 = pCl2 = [nα / n (1+α)] × pt = 0,292 
+/ 1,292] × 1 = 0,23 atm. 
+b) Kp = (pCl2  × pAsCl3)/ pAsCl5 = (0,23 × 0,23) / 0,55 =  0,096; Kc = Kp / (R·T)∆n; ∆n = 2 − 1 = 1; T = 273 + 182 
+= 455 K;  Kc = 0,096 / (0,082 × 455) = 2,6×10–3. 
+c) p·V = nRT; n/V = p/RT; [AsCl5] = 0,55 / (0,082 × 455) = 0,015 M; [AsCl3] = [Cl2] = 0,23 / (0,082 × 455) = 
+6,2×10–3  M. 
+
+=== PAGINA 6 ===
+ÁMBITO DE CONTENIDOS DE LA MATERIA QUÍMICA PARA LA PRUEBA DE 
+EVALUACION PARA EL ACCESO A LA UNIVERSIDAD. CURSO 2018-2019 
+ 
+El currículo básico de las enseñanzas del segundo curso de bachillerato LOMCE está publicado 
+en el RD 1105/2014, BOE de 3 de enero de 2015. Posteriormente, la Orden ECD/42/2018, BOE 
+de 26 de enero de 2018, establece las características, el diseño y contenido de la Evaluación del 
+Bachillerato para el acceso a la Universidad. En este documento se establecen los contenidos de 
+la prueba.  
+El presente documento tiene como objetivo hacer las pertinentes aclaraciones a los contenidos 
+de la EvAU en materia de Química, que se celebrará el curso 2018-2019, en base al currículo de 
+Química para 2º de Bachillerato, sin ánimo ni de modificar ni reducir el programa de enseñanzas, 
+sino con el objetivo de aclarar determinados aspectos que no están explícitamente señalados 
+en el RD 1105/2014. Asimismo, los contenidos de la prueba deberán respetar los porcentajes de 
+calificación publicados en la Orden ECD/42/2018.  
+La Comisión de Materia de Química propone las siguientes aclaraciones a los contenidos de 
+LOMCE que recoge la tabla adjunta. 
+Se mantienen igualmente las aclaraciones respecto a la nomenclatura de compuestos 
+inorgánicos, adjuntando documento descriptivo. La nomenclatura de Química Orgánica se 
+corresponderá con la recomendada por la IUPAC en 1993, aunque se aceptará que el alumno 
+utilice la anterior.  
+Este documento tiene vigencia para esta convocatoria de 2019, pudiendo ser susceptible de 
+mejoras posteriores para futuras convocatorias. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA 7 ===
+Contenidos 
+Aclaraciones 
+ 
+Bloque 1. La actividad científica 
+Utilización de estrategias básicas de la actividad científica. 
+Investigación científica: documentación, elaboración de 
+informes, comunicación y difusión de resultados.  
+Importancia de la investigación científica en la industria y en la 
+empresa 
+ 
+ 
+ 
+Bloque 2. Origen y evolución de los componentes del Universo  
+Estructura de la materia. Hipótesis de Planck. Modelo atómico de 
+Bohr. 
+Mecánica cuántica: Hipótesis de De Broglie, Principio de 
+Incertidumbre de Heisenberg.  
+Orbitales atómicos. Números cuánticos y su interpretación.  
+Partículas subatómicas: origen del Universo. 
+Clasificación de los elementos según su estructura electrónica: 
+Sistema Periódico.  
+Propiedades de los elementos según su posición en el Sistema 
+Periódico: energía de ionización, afinidad electrónica, 
+electronegatividad, radio atómico.  
+Enlace químico. 
+Enlace iónico. 
+Propiedades de las sustancias con enlace iónico.  
+Enlace covalente. Geometría y polaridad de las moléculas.  
+Teoría del enlace de valencia (TEV) e hibridación. 
+Teoría de repulsión de pares electrónicos de la capa de valencia 
+(TRPECV).  
+Propiedades de las sustancias con enlace covalente.  
+Enlace metálico. 
+Modelo del gas electrónico y teoría de bandas.  
+Propiedades de los metales. Aplicaciones de superconductores y 
+semiconductores.  
+Enlaces presentes en sustancias de interés biológico. 
+Naturaleza de las fuerzas intermoleculares 
+ 
+ 
+ 
+ Los cálculos energéticos a 
+partir del modelo atómico de 
+Bohr se consideran incluidos.  
+ 
+ El efecto fotoeléctrico sí está 
+incluido. 
+ 
+ Sólo se exigirá identificar el 
+nombre de los elementos de 
+los tres primeros periodos a 
+partir de sus números atómicos 
+y viceversa. 
+ 
+ Configuraciones electrónicas 
+escritas según orden 
+energético de niveles. 
+ 
+ 
+ 
+ 
+
+=== PAGINA 8 ===
+Contenidos 
+Aclaraciones 
+ 
+Bloque 3. Reacciones químicas 
+Concepto de velocidad de reacción. 
+Teoría de colisiones  
+Factores que influyen en la velocidad de las reacciones químicas.  
+Utilización de catalizadores en procesos industriales.  
+Equilibrio químico. Ley de acción de masas. La constante de 
+equilibrio: formas de expresarla.  
+Factores que afectan al estado de equilibrio: Principio de Le 
+Chatelier.  
+Equilibrios con gases.  
+Equilibrios heterogéneos: reacciones de precipitación.  
+Aplicaciones e importancia del equilibrio químico en procesos 
+industriales y en situaciones de la vida cotidiana.  
+Equilibrio ácido-base.  
+Concepto de ácido-base.  
+Teoría de Brönsted-Lowry.  
+Fuerza relativa de los ácidos y bases, grado de ionización.  
+Equilibrio iónico del agua. Concepto de pH. Importancia del pH a 
+nivel biológico.  
+Volumetrías de neutralización ácido-base.  
+Estudio cualitativo de la hidrólisis de sales.  
+Estudio cualitativo de las disoluciones reguladoras de pH.  
+Ácidos y bases relevantes a nivel industrial y de consumo. 
+Problemas medioambientales.  
+Equilibrio redox.  
+Concepto de oxidación-reducción. Oxidantes y reductores. 
+Número de oxidación.  
+Ajuste redox por el método del ion-electrón. Estequiometría de 
+las reacciones redox.  
+Potencial de reducción estándar.  
+Volumetrías redox.  
+Leyes de Faraday de la electrolisis.  
+Aplicaciones y repercusiones de las reacciones de oxidación 
+reducción: baterías eléctricas, pilas de combustible, prevención 
+de la corrosión de metales. 
+ 
+ 
+ 
+ No están incluidos los cálculos 
+cuantitativos de variables 
+termodinámicas (ΔH, ΔG o S) 
+pero sí se asume que conocen 
+conceptos como reacción 
+endotérmica, exotérmica o 
+espontanea a nivel cualitativo. 
+ 
+ Se supone incluido el concepto 
+de energía de activación (ley de 
+Arrhenius), aunque no se 
+exigirán cálculos de la misma. 
+ 
+ Sólo se exigirá explicar la 
+precipitación selectiva 
+cualitativamente. 
+ 
+ El alumno debe conocer 
+también el concepto de 
+electrolito y sus tipos. 
+ 
+ No se considera incluida la ley 
+de Nernst. 
+ 
+ 
+Bloque 4. Síntesis orgánica y nuevos materiales 
+Estudio de funciones orgánicas.  
+Nomenclatura y formulación orgánica según las normas de la 
+IUPAC.  
+Funciones orgánicas de interés: oxigenadas y nitrogenadas, 
+derivados halogenados, tioles, perácidos. Compuestos orgánicos 
+polifuncionales.  
+Tipos de isomería.  
+Tipos de reacciones orgánicas.  
+Principales compuestos orgánicos de interés biológico e 
+industrial: materiales polímeros y medicamentos  
+Macromoléculas y materiales polímeros.  
+Polímeros de origen natural y sintético: propiedades.  
+Reacciones de polimerización.  
+Fabricación de materiales plásticos y sus transformados: impacto 
+medioambiental.  
+Importancia de la Química del Carbono en el desarrollo de la 
+sociedad del bienestar.  
+ 
+ 
+ 
+ Los compuestos orgánicos que 
+se exigirán son: hidrocarburos 
+alifáticos y aromáticos, 
+derivados halogenados, 
+alcoholes, éteres, aldehídos, 
+cetonas, ácidos, ésteres, 
+amidas y aminas. 
+ 
+ No se considera incluida la 
+estereoisomería. 
+ 
+ En relación a las reacciones 
+orgánicas, no se exigirá 
+especificar el mecanismo. 
+ 
+
+=== PAGINA 9 ===
+GUÍA SOBRE EL USO DE LA NOMENCLATURA DE QUÍMICA PARA LAS 
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+ 
+La Comisión de Química utiliza la Nomenclatura de la IUPAC, siguiendo las últimas 
+recomendaciones publicadas en 2005 para el caso de los compuestos inorgánicos, y las 
+publicadas en 1993 para los compuestos orgánicos.    
+Los tres sistemas principales de nomenclatura aceptados por la IUPAC en las recomendaciones 
+de 2005 son los de composición, de sustitución y de adición. Algunos textos utilizan los términos 
+estequiométrica como sinónimos de composición, o emplean los términos sustitutiva y aditiva o 
+de coordinación en vez de sustitución y de adición, respectivamente. 
+Nomenclatura sistemática: aquellos nombres que se construyan sobre la base de reglas 
+definidas y proporcionan información sobre la composición y la estructura del compuesto son 
+nombres sistemáticos. Las nomenclaturas de composición, de sustitución y de adición son 
+nomenclaturas sistemáticas. 
+La comisión no nombrará los compuestos inorgánicos según los criterios de Stock. 
+La comisión utilizará la nomenclatura de composición o estequiométrica (con prefijos 
+multiplicadores o números romanos para expresar el número de oxidación) excepto en los casos 
+de oxoácidos y oxisales para los que se utilizarán nombres tradicionales aceptados por la IUPAC 
+en las recomendaciones del 2005, pero los correctores darán por correcto el uso de cualquiera 
+de los sistemas de nomenclatura aceptados por la IUPAC. 
+Nombres tradicionales. En general son nombres no sistemáticos, o semisistemáticos, 
+tradicionalmente utilizados para nombrar compuestos inorgánicos. En algunos textos se refieren 
+a ellos como nombres vulgares o comunes. En el caso de los oxoácidos y los oxoaniones 
+derivados, la IUPAC acepta el uso de los nombres tradicionales (por ejemplo, sulfato de sodio). 
+Nomenclatura de hidrógeno. Es un tipo de nomenclatura que se puede utilizar para nombrar 
+compuestos que contienen hidrógeno. Por ejemplo, hidrogenocarbonato de sodio o hidrogeno 
+(trioxidocarbonato) de sodio (nombre de composición sistemático). 
+Los nombres sistemáticos recomendados por la IUPAC para nombrar H2O y NH3 son oxidano y 
+azano, pero la comisión no los utilizará y los nombrará como agua y amoniaco, que son nombres 
+tradicionales aceptados por la IUPAC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA 10 ===
+ 
+ 
+ 
+ 
+
+=== PAGINA 11 ===
+ 
+ 

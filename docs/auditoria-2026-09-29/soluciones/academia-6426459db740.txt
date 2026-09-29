@@ -1,0 +1,1685 @@
+DOCUMENTO {"id": "6426459db740", "region": "Madrid", "asignatura": "Historia de España", "anio": 2021, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1OcrR3Fx3oC2MTahevAiAbVPn99H20_UH/view?usp=sharing", "archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-uc3m-6426459db740.pdf", "paginas": 7, "estrato": "piloto · Madrid · Historia de España"}
+FUENTE {"archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-solucion-mundoestudiante-419c32445ca2.pdf", "desde": 1, "anexo": {"id": "419c32445ca2", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "mundoestudiante", "acceso": "publico", "coincidencia": "exacta", "url": "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2021/Soluci%C3%B3n+EVAU+Madrid+Historia+2021+Julio.pdf", "titulo": "HISTORIA DE ESPAÑA — SOLUCIÓN (Exámenes EvAU Comunidad de Madrid (julio 2021))"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": null,
+   "maximo": 4,
+   "de": 12,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda a cuatro cuestiones, como máximo, a elegir entre las doce que componen las preguntas A.1 y B.1."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(4 puntos) CUESTIONES:"
+   }
+  ],
+  "puntos": 4.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sociedad y economía en el Paleolítico y Neolítico. La pintura rupestre."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al Ándalus: reinos de taifas. Reino nazarí."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los reinos cristianos en la Edad Media: organización política, régimen señorial y sociedad estamental."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas internos. Guerras y sublevación en Europa."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La guerra de los Treinta Años y la pérdida de la hegemonía española en Europa."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La España del siglo XVIII. Expansión y transformaciones económicas: agricultura, industria y comercio con América. Causas del despegue económico de Cataluña."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(4 puntos) CUESTIONES:"
+   }
+  ],
+  "puntos": 4.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Conquista y romanización de la Península Ibérica. Principales aportaciones romanas en los ámbitos social, económico y cultural."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al Ándalus: economía, sociedad y cultura."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Organización política de la Corona de Castilla, de la Corona de Aragón y del Reino de Navarra al final de la Edad Media."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los Reyes Católicos: unión dinástica e instituciones de gobierno."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Exploración y colonización de América. Consecuencias de los descubrimientos en España, Europa y América."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija una de las fuentes, preguntas A.2 o B.2, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n17",
+  "padre": "n16",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(1,5 puntos) FUENTE:"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique el contexto histórico del inicio de la Guerra de la Independencia. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n16",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(1,5 puntos) FUENTE:"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique el contexto histórico de la alternancia política en $1982$. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija entre el tema y el comentario de texto, A.3 o B.3, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n24",
+  "padre": "n23",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(4,5 puntos) TEMA: Política económica del franquismo: de la autarquía al desarrollismo. Transformaciones sociales: causas y evolución."
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n23",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(4,5 puntos) TEXTO:"
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resuma con brevedad el contenido del texto. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Señale las ideas fundamentales del texto. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Responda a la siguiente cuestión (Puntuación máxima: $3$ puntos): La Restauración Borbónica. Cánovas del Castillo y el turno de partidos."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Paleolítico ($1200000-5000$ a.C.) es el primer periodo de la Prehistoria y el más extenso. Se divide en: P. Inferior: con economía depredadora (caza, pesca, recolección y carroñeo), eran nómadas y se agrupaban en clanes familiares; el P. Medio que se caracteriza por el desarrollo de su cráneo y el descubrimiento del fuego. Empiezan a vivir en cuevas y desarrollar ritos funerarios; y P. Superior, aparece el Homo Sapiens con el que surge la sociedad primitiva y división de roles familiares.\n\nCon el fin de la glaciación ($5000$ a.C.) surgen las primeras sociedades neolíticas en la península. El clima favoreció el sedentarismo y la agricultura y la ganadería. Surgen las primeras comunidades estamentales (tribus, aldeas, pueblos y ciudades) en zonas fluviales; desarrollan la cerámica, para almacenar y las prácticas religiosas con fines funerarios. Además de los restos fósiles, el arte rupestre nos permite conocer las formas de vida prehistórica. Destacan las pinturas policromáticas de Altamira, con sentido mágico y religioso, representan escenas de caza, signos abstractos y manos estampadas; así como, las de la zona levantina, con figuras humanas y escenas cotidianas con gran esquematismo y carácter monocromático."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n4",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Hispania, ocupada por los musulmanes, debido a las crisis de poder, terminó dividiéndose, en el siglo $XI$, en Reinos de Taifas.\n\nDurante las Primeras taifas, con capital en Sevilla, se vivió una época de gran desarrollo cultural. A pesar de esto, los cristianos fueron ganando territorio y fue imposible contenerlos en Toledo aun contando con ayuda de los almorávides. Esto dio paso a las Segundas taifas. Los musulmanes pidieron apoyo a los almohades, pero volverán a ser derrotados en la batalla de las Navas de Tolosa en $1212$, quedando solo el reino nazarí de Granada como resquicio musulmán en la Península.\n\nPor último, en las Terceras taifas los nazaríes tendrán que pagar tributos a los cristianos para mantener su posición. Eso será hasta producirse la unión militar de Castilla y Aragón a partir del matrimonio de los Reyes Católicos. Estos terminaron por conquistar Granada en $1492$, haciendo a Boabdil entregar la ciudad."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Tras las fases de la reconquista y la repoblación, se consolidó en la península una sociedad feudal. Esta estaba constituida por el vasallaje y los señoríos jurisdiccionales y territoriales- tierras de explotación otorgadas por el rey como pago por un servicio.\n\nLas instituciones básicas eran: la monarquía, la cual en Castilla tenía un carácter menos feudal que en Aragón (allí, los nobles impusieron el pactismo, limitando el poder real; Las Cortes: integradas por los privilegiados (nobleza y clero).; y, más tarde, también por la burguesía; por último, los municipios, que tenían cierta autonomía y jurisdicción propia, aunque, desde el s. $XIII$, se impondrá la figura del corregidor.\n\nLa sociedad pasó de un régimen señorial a una sociedad estamental en la que el rey era la figura de autoridad, la nobleza guerreaba y poseía las tierras y el clero (dividido en alto clero y bajo clero, según su origen y nacimiento), poseía tierras y señoríos. Por último, estaba el campesinado, formado por los que trabajaban la tierra, no poseían ni derechos y estaban sujetos a las dependencias de sus señores."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La anhelada unidad de la Península Ibérica se consiguió con Felipe II que heredó un inmenso territorio en el que “no se ponía el sol” (América y Filipinas). Las bases de su reinado fueron: Conservar los reinos y territorios heredados; defender la fe católica y una gestión eficaz del gobierno. Continuó la política de sus antepasados como católico, inspirándose en la Contrarreforma. Mantuvo el gobierno de consejos, añadiendo nuevos para tomar decisiones, a los secretarios reales y una administración centralizada, aunque fueron frecuentes las dificultades económicas y los problemas fiscales. Los problemas destacables fueron la rebelión de las Alpujarras protagonizada por los moriscos por sus libertades culturales e, internacionalmente, el enfrentamiento contra Francia y contra Inglaterra (por la amenaza del comercio marítimo con Flandes y los envíos de plata y oro de las Indias), este acabará en $1588$ con la derrota de la Armada Invencible española. Por último, la Guerra de Flandes (durante $80$ años) terminará en $1648$ con la independencia de Holanda. Además, continuó la amenaza turca."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n7",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Durante el siglo $XVII$ se consolidará un nuevo orden internacional en Europa. Este estará marcado, sobre todo, por la Guerra de los Treinta Años que implicará a todas las grandes potencias europeas. Comienza con una lucha entre los protestantes germanos contra el Sacro Imperio.\n\nEn un primer momento, los protestantes serán derrotados con la ayuda de España, aun contando con el apoyo de Suecia. A partir de la intervención de Francia en $1635$ el destino de la guerra cambiará. Los españoles serán vencidos en Rocroi y agotados firmarán la Paz de Westfalia en $1648$.\n\nEsta paz supondrá la pérdida de la hegemonía de España en Europa, siendo reemplazada por Francia y la entrada de los Borbones a España."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    },
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El siglo $XVIII$ supondrá la transición del Antiguo Régimen al mundo contemporáneo.\n\nSu origen lo encontramos en el movimiento intelectual de la Ilustración nacido en Francia. Aunque en España tardará en producirse el cambio, con Carlos III se producirá un reformismo ilustrado que traerá consigo la liberalización del precio del grano, la cancelación de la mesta y el impulso de proyectos de reforma agraria. Además, aparecerán fábricas y talleres privados (fuera de los gremios) y se liberará el comercio del monopolio con el que contaba Cádiz. Esto traerá como consecuencias el despegue económico de Cataluña, la aparición de una nueva burguesía, el aumento de intercambios comerciales con el exterior y con América y la instauración del proteccionismo."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "En el siglo $III$ a.C. dos imperios emergentes luchan por la supremacía en el Mediterráneo: Cartago (imperio marítimo) y Roma (imperio terrestre). Este enfrentamiento se conoce como Las Guerras Púnicas ($264-205$ a.C.). Éstas fueron tres. En la segunda, ganó Roma y finalmente todo el Mediterráneo pasó a ser el Mare Nostrum. La resistencia de los indígenas de la península ($205-133$ a.C.) fue desigual: fácil con los íberos, peor con los lusitanos (líder Viriato), imposible con los celtíberos (Numancia). Tras un largo proceso de conquista, finalmente se dominó el norte peninsular y se declaró la Pax Romana. Comenzaba el Imperio y el dominio romano peninsular. Entendemos por Romanización el largo proceso de adscripción al mundo romano de todos los territorios y todos los pueblos conquistados hasta conseguir la homogeneización de todos ellos. Esto se hizo a través de elementos de cohesión que fueron imponiéndose: el latín como única lengua, el iuris civilis como única ley y una civilización urbana, con una trama de ciudades unidas a través de una intensísima red de calzadas y puentes, acueductos, puertos… Este legado aún pervive."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Al Ándalus fue el nombre que se le otorgó a la Península durante la ocupación de los musulmanes durante la Edad Media.\n\nCon respecto a su economía fue importante la agricultura tanto por las novedades técnicas como por los nuevos productos agrícolas que incluyeron; además, también la artesanía presentó un gran avance por los gremios surgidos y por los talleres estatales que comerciaban con el exterior.\n\nLa sociedad estaba formada por una diversidad cultural tanto étnica como religiosa: cristianos, muladíes, moriscos, mozárabes y mudéjares.\n\nAdemás, durante el Califato de Córdoba, la Península se enriqueció con un desarrollo cultural tal, que se convirtió en un centro de atracción del mundo conocido: La Escuela de Traductores de Toledo o las ciencias como la filosofía, geografía o matemáticas fueron algunas de las novedades que incluyeron durante su estancia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    },
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "A finales de la Edad Media, existían diferencias de gobierno entre estos territorios:\n\nMientras que en Castilla la monarquía era unitaria, hereditaria y patrimonial (por derecho divino); en Aragón, el rey lideraba una confederación de estados limitada por los nobles a través de las Cortes (pactismo).\n\nA partir de $1230$ los dos reinos se unirán pero cada uno de los territorios conservará sus peculiaridades: En Castilla, cada uno de los órganos dependerá del Rey: un Consejo Real, unas Cortes, una Chancillería, Contaduría y Condestable; y, en Aragón, $3$ cortes con poder vinculante.\n\nEn Navarra, también existía una monarquía que se basaba en un sistema foral y en el que las cortes eran estamentales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El reinado de los Reyes Católicos es una parte importante de la Historia española pues será el momento en el que se sentarán las bases de una monarquía autoritaria, por encima de los nobles, defendida por un ejército permanente. Además, serán los propulsores de la burocracia, la diplomacia y la expansión exterior por Europa y América; y, también, de la unificación religiosa. Su matrimonio tuvo lugar en $1469$ pero será en $1479$ cuando unan las coronas de Castilla (Isabel) y Aragón (Fernando). Esta unión dinástica se diseñó como un estado plural en el que los territorios tenían misma monarquía, pero propias leyes, instituciones…\n\nSu administración central se vuelve compleja y se burocratiza. Las Cortes pierden importancia y van a ganarla los consejos divididos en territoriales y temáticos. En la administración territorial destacan los corregidores y la justicia que recaía en las Chancillerías (tribunales superiores) y audiencias y en los instrumentos de control: la Santa Hermandad y la Inquisición. Las reformas institucionales sobre todo se realizan en Castilla. En la corona de Aragón, debido al pactismo, apareció la figura del virrey."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La exploración del nuevo continente comienza un año después de su descubrimiento en $1492$. Se conquistan entonces $2$ imperios: el Azteca que forma ahora México, por Hernán Cortés y el Inca por Pizarro. En el Centro, Núñez de Balboa descubrirá el Pacífico y Magallanes y Elcano circunnavegarán la Tierra.\n\nLa colonización llegará justo después de la exploración a partir de lo que denominaron “encomiendas”. Realmente, esto derivará en una continuada producción de abusos y explotación y esclavitud de la población indígena.\n\nLas consecuencias para América serán desastrosas; en cambio, los colonos, realizarán gran número de migraciones con tráfico de esclavos negros; económicamente, crecerá el comercio con nuevos productos y aumento de minerales para financiar las guerras españolas y una revolución de los precios.\n\nCulturalmente, se realizaron grandes avances en geografía y navegación."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    },
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  },
+  {
+   "nodo": "n15",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El pensamiento ilustrado nutrió de ideas y programas a los economistas y pensadores del siglo $XVIII$ que se enfrentaron al Antiguo Régimen. Pero también, hubo grandes propuestas en otros ámbitos:\n\nEn lo social consiguieron que todas las profesiones fueran meritorias para conseguir la hidalguía. Además, la educación primaria se hizo obligatoria y se crearon las Academias y las Escuelas de artes y oficios. Estas, defendía la igualdad y la libertad.\n\nEn lo político, con Carlos III se instituye el Despotismo Ilustrado, mediante el cual, el rey se mostraba partidario de las ideas de progreso y la racionalización de la Ilustración, ahora bien, siempre que no atentaran contra su poder absoluto Su lema “todo para el pueblo, pero sin el pueblo” fue el mayor ejemplo de esto."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  },
+  {
+   "nodo": "n18",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La imagen que podemos ver a continuación se trata de una pintura al óleo realizada por el artista Francisco de Goya en el año $1814$.\n\n“Los fusilamientos del 3 de Mayo” representan la escena de manera dramática vivida el 3 de mayo de $1808$ a las afueras de Madrid.\n\nComo el autor es un descriptor, pero no protagonista de la misma y al haberse realizado $6$ años más tarde, podemos afirmar que se trata de una fuente secundaria, pues no es totalmente coetánea a los hechos. Además, por su temática y por su importancia histórica, afirmamos que se trata de una fuente de formato no escrito, histórica y político-social.\n\nLa pintura narra de manera expresiva cómo gran parte de la población española se amotinó en contra de la presencia francesa para evitar entregar el gobierno de España. En esta imagen, se representa Madrid, pero los levantamientos serán seguidos por toda España llegando incluso a organizar esta resistencia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Francia y España eran aliadas. En $1807$, Napoleón ejercía el poder sobre la mayor parte de Europa continental. Para doblegar a Gran Bretaña, había decretado su bloqueo comercial. Como Portugal, aliado de los ingleses, no cooperaba en este plan, Napoleón planeó su conquista. En Fontainebleau, Godoy, Secretario Real de España, se comprometió a permitir el paso de las tropas francesas por la península. A cambio, recibiría grandes privilegios.\n\nMientras, la situación en España era insostenible: Fernando VII es descubierto conspirando contra su padre y la opinión de Godoy para la población era cada vez peor. La situación se vuelve aún más tensa el 18 de marzo de $1808$, cuando la masa invade el Palacio Real, Godoy tiene que huir y Carlos IV abdica en favor de su hijo Fernando: la monarquía tradicional española comenzaba su definitiva cuesta abajo.\n\nAnte la situación de debilidad, Napoleón decide ocupar el trono de España e incorporarla a su imperio. Para ello, convoca a Carlos IV y Fernando VII en Bayona, donde les exige renunciar a sus derechos al trono y coloca a su hermano José I. Al tiempo que se producían los acontecimientos de Bayona, en España comenzaba la reacción popular contra la invasión francesa. En efecto, el 2 de mayo de $1808$ una multitud se echó a la calle en Madrid para oponerse a los invasores. La represión fue fuerte, pero el ejemplo de los madrileños es seguido en multitud de ciudades y pueblos de toda España. En muchos lugares comienzan a formarse Juntas para organizar la resistencia al invasor y una Junta Central, con la tarea de coordinar las distintas acciones.\n\nLa reacción española contra la ocupación daría lugar a una guerra de cinco años que se conoce con el nombre de Guerra de Independencia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n21",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La imagen que vemos a continuación se trata de una fotografía tomada en el momento en el que se sucedían los acontecimientos, por tanto, decimos que se trata de una fuente primaria de tipo histórico militar social.\n\nLa imagen data del año $1982$, es una fotografía de archivo de la cual no conocemos autor. Es una fotografía del Equipo de gobierno. Fue tomada delante de la Moncloa.\n\nEn ella podemos distinguir a Felipe González y a una serie de hombres a su alrededor que deben de tratarse del grupo de ministros escogidos para su equipo de gobierno."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  },
+  {
+   "nodo": "n22",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "En $1982$, después de las primeras elecciones democráticas ganadas por el partido UCD y con Adolfo Suárez a la cabeza, llega el momento del PSOE, con una victoria aplastante y por mayoría absoluta, Felipe González será el presidente del gobierno español entre los años $1982$ y $1996$, con cuatro elecciones consecutivas en las que se mantendrá a la cabeza.\n\nLas primeras elecciones generales de la democracia en $1977$ dieron el triunfo, a la UCD de Adolfo Suárez.\n\nLos gobiernos de la UCD ($1977-1982$), en minoría, afrontaron la nueva etapa democrática en un clima de crisis económica, conflictividad social y violencia (terroristas, sectores del ejército, ultras de izquierda y de derecha).\n\nAprobada la Constitución de $1978$ y con la victoria de UCD (marzo $1979$), comenzó la segunda legislatura. Suárez se enfrentaría a las divergencias en la UCD, la segunda crisis del petróleo, el terrorismo, y el acoso del PSOE.\n\nSuárez dimitió en enero $1981$ y la descomposición de la UCD, llevó a disolver las Cortes y convocar elecciones generales en octubre $1982$.\n\nLas elecciones del 28-octubre-$1982$, dieron el triunfo al PSOE por mayoría absoluta. Ganarían cuatro elecciones consecutivas ($1982$, $1986$, $1989$ y $1993$) con Felipe González como presidente.\n\nA partir de ahora, el bipartidismo será la tónica general y los partidos de centro perderán a sus votantes. PSOE como fuerza gobernante de izquierdas y con el Partido Popular como segunda fuerza más votada con oposición desde la derecha.\n\nFelipe González, apoyado por su joven gobierno, deberá de abordar el nuevo gobierno y proponer nuevas medidas a la grave situación económica que tenía su origen en la transición.\n\nDurante su gobierno, deberá sanear la economía, impulsar el crecimiento económico y reformar, su economía y preparar su entrada en política exterior."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    },
+    {
+     "idioma": "es",
+     "pagina": 10
+    }
+   ]
+  },
+  {
+   "nodo": "n24",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El régimen franquista buscaba, como objetivo económico, establecer un sistema autárquico, para emprender la reconstrucción y el posterior desarrollo pese al atraso industrial y los escasos recursos energéticos de España.\n\nLas líneas maestras se plasmaron a finales de $1939$ mediante las Leyes de Protección y Fomento de la Industria Nacional y la de Ordenación y Defensa de la Industria, quedando la economía subordinada a los intereses políticos de corte fascista. Dos años después se creó el INI para articular, fomentar y nacionalizar la industria. Nacieron empresas IBERIA, ENASA, SEAT, etc. y se nacionalizaron Telefónica o RENFE.\n\nLa economía quedaba regulada por el estado, especialmente el comercio exterior. Esto provocó el desarrollo de la corrupción.\n\nLos precios de los productos se encarecieron elevando la inflación, frenando el crecimiento. La crisis agrícola provocó escasez de alimentos que propició el estraperlo y terminó implantándose una economía de subsistencia y trueque. Aumentó la mortalidad por la situación de pobreza y hambre, para paliarlo se impuso el racionamiento desde mayo de $1939$ hasta $1952$.\n\nPara evitar el desabastecimiento, el Estado intentó controlar la producción agrícola a través del Servicio Nacional del Trigo. Sin embargo, el fin del aislamiento internacional tras la firma del Concordato con la Santa Sede y la entrada en la ONU ($1955$) permitió la llegada de créditos y préstamos que aliviaron la situación económica. También ayudó la incorporación de tecnócratas en el gobierno de $1957$.\n\nLas primeras medidas se dirigieron a la devaluación de la moneda y la reforma fiscal para aumentar los ingresos estatales.\n\nLa entrada en la OECE y el FMI en $1958$, junto con el Plan de Estabilización de $1959$, empezaron a afianzar la economía. Se puso fin a la autarquía y se buscó la integración de España en la economía europea con reformas monetario-fiscales que limitaron el crédito del sector privado, suprimieron subsidios y controlaron el gasto público, además de la devaluación de la peseta. Inicialmente los efectos fueron negativos: se congelaron los salarios, se aumentaron los impuestos, creció el paro, se redujeron las jornadas y se cerraron empresas. Esto provocó un aumento de emigración y huelgas.\n\nA partir de $1962$ se creaba la Comisaría del Plan de Desarrollo dirigida por López Rodó para conseguir el desarrollo y crecimiento económico. Sus planes se centraron en la industria, que experimentó un crecimiento rápido en el sector automovilístico, siderúrgico y químico, y en la mejora del transporte ferroviario y por carretera.\n\nEspaña además se benefició de un ciclo económico favorable en Europa, que permitió el aumento de la inversión extranjera y la mayor integración económica de España en el ámbito internacional, como demuestra el acuerdo firmado con la CEE. Todo ello permitió aumentar las exportaciones. Además, se unieron las remesas de dinero de los emigrados y el aumento de ingresos del turismo.\n\nTanto los planes como la coyuntura exterior favorecieron un ritmo de crecimiento excepcional. Fruto de la bonanza fue la Ley de Bases de la Seguridad Social ($1963$).\n\nDesde el principio hubo una tendencia hacia un reparto desigual de la riqueza, concentrada en una minoría acomodada. De la clase trabajadora, los jornaleros descendieron y aumentaron los trabajadores del sector secundario y terciario.\n\nLa clase media creció hasta ser muy numerosa, compuesta por profesionales liberales, funcionarios y trabajadores por cuenta ajena. Las clases altas eran minoritarias, pero con gran poder económico.\n\nLa sociedad comenzó a tomar conciencia política produciéndose varias movilizaciones como La reunión de Múnich de $1962$. Allí, varios grupos se reunieron para proponer los cambios políticos necesarios para entrar en la CEE. Esta fue duramente criticada por la prensa franquista.\n\nCreció un nuevo movimiento obrero con la huelga como reivindicación. Nacieron CCOO. También tomó importancia el activismo estudiantil.\n\nEl desarrollo económico consiguió cambiar la costumbre y mentalidad española. España pasó a convertirse de un país rural a uno más urbano, industrial y abierto. Esto será un cambio para la estructura social y su mentalidad.\n\nLa Educación de manera obligatoria hasta los $14$ y la entrada de la mujer en el mundo laboral y la mejora de su formación fueron algunos de los cambios. Además, comenzó a generarse un estado de bienestar entre la población que contribuyó al crecimiento de la sociedad de consumo, de la mejora de la sanidad y de la implantación de una Seguridad Social para todos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    },
+    {
+     "idioma": "es",
+     "pagina": 5
+    },
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n26",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Alfonso XII agradece las felicitaciones y se muestra firme en la creencia de que la única manera de dotar seguridad a España es a través de la vuelta a la monarquía Constitucional. Él se auto propone como único candidato al trono español por derecho hereditario y representativo.\n\nPropone un entendimiento entre él y el pueblo español, pudiendo llegar a un acuerdo legal y no arbitrario, pero aboliendo la Constitución anterior."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 10
+    }
+   ]
+  },
+  {
+   "nodo": "n27",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El texto que tenemos a continuación se trata de una fuente primaria, ya que es coetánea a los hechos históricos a los que hace referencia.\n\nEn concreto, se trata de una fuente de naturaleza histórica circunstancial y política.\n\nAlfonso XII aparece como firmante del Manifiesto, fechado el día 1 de diciembre de $1874$, en un momento en el que la I República y el Sexenio democrático estaban al borde del final. Sabemos que realmente el autor fue Cánovas del Castillo, disuasor principal de que Alfonso XII volviera a instaurar la monarquía en España.\n\nEl texto se escribió para un receptor colectivo, el pueblo español, con la intención de presentarles y convencerles de las ventajas de un cambio político y de la relevancia de su presencia como monarca legítimo.\n\nEl texto refleja una serie de ideas. En primer lugar “el restablecimiento de la Monarquía Constitucional” que él propone como solución a una república llena de incertidumbres. En segundo lugar “soy único representante yo del derecho monárquico en España”, idea que él defiende por su herencia y legitimidad al ser una monarquía hereditaria y representativa y que, además, asegura su presencia en el trono como única posible, desechando cualquier otra opción. Y, por último, “ni dejaré de ser buen español, ni, como todos mis antepasados, buen católico, ni, como hombre del siglo, verdaderamente liberal”. Con esta idea, en primer lugar, se une al resto de españoles como uno más, se define dentro de una línea de sangre monárquica en la familia de los Borbones y se declara hombre de ideas modernas y abierto al cambio utilizando el concepto de “liberal” como la doctrina política basada en la defensa de las libertades individuales, de la limitación del Estado y de poderes públicos en lo social, económico y cultural.\n\nEn conclusión, Alfonso XII se presenta como una solución viable a la desestabilidad política que garantice el funcionamiento liberal de las instituciones."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 10
+    },
+    {
+     "idioma": "es",
+     "pagina": 11
+    }
+   ]
+  },
+  {
+   "nodo": "n28",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Tras el golpe de Estado del General Pavía que pone fin a la I República, y el gobierno “extraño” de Serrano se fue imponiendo la idea de que la restauración borbónica era la única manera de normalizar la situación política. Para allanar las cosas, Isabel II había abdicado en su hijo Alfonso, y este había firmado un documento (El Manifiesto de Sandhurst, redactado por Cánovas) en el que se comprometía, en caso de recuperar el trono, a respetar el sistema constitucional. El golpe definitivo vendría con el pronunciamiento del General Martínez en Sagunto (Valencia) y proclamaba a Alfonso XII como Rey de España.\n\nSólo dos días después, Cánovas del Castillo se puso al frente del llamado Ministerio Regencia y se dedicó a gobernar de manera dictatorial. Descartada la Constitución de $1869$, se pusieron en marcha los mecanismos para elaborar una nueva. La Constitución de $1876$ tiene las siguientes características: Retoma el concepto de la soberanía compartida entre el Rey y las Cortes bicamerales, rechazando el de la soberanía nacional. La regulación de muchos derechos. Un Senado en el que los $2/3$ de sus miembros lo eran por derecho propio o por designación real. Y un Congreso elegido por sufragio. El Rey tenía poder de disolver el Congreso y la porción electiva del Senado. Potestad que fue usada con profusión.\n\nCánovas del Castillo quiso organizar el nuevo régimen sobre la alternancia en el gobierno de dos partidos diferentes que compartieran lo fundamental: monarquía, estado unitario, constitucionalismo y defensa del sistema capitalista. Estos fueron:\n\nEl Partido Liberal-Conservador, organizado en torno a la figura de Antonio Cánovas del Castillo, que aglutinaba las fuerzas defensoras del orden, la Iglesia católica y las clases mejor situadas desde el punto de vista económico.\n\nEl Partido Liberal-Fusionista, con Práxedes Mateo Sagasta como líder, se constituyó con antiguos progresistas, y algunos ex-republicanos moderados. Defendían ideas más progresistas y laicas.\n\nAmbos partidos se comprometieron a no aprobar nunca leyes que el otro tuviera que derogar cuando le tocara gobernar. Así pues, los dos partidos se alternaron en el poder a partir de la celebración de unas elecciones amañadas: el Rey encargaba la formación del gobierno al líder del partido que tocaba gobernar. El nuevo jefe de gobierno convocaba elecciones con el objeto de dotarse de una mayoría parlamentaria que le permitiera gobernar.\n\nLas elecciones se organizaban desde el Ministerio de Gobernación. La clave estaba en el “encasillado”: un cuadrante con todos los diputados que tenían que salir elegidos, tanto del gobierno como de la oposición. Este pasaba a los gobiernos civiles de cada provincia. Y de estos, a los alcaldes y caciques locales.\n\nLos procedimientos para manipular los resultados eran muy variados: falseamiento del censo, compra de votos, o violencia; o bien, directamente el pucherazo.\n\nDe las diez elecciones celebradas entre $1876$ y $1898$, seis fueron ganadas por los conservadores y cuatro por los liberales. Los moderados se mantuvieron en el poder desde $1875$ hasta $1881$, año en que los liberales ocupan por primera vez el gobierno. Pero sería en el periodo $1885-1891$, en el llamado gobierno largo, cuando los liberales tendrían la oportunidad de hacer realidad su programa. En $1885$, había muerto Alfonso XII y Cánovas consideró oportuno para la estabilidad del régimen que Sagasta ocupara el poder y llevara a cabo una serie de reformas (Pacto del Pardo entre los líderes de los dos principales partidos).\n\nTras la muerte del rey, se hizo cargo de la Regencia su esposa, María Cristina de Habsburgo: ocuparía el cargo hasta la mayoría de edad de Alfonso XIII, en $1902$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 11
+    },
+    {
+     "idioma": "es",
+     "pagina": 12
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En n28 el documento indica «General Martínez en Sagunto»; parece una errata en el nombre del general."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+ 
+ 
+HISTORIA 
+CONVOCATORIA (EXTRAORDINARIA) JULIO 2021 
+OPCIÓN A 
+ 
+ 
+Ejercicio 1.(Calificación máxima: 4 puntos) 
+ 
+1. Sociedad y economía en el Paleolítico y Neolítico. La pintura rupestre  
+2. Al Ándalus: reinos de taifas. Reino nazarí 
+3. Los reinos cristianos en la Edad Media: organización política, régimen señorial y 
+sociedad estamental.  
+4. La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas 
+internos. Guerras y sublevación en Europa.  
+5. La guerra de los Treinta Años y la pérdida de la hegemonía española en Europa. 
+6. LaEspaña del siglo XVIII. Expansión y transformaciones económicas: agricultura, 
+industria y comercio con América. Causas del despegue económico de Cataluña. 
+ 
+ 
+Solución: 
+ 
+1. El Paleolítico (1200000- 5000 a.C.) es el primer periodo de la Prehistoria y el más 
+extenso. Se divide en: P. Inferior: con economía depredadora (caza, pesca, 
+recolección y carroñeo), eran nómadas y se agrupaban en clanes familiares; el P. 
+Medio que se caracteriza por el desarrollo de su cráneo y el descubrimiento del 
+fuego. Empiezan a vivir en cuevas y desarrollar ritos funerarios; y P. Superior, 
+aparece el Homo Sapienscon el que surge la sociedad primitiva y división de roles 
+familiares. 
+Con el fin de la glaciación (5000 a.C.) surgen las primeras sociedades neolíticas en 
+la península. El clima favoreció el sedentarismo y la agricultura y la ganadería. 
+Surgen las primeras comunidades estamentales (tribus, aldeas, pueblos y ciudades) 
+en zonas fluviales; desarrollan la cerámica, para almacenar y las prácticas religiosas 
+con fines funerarios. Además de los restos fósiles, el arte rupestre nos permite 
+conocer las formas de vida prehistórica. Destacan las pinturas policromáticas de 
+Altamira, con sentido mágico y religioso, representan escenas de caza, signos 
+abstractos y manos estampadas; así como, las de la zona levantina, con figuras 
+humanas y escenas cotidianas con gran esquematismo y carácter monocromático. 
+ 
+2. Hispania, ocupada por los musulmanes, debido a las crisis de poder, terminó 
+dividiéndose, en el siglo XI, en Reinos de Taifas.  
+Durante las Primeras taifas, con capital en Sevilla, se vivió una época de gran 
+desarrollo cultural. A pesar de esto, los cristianos fueron ganando territorio y fue 
+imposible contenerlos en Toledo aun contando con ayuda de los almorávides.  Esto 
+dio paso a las Segundas taifas. Los musulmanes pidieron apoyo a los almohades, 
+pero volverán a ser derrotados en la batalla de las Navas de Tolosa en 1212, 
+quedando solo el reino nazarí de Granada como resquicio musulmán en la 
+Península.  
+1 
+ 
+
+=== PAGINA 2 ===
+ 
+Por último, en las Terceras taifas los nazaríes tendrán que pagar tributos a los 
+cristianos para mantener su posición. Eso será hasta producirse la unión militar de 
+Castilla y Aragón a partir del matrimonio de los Reyes Católicos. Estos terminaron 
+por conquistar Granada en 1492, haciendo a Boabdil entregar la ciudad. 
+ 
+3. Tras las fases de la reconquista y la repoblación, se consolidó en la península una 
+sociedad feudal. Esta estaba constituida por el vasallajey los señoríos 
+jurisdiccionales y territoriales- tierras de explotación otorgadas por el rey como 
+pago por un servicio. 
+Las instituciones básicas eran:  la monarquía, la cualen Castilla tenía un carácter 
+menos feudal que en Aragón (allí, los nobles impusieron el pactismo, limitando el 
+poder real; Las Cortes: integradas por los privilegiados (nobleza y clero).; y, más 
+tarde, también por la burguesía; por último, los municipios, que tenían cierta 
+autonomía y jurisdicción propia, aunque, desde el s. XIII, se impondrá la figura del 
+corregidor.  
+La sociedad pasó de un régimen señorial a una sociedad estamental en la queel rey 
+era la figura de autoridad, la nobleza guerreaba y poseía las tierras y el clero 
+(dividido en alto clero y bajo clero, según su origen y nacimiento), poseía tierras y 
+señoríos. Por último, estaba el campesinado, formado por los que trabajaban la 
+tierra, no poseían ni derechos y estaban sujetos a las dependencias de sus señores. 
+ 
+ 
+ 
+4. La anhelada unidad de la Península Ibérica se consiguió con Felipe II que heredó 
+un inmenso territorio en el que “no se ponía el sol” (América y Filipinas). Las bases 
+de su reinado fueron: Conservar los reinos y territorios heredados; defender la fe 
+católica y una gestión eficaz del gobierno. Continuó la política de sus antepasados 
+como católico, inspirándose en la Contrarreforma. Mantuvo el gobierno de 
+consejos, añadiendo nuevos para tomar decisiones, a los secretarios reales y una 
+administración centralizada, aunque fueron frecuentes las dificultades económicas y 
+los problemas fiscales. Los problemas destacables fueron la rebelión de las 
+Alpujarras protagonizada por los moriscos por sus libertades culturales e, 
+internacionalmente, el enfrentamiento contra Francia y contra Inglaterra (por la 
+amenaza del comercio marítimo con Flandes y los envíos de plata y oro de las 
+Indias), este acabará en 1588 con la derrotade la Armada Invencible española. Por 
+último, la Guerra de Flandes (durante 80 años) terminará en 1648 con la 
+independencia de Holanda. Además, continuó la amenaza turca. 
+ 
+5. Durante el siglo XVII se consolidará un nuevo orden internacional en Europa. Este 
+estará marcado, sobre todo, por la Guerra de los Treinta Años que implicará a todas 
+las grandes potencias europeas. Comienza con una lucha entre los protestantes 
+germanos contra el Sacro Imperio. 
+En un primer momento, los protestantes serán derrotados con la ayuda de España, 
+aun contando con el apoyo de Suecia. A partir de la intervención de Francia en 
+2 
+ 
+
+=== PAGINA 3 ===
+ 
+1635 el destino de la guerra cambiará. Los españoles serán vencidos en Rocroi y 
+agotados firmarán la Paz de Westfalia en 1648. 
+Esta paz supondrá la pérdida de la hegemonía de España en Europa, siendo 
+reemplazada por Francia y la entrada de los Borbones a España. 
+ 
+6. El siglo XVIII supondrá la transición del Antiguo Régimen al mundo 
+contemporáneo. 
+Su origen lo encontramos en el movimiento intelectual de la Ilustración nacido en 
+Francia. Aunque en España tardará en producirse el cambio, con Carlos III se 
+producirá un reformismo ilustrado que traerá consigo la liberalización del precio del 
+grano, la cancelación de la mesta y el impulso de proyectos de reforma agraria. 
+Además, aparecerán fábricas y talleres privados (fuera de los gremios) y se liberará 
+el comercio del monopolio con el que contaba Cádiz. Esto traerá como 
+consecuencias el despegue económico de Cataluña, la aparición de una nueva 
+burguesía, el aumento de intercambios comerciales con el exterior y con América y 
+la instauración del proteccionismo. 
+ 
+ 
+Ejercicio 2.(Calificación máxima: 1,5 puntos) 
+ 
+1. Explique brevemente el tipo de fuente, la localización cronológica y el contenido 
+atendiendo a la siguiente imagen (0.5) 
+2. Explique el contexto histórico delinicio de la Guerra de la Independencia. (1) 
+ 
+ 
+Solución: 
+ 
+La imagen que podemos ver a continuación se trata de una pintura al óleo 
+realizada por el artista Francisco de Goya en el año 1814.  
+“Los fusilamientos del 3 de Mayo” representan la escena de manera dramática 
+vivida el 3 de mayo de 1808 a las afueras de Madrid. 
+Como el autor es un descriptor, pero no protagonista de la misma y al 
+haberse realizado 6 años más tarde, podemos afirmar que se trata de una fuente 
+secundaria, pues no es totalmente coetánea a los hechos.  Además, por su temática 
+y por su importancia histórica, afirmamos que se trata de una fuente de formato no 
+escrito, histórica y político-social. 
+La pintura narra de manera expresiva cómo gran parte de la población 
+española se amotinó en contra de la presencia francesa para evitar entregar el 
+gobierno de España. En esta imagen, se representa Madrid, pero los levantamientos 
+serán seguidos por toda España llegando incluso a organizar esta resistencia.  
+Francia y España eran aliadas. En 1807, Napoleón ejercía el poder sobre la 
+mayor parte de Europa continental. Para doblegar a Gran Bretaña, había decretado 
+su bloqueo comercial. Como Portugal, aliado de los ingleses, no cooperaba en este 
+plan, Napoleón planeó su conquista. En Fontainebleau, Godoy, Secretario Real de 
+España, se comprometió a permitir el paso de las tropas francesas por la península. 
+A cambio, recibiría grandes privilegios.  
+3 
+ 
+
+=== PAGINA 4 ===
+ 
+Mientras, la situación en España era insostenible: Fernando VII es 
+descubierto conspirando contra su padre y la opinión de Godoy para la población 
+era cada vez peor.  La situación se vuelve aún más tensa el 18 de marzo de 1808, 
+cuando la masa invade el Palacio Real, Godoy tiene que huir y Carlos IV abdica en 
+favor de su hijo Fernando: la monarquía tradicional española comenzaba su 
+definitiva cuesta abajo. 
+Ante la situación de debilidad, Napoleón decide ocupar el trono de España e 
+incorporarla a su imperio. Para ello, convoca a Carlos IV y Fernando VII en Bayona, 
+donde les exige renunciar a sus derechos al trono y coloca a su hermano José I. Al 
+tiempo que se producían los acontecimientos de Bayona, en España comenzaba la 
+reacción popular contra la invasión francesa. En efecto, el 2 de mayo de 1808 una 
+multitud se echó a la calle en Madrid para oponerse a los invasores. La represión 
+fue fuerte, pero el ejemplo de los madrileños es seguido en multitud de ciudades y 
+pueblos de toda España. En muchos lugares comienzan a formarse Juntas para 
+organizar la resistencia al invasor y una Junta Central, con la tarea de coordinar las 
+distintas acciones. 
+La reacción española contra la ocupación daría lugar a una guerra de cinco 
+años que se conoce con el nombre de Guerra de Independencia. 
+ 
+ 
+Ejercicio 3.(Calificación máxima: 4,5 puntos) 
+ 
+ 
+TEMA: Política económica del franquismo: de la autarquía al desarrollismo. 
+Transformaciones sociales: causas y evolución. 
+ 
+ 
+Solución: 
+ 
+El régimen franquista buscaba,como objetivo económico, establecer un 
+sistema autárquico, para emprender la reconstrucción y el posterior desarrollo pese 
+al atraso industrial y los escasosrecursos energéticos de España. 
+Las líneas maestras se plasmaron a finales de 1939  mediante las Leyes de 
+Protección y Fomento de laIndustria Nacional y la de Ordenación y Defensa de la 
+Industria, quedando la economía subordinada a los interesespolíticos de corte 
+fascista. Dos años después se creó elINI para articular, fomentar y nacionalizar la 
+industria. Nacieron empresas IBERIA, ENASA, SEAT, etc. y se nacionalizaron 
+Telefónica o RENFE. 
+La economía quedaba regulada por el estado, especialmente el comercio 
+exterior. Esto provocó eldesarrollo de la corrupción.  
+Los precios de los productos seencarecieron elevando la inflación, frenando 
+el crecimiento. La crisis agrícola provocó escasez de alimentos quepropició 
+elestraperlo y terminó implantándose una economía de subsistencia ytrueque. 
+Aumentó la mortalidad por la situación de pobreza y hambre, para paliarlose 
+impuso elracionamiento desde mayo de 1939 hasta 1952.  
+Para evitar el desabastecimiento, el Estado intentó controlar la producción 
+agrícola a través del Servicio Nacional delTrigo.Sin embargo, el fin del aislamiento 
+4 
+ 
+
+=== PAGINA 5 ===
+ 
+internacional tras la firma del Concordato con la Santa Sedey la entrada en la ONU 
+(1955) permitió la llegada de créditos y préstamos que aliviaron la 
+situacióneconómica. También ayudó la incorporación de tecnócratas en el gobierno 
+de 1957. 
+Las primeras medidas se dirigieron a la devaluación de la moneda y la 
+reforma fiscal para aumentar los ingresosestatales.  
+La entrada en la OECE y el FMI en 1958, junto con el Plan de Estabilización 
+de 1959,empezaron a afianzar la economía.Se puso fin a la autarquía y se buscó la 
+integración deEspaña en la economía europeacon reformas monetario-fiscales 
+quelimitaron el crédito del sector privado, suprimieron subsidios y controlaron el 
+gasto público, además de la devaluación de la peseta. Inicialmente los efectos 
+fueron negativos: se congelaron los salarios, seaumentaron los impuestos, creció el 
+paro, se redujeron las jornadas y secerraron empresas. Esto provocó un aumento 
+de emigración y huelgas. 
+A partir de 1962 se creaba la Comisaría del Plan de Desarrollo dirigida por 
+López Rodó paraconseguir el desarrollo y crecimiento económico. Sus planesse 
+centraron en la industria, que experimentó un crecimiento rápido en el 
+sectorautomovilístico, siderúrgico y químico, y en la mejora del transporte 
+ferroviario y por carretera.  
+España además sebenefició de un ciclo económico favorable en Europa, que 
+permitió el aumento de la inversión extranjeray la mayor integración económica de 
+España en el ámbito internacional, como demuestra el acuerdofirmado con la CEE. 
+Todo ello permitió aumentar las exportaciones. Además, seunieron las remesas de 
+dinero de los emigrados y el aumento de ingresos del turismo. 
+Tanto los planes como la coyuntura exterior favorecieron un ritmo de 
+crecimiento excepcional. Fruto de labonanza fue la Ley de Bases de la Seguridad 
+Social (1963). 
+Desde el principio hubo una tendencia hacia un reparto desigual de la 
+riqueza, concentrada en una minoríaacomodada. De la clase trabajadora, 
+losjornaleros descendieron y aumentaron los trabajadores del sector secundario y 
+terciario. 
+La clase media creció hasta ser muy numerosa, compuesta porprofesionales 
+liberales, funcionarios ytrabajadores por cuenta ajena. Las clases altas eran 
+minoritarias, pero con gran poder económico. 
+La sociedad comenzó a tomar conciencia política produciéndose varias 
+movilizaciones como La reunión de Múnich de 1962. Alí, varios grupos se reunieron 
+para proponer los cambios políticos necesarios para entrar en la CEE. Esta fue 
+duramente criticada por la prensa franquista. 
+Creció un nuevo movimiento obrero con la huelga como reivindicación. 
+Nacieron CCOO. También tomó importancia el activismo estudiantil. 
+El desarrollo económico consiguió cambiar la costumbre y mentalidad española. 
+España pasó a convertirse de un país rural a uno más urbano, industrial y abierto. 
+Esto será un cambio para la estructura social y su mentalidad.  
+5 
+ 
+
+=== PAGINA 6 ===
+ 
+La Educaciónde manera obligatoria hasta los 14 y la entrada de la mujer en 
+el mundo laboral y la mejora de su formación fueron algunos de los cambios. 
+Además, comenzó a generarse un estado de bienestar entre la población que 
+contribuyó al crecimiento de la sociedad de consumo, de la mejora de la sanidad y 
+de la implantación de una Seguridad Social para todos.   
+ 
+ 
+ 
+6 
+ 
+
+=== PAGINA 7 ===
+ 
+ 
+HISTORIA 
+CONVOCATORIA (EXTRAORDINARIA) JULIO8 2021 
+OPCIÓN B 
+ 
+ 
+Ejercicio 1.(Calificación máxima: 4 puntos) 
+ 
+1. Conquista y romanización de la Península Ibérica. Principales aportaciones romanas 
+en los ámbitos social, económico y cultural.  
+2. Al Ándalus: economía, sociedad y cultura 
+3. Organización política de la Corona de Castilla, de la Corona de Aragón y del Reino de 
+Navarra al final de la Edad Media 
+4. Los Reyes Católicos: unión dinástica e instituciones de gobierno  
+5. Exploración y colonización de América. Consecuencias de los descubrimientos en 
+España, Europa y América. 
+6. Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III 
+ 
+ 
+Solución: 
+ 
+1.  En el siglo III a.C. dos imperios emergentes luchan por la supremacía en el 
+Mediterráneo: Cartago (imperio marítimo) y Roma (imperio terrestre). Este 
+enfrentamiento se conoce como Las Guerras Púnicas (264-205 a.C.). Éstas fueron 
+tres. En la segunda, ganó Roma y finalmente todo el Mediterráneo pasó a ser el 
+Mare Nostrum. La resistencia de los indígenas de la península (205-133 a.C.) fue 
+desigual: fácil con los íberos, peor con los lusitanos (líder Viriato), imposible con los 
+celtíberos (Numancia). Tras un largo proceso de conquista, finalmente se dominó el 
+norte peninsular y se declaró la Pax Romana. Comenzaba el Imperio y el dominio 
+romano peninsular. Entendemos por Romanización el largo proceso de adscripción 
+al mundo romano de todos los territorios y todos los pueblos conquistados hasta 
+conseguir la homogeneización de todos ellos. Esto se hizo a través de elementos 
+de cohesión que fueron imponiéndose: el latín como única lengua, el iuris civilis 
+como única ley y una civilización urbana, con una trama de ciudades unidas a 
+través de una intensísima red de calzadas y puentes, acueductos, puertos… Este 
+legado aún pervive.   
+ 
+2. Al Ándalus fue el nombre que se le otorgó a la Península durante la ocupación 
+de los musulmanes durante la Edad Media.  
+Con respecto a su economía fue importante la agricultura tanto por las novedades 
+técnicas como por los nuevos productos agrícolas que incluyeron; además, también 
+la artesanía presentó un gran avance por los gremios surgidos y por los talleres 
+estatales que comerciaban con el exterior.  
+La sociedad estaba formada por una diversidad cultural tanto étnica como religiosa: 
+cristianos, muladíes, moriscos, mozárabes y mudéjares. 
+Además, durante el Califato de Córdoba, la Península se enriqueció con un 
+desarrollo cultural tal, que se convirtió en un centro de atracción del mundo 
+1 
+ 
+
+=== PAGINA 8 ===
+ 
+conocido: La Escuela de Traductores de Toledo o las ciencias como la filosofía, 
+geografía o matemáticas fueron algunas de las novedades que incluyeron durante 
+su estancia. 
+ 
+3. A finales de la Edad Media, existían diferencias de gobierno entre estos 
+territorios: 
+Mientras que en Castilla la monarquía era unitaria, hereditaria y patrimonial (por 
+derecho divino); en Aragón, el rey lideraba una confederación de estados limitada 
+por los nobles a través de las Cortes (pactismo). 
+A partir de 1230 los dos reinos se unirán pero cada uno de los territorios conservará 
+sus peculiaridades: En Castilla, cada uno de los órganos dependerá del Rey: un 
+Consejo Real, unas Cortes, una Chancillería, Contaduría y Condestable; y, en 
+Aragón, 3 cortes con poder vinculante.  
+En Navarra, también existía una monarquía que se basaba en un sistema foral y en 
+el que las cortes eran estamentales. 
+ 
+4. El reinado de los Reyes Católicos es una parte importante de la Historia española 
+pues será el momento en el que se sentarán las bases de una monarquía 
+autoritaria, por encima de los nobles, defendida por un ejército permanente.  
+Además, serán los propulsores de la burocracia, la diplomacia y la expansión 
+exteriorpor Europa y América; y, también, de la unificación religiosa. Su matrimonio 
+tuvo lugar en 1469 pero será en 1479 cuando unan las coronas de Castilla (Isabel) y 
+Aragón (Fernando). Esta unión dinástica se diseñó como un estado plural en el que 
+los territorios tenían misma monarquía, pero propias leyes, instituciones… 
+Su administración central se vuelve compleja y se burocratiza. Las Cortes pierden 
+importancia y van a ganarla los consejos divididos en territoriales y temáticos. En la 
+administración territorial destacan los corregidores y la justicia que recaía en las 
+Chancillerías (tribunales superiores) y audiencias y en los instrumentos de control: la 
+Santa Hermandad y la Inquisición. Las reformas institucionales sobre todo se 
+realizan en Castilla. En la corona de Aragón, debido al pactismo, apareció la figura 
+del virrey. 
+ 
+5. La exploración del nuevo continente comienza un año después de su 
+descubrimiento en 1492. Se conquistan entonces 2 imperios: el Azteca que forma 
+ahora México, por Hernán Cortés y el Inca por Pizarro.En el Centro, Núñez de 
+Balboa descubrirá el Pacífico y Magallanes y Elcano circunnavegarán la Tierra. 
+La colonización llegará justo después de la exploración a partir de lo que 
+denominaron “encomiendas”. Realmente, esto derivará en una continuada 
+producción de abusos y explotación y esclavitud de la población indígena.  
+Las consecuencias para América serán desastrosas; en cambio, los colonos, 
+realizarán gran número de migraciones con tráfico de esclavos negros; 
+económicamente, crecerá el comercio con nuevos productos y aumento de 
+minerales para financiar las guerras españolas y una revolución de los precios.  
+2 
+ 
+
+=== PAGINA 9 ===
+ 
+Culturalmente, se realizaron grandes avances en geografía y navegación. 
+ 
+6. El pensamiento ilustrado nutrió de ideas y programas a los economistas y 
+pensadores del siglo XVIII que se enfrentaron al Antiguo Régimen. Pero también, 
+hubo grandes propuestas en otros ámbitos: 
+En lo social consiguieron que todas las profesiones fueran meritorias para conseguir 
+la hidalguía. Además, la educación primaria se hizo obligatoria y se crearon las 
+Academias y las Escuelas de artes y oficios. Estas, defendía la igualdad y la libertad.  
+En lo político, con Carlos III se instituye el Despotismo Ilustrado, mediante el cual, el 
+rey se mostraba partidario de las ideas de progreso y la racionalización de la 
+Ilustración, ahora bien, siempre que no atentaran contra su poder absoluto Su lema 
+“todo para el pueblo, pero sin el pueblo” fue el mayor ejemplo de esto.  
+ 
+ 
+ 
+Ejercicio 2.(Calificación máxima: 1,5 puntos) 
+ 
+1. Explique brevemente el tipo de fuente, la localización cronológica y el contenido 
+atendiendo a la siguiente imagen (0.5) 
+2. Explique el contexto histórico de la alternancia política en 1982 (1) 
+ 
+ 
+Solución: 
+ 
+La imagen que vemos a continuación se trata de una fotografía tomada en el 
+momento en el que se sucedían los acontecimientos, por tanto, decimos que se 
+trata de una fuente primaria de tipo histórico militar social. 
+La imagen data del año 1982, es una fotografía de archivo de la cual no conocemos 
+autor. Es una fotografía del Equipo de gobierno. Fue tomada delante de la 
+Moncloa. 
+En ella podemos distinguir a Felipe González y a una serie de hombres a su 
+alrededor que deben de tratarse del grupo de ministros escogidos para su equipo 
+de gobierno.  
+En 1982, después de las primeras elecciones democráticas ganadas por el 
+partido UCD y con Adolfo Suárez a la cabeza, llega el momento del PSOE, con una 
+victoria aplastante y por mayoría absoluta, Felipe González será el presidente del 
+gobierno español entre los años 1982 y 1996, con cuatro elecciones consecutivas en 
+las que se mantendrá a la cabeza. 
+ 
+Las primeras elecciones generales de la democracia en 1977 dieron el triunfo, 
+a la UCD de Adolfo Suárez.  
+Los gobiernos de la UCD (1977-1982), en minoría, afrontaron la nueva etapa 
+democrática en un clima de crisis económica, conflictividad social y violencia 
+(terroristas, sectores del ejército, ultras de izquierda y de derecha). 
+3 
+ 
+
+=== PAGINA 10 ===
+ 
+Aprobada la Constitución de 1978 y con la victoria de UCD (marzo 1979), 
+comenzó la segunda legislatura. Suárez se enfrentaría a las divergencias en la UCD, 
+la segunda crisis del petróleo, el terrorismo, y el acoso del PSOE. 
+Suárez dimitió en enero 1981 y la descomposición de la UCD, llevó a disolver 
+las Cortes y convocar elecciones generales en octubre 1982. 
+Las elecciones del 28-octubre-1982, dieron el triunfo al PSOE por mayoría 
+absoluta. Ganarían cuatro elecciones consecutivas (1982, 1986, 1989 y 1993) con 
+Felipe González como presidente. 
+A partir de ahora, el bipartidismo será la tónica general y los partidos de 
+centro perderán a sus votantes. PSOE como fuerza gobernante de izquierdas y con 
+el Partido Popular como segunda fuerza más votada con oposición desde la 
+derecha.  
+Felipe González, apoyado por su joven gobierno, deberá de abordar el 
+nuevo gobierno y proponer nuevas medidas a la grave situación económica que 
+tenía su origen en la transición.  
+Durante su gobierno, deberá sanear la economía, impulsar el crecimiento 
+económico y reformar, su economía y preparar su entrada en política exterior.  
+ 
+ 
+Ejercicio 3.(Calificación máxima: 4,5 puntos) 
+ 
+1. Resuma con brevedad el contenido del texto. (Puntuación máxima: 0,5 puntos).  
+2. Señale las ideas fundamentales del texto. (Puntuación máxima: 1 punto).  
+3. Responda a la siguiente cuestión (Puntuación máxima: 3 puntos): La Restauración 
+Borbónica. Cánovas del Castillo y el turno de partidos. 
+ 
+ 
+Solución: 
+ 
+Alfonso XII agradece las felicitaciones y se muestra firme en la creencia de 
+que la única manera de dotar seguridad a España es a través de la vuelta a la 
+monarquía Constitucional. Él se auto propone como único candidato al trono 
+español por derecho hereditario y representativo.  
+Propone un entendimiento entre él y el pueblo español, pudiendo llegar a 
+un acuerdo legal y no arbitrario, pero aboliendo la Constitución anterior. 
+ 
+El texto que tenemos a continuación se trata de una fuente primaria, ya que 
+es coetánea a los hechos históricos a los que hace referencia.  
+En concreto, se trata de una fuente de naturaleza histórica circunstancial y 
+política. 
+Alfonso XII aparece como firmante del Manifiesto, fechado el día 1 de 
+diciembre de 1874, en un momento en el que la I República y el Sexenio 
+democrático estaban al borde del final. Sabemos que realmente el autor fue 
+Cánovas del Castillo, disuasor principal de que Alfonso XII volviera a instaurar la 
+monarquía en España. 
+4 
+ 
+
+=== PAGINA 11 ===
+ 
+El texto se escribió para un receptor colectivo, el pueblo español, con la 
+intención de presentarles y convencerles de las ventajas de un cambio político y de 
+la relevancia de su presencia como monarca legítimo. 
+El texto refleja una serie de ideas. En primer lugar “el restablecimiento de la 
+Monarquía Constitucional” que él propone como solución a una república llena de 
+incertidumbres.En segundo lugar “soy único representante yo del derecho 
+monárquico en España”, idea que él defiende por su herencia y legitimidad al ser 
+una monarquía hereditaria y representativa y que, además, asegura su presencia en 
+el trono como única posible, desechando cualquier otra opción.Y, por último, “ni 
+dejaré de ser buen español, ni, como todos mis antepasados, buen católico, ni, 
+como hombre del siglo, verdaderamente liberal”. Con esta idea, en primer lugar, se 
+une al resto de españoles como uno más, se define dentro de una línea de sangre 
+monárquica en la familia de los Borbones y se declara hombre de ideas modernas y 
+abierto al cambio utilizando el concepto de “liberal” como la doctrina política 
+basada en la defensa de las libertades individuales, de la limitación del Estado y de 
+poderes públicos en lo social, económico y cultural. 
+En conclusión, Alfonso XII se presenta como una solución viable a la desestabilidad 
+política que garantice el funcionamiento liberal de las instituciones. 
+Tras el golpe de Estado del General Pavía que pone fin a la I República, y el 
+gobierno “extraño” de Serrano se fue imponiendo la idea de que la restauración 
+borbónica era la única manera de normalizar la situación política. Para allanar las 
+cosas, Isabel II había abdicado en su hijo Alfonso, y este había firmado un 
+documento (El Manifiesto de Sandhurst, redactado por Cánovas) en el que se 
+comprometía, en caso de recuperar el trono, a respetar el sistema constitucional. El 
+golpe definitivo vendría con el pronunciamiento del General Martínez en Sagunto 
+(Valencia) y proclamaba a Alfonso XII como Rey de España. 
+Sólo dos días después, Cánovas del Castillo se puso al frente del llamado 
+Ministerio Regencia y se dedicó a gobernar de manera dictatorial. Descartada la 
+Constitución de 1869, se pusieron en marcha los mecanismos para elaborar una 
+nueva. La Constitución de 1876 tiene las siguientes características: Retoma el 
+concepto de la soberanía compartida entre el Rey y las Cortes bicamerales, 
+rechazando el de la soberanía nacional. La regulación de muchos derechos. Un 
+Senado en el que los 2/3 de sus miembros lo eran por derecho propio o por 
+designación real. Y un Congreso elegido por sufragio. El Rey tenía poder de 
+disolver el Congreso y la porción electiva del Senado. Potestad que fue usada con 
+profusión. 
+Cánovas del Castillo quiso organizar el nuevo régimen sobre la alternancia 
+en el gobierno de dos partidos diferentes que compartieran lo fundamental: 
+monarquía, estado unitario, constitucionalismo y defensa del sistema capitalista. 
+Estos fueron: 
+El Partido Liberal-Conservador, organizado en torno a la figura de Antonio 
+Cánovas del Castillo, que aglutinaba las fuerzas defensoras del orden, la Iglesia 
+católica y las clases mejor situadas desde el punto de vista económico. 
+5 
+ 
+
+=== PAGINA 12 ===
+ 
+El Partido Liberal-Fusionista, con Práxedes Mateo Sagasta como líder, se 
+constituyó con antiguos progresistas, y algunos ex-republicanos moderados. 
+Defendían ideas más progresistas y laicas. 
+Ambos partidos se comprometieron a no aprobar nunca leyes que el otro 
+tuviera que derogar cuando le tocara gobernar. Así pues, los dos partidos se 
+alternaron en el poder a partir de la celebración de unas elecciones amañadas:el 
+Rey encargaba la formación del gobierno al líder del partido que tocaba gobernar. 
+El nuevo jefe de gobierno convocaba elecciones con el objeto de dotarse de una 
+mayoría parlamentaria que le permitiera gobernar. 
+Las elecciones se organizaban desde el Ministerio de Gobernación. La clave 
+estaba en el “encasillado”: un cuadrante con todos los diputados que tenían que 
+salir elegidos, tanto del gobierno como de la oposición. Este pasaba a los gobiernos 
+civiles de cada provincia. Y de estos, a los alcaldes y caciques locales. 
+Los procedimientos para manipular los resultados eran muy variados: 
+falseamiento del censo, compra de votos, o violencia; o bien, directamente el 
+pucherazo. 
+De las diez elecciones celebradas entre 1876 y 1898, seis fueron ganadas por 
+los conservadores y cuatro por los liberales. Los moderados se mantuvieron en el 
+poder desde 1875 hasta 1881, año en que los liberales ocupan porprimera vez el 
+gobierno. Pero sería en el periodo 1885-1891, en el llamado gobierno largo, cuando 
+los liberales tendrían la oportunidad de hacer realidad su programa. En 1885, había 
+muerto Alfonso XII y Cánovas consideró oportuno para la estabilidad del régimen 
+que Sagasta ocupara el poder y llevara a cabo una serie de reformas (Pacto del 
+Pardo entre los líderes de los dos principales partidos). 
+Tras la muerte del rey, se hizo cargo de la Regencia su esposa, María Cristina 
+de Habsburgo: ocuparía el cargo hasta la mayoría de edad de Alfonso XIII, en 1902. 
+6 
+ 

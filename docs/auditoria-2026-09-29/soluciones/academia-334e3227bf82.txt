@@ -1,0 +1,1350 @@
+DOCUMENTO {"id": "334e3227bf82", "region": "Comunidad Valenciana", "asignatura": "Historia de España", "anio": 2023, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "llibreta", "url": "https://aula.academialallibreta.es/pluginfile.php/25644/mod_folder/content/0/014B%20-%20Historia%20de%20Espa%C3%B1a%20-%20julio%202023.pdf", "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2023-extraordinaria-examen-llibreta-334e3227bf82.pdf", "paginas": 6, "estrato": "piloto · Comunidad Valenciana · Historia de España"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/historia-de-espana/2023-extraordinaria-solucion-llibreta-31af0002c6ff.pdf", "desde": 1, "anexo": {"id": "31af0002c6ff", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/014B%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20julio%202023.pdf", "titulo": "Julio 2023 — Solución"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 1 punt)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 1 punto)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2. Descriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2. Describa el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4. Descriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4. Describa el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2. Identifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2. Identifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4. Identifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4. Identifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 2,
+   "maximo": 2,
+   "de": 4,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Definiu DOS dels conceptes següents (fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Defina DOS de los conceptos siguientes (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Sobirania"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Soberanía"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Absolutisme"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Absolutismo"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Vaga revolucionària"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Huelga revolucionaria"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Colp d’Estat"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Golpe de Estado"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Descriviu els esdeveniments que van conduir a la convocatòria de Corts el 1810 i la situació posterior després de la restauració de l’absolutisme (1814-1820), fent referència a les fonts documentals."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Describa los acontecimientos que condujeron a la convocatoria de Cortes en 1810 y la situación posterior tras la restauración del absolutismo (1814-1820), haciendo referencia a las fuentes documentales."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Expliqueu la crisi del liberalisme polític en el regnat d’Alfons XIII, i les conseqüències de la Gran Guerra i l’activitat de l’oposició, fent referència a les fonts documentals."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique la crisis del liberalismo político en el reinado de Alfonso XIII, y las consecuencias de la Gran Guerra y la actividad de la oposición, haciendo referencia a las fuentes documentales."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "5ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "5ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda una de las dos opciones (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Desplegueu breument com evolucionen els principis de sobirania, separació de poders i llibertats en els textos constitucionals al llarg del segle XIX."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Desarrolle brevemente cómo evolucionan los principios de soberanía, separación de poderes y libertades en los textos constitucionales a lo largo del siglo XIX."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Expliqueu les principals insurreccions socials i colps d’Estat militars en la història de l’Espanya del segle XX."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique las principales insurrecciones sociales y golpes de Estado militares en la historia de la España del siglo XX."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción a: Documentos $1$ y $2$**\n\n**Tipo de fuentes:**\n\n- **Documento $1$:** Es un fragmento de la Constitución de $1812$, aprobada por las Cortes de Cádiz. Es una fuente primaria, ya que se trata de un texto oficial y jurídico de la época, que marca un momento clave en la historia política de España.\n- **Documento $2$:** Es un decreto firmado por Fernando VII en $1814$, conocido como el Manifiesto de Valencia, en el que el monarca declara nula la Constitución de $1812$ y restaura el absolutismo. Es también una fuente primaria, ya que es un documento oficial emitido directamente por el rey en el contexto histórico que describe.\n\nAmbos textos tienen una finalidad normativa y reflejan visiones políticas opuestas: el liberalismo representado por la Constitución de Cádiz y el absolutismo personificado por Fernando VII."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción b: Documentos $3$ y $4$**\n\n**Tipo de fuentes:**\n\n- **Documento $3$:** Es un manifiesto obrero publicado en el periódico *El Socialista* en $1917$. Es una fuente primaria, ya que se trata de un testimonio directo de las reivindicaciones de la clase trabajadora en ese momento, promovido por organizaciones sindicales como la UGT y la CNT.\n- **Documento $4$:** Es el texto del manifiesto del golpe de Estado de Primo de Rivera en $1923$, publicado en el periódico *ABC*. También es una fuente primaria, porque refleja directamente las intenciones y justificaciones del general al tomar el poder.\n\nAmbos documentos son ejemplos de textos políticos y sociales que buscan movilizar a distintos sectores de la población en momentos de crisis."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción a: Documentos $1$ y $2$**\n\n**Documento $1$ (Constitución de $1812$):**\n\nLa Constitución de Cádiz, promulgada en $1812$, fue un esfuerzo pionero por modernizar el sistema político español en el contexto de la Guerra de la Independencia contra los franceses. Representa uno de los primeros textos constitucionales de Europa y una expresión clara de los ideales del liberalismo emergente en el siglo $XIX$. Sus ideas principales incluyen:\n\n1. **Soberanía nacional:**\n   El artículo $3$ establece que la soberanía reside esencialmente en la nación. Esto implica un cambio fundamental respecto al absolutismo, donde el monarca era la fuente exclusiva de poder. Al atribuir la soberanía a la nación, se reconoce el derecho del pueblo, a través de sus representantes, a decidir sobre las leyes fundamentales y la organización del Estado.\n2. **Unidad de la nación española:**\n   El artículo $1$ declara que España está formada por la unión de los españoles de ambos hemisferios, incluyendo las colonias americanas. Este principio busca reforzar el vínculo político y cultural entre la península y las colonias, aunque en la práctica estas últimas se encontraban en un proceso de independencia.\n3. **Religión católica como única permitida:**\n   Aunque liberal en otros aspectos, la Constitución de Cádiz mantiene un carácter confesional. El artículo $12$ establece que la religión católica, apostólica y romana es la única verdadera, y prohíbe el ejercicio de otras religiones. Esto refleja el poder de la Iglesia y el arraigo de la tradición religiosa en la sociedad española de la época.\n4. **Monarquía moderada:**\n   La Constitución adopta una forma de gobierno monárquico, pero limitando el poder del rey mediante la colaboración con las Cortes. Esto implica la introducción de un sistema de división de poderes que busca equilibrar la autoridad del monarca con la participación de representantes electos.\n5. **Libertades civiles:**\n   El artículo $317$ garantiza la libertad de imprenta, permitiendo la difusión de ideas políticas sin necesidad de licencias previas. Aunque limitado, este derecho es un avance hacia la protección de las libertades individuales.\n\n**Documento $2$ (Manifiesto de Fernando VII):**\n\nEl manifiesto de Fernando VII, firmado en $1814$ tras su regreso a España, representa el rechazo absoluto a las reformas liberales impulsadas durante su ausencia. Las ideas principales de este documento incluyen:\n\n1. **Restauración del absolutismo:**\n   Fernando VII declara nula la Constitución de $1812$ y todos los decretos aprobados por las Cortes de Cádiz. Reafirma la soberanía real como base del sistema político, recuperando el poder absoluto que había sido limitado por el texto constitucional.\n2. **Justificación basada en la \"voluntad del pueblo\":**\n   El rey alega que su decisión responde al rechazo generalizado de la Constitución por parte de las provincias y del pueblo español. Este argumento busca legitimar el regreso al absolutismo, aunque en realidad refleja el control ejercido por las élites conservadoras y la falta de apoyo popular a las reformas liberales.\n3. **Rechazo al liberalismo:**\n   El manifiesto critica las innovaciones políticas introducidas por las Cortes, acusándolas de ser perjudiciales para el orden social y la estabilidad del reino. Fernando VII presenta el absolutismo como una solución necesaria para preservar la unidad y la tradición.\n\n**Contexto histórico:**\n\nAmbos documentos reflejan el conflicto entre el liberalismo y el absolutismo que caracterizó la primera mitad del siglo $XIX$ en España. La Constitución de $1812$ surge en un contexto de guerra contra Napoleón, con la intención de modernizar el Estado y movilizar a la población en defensa de la nación. Sin embargo, tras la restauración de Fernando VII en $1814$, el absolutismo regresó con fuerza, desencadenando tensiones que marcarían el devenir político de España durante décadas. En Europa es derrotado Napoleón Bonaparte tras las Guerras Napoleónicas ($1815$) y el Congreso de Viena ($1814$-$1815$) restableció el equilibrio de poder y las monarquías absolutas, impulsando la restauración política conservadora. Se firma la Santa Alianza, un pacto entre Rusia, Austria y Prusia para sofocar movimientos revolucionarios y garantizar el orden conservador."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción b: Documentos $3$ y $4$**\n\n**Documento $3$ (Manifiesto obrero de $1917$):**\n\nEl manifiesto publicado en *El Socialista* en $1917$ es un testimonio clave del descontento social y político que caracterizó los años posteriores a la Primera Guerra Mundial en España. Sus ideas principales son:\n\n1. **Denuncia de la corrupción y la ineficiencia política:**\n   Las organizaciones obreras critican los abusos de la administración y las prácticas corruptas de la clase política. Este descontento refleja el desprestigio del sistema de la Restauración, que estaba dominado por el caciquismo y la manipulación electoral.\n2. **Reivindicación de derechos laborales y sociales:**\n   El texto subraya la miseria creciente del proletariado, provocada por la carestía de la vida y el desempleo. Estos problemas, agravados por la inflación durante la Gran Guerra, llevaron a los trabajadores a exigir mejores condiciones de vida y de trabajo.\n3. **Unificación del movimiento obrero:**\n   El manifiesto destaca la necesidad de una lucha conjunta entre la Unión General de Trabajadores (UGT) y la Confederación Nacional del Trabajo (CNT). Este esfuerzo de colaboración busca fortalecer el impacto de la huelga general como herramienta para presionar al gobierno y las élites económicas.\n\n**Documento $4$ (Manifiesto de Primo de Rivera):**\n\nEl manifiesto de Primo de Rivera, publicado en $1923$, refleja las motivaciones y objetivos del golpe de Estado que dio inicio a su dictadura. Sus ideas principales incluyen:\n\n1. **Crisis del sistema político:**\n   Primo de Rivera critica a los partidos políticos y a los \"profesionales de la política\", acusándolos de ser responsables de la decadencia moral y económica de España. Esta denuncia busca justificar la necesidad de una intervención militar.\n2. **Promesa de orden y regeneración:**\n   El general se presenta como el líder capaz de restaurar el orden público y moralizar la política española. Propone un gobierno provisional encabezado por un directorio militar para llevar a cabo estas reformas.\n3. **Defensa del nacionalismo:**\n   Primo de Rivera enfatiza la necesidad de proteger la unidad de España frente a amenazas internas, como los movimientos separatistas, y externas, como la presión de potencias extranjeras en Marruecos.\n\n**Contexto histórico:**\n\nEl documento $3$ surge en un periodo de crisis social y económica que culmina en la huelga general de $1917$, un movimiento clave en la historia del movimiento obrero español. Por otro lado, el documento $4$ refleja el contexto de inestabilidad política y social de los años $20$, que permitió a Primo de Rivera acceder al poder con el respaldo del rey Alfonso XIII y sectores conservadores, iniciando una dictadura que buscaba \"regenerar\" España, aunque finalmente fracasó. En Europa tiene lugar la Primera Guerra Mundial ($1914$-$1918$), un conflicto devastador entre las grandes potencias europeas (Triple Entente vs. Triple Alianza), que causó enormes pérdidas humanas y económicas. La guerra provocó la caída de imperios como el Imperio Austrohúngaro, el Imperio Ruso, el Imperio Alemán y el Imperio Otomano. También la Revolución Rusa ($1917$), que llevó al derrocamiento del zar Nicolás II y al ascenso del régimen bolchevique de Lenin, instaurando el primer estado comunista en la historia."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La soberanía es el principio según el cual reside el poder supremo en un Estado. En el absolutismo, la soberanía estaba en el monarca, como reflejó Fernando VII al restaurar su autoridad en $1814$ tras anular la Constitución de Cádiz. En el liberalismo, la soberanía reside en la nación, representada por instituciones como las Cortes. Este cambio quedó plasmado en la Constitución de $1812$, que introdujo la soberanía nacional en España, reconociendo que el poder emana de los ciudadanos. Con la llegada de la Segunda República en $1931$, el concepto evolucionó hacia la soberanía popular, estableciendo el sufragio universal, incluyendo a las mujeres. La soberanía, por tanto, refleja los modelos políticos de cada época y las luchas por el poder entre monarquía, pueblo e instituciones."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El absolutismo es un sistema político donde el poder se concentra en el monarca, que gobierna sin limitaciones legales ni constitucionales. En España, Fernando VII restauró este modelo en $1814$, anulando las reformas liberales de las Cortes de Cádiz. Durante este periodo, conocido como el Sexenio Absolutista ($1814$-$1820$), se persiguió a los liberales y se reinstauró un gobierno autoritario. Este sistema se justificaba con la teoría del derecho divino, según la cual el rey gobernaba por mandato de Dios. Sin embargo, el absolutismo enfrentó crecientes desafíos durante el siglo $XIX$ con el avance de las ideas liberales, que culminaron en conflictos como las guerras carlistas, donde los defensores del absolutismo se enfrentaron a los partidarios de un modelo constitucional."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La huelga revolucionaria es una herramienta de lucha utilizada por los trabajadores para obtener cambios políticos y sociales, más allá de simples mejoras laborales. Un ejemplo destacado es la huelga general de $1917$, convocada por UGT y CNT en España. Esta huelga surgió en respuesta a la crisis económica provocada por la Primera Guerra Mundial, que generó inflación, hambre y desempleo. Fue un intento de desafiar al sistema político de la Restauración, evidenciando el malestar social y la creciente influencia del movimiento obrero. Aunque el gobierno reprimió la huelga violentamente, su impacto marcó un antes y un después en las movilizaciones obreras y en la articulación de demandas sociales en el contexto de las crisis del siglo $XX$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Un golpe de Estado es una toma ilegal y generalmente violenta del poder político, organizada por una minoría como militares o políticos. En España, el golpe de Estado de Francisco Franco en $1936$ es uno de los más relevantes, ya que desencadenó la Guerra Civil ($1936$-$1939$). Aunque no tuvo éxito inmediato en todo el país, fracturó España en dos bandos: republicanos y sublevados. Otro caso importante fue el golpe de Primo de Rivera en $1923$, que, respaldado por el rey Alfonso XIII, instauró una dictadura militar para \"regenerar\" el país. Los golpes de Estado suelen justificarse por crisis políticas o sociales, como ocurrió en ambos casos, pero terminan imponiendo regímenes autoritarios que afectan profundamente la vida política y social del país."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción $1$: La convocatoria de Cortes en $1810$ y la restauración del absolutismo ($1814$-$1820$)**\n\nLa convocatoria de Cortes en $1810$ tuvo lugar en un contexto crítico: la Guerra de la Independencia ($1808$-$1814$) contra las tropas napoleónicas y la ocupación de gran parte del territorio español. Ante el vacío de poder generado por la ausencia de Fernando VII, secuestrado por Napoleón, la Junta Central Suprema convocó a las Cortes en Cádiz para reorganizar el país y coordinar la resistencia contra el invasor. Estas Cortes, reunidas en $1810$, representaban una diversidad política y social inédita, incluyendo diputados de las colonias americanas, lo que reforzó la idea de una nación global unificada.\n\nEl resultado más destacado de estas sesiones fue la promulgación de la Constitución de $1812$, también conocida como \"La Pepa\". Este texto introdujo principios liberales como la soberanía nacional, la división de poderes y la garantía de ciertas libertades civiles, aunque bajo una monarquía moderada y con la exclusividad de la religión católica. Sin embargo, la Constitución apenas tuvo tiempo para consolidarse, ya que en $1814$, tras el regreso de Fernando VII, el monarca declaró nulos todos los decretos de Cádiz y reinstauró el absolutismo.\n\nDurante el periodo conocido como el Sexenio Absolutista ($1814$-$1820$), Fernando VII persiguió con dureza a los liberales, consolidando un régimen autoritario que desató tensiones internas. Estas fricciones dieron lugar al pronunciamiento militar de Rafael del Riego en $1820$, que marcó el inicio del Trienio Liberal ($1820$-$1823$), cuando se restauró la Constitución de $1812$. Sin embargo, este breve periodo liberal fue nuevamente aplastado en $1823$ con la intervención de las potencias absolutistas europeas (la Santa Alianza), que reinstauraron a Fernando VII como monarca absoluto."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción $2$: La crisis del liberalismo político en el reinado de Alfonso XIII y sus consecuencias**\n\nEl reinado de Alfonso XIII ($1902$-$1931$) estuvo marcado por una crisis persistente del liberalismo político, derivada de la debilidad del sistema de la Restauración. Este modelo político, establecido tras la restauración borbónica en $1874$, se basaba en un bipartidismo artificial mantenido mediante el caciquismo y la manipulación electoral. Sin embargo, a comienzos del siglo $XX$, este sistema comenzó a desmoronarse ante el auge de movimientos obreros, nacionalismos periféricos y partidos republicanos.\n\nLa Primera Guerra Mundial ($1914$-$1918$) exacerbó los problemas económicos y sociales en España. Aunque el país permaneció neutral, la guerra generó una fuerte inflación que benefició a las élites industriales y financieras, pero empobreció a las clases trabajadoras. Esto intensificó las tensiones sociales y provocó huelgas masivas, como la huelga general de $1917$. Durante esta crisis, UGT y CNT unieron fuerzas en un movimiento que no solo exigía mejoras laborales, sino también cambios políticos. La respuesta del gobierno fue una represión violenta, lo que evidenció la incapacidad del sistema para gestionar las demandas sociales.\n\nEn $1923$, el deterioro político alcanzó un punto crítico, y el general Primo de Rivera dio un golpe de Estado con el apoyo del rey Alfonso XIII. Primo de Rivera instauró una dictadura militar que prometía regenerar España, pero que terminó agravando los problemas estructurales del país. En $1930$, tras la dimisión del dictador, el desprestigio de Alfonso XIII y del sistema monárquico condujo a la proclamación de la Segunda República en $1931$, marcando el fin del reinado y la crisis definitiva del liberalismo político en España."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción $1$: Evolución de los principios de soberanía, separación de poderes y libertades en el siglo $XIX$**\n\nEl siglo $XIX$ en España estuvo marcado por un constante vaivén entre absolutismo y liberalismo, reflejado en los textos constitucionales que se sucedieron. La Constitución de $1812$, elaborada en un contexto de guerra, fue el primer texto que introdujo principios liberales como la soberanía nacional, la separación de poderes y libertades como la de imprenta. Sin embargo, estas ideas fueron rápidamente revertidas con el regreso de Fernando VII, quien reinstauró el absolutismo en $1814$.\n\nEn $1837$, tras la primera guerra carlista y la regencia de María Cristina, se aprobó una nueva constitución que conciliaba los principios liberales con una monarquía más centralizada. Durante el reinado de Isabel II, la Constitución de $1845$ reforzó el poder del monarca, limitando las libertades y reduciendo el papel de las Cortes, lo que reflejó un retroceso en las garantías democráticas.\n\nLa Revolución Gloriosa de $1868$ marcó un hito con la aprobación de la Constitución de $1869$, que introdujo el sufragio universal masculino y una mayor protección de las libertades. Sin embargo, las tensiones políticas llevaron a la Restauración borbónica en $1874$, con la Constitución de $1876$, que restableció un sistema parlamentario limitado, reflejando el equilibrio entre los ideales liberales y el conservadurismo dominante."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "**Opción $2$: Insurrecciones sociales y golpes de Estado en el siglo $XX$**\n\nEl siglo $XX$ en España fue una etapa de gran inestabilidad política, marcada por frecuentes insurrecciones sociales y golpes de Estado. Las huelgas generales de $1917$, organizadas por UGT y CNT, son un ejemplo de cómo el movimiento obrero comenzó a desafiar el sistema político de la Restauración, denunciando la precariedad laboral y las desigualdades sociales. Estas movilizaciones reflejaron el auge del sindicalismo y del anarquismo, que posteriormente jugarían un papel importante durante la Segunda República.\n\nPor otro lado, los golpes de Estado marcaron los momentos clave de la historia española en este siglo. El golpe de Primo de Rivera en $1923$ puso fin al sistema parlamentario de la Restauración e instauró una dictadura militar respaldada por Alfonso XIII. Más tarde, en $1936$, el golpe de Estado liderado por Francisco Franco inició la Guerra Civil Española, fracturando al país en dos bandos. Este conflicto fue seguido por la dictadura franquista, que perduró hasta $1975$ y estuvo caracterizada por la represión política y la ausencia de libertades democráticas.\n\nEstos episodios reflejan cómo las tensiones sociales y políticas en España derivaron frecuentemente en soluciones autoritarias, evidenciando la fragilidad de sus sistemas democráticos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En la respuesta del documento 3 de la pregunta 2 se afirma que el manifiesto de 1917 corresponde a los años posteriores a la Primera Guerra Mundial, aunque la guerra se desarrolló entre 1914 y 1918.",
+  "El nodo n6 está etiquetado «a)» en el árbol, pero su enunciado corresponde a los documentos 3 y 4 y la solución lo presenta como «Opción b»; se ha asociado por el contenido y los documentos."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+Pregunta 1: Descripción de las fuentes utilizadas
+Opción a: Documentos 1 y 2
+Tipo de fuentes:
+●
+Documento 1: Es un fragmento de la Constitución de 1812, aprobada por las
+Cortes de Cádiz. Es una fuente primaria, ya que se trata de un texto oficial y
+jurídico de la época, que marca un momento clave en la historia política de
+España.
+●Documento 2: Es un decreto firmado por Fernando VII en 1814, conocido como
+el Manifiesto de Valencia, en el que el monarca declara nula la Constitución de
+1812 y restaura el absolutismo. Es también una fuente primaria, ya que es un
+documento oficial emitido directamente por el rey en el contexto histórico que
+describe.
+Ambos textos tienen una finalidad normativa y reflejan visiones políticas opuestas: el
+liberalismo representado por la Constitución de Cádiz y el absolutismo personificado
+por Fernando VII.
+Opción b: Documentos 3 y 4
+Tipo de fuentes:
+●
+Documento 3: Es un manifiesto obrero publicado en el periódico El Socialista en
+1917. Es una fuente primaria, ya que se trata de un testimonio directo de las
+reivindicaciones de la clase trabajadora en ese momento, promovido por
+organizaciones sindicales como la UGT y la CNT.
+●Documento 4: Es el texto del manifiesto del golpe de Estado de Primo de Rivera
+en 1923, publicado en el periódico ABC. También es una fuente primaria, porque
+refleja directamente las intenciones y justificaciones del general al tomar el
+poder.
+Ambos documentos son ejemplos de textos políticos y sociales que buscan movilizar a
+distintos sectores de la población en momentos de crisis.
+Pregunta 2: Identificación de ideas principales y contextualización histórica
+Opción a: Documentos 1 y 2
+
+=== PAGINA 2 ===
+Documento
+ 
+1
+ 
+(Constitución
+ 
+de
+ 
+1812):
+La Constitución de Cádiz, promulgada en 1812, fue un esfuerzo pionero por modernizar
+el sistema político español en el contexto de la Guerra de la Independencia contra los
+franceses. Representa uno de los primeros textos constitucionales de Europa y una
+expresión clara de los ideales del liberalismo emergente en el siglo XIX. Sus ideas
+principales incluyen:
+1.
+Soberanía
+ 
+nacional:
+El artículo 3 establece que la soberanía reside esencialmente en la nación. Esto
+implica un cambio fundamental respecto al absolutismo, donde el monarca era la
+fuente exclusiva de poder. Al atribuir la soberanía a la nación, se reconoce el
+derecho del pueblo, a través de sus representantes, a decidir sobre las leyes
+fundamentales y la organización del Estado.
+2. Unidad
+ 
+de
+ 
+la
+ 
+nación
+ 
+española:
+El artículo 1 declara que España está formada por la unión de los españoles de
+ambos hemisferios, incluyendo las colonias americanas. Este principio busca
+reforzar el vínculo político y cultural entre la península y las colonias, aunque en
+la práctica estas últimas se encontraban en un proceso de independencia.
+3. Religión
+ 
+católica
+ 
+como
+ 
+única
+ 
+permitida:
+Aunque liberal en otros aspectos, la Constitución de Cádiz mantiene un carácter
+confesional. El artículo 12 establece que la religión católica, apostólica y romana
+es la única verdadera, y prohíbe el ejercicio de otras religiones. Esto refleja el
+poder de la Iglesia y el arraigo de la tradición religiosa en la sociedad española de
+la época.
+4. Monarquía
+ 
+moderada:
+La Constitución adopta una forma de gobierno monárquico, pero limitando el
+poder del rey mediante la colaboración con las Cortes. Esto implica la
+introducción de un sistema de división de poderes que busca equilibrar la
+autoridad del monarca con la participación de representantes electos.
+5. Libertades
+ 
+civiles:
+El artículo 317 garantiza la libertad de imprenta, permitiendo la difusión de ideas
+políticas sin necesidad de licencias previas. Aunque limitado, este derecho es un
+avance hacia la protección de las libertades individuales.
+Documento
+ 
+2
+ 
+(Manifiesto
+ 
+de
+ 
+Fernando
+ 
+VII):
+El manifiesto de Fernando VII, firmado en 1814 tras su regreso a España, representa el
+rechazo absoluto a las reformas liberales impulsadas durante su ausencia. Las ideas
+principales de este documento incluyen:
+
+=== PAGINA 3 ===
+1.
+Restauración
+ 
+del
+ 
+absolutismo:
+Fernando VII declara nula la Constitución de 1812 y todos los decretos
+aprobados por las Cortes de Cádiz. Reafirma la soberanía real como base del
+sistema político, recuperando el poder absoluto que había sido limitado por el
+texto constitucional.
+2. Justificación
+ 
+basada
+ 
+en
+ 
+la
+ 
+"voluntad
+ 
+del
+ 
+pueblo":
+El rey alega que su decisión responde al rechazo generalizado de la Constitución
+por parte de las provincias y del pueblo español. Este argumento busca legitimar
+el regreso al absolutismo, aunque en realidad refleja el control ejercido por las
+élites conservadoras y la falta de apoyo popular a las reformas liberales.
+3. Rechazo
+ 
+al
+ 
+liberalismo:
+El manifiesto critica las innovaciones políticas introducidas por las Cortes,
+acusándolas de ser perjudiciales para el orden social y la estabilidad del reino.
+Fernando VII presenta el absolutismo como una solución necesaria para
+preservar la unidad y la tradición.
+Contexto
+ 
+histórico:
+Ambos documentos reflejan el conflicto entre el liberalismo y el absolutismo que
+caracterizó la primera mitad del siglo XIX en España. La Constitución de 1812 surge en
+un contexto de guerra contra Napoleón, con la intención de modernizar el Estado y
+movilizar a la población en defensa de la nación. Sin embargo, tras la restauración de
+Fernando VII en 1814, el absolutismo regresó con fuerza, desencadenando tensiones
+que marcarían el devenir político de España durante décadas. En Europa es derrotado
+Napoleón Bonaparte tras las Guerras Napoleónicas (1815) y el Congreso de Viena
+(1814-1815) restableció el equilibrio de poder y las monarquías absolutas, impulsando la
+restauración política conservadora. Se firma la Santa Alianza, un pacto entre Rusia,
+Austria y Prusia para sofocar movimientos revolucionarios y garantizar el orden
+conservador.
+Opción b: Documentos 3 y 4
+Documento
+ 
+3
+ 
+(Manifiesto
+ 
+obrero
+ 
+de
+ 
+1917):
+El manifiesto publicado en El Socialista en 1917 es un testimonio clave del descontento
+social y político que caracterizó los años posteriores a la Primera Guerra Mundial en
+España. Sus ideas principales son:
+1.
+Denuncia
+ 
+de
+ 
+la
+ 
+corrupción
+ 
+y
+ 
+la
+ 
+ineficiencia
+ 
+política:
+Las organizaciones obreras critican los abusos de la administración y las
+prácticas corruptas de la clase política. Este descontento refleja el desprestigio
+
+=== PAGINA 4 ===
+del sistema de la Restauración, que estaba dominado por el caciquismo y la
+manipulación electoral.
+2. Reivindicación
+ 
+de
+ 
+derechos
+ 
+laborales
+ 
+y
+ 
+sociales:
+El texto subraya la miseria creciente del proletariado, provocada por la carestía
+de la vida y el desempleo. Estos problemas, agravados por la inflación durante la
+Gran Guerra, llevaron a los trabajadores a exigir mejores condiciones de vida y
+de trabajo.
+3. Unificación
+ 
+del
+ 
+movimiento
+ 
+obrero:
+El manifiesto destaca la necesidad de una lucha conjunta entre la Unión General
+de Trabajadores (UGT) y la Confederación Nacional del Trabajo (CNT). Este
+esfuerzo de colaboración busca fortalecer el impacto de la huelga general como
+herramienta para presionar al gobierno y las élites económicas.
+Documento
+ 
+4
+ 
+(Manifiesto
+ 
+de
+ 
+Primo
+ 
+de
+ 
+Rivera):
+El manifiesto de Primo de Rivera, publicado en 1923, refleja las motivaciones y objetivos
+del golpe de Estado que dio inicio a su dictadura. Sus ideas principales incluyen:
+1.
+Crisis
+ 
+del
+ 
+sistema
+ 
+político:
+Primo de Rivera critica a los partidos políticos y a los "profesionales de la
+política", acusándolos de ser responsables de la decadencia moral y económica de
+España. Esta denuncia busca justificar la necesidad de una intervención militar.
+2. Promesa
+ 
+de
+ 
+orden
+ 
+y
+ 
+regeneración:
+El general se presenta como el líder capaz de restaurar el orden público y
+moralizar la política española. Propone un gobierno provisional encabezado por
+un directorio militar para llevar a cabo estas reformas.
+3. Defensa
+ 
+del
+ 
+nacionalismo:
+Primo de Rivera enfatiza la necesidad de proteger la unidad de España frente a
+amenazas internas, como los movimientos separatistas, y externas, como la
+presión de potencias extranjeras en Marruecos.
+Contexto
+ 
+histórico:
+El documento 3 surge en un periodo de crisis social y económica que culmina en la
+huelga general de 1917, un movimiento clave en la historia del movimiento obrero
+español. Por otro lado, el documento 4 refleja el contexto de inestabilidad política y
+social de los años 20, que permitió a Primo de Rivera acceder al poder con el respaldo
+del rey Alfonso XIII y sectores conservadores, iniciando una dictadura que buscaba
+"regenerar" España, aunque finalmente fracasó. En Europa tiene lugar la Primera
+Guerra Mundial (1914-1918), un conflicto devastador entre las grandes potencias
+europeas (Triple Entente vs. Triple Alianza), que causó enormes pérdidas humanas y
+
+=== PAGINA 5 ===
+económicas. La guerra provocó la caída de imperios como el Imperio Austrohúngaro, el
+Imperio Ruso, el Imperio Alemán y el Imperio Otomano. También la Revolución Rusa
+(1917), que llevó al derrocamiento del zar Nicolás II y al ascenso del régimen bolchevique
+de Lenin, instaurando el primer estado comunista en la historia.
+Pregunta 3: Definición de conceptos
+Soberanía
+La soberanía es el principio según el cual reside el poder supremo en un Estado. En el
+absolutismo, la soberanía estaba en el monarca, como reflejó Fernando VII al restaurar
+su autoridad en 1814 tras anular la Constitución de Cádiz. En el liberalismo, la
+soberanía reside en la nación, representada por instituciones como las Cortes. Este
+cambio quedó plasmado en la Constitución de 1812, que introdujo la soberanía nacional
+en España, reconociendo que el poder emana de los ciudadanos. Con la llegada de la
+Segunda República en 1931, el concepto evolucionó hacia la soberanía popular,
+estableciendo el sufragio universal, incluyendo a las mujeres. La soberanía, por tanto,
+refleja los modelos políticos de cada época y las luchas por el poder entre monarquía,
+pueblo e instituciones.
+Absolutismo
+El absolutismo es un sistema político donde el poder se concentra en el monarca, que
+gobierna sin limitaciones legales ni constitucionales. En España, Fernando VII restauró
+este modelo en 1814, anulando las reformas liberales de las Cortes de Cádiz. Durante
+este periodo, conocido como el Sexenio Absolutista (1814-1820), se persiguió a los
+liberales y se reinstauró un gobierno autoritario. Este sistema se justificaba con la
+teoría del derecho divino, según la cual el rey gobernaba por mandato de Dios. Sin
+embargo, el absolutismo enfrentó crecientes desafíos durante el siglo XIX con el avance
+de las ideas liberales, que culminaron en conflictos como las guerras carlistas, donde los
+defensores del absolutismo se enfrentaron a los partidarios de un modelo
+constitucional.
+Huelga revolucionaria
+La huelga revolucionaria es una herramienta de lucha utilizada por los trabajadores para
+obtener cambios políticos y sociales, más allá de simples mejoras laborales. Un ejemplo
+destacado es la huelga general de 1917, convocada por UGT y CNT en España. Esta
+huelga surgió en respuesta a la crisis económica provocada por la Primera Guerra
+
+=== PAGINA 6 ===
+Mundial, que generó inflación, hambre y desempleo. Fue un intento de desafiar al
+sistema político de la Restauración, evidenciando el malestar social y la creciente
+influencia del movimiento obrero. Aunque el gobierno reprimió la huelga violentamente,
+su impacto marcó un antes y un después en las movilizaciones obreras y en la
+articulación de demandas sociales en el contexto de las crisis del siglo XX.
+Golpe de Estado
+Un golpe de Estado es una toma ilegal y generalmente violenta del poder político,
+organizada por una minoría como militares o políticos. En España, el golpe de Estado de
+Francisco Franco en 1936 es uno de los más relevantes, ya que desencadenó la Guerra
+Civil (1936-1939). Aunque no tuvo éxito inmediato en todo el país, fracturó España en
+dos bandos: republicanos y sublevados. Otro caso importante fue el golpe de Primo de
+Rivera en 1923, que, respaldado por el rey Alfonso XIII, instauró una dictadura militar
+para "regenerar" el país. Los golpes de Estado suelen justificarse por crisis políticas o
+sociales, como ocurrió en ambos casos, pero terminan imponiendo regímenes
+autoritarios que afectan profundamente la vida política y social del país.
+Pregunta 4: Desarrollo de temas históricos
+Opción 1: La convocatoria de Cortes en 1810 y la restauración del absolutismo (1814-1820)
+La convocatoria de Cortes en 1810 tuvo lugar en un contexto crítico: la Guerra de la
+Independencia (1808-1814) contra las tropas napoleónicas y la ocupación de gran parte
+del territorio español. Ante el vacío de poder generado por la ausencia de Fernando VII,
+secuestrado por Napoleón, la Junta Central Suprema convocó a las Cortes en Cádiz
+para reorganizar el país y coordinar la resistencia contra el invasor. Estas Cortes,
+reunidas en 1810, representaban una diversidad política y social inédita, incluyendo
+diputados de las colonias americanas, lo que reforzó la idea de una nación global
+unificada.
+El resultado más destacado de estas sesiones fue la promulgación de la Constitución de
+1812, también conocida como "La Pepa". Este texto introdujo principios liberales como
+la soberanía nacional, la división de poderes y la garantía de ciertas libertades civiles,
+aunque bajo una monarquía moderada y con la exclusividad de la religión católica. Sin
+embargo, la Constitución apenas tuvo tiempo para consolidarse, ya que en 1814, tras el
+regreso de Fernando VII, el monarca declaró nulos todos los decretos de Cádiz y
+reinstauró el absolutismo.
+
+=== PAGINA 7 ===
+Durante el periodo conocido como el Sexenio Absolutista (1814-1820), Fernando VII
+persiguió con dureza a los liberales, consolidando un régimen autoritario que desató
+tensiones internas. Estas fricciones dieron lugar al pronunciamiento militar de Rafael
+del Riego en 1820, que marcó el inicio del Trienio Liberal (1820-1823), cuando se
+restauró la Constitución de 1812. Sin embargo, este breve periodo liberal fue
+nuevamente aplastado en 1823 con la intervención de las potencias absolutistas
+europeas (la Santa Alianza), que reinstauraron a Fernando VII como monarca absoluto.
+Opción 2: La crisis del liberalismo político en el reinado de Alfonso XIII y sus consecuencias
+El reinado de Alfonso XIII (1902-1931) estuvo marcado por una crisis persistente del
+liberalismo político, derivada de la debilidad del sistema de la Restauración. Este modelo
+político, establecido tras la restauración borbónica en 1874, se basaba en un
+bipartidismo artificial mantenido mediante el caciquismo y la manipulación electoral. Sin
+embargo, a comienzos del siglo XX, este sistema comenzó a desmoronarse ante el auge
+de movimientos obreros, nacionalismos periféricos y partidos republicanos.
+La Primera Guerra Mundial (1914-1918) exacerbó los problemas económicos y sociales
+en España. Aunque el país permaneció neutral, la guerra generó una fuerte inflación que
+benefició a las élites industriales y financieras, pero empobreció a las clases
+trabajadoras. Esto intensificó las tensiones sociales y provocó huelgas masivas, como la
+huelga general de 1917. Durante esta crisis, UGT y CNT unieron fuerzas en un
+movimiento que no solo exigía mejoras laborales, sino también cambios políticos. La
+respuesta del gobierno fue una represión violenta, lo que evidenció la incapacidad del
+sistema para gestionar las demandas sociales.
+En 1923, el deterioro político alcanzó un punto crítico, y el general Primo de Rivera dio
+un golpe de Estado con el apoyo del rey Alfonso XIII. Primo de Rivera instauró una
+dictadura militar que prometía regenerar España, pero que terminó agravando los
+problemas estructurales del país. En 1930, tras la dimisión del dictador, el desprestigio
+de Alfonso XIII y del sistema monárquico condujo a la proclamación de la Segunda
+República en 1931, marcando el fin del reinado y la crisis definitiva del liberalismo
+político en España.
+Pregunta 5: Análisis comparativo
+Opción 1: Evolución de los principios de soberanía, separación de poderes y libertades en el siglo XIX
+El siglo XIX en España estuvo marcado por un constante vaivén entre absolutismo y
+liberalismo, reflejado en los textos constitucionales que se sucedieron. La Constitución
+
+=== PAGINA 8 ===
+de 1812, elaborada en un contexto de guerra, fue el primer texto que introdujo principios
+liberales como la soberanía nacional, la separación de poderes y libertades como la de
+imprenta. Sin embargo, estas ideas fueron rápidamente revertidas con el regreso de
+Fernando VII, quien reinstauró el absolutismo en 1814.
+En 1837, tras la primera guerra carlista y la regencia de María Cristina, se aprobó una
+nueva constitución que conciliaba los principios liberales con una monarquía más
+centralizada. Durante el reinado de Isabel II, la Constitución de 1845 reforzó el poder
+del monarca, limitando las libertades y reduciendo el papel de las Cortes, lo que reflejó
+un retroceso en las garantías democráticas.
+La Revolución Gloriosa de 1868 marcó un hito con la aprobación de la Constitución de
+1869, que introdujo el sufragio universal masculino y una mayor protección de las
+libertades. Sin embargo, las tensiones políticas llevaron a la Restauración borbónica en
+1874, con la Constitución de 1876, que restableció un sistema parlamentario limitado,
+reflejando el equilibrio entre los ideales liberales y el conservadurismo dominante.
+Opción 2: Insurrecciones sociales y golpes de Estado en el siglo XX
+El siglo XX en España fue una etapa de gran inestabilidad política, marcada por
+frecuentes insurrecciones sociales y golpes de Estado. Las huelgas generales de 1917,
+organizadas por UGT y CNT, son un ejemplo de cómo el movimiento obrero comenzó a
+desafiar el sistema político de la Restauración, denunciando la precariedad laboral y las
+desigualdades sociales. Estas movilizaciones reflejaron el auge del sindicalismo y del
+anarquismo, que posteriormente jugarían un papel importante durante la Segunda
+República.
+Por otro lado, los golpes de Estado marcaron los momentos clave de la historia
+española en este siglo. El golpe de Primo de Rivera en 1923 puso fin al sistema
+parlamentario de la Restauración e instauró una dictadura militar respaldada por
+Alfonso XIII. Más tarde, en 1936, el golpe de Estado liderado por Francisco Franco
+inició la Guerra Civil Española, fracturando al país en dos bandos. Este conflicto fue
+seguido por la dictadura franquista, que perduró hasta 1975 y estuvo caracterizada por
+la represión política y la ausencia de libertades democráticas.
+Estos episodios reflejan cómo las tensiones sociales y políticas en España derivaron
+frecuentemente en soluciones autoritarias, evidenciando la fragilidad de sus sistemas
+democráticos.
+
+=== PAGINA 9 ===

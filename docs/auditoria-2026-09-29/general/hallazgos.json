@@ -1,0 +1,58 @@
+[
+  {
+    "id": "META-01",
+    "documento": "09fa045004f2",
+    "prioridad": "P1",
+    "estado": "confirmado",
+    "causa": "catalogo",
+    "descripcion": "Examen CIUG Galicia catalogado como Comunidad Valenciana."
+  },
+  {
+    "id": "META-02",
+    "documento": "61e34b1b42fa",
+    "prioridad": "P1",
+    "estado": "confirmado",
+    "causa": "catalogo",
+    "descripcion": "Examen CIUG Galicia catalogado como Comunidad Valenciana."
+  },
+  {
+    "id": "META-03",
+    "documento": "cb9d8c2c12d7",
+    "prioridad": "P1",
+    "estado": "confirmado",
+    "causa": "catalogo",
+    "descripcion": "Literatura Universal catalogada como Lengua Castellana y Literatura II."
+  },
+  {
+    "id": "PUB-01",
+    "documento": null,
+    "prioridad": "P1",
+    "estado": "confirmado",
+    "causa": "publicacion",
+    "descripcion": "80 preguntas pierden su regla propia de elección; distinto de los 80 apartados fuera de pregunta."
+  },
+  {
+    "id": "PUB-02",
+    "documento": null,
+    "prioridad": "P2",
+    "estado": "limitacion_confirmada",
+    "causa": "contrato_publicacion",
+    "descripcion": "225 exámenes tienen instrucciones generales extraídas no publicadas; impacto variable según texto y PDF accesible."
+  },
+  {
+    "id": "PUB-03",
+    "documento": null,
+    "prioridad": "P1",
+    "estado": "confirmado",
+    "causa": "jerarquia_y_publicacion",
+    "descripcion": "86 entradas de corrección cuelgan de nodos no publicados: 82 r2 y 4 s1 de academia."
+  },
+  {
+    "id": "FORM-01",
+    "documento": "25fcf7208b8f",
+    "prioridad": "P2",
+    "estado": "confirmado",
+    "causa": "latex",
+    "descripcion": "Una fórmula s1 publicada no compila en KaTeX: texto con superíndice dentro de text. La otra fórmula inválida del corpus pertenece al histórico p4 (3ad09f75385c, sen)."
+  }
+]

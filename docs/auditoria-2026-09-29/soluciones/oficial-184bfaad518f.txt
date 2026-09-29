@@ -1,0 +1,1244 @@
+DOCUMENTO {"id": "184bfaad518f", "region": "Madrid", "asignatura": "Matemáticas II", "anio": 2019, "convocatoria": "modelo", "tipo": "modelo", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1hjFjp--Obpihgbv9IwJtyN89aNgS6RH1/view?usp=sharing", "archivo": "pdfs/madrid/matematicas-ii/2019-modelo-modelo-uc3m-184bfaad518f.pdf", "paginas": 8, "estrato": "piloto · Madrid · Matemáticas II"}
+FUENTE {"archivo": "pdfs/madrid/matematicas-ii/2019-modelo-modelo-uc3m-184bfaad518f.pdf", "desde": 6, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 6}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nPara cada uno de los siguientes apartados, proponga un ejemplo de matriz cuadrada $A$, de dimensión $3\\times 3$, con todos sus números distintos de cero y con sus tres filas y columnas diferentes, que cumpla la condición pedida."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) El determinante de $A$ vale $0$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) El determinante de $A$ vale $1$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) La matriz $A$ coincide con su traspuesta."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Para una cierta matriz cuadrada $C$, distinta de la matriz nula y de la identidad, se verifica que $A\\cdot C=C\\cdot A$. (Debe proponer ejemplos concretos para las dos matrices $A$ y $C$.)"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nLa contaminación por dióxido de nitrógeno, $\\ce{NO2}$, en cierta estación de medición de una ciudad, durante el pasado mes de abril, se puede modelar por la función $c(t)=80-6t+\\frac{23t^2}{20}-\\frac{t^3}{30}\\,\\mathrm{mg/m^3}$, donde $t\\in[0,30]$ representa el tiempo, expresado en días, transcurrido desde las $0$ horas del día $1$ de abril."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) ¿Qué nivel de $\\ce{NO2}$ había a las $12$ horas del día $10$ de abril?"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}25$ puntos) ¿En qué momento se alcanzó el máximo nivel de $\\ce{NO2}$?, ¿cuál fue ese nivel máximo?"
+   }
+  ],
+  "puntos": 1.25,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}75$ puntos) Calcule, mediante $\\frac{1}{30}\\int_0^{30}c(t)\\,dt$, el nivel promedio del mes."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nDados los puntos $A(1,2,-3)$, $B(1,5,0)$, $C(5,6,-1)$ y $D(4,-1,3)$, se pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}5$ puntos) Calcular el plano $\\pi$ que contiene a los puntos $A$, $B$, $C$ y la distancia del punto $D$ a dicho plano."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) Calcular el volumen del tetraedro definido por los cuatro puntos dados."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ punto) Calcular el área del triángulo definido por $A$, $B$ y $C$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nEl examen de oposición a la Administración Local de cierta ciudad consta de $300$ preguntas, con respuesta verdadero o falso. Un opositor responde al azar todas las preguntas. Se considera la variable aleatoria $X$ (“número de respuestas acertadas”) y se pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}5$ puntos) Justificar que la variable $X$ se puede aproximar por una normal y obtener los parámetros correspondientes."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Utilizando la aproximación por la normal, hallar la probabilidad de que el opositor acierte a lo sumo $130$ preguntas y la probabilidad de que acierte exactamente $160$ preguntas."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n18",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nDado el sistema de ecuaciones\n\n$$\\begin{cases}x-my-z=0,\\\\ mx-4y+(6-2m)z=-8m,\\\\ -x+2y+z=6,\\end{cases}$$\n\nse pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n19",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos) Discutir el sistema en función de los valores del parámetro $m$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n19",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) Resolver el sistema en el caso $m=6$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n18",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) A partir de la siguiente gráfica de la función $f$, determine los valores de: $f'(-1)$, $\\lim_{x\\to-2^+}f(x)$, $\\lim_{x\\to-2^-}f(x)$, $\\lim_{x\\to0}f(x)$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}5$ puntos) Calcule $\\int_{-3}^{\\pi}g(x)\\,dx$, donde\n\n$$g(x)=\\begin{cases}x^2+2x+1&\\text{si }-3\\leq x\\leq0,\\\\1+\\operatorname{sen}x&\\text{si }0<x\\leq4.\\end{cases}$$"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n18",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nDadas las rectas\n\n$$r\\equiv\\begin{cases}x=2+\\lambda,\\\\y=3+\\lambda,\\\\z=1-\\lambda,\\end{cases}\\qquad s\\equiv\\begin{cases}x-y=2,\\\\y+z=1,\\end{cases}$$\n\nse pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Determinar la posición relativa de $r$ y $s$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Obtener un plano que contenga a las dos rectas."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) Dado el punto $A(3,1,0)$, de la recta $s$, obtener un punto $B$, de la recta $r$, de modo que el vector $\\overrightarrow{AB}$ sea perpendicular a la recta $r$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n29",
+  "padre": "n18",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calificación máxima: $2{,}5$ puntos.\n\nEl grupo de WhatsApp, formado por los alumnos de una escuela de idiomas, está compuesto por un $60\\%$ de mujeres y el resto varones. Se sabe que el $30\\%$ del grupo estudia alemán y que la cuarta parte de las mujeres estudia alemán. Se recibe un mensaje en el grupo. Se pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n30",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}25$ puntos) Calcular la probabilidad de que lo haya enviado una mujer, si se sabe que el o la remitente estudia alemán."
+   }
+  ],
+  "puntos": 1.25,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n31",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}25$ puntos) Si en el mensaje no hay ninguna información sobre el sexo y estudios del remitente, calcular la probabilidad de que sea varón y estudie alemán."
+   }
+  ],
+  "puntos": 1.25,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n20",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sea $A$ la matriz de coeficientes del sistema y $[A|b]$ la matriz ampliada. Entonces\n$$\n[A|b]=\\begin{bmatrix}\n1&-m&-1&|&0\\\\\nm&-4&6-2m&|&-8m\\\\\n-1&2&1&|&6\n\\end{bmatrix}\n\\sim\n\\begin{bmatrix}\n1&-m&-1&|&0\\\\\n0&2-m&0&|&6\\\\\n0&0&m-6&|&2(m-6)\n\\end{bmatrix}.\n$$\n- Si $m\\ne 2$, $m\\ne 6$: $\\operatorname{Rango}(A)=\\operatorname{Rango}(A|b)=3=\\text{número de incógnitas}$ $\\Rightarrow$ sistema compatible determinado.\n- Si $m=6$: $\\operatorname{Rango}(A)=\\operatorname{Rango}(A|b)=2<\\text{número de incógnitas}$ $\\Rightarrow$ sistema compatible indeterminado.\n- Si $m=2$: $\\operatorname{Rango}(A)=2\\ne\\operatorname{Rango}(A|b)=3$ $\\Rightarrow$ sistema incompatible."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n21",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Si $m=6$, es\n$$\n[A|b]\\sim\\begin{bmatrix}\n1&-6&-1&|&0\\\\\n0&-4&0&|&6\\\\\n0&0&0&|&0\n\\end{bmatrix}\n$$\ny despejando se obtiene\n$$\n\\begin{cases}\nx=\\lambda-9,\\\\\ny=-\\frac{3}{2},\\\\\nz=\\lambda,\n\\end{cases}\n\\qquad \\lambda\\in\\mathbb{R}.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n23",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$f'(-1)=0$ (la tangente es horizontal). Por otra parte, $\\lim_{x\\to -2^+}f(x)=1$, $\\lim_{x\\to -2^-}f(x)=-\\infty$, $\\lim_{x\\to 0}f(x)=1$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n24",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La integral pedida es:\n$$\n\\int_{-3}^{0}(x^2+2x+1)\\,dx+\\int_{0}^{\\pi}(1+\\operatorname{sen}x)\\,dx\n=\\left.\\left(\\frac{x^3}{3}+x^2+x\\right)\\right|_{-3}^{0}+\\left.(x-\\cos x)\\right|_{0}^{\\pi}\n= -(-9+9-3)+\\pi+2=5+\\pi.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n26",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Unas ecuaciones paramétricas de la recta $s$ son\n$$\n\\begin{cases}\nx=2+\\mu,\\\\\ny=\\mu,\\\\\nz=1-\\mu,\n\\end{cases}\n$$\nlo que prueba que $\\vec v=(1,1,-1)$ es vector director de ambas rectas. Además, el punto $P(2,3,1)$ está en $r$, pero no en $s$. Por lo tanto las rectas son paralelas."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n27",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El plano $\\pi$ que contiene a ambas rectas está determinado por el punto $P$, el vector $\\vec v=(1,1,-1)$ y el vector $\\overrightarrow{PQ}$, con $Q(2,0,1)$. Por tanto\n$$\n\\pi\\equiv\n\\begin{vmatrix}\nx-2&y-3&z-1\\\\\n1&1&-1\\\\\n0&-3&0\n\\end{vmatrix}=0\n\\quad\\Rightarrow\\quad x+z=3.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n28",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Dado un punto genérico $B(2+\\lambda,3+\\lambda,1-\\lambda)$ de la recta $r$, el vector $\\overrightarrow{AB}=(\\lambda-1,2+\\lambda,1-\\lambda)$ debe verificar que\n$$\n\\overrightarrow{AB}\\cdot\\vec v=0.\n$$\nLo que equivale a $\\lambda=0$ y $B(2,3,1)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n30",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Se consideran los sucesos $M=\\text{“Ser mujer”}$, $A=\\text{“Estudiar alemán”}$. Los datos son: $P(M)=0{,}6$, $P(A)=0{,}3$, $P(A|M)=0{,}25$.\n$$\nP(M|A)=\\frac{P(M)P(A|M)}{P(A)}=0{,}5.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n31",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Se consideran los sucesos $M=\\text{“Ser mujer”}$, $A=\\text{“Estudiar alemán”}$. Los datos son: $P(M)=0{,}6$, $P(A)=0{,}3$, $P(A|M)=0{,}25$.\n$$\nP(A\\cap M)=P(A)-P(A\\cap M)=P(A)-P(M)P(A|M)=0{,}15.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En n31, la solución imprime $P(A\\cap M)=P(A)-P(A\\cap M)$ y obtiene $0{,}15$. La igualdad es contradictoria y el suceso pedido en el enunciado es que el remitente sea varón y estudie alemán; se transcribió literalmente sin corregir."
+ ]
+}
+PDF
+=== PAGINA 6 ===
+SOLUCIONES
+OPCI ´ON B
+Ejercicio 1
+a) Sea A la matriz de coeﬁcientes del sistema y [A|b] la matriz ampliada. Entonces
+[A|b] =
+
+
+1
+−m
+−1
+
+0
+m
+−4
+6 −2m
+ −8m
+−1
+2
+1
+
+6
+
+∼
+
+
+1
+−m
+−1
+
+0
+0
+2 −m
+0
+
+6
+0
+0
+m −6
+ 2(m −6)
+
+.
+• Si m̸ = 2, m̸ = 6: Rango(A) = Rango(A|b) = 3 = no inc´ognitas ⇒Sistema compatible determinado.
+• Si m = 6: Rango(A) = Rango(A|b) = 2 < no inc´ognitas ⇒Sistema compatible indeterminado.
+• Si m = 2: Rango(A) = 2̸ = Rango(A|b) = 3 ⇒Sistema incompatible.
+b) Si m = 6, es [A|b] ∼
+
+
+1
+−6
+−1
+ 0
+0
+−4
+0
+ 6
+0
+0
+0
+ 0
+
+y despejando se obtiene
+
+
+
+x = λ −9,
+y = −3/2,
+z = λ,
+λ ∈R.
+Ejercicio 2
+a) f ′(−1) = 0 (la tangente es horizontal). Por otra parte
+lim
+x→−2+ f(x) = 1,
+lim
+x→−2−f(x) = −∞,
+lim
+x→0 f(x) = 1.
+b) La integral pedida es:
+Z 0
+−3
+(x2 + 2x + 1) dx +
+Z π
+0
+(1 + sen x) dx =
+x3
+3 + x2 + x
+
+0
+−3
++ (x −cos x)
+
+π
+0
+= −(−9 + 9 −3) + π + 2 = 5 + π .
+Ejercicio 3
+a) Unas ecuaciones param´etricas de la recta s son
+
+
+
+x = 2 + µ ,
+y = µ ,
+z = 1 −µ ,
+lo que prueba que −→v = (1, 1, −1) es vector
+director de ambas rectas. Adem´as, el punto P(2, 3, 1) est´a en r, pero no en s. Por lo tanto las rectas son
+paralelas .
+b) El plano π que contiene a ambas rectas est´a determinado por el punto P, el vector −→v = (1, 1, −1) y el vector
+−−→
+PQ, con Q(2, 0, 1). Por tanto π ≡
+
+x −2
+y −3
+z −1
+1
+1
+−1
+0
+−3
+0
+
+= 0 ⇒x + z = 3 .
+c) Dado un punto gen´erico B(2 + λ, 3 + λ, 1 −λ) de la recta r, el vector −−→
+AB = (λ −1, 2 + λ, 1 −λ) debe veriﬁcar
+que −−→
+AB · −→v = 0. Lo que equivale a λ = 0 y B(2, 3, 1) .
+Ejercicio 4
+Se consideran los sucesos M = “Ser mujer”, A =“Estudiar alem´an”.
+Los datos son: P(M) = 0.6, P(A) = 0.3, P(A|M) = 0.25.
+a) P(M|A) = P(M)P(A|M)
+P(A)
+= 0.5 .
+b) P(A ∩M) = P(A) −P(A ∩M) = P(A) −P(M)P(A|M) = 0.15 .
+
+=== PAGINA 7 ===
+DOCUMENTO DE ORIENTACIONES PARA LA EvAU 
+Matemáticas II. Curso 2018/2019 
+ESTRUCTURA DEL EXAMEN 
+El examen constará de  cuatro problemas igualmente ponderados,  cada uno de ellos 
+relativo a  uno de los cuatro bloques con contenido específico del currículo oficial de 
+MATEMÁTICAS II, 2º Bachillerato: ÁLGEBRA, ANÁLISIS, GEOMETRÍA y 
+PROBABILIDAD.  
+CONTENIDOS 
+Las pruebas se elaborarán de acuerdo con las matrices de contenidos recogidos en el 
+Real Decreto 1105/2014, de 26 de diciembre. Además según las especificaciones  de 
+estándares de aprendizaje evaluables de la Orden ECD/42/2018, de 25 de enero (BOE de 
+26 de enero 2018) y con  el  Decreto 52/2015, de 21 de mayo de la Comunidad de Madrid,   
+se podrá pedir en las mismas la realización de tareas similares a las siguientes: 
+ÁLGEBRA  
+
+Usar matrices como herramienta para representar datos estructurados y
+sistemas de ecuaciones lineales.
+
+Realizar operaciones con matrices y aplicar propiedades.
+
+Calcular determinantes de orden menor o igual que 4 y manejar las
+propiedades elementales.
+
+Calcular la inversa de una matriz cuadrada de orden no superior a tres. Usar
+adecuadamente las propiedades de la matriz inversa.
+
+Calcular el rango de una matriz de orden no superior a 4, por determinantes o
+por el método de Gauss. Estudiar el rango de una matriz que dependa como
+máximo de un parámetro.
+
+Resolver sistemas de ecuaciones lineales.  Discutir las soluciones de un
+sistema lineal, dependiente de un parámetro.
+
+Plantear y resolver problemas que simulen situaciones de la vida real, cuya
+solución pueda obtenerse a partir de un sistema lineal de, como máximo, tres
+ecuaciones con tres incógnitas.
+ANÁLISIS 
+
+Calcular el límite de una función en un punto y en el infinito. Calcular
+límites laterales y resolver indeterminaciones  sencillas.
+
+Interpretar el significado de la continuidad y la discontinuidad. Identificar
+funciones continuas y tipos de discontinuidad. Manejar operaciones
+algebraicas con funciones continuas y composición de funciones continuas.
+
+Usar el teorema de Bolzano para localizar soluciones de una ecuación.
+
+Manejar y saber interpretar el concepto de derivada de una función en un
+punto. Manejar las propiedades de la derivación y calcular derivadas.
+
+=== PAGINA 8 ===
+ Usar derivadas para estudiar intervalos de crecimiento y decrecimiento y 
+valores extremos. Plantear y resolver de problemas de optimización. 
+ Conocer y aplicar  los resultados del Teorema de Rolle, el Teorema del Valor 
+Medio y la regla de L’Hôpital. 
+ Calcular primitivas inmediatas y de funciones que sean derivadas de una 
+función compuesta. Integrar por partes y mediante cambio de variables 
+(ejemplos simples). Integrar funciones racionales (con denominador de 
+grado no mayor que dos). 
+ Calcular  áreas de recintos limitados por  rectas o curvas sencillas. 
+ 
+GEOMETRÍA 
+ 
+ Operar con vectores del espacio tridimensional. Estudiar la dependencia e 
+independencia lineal. Manejar los conceptos de base y  coordenadas. 
+ Manejar el producto escalar: definición, propiedades e interpretación 
+geométrica;  vectores unitarios, ortogonales y ortonormales.  
+ Calcular el ángulo entre dos vectores.  
+ Manejar el producto vectorial: definición, propiedades e interpretación 
+geométrica. 
+ Manejar el producto mixto de tres vectores: definición, propiedades e 
+interpretación geométrica. 
+ Aplicar los distintos productos al cálculo de áreas y volúmenes.   
+ Obtener ecuaciones de rectas en el espacio, en cualquiera de sus formas. 
+Obtener ecuaciones de planos. Estudiar la posición relativa de puntos, 
+rectas y planos en el espacio.  
+ Resolver problemas de geometría afín con rectas y planos. 
+ Calcular distancias entre puntos rectas y planos, así como ángulos entre dos 
+planos, entre dos rectas que se corten y entre una recta y un plano.  
+ 
+ 
+PROBABILIDAD 
+ 
+ Calcular la probabilidad de sucesos aleatorios, mediante la regla de Laplace o las 
+fórmulas de la axiomática de Kolmogorov. 
+ Calcular probabilidades condicionadas. Usar el teorema de probabilidad total y 
+la  fórmula de Bayes. 
+ Identificar variables aleatorias discretas. Calcular probabilidades de sucesos 
+asociados a una distribución binomial. Calcular la media y la desviación típica 
+de una variable aleatoria con distribución binomial. 
+ Calcular probabilidades de sucesos que se puedan modelizar mediante una 
+distribución binomial, a partir de su aproximación por la normal. 
+ Calcular  probabilidades de sucesos que  pueden modelizarse mediante una  
+distribución normal. 
+ 

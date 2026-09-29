@@ -1,0 +1,32 @@
+{
+  "p6-fda": {
+    "pdf": "data/pdfs/comunidad-valenciana/ciencias-de-la-tierra-y-medioambientales/2013-extraordinaria-examen-umh-fda5ea13b6c5.pdf",
+    "desde": 1,
+    "paginas_pdf": 4,
+    "sha256": "ad3b7eb130cfc0d7ea72eaf6ab168a7c666764f77d42a74390e8bdf382710a51"
+  },
+  "p6-0b7": {
+    "pdf": "data/pdfs/madrid/matematicas-ii/2026-modelo-modelo-uc3m-0b7e227a5499.pdf",
+    "desde": 1,
+    "paginas_pdf": 7,
+    "sha256": "2a58a8f9a5a98ab5ffc8774c4eb007819f1ce44ff86aaa88efd695613c7b173a"
+  },
+  "r3-070": {
+    "pdf": "data/pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-solucion-ehu-d84a81a0f038.pdf",
+    "desde": 1,
+    "paginas_pdf": 4,
+    "sha256": "45887cbb901be38537ed85b47c53c2e6a8ea940f1e2643b05e36df03dcacd766"
+  },
+  "s2-25f": {
+    "pdf": "data/pdfs/madrid/matematicas-ii/2022-ordinaria-solucion-mundoestudiante-3ad37f8a71fd.pdf",
+    "desde": 1,
+    "paginas_pdf": 9,
+    "sha256": "32070785301dc93146a0688acca1851f2be019a128066aa1edbd682a2395b163"
+  },
+  "s2-1bc": {
+    "pdf": "data/pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf",
+    "desde": 6,
+    "paginas_pdf": 7,
+    "sha256": "5665ffab83c2a919bfd7a42dfa11c460f6e661d59acd944d42ae851cffb8562a"
+  }
+}

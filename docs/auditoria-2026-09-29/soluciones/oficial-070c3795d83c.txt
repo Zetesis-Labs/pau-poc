@@ -1,0 +1,557 @@
+DOCUMENTO {"id": "070c3795d83c", "region": "País Vasco", "asignatura": "Técnicas de Expresión Gráfico-Plástica", "anio": 2026, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "ehu", "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/tecnicas-expresion-grafico-plastica-examen-extraord-2026", "archivo": "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-examen-ehu-070c3795d83c.pdf", "paginas": 7, "estrato": "País Vasco · pau-2025"}
+FUENTE {"archivo": "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-solucion-ehu-d84a81a0f038.pdf", "desde": 1, "anexo": {"id": "d84a81a0f038", "tipo": "solucion", "contenido": ["solucion"], "origen": "oficial", "fuente": "ehu", "acceso": "publico", "coincidencia": "exacta", "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/tecnicas-expresion-grafico-plastica-solucionario-extraord-2026", "titulo": "Técnicas de Expresión Gráfico-Plástica — Solucionario"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Apartado A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(vale el $20\\%$ de la prueba). A continuación, se muestran dos imágenes: la obra *Ir y venir*, de Mari Puri Herrero, y la obra *Heliotrope Rose Electric*, de Melanie Authier.\n\nGuion:\n\nCompara ambas imágenes, analizando los aspectos formales y técnicos de las obras, comparando los procedimientos y materiales empleados en su ejecución: trazos, matices, claroscuros, relieves, color, composición, formatos, matrices (si las hubiera). Para realizar la comparativa, es necesario utilizar nomenclatura y terminología del campo gráfico y plástico, para describir recursos, procedimientos y materiales. (Tiempo estimado: $20\\,\\mathrm{min}$)"
+   }
+  ],
+  "puntos": 20.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(vale el $80\\%$ de la prueba). Este ejercicio consta de dos partes:"
+   }
+  ],
+  "puntos": 80.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Con idea de generar una nueva imagen, realiza tres bocetos a color o en escala de grises de $7 \times 7\\,\\mathrm{cm}$ (aproximadamente) a partir de la obra *Ir y venir*, de Mari Puri Herrero, o de la obra *Heliotrope Rose Electric*, de Melanie Authier. Para realizar la propuesta es necesario hacer uso de tres técnicas distintas o de la misma técnica aplicada de tres maneras distintas (como mínimo). Estas pueden ser tanto técnicas húmedas como secas. La elección sobre qué técnica emplear queda en manos de cada estudiante. Así, cada imagen ha de tener propiedades distintas respecto a la técnica empleada, el color, la composición, la textura y el nivel de iconicidad.\n\n(Tiempo estimado: $25\\,\\mathrm{min}$.)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Una vez realizados los bocetos a partir de la obra *Ir y venir*, de Mari Puri Herrero, o de la obra *Heliotrope Rose Electric*, de Melanie Authier, desarrolla uno de los tres esbozos planteados en un formato (mínimo) de $20 \times 20\\,\\mathrm{cm}$. Para ello, emplea la técnica que consideres más apropiada. Se valorará la originalidad y creatividad, así como la manera en la que se ha empleado la técnica en relación a las propiedades de la imagen resultante.\n\n(Tiempo estimado: $45\\,\\mathrm{min}$.)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Apartado B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n6",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(vale el $20\\%$ de la prueba). Desarrolla el tema:\n\nProcedimientos de estampación en talla-relieve y serigráficos.\n\nSe muestran dos imágenes que pueden dar inicio al discurso: *Cats in the trees*, de Eileen Mayo y sin título, de José Luis Zumeta. Se valorará que se haga referencia a las mismas en la exposición. Es necesario seguir el siguiente guion que se propone como modelo:\n\nGuion:"
+   }
+  ],
+  "puntos": 20.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Desarrolla el tema analizando los aspectos formales, técnicos y contextuales de ambas obras, comparando los procedimientos y materiales utilizados en su ejecución: trazos, matices, claroscuros, relieves, color, composición, formatos, capas, soportes, matrices."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Utiliza nomenclatura y terminología del campo gráfico, para describir recursos, procedimientos y materiales. (Tiempo estimado: $20\\,\\mathrm{min}$.)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n6",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "Ejercicio 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "(vale el $80\\%$ de la prueba). Realiza un proyecto gráfico en el que se te propone una acción de mejora sostenible y medioambiental mediante una campaña publicitaria. Es necesario que sigas el guión que se te propone como modelo:\n\nGuion:"
+   }
+  ],
+  "puntos": 80.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Redacta e identifica ideas principales y secundarias del proyecto escogido. Para ello, escribe las palabras clave y las derivadas de estas por asociación de ideas, hasta agrupar entre $3$ y $6$ conceptos que definan tu proyecto y explícalo."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Describe con qué procedimientos gráficos y en qué soportes llevarías a cabo el proyecto. Resume las diferentes fases y realiza dos bocetos en un tamaño mínimo de $20 \times 20\\,\\mathrm{cm}$.\n\n(Tiempo estimado: $25\\,\\mathrm{min}$.)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Desarrolla uno de los bocetos creando un cartel didáctico en formato A3, utilizando para ello, procedimientos grafico-plásticos: estampación de plantillas, monotipia, estarcido, collage, técnicas en húmedo y seco (lápiz, bolígrafo, rotuladores, tinta, acuarelas, etc).\n\n(Tiempo estimado: $45\\,\\mathrm{min}$.)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 1 ===
+2026ko USaP 
+PAU 2026
+ CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+ADIERAZPEN GRAFIKO-PLASTIKOAREN TEKNIKAK /  
+TÉCNICAS DE REPRESENTACIÓN GRÁFICO-PLÁSTICAS 
+APARTADO A 
+Ejercicio 1 (20% de la nota final) 
+El texto ha de explicar y comparar los siguientes aspectos de ambas obras. Si únicamente explica 
+una de las imágenes, la puntuación en este apartado ponderará la mitad, 1 punto: 
+Nivel de iconicidad (figurativo o abstracto): 0,2 puntos 
+Descripción del color o de la escala de grises (qué colores predominan y cuál es su saturación): 
+0,4 puntos 
+Soporte y técnica: 0,2 puntos 
+Descripción del procedimiento empleado (trazos y pinceladas): 0,4 puntos 
+Composición (simétrica o asimétrica): 0,2 puntos 
+Formato (vertical, horizontal, cuadrado, etc.): 0,2 puntos 
+Nomenclatura (uso del lenguaje técnico): 0,1 puntos 
+Coherencia y adecuación del texto en relación al planteamiento: 0,1 puntos 
+Cohesión de las ideas que se expresan: 0,1 puntos 
+Corrección gramatical, léxica y ortográfica: 0,1 puntos 
+Ejercicio 2 
+2.1 (30% de la nota final) 
+Imágenes 1/2/3 (2.1) 
+Responde al planteamiento: sí / no 
+¿Las imágenes realizadas 
+presentan propiedades distintas 
+en relación a los siguientes 
+aspectos? 
+Poco 
+(0 puntos) 
+Algo 
+(0,15 
+puntos) 
+Mucho 
+(0,3 puntos) 
+Técnica empleada (o su 
+aplicación) 
+El color 
+La composición 
+La textura 
+Nivel de iconicidad 
+Total (sobre 1,5) 
+EHU
+
+=== PAGINA 2 ===
+2026ko USaP 
+PAU 2026
+ CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+Imágenes 1/2/3 (2.1) 
+Responde al planteamiento: sí / no 
+¿En qué medida se ha 
+profundizado en los siguientes 
+aspectos? 
+Poco 
+(0 puntos) 
+Algo 
+(0,15 
+puntos) 
+Mucho 
+(0,3 puntos) 
+Técnica empleada (o su 
+aplicación) 
+El color 
+La composición 
+La textura 
+Nivel de iconicidad 
+Total (sobre 1,5) 
+2.2 (50% de la nota final) 
+La imagen 2.2 se valorará según tres aspectos: el desarrollo técnico (la manera en la que se ha 
+empleado el procedimiento elegido), el desarrollo formal (las relaciones formales que guarda con 
+la obra de origen) y el desarrollo conceptual (la idea, ¿es genuina y original?).  
+En qué medida se ha profundizado en el desarrollo técnico, forma y/o conceptual: 
+1. Apenas se ha profundizado en aspectos técnicos, formales y/o conceptuales. (0 puntos)
+2. Se ha profundizado en alguno de los aspectos (como en lo relativo al/ a la ___________,
+por ejemplo), pero los otros se han descuidado. (0 - 1,5 puntos)
+3. Se ha profundizado en varios aspectos, pero convendría profundizar en el aspecto
+________________. (1,5 - 3,5 puntos)
+4. Se ha profundizado en todos los aspectos constitutivos de la obra. (3,5 - 5 puntos)
+Señala, si las hubiera, propuestas de mejora relativas a los tres aspectos analizados: 
+___________________________________________________________________________ 
+___________________________________________________________________________ 
+___________________________________________________________________________ 
+___________________________________________________________________________ 
+___________________________________________________________________________ 
+La obra es sensible y conmovedora, a pesar de que no todos los aspectos técnicos, formales y/o 
+conceptuales están resueltos. (_ puntos) 
+EHU
+
+=== PAGINA 3 ===
+2026ko USaP 
+PAU 2026 
+ CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+APARTADO B 
+Ejercicio 1 (20% de la nota final) 
+El texto ha de explicar y comparar los siguientes aspectos de ambas obras. Si únicamente explica 
+una de las imágenes, la puntuación en este apartado ponderará la mitad, 1 punto): 
+Nivel de iconicidad (figurativo o abstracto) y del contexto o movimiento artístico (visión onírica, 
+expresionismo, pop art): 0,25 puntos 
+Descripción del procedimiento empleado (punta seca, aguafuerte, aguatinta, linóleo, xilografía, 
+serigrafía): 0,50 puntos 
+Soporte y técnica: 0,35 puntos 
+Descripción del color o de la escala de grises (qué colores predominan y cuál es su saturación): 
+0,25 puntos 
+Composición (simétrica o asimétrica)  y Formato (díptico, vertical, horizontal, cuadrado, el espacio 
+en blanco, etc.): 0,25 puntos 
+Nomenclatura (uso del lenguaje específico): 0,1 puntos 
+Coherencia y adecuación del texto en relación al planteamiento: 0,1 
+Cohesión de las ideas que se expresan: 0,1 
+Corrección gramatical, léxica y ortográfica: 0,1 
+Ejercicio 2 (vale el 80% de la prueba) 
+2.1 (10% de la nota final) 
+Coherencia y adecuación del texto en relación al planteamiento: 0,1 
+2.2 (20% de la nota final) 
+Boceto 1 
+Responde al planteamiento: sí / no * 
+¿Se corresponden los aspectos 
+descritos con las características de 
+la imagen? 
+Poco 
+(0 puntos) 
+Algo 
+(0,1 puntos) 
+Mucho 
+(0,2 puntos) 
+La composición 
+Técnica empleada 
+Dibujo y color 
+La textura 
+Nivel didáctico o comunicativo 
+Total (sobre 0,1) 
+EHU
+
+=== PAGINA 4 ===
+2026ko USaP 
+PAU 2026 
+ CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+Boceto 2 
+Responde al planteamiento: sí / no * 
+¿Se corresponden los aspectos 
+descritos con las características de 
+la imagen? 
+Poco 
+(0 puntos) 
+Algo 
+(0,1 puntos) 
+Mucho 
+(0,2 puntos) 
+La composición 
+Técnica empleada 
+Dibujo y color 
+La textura 
+Nivel didáctico o comunicativo 
+Total (sobre 0,1) 
+2.3 Proyecto cartel (50% de la nota final) 
+La imagen 2.3 se valorará según tres aspectos: el desarrollo técnico (la manera en la que se ha 
+empleado el procedimiento elegido), el desarrollo formal (las relaciones formales que guarda con 
+las ideas y boceto generados),y el desarrollo conceptual (la idea, ¿es genuina y original?). 
+En qué medida se ha profundizado en el desarrollo técnico, forma y/o conceptual: 
+1. Apenas se ha profundizado en aspectos técnicos, formales y/o conceptuales. (0 puntos)
+2. Se ha profundizado en alguno de los aspectos (como en lo relativo al/ a la ___________,
+por ejemplo), pero los otros se han descuidado. (0 - 1,5 puntos)
+3. Se ha profundizado en varios aspectos, pero convendría profundizar en el aspecto
+________________. (1,5 - 3,5 puntos)
+4. Se ha profundizado en todos los aspectos constitutivos de la obra. (3,5 - 5 puntos)
+Señala, si las hubiera, propuestas de mejora relativas a los tres aspectos analizados: 
+_______________________________________________________________ 
+_______________________________________________________________ 
+_______________________________________________________________ 
+_______________________________________________________________ 
+_______________________________________________________________ 
+La obra es sensible y conmovedora, a pesar de que no todos los aspectos técnicos, formales y/o 
+conceptuales están resueltos. (_ puntos) 
+EHU

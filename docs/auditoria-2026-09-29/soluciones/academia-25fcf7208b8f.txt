@@ -1,0 +1,1322 @@
+DOCUMENTO {"id": "25fcf7208b8f", "region": "Madrid", "asignatura": "Matemáticas II", "anio": 2022, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1N-NmTU8OnMJOmc9Au04wsw61Oep0TQJg/view?usp=sharing", "archivo": "pdfs/madrid/matematicas-ii/2022-ordinaria-examen-uc3m-25fcf7208b8f.pdf", "paginas": 7, "estrato": "piloto · Madrid · Matemáticas II"}
+FUENTE {"archivo": "pdfs/madrid/matematicas-ii/2022-ordinaria-solucion-mundoestudiante-3ad37f8a71fd.pdf", "desde": 1, "anexo": {"id": "3ad37f8a71fd", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "mundoestudiante", "acceso": "publico", "coincidencia": "exacta", "url": "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2022/Soluci%C3%B3n+EVAU+Madrid+Matem%C3%A1ticas+II+2022+Junio+V3.pdf", "titulo": "MATEMÁTICAS II — SOLUCIÓN (Exámenes EvAU Comunidad de Madrid (junio 2022))"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Dado el siguiente sistema de ecuaciones lineales dependientes del parámetro real $m$:\n$$\\begin{cases}x-2my+z=1\\\\mx+2y-z=-1\\\\x-y+z=1.\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Discuta el sistema en función de los valores de $m$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resuelva el sistema para el valor $m=\\frac{1}{2}$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sea la función\n$$f(x)=\\begin{cases}x^3e^{-1/x^2},&\\text{si }x\\ne 0,\\\\0,&\\text{si }x=0.\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Estudie la continuidad y derivabilidad de $f(x)$ en $x=0$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Estudie si $f(x)$ presenta algún tipo de simetría par o impar."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule la siguiente integral: $\\int_1^2\\frac{f(x)}{x^6}\\,dx$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Con un dispositivo láser situado en el punto $P(1,1,1)$ se ha podido seguir la trayectoria de una partícula que se desplaza sobre la recta de ecuaciones\n$$r\\equiv\\begin{cases}2x-y=10\\\\x-z=-90.\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule un vector director de $r$ y la posición de la partícula cuando su trayectoria incide con el plano $z=0$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule la posición más próxima de la partícula al dispositivo láser."
+   }
+  ],
+  "puntos": 1.25,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determine el ángulo entre el plano de ecuación $x+y=2$ y la recta $r$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Según el Instituto Nacional de Estadística, durante el último trimestre de $2020$, el porcentaje de mujeres que pertenecía al conjunto de Consejos de Administración de las empresas que componen el Ibex-$35$ fue del $27{,}7\\,\\%$. Se reunieron $10$ de estos consejeros."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle la probabilidad de que la mitad fueran mujeres."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule la probabilidad de que hubiese al menos un hombre."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determine, aproximando mediante una distribución normal, la probabilidad de que en un congreso de doscientos consejeros de estas empresas hubiera como mínimo un $35\\,\\%$ de representación femenina."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Tres primos, Pablo, Alejandro y Alicia, se van a repartir un premio de $9450$ euros de forma directamente proporcional a sus edades. La suma de las edades de Pablo y Alejandro excede en tres años al doble de la edad de Alicia. Además, la edad de los tres primos juntos es de $45$ años. Sabiendo que en el reparto del premio Pablo recibe $420$ euros más que Alicia, calcule las edades de los tres primos y el dinero que recibe cada uno por el premio."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sea la función $f(x)=\\frac{x}{x^2+1}$."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Compruebe si $f(x)$ verifica las hipótesis del Teorema de Bolzano en el intervalo $[-1,1]$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule y clasifique los extremos relativos de $f(x)$ en $\\mathbb{R}$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determine el área comprendida entre la gráfica de la función $f(x)$ y el eje OX en el intervalo $[-1,1]$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 7,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sean el plano $\\pi\\equiv x+y+z=1$, la recta $r_1\\equiv\\begin{cases}x=1+\\lambda\\\\y=1-\\lambda,\\\\z=-1,\\end{cases}\\quad\\lambda\\in\\mathbb{R}$ y el punto $P(0,1,0)$."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n21",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Verifique que la recta $r_1$ está contenida en el plano $\\pi$ y que el punto $P$ pertenece al mismo plano."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n21",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle una ecuación de la recta contenida en el plano $\\pi$ que pase por $P$ y sea perpendicular a $r_1$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n21",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule una ecuación de la recta, $r_2$, que pase por $P$ y sea paralela a $r_1$. Halle el área de un cuadrado que tenga dos de sus lados sobre las rectas $r_1$ y $r_2$."
+   }
+  ],
+  "puntos": 1.25,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 8,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "De una cesta con $6$ sombreros blancos y $3$ negros se elige uno al azar. Si el sombrero es blanco, se toma, al azar, un pañuelo de un cajón que contiene $2$ blancos, $2$ negros y $5$ con cuadros blancos y negros. Si el sombrero es negro, se elige, al azar, un pañuelo de otro cajón que contiene $2$ pañuelos blancos, $4$ negros y $4$ con cuadros blancos y negros. Se pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular la probabilidad de que en el pañuelo aparezca algún color que no sea el del sombrero."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular la probabilidad de que en al menos uno de los complementos (sombrero o pañuelo) aparezca el color negro."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n25",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular la probabilidad de que el sombrero haya sido negro, sabiendo que el pañuelo ha sido de cuadros."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$|A|=2+2m-m-2-1+2m^2=2m^2+m-1=0 \\quad\\Longrightarrow\\quad m=\\frac{-1\\pm\\sqrt{1+4\\cdot2\\cdot1}}{4}=\\frac12,\\,-1.$$ Si $m\\ne\\frac12$ y $m\\ne-1$, $\\operatorname{rg}(A)=\\operatorname{rg}(B)=3$: sistema compatible determinado.\n\nPara $m=-1$, $|A|=0$. Comprobamos que no cometemos error al calcular $m$: $$\\begin{vmatrix}1&2\\\\-1&2\\end{vmatrix}=2+2=4\\ne0\\quad\\Longrightarrow\\quad\\operatorname{rg}(A)=2.$$ Como la cuarta y tercera columna de $B$ son la misma, $\\operatorname{rg}(B)=\\operatorname{rg}(A)=2$: sistema compatible indeterminado.\n\nPara $m=\\frac12$, $|A|=0$ y $\\operatorname{rg}(A)<3$. Además, $$\\begin{vmatrix}1&-1\\\\\\frac12&2\\end{vmatrix}\\ne0\\quad\\Longrightarrow\\quad\\operatorname{rg}(A)=2.$$ Como antes, $\\operatorname{rg}(B)=\\operatorname{rg}(A)=2<\\text{n.^{\\circ} de incógnitas}$: sistema compatible indeterminado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Para $m=\\frac12$, cogemos tantas ecuaciones como indica el rango: $2$ ecuaciones. Tomamos $z=\\lambda$:\n\n$$\\begin{cases}x-y+z=1\\\\[2pt]\\frac12x+2y-z=-1\\end{cases}\\quad\\Longrightarrow\\quad\\begin{cases}x-y=1-\\lambda\\\\x+4y=-2+2\\lambda\\end{cases}$$\n\n$$-5y=3-3\\lambda\\quad\\Longrightarrow\\quad y=-\\frac35+\\frac35\\lambda.$$\n\n$$x+\\frac35-\\frac35\\lambda+\\lambda=1\\quad\\Longrightarrow\\quad x=\\frac25-\\frac25\\lambda.$$\n\n$$\\left(x,y,z\\right)=\\left(\\frac25-\\frac25\\lambda,\\,-\\frac35+\\frac35\\lambda,\\,\\lambda\\right).$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Condición de continuidad: $$\\lim_{x\\to0}f(x)=\\lim_{x\\to0}x^3e^{-1/x^2}=\\lim_{x\\to0}\\frac{x^3}{e^{1/x^2}}=\\frac{0}{e^{\\infty}}=0=f(0).$$ Por tanto, $f(x)$ es continua en $x=0$.\n\nCondición de derivabilidad: $$f'(x)=\\begin{cases}3x^2e^{-1/x^2}-xe^{-1/x^2},&x\\ne0,\\\\0,&x=0.\\end{cases}$$\n\n$$\\lim_{x\\to0}f'(x)=\\lim_{x\\to0}\\left(3x^2e^{-1/x^2}-xe^{-1/x^2}\\right)=\\frac{0}{e^{\\infty}}-\\frac{0}{e^{\\infty}}=0.$$ Los límites por derecha e izquierda coinciden; por tanto, $f$ es derivable en $x=0$ y $f'(0)=0$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$f(-x)=(-x)^3e^{-1/(-x)^2}=-x^3e^{-1/x^2}=-f(x)\\quad\\Longrightarrow\\quad f(x)\\text{ es impar}.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n7",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\\int_1^2\\frac{f(x)}{x^6}\\,dx=\\int_1^2\\frac{x^3e^{-1/x^2}}{x^6}\\,dx=\\frac12\\int_1^2\\frac{2e^{-1/x^2}}{x^3}\\,dx=\\left[\\frac12e^{-1/x^2}\\right]_1^2=\\frac{1}{2\\sqrt e}-\\frac{1}{2e}.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Parametrizamos la recta: $$r:\\begin{cases}x=\\lambda,\\\\y=-10+2\\lambda,\\\\z=90+\\lambda.\\end{cases}$$ Un vector director es $\\vec d_r=(1,2,1)$.\n\nPara hallar el punto de intersección con el plano $z=0$, hacemos $90+\\lambda=0$, de donde $\\lambda=-90$. Así, $$A=(-90,-190,0).$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El plano que contiene a $P$ y tiene como vector normal el vector director de $r$ es $$\\pi:\\ x+2y+z+D=0.$$ Como $P=(1,1,1)$, $1+2+1+D=0$, luego $D=-4$ y $$\\pi:\\ x+2y+z-4=0.$$ La posición más próxima $A$ es la intersección de $r$ y $\\pi$:\n\n$$\\lambda+2(-10+2\\lambda)+90+\\lambda-4=0\\quad\\Longrightarrow\\quad\\lambda=-11.$$\n\nPor tanto, $$A=(-11,-32,79).$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Buscamos $\\alpha$, el ángulo entre el plano y la recta, que es $90^{\\circ}-\\gamma$, siendo $\\gamma$ el ángulo que forman el vector normal al plano y el vector director de la recta.\n\n$$\\cos(90^{\\circ}-\\alpha)=\\operatorname{sen}\\alpha=\\frac{|\\vec d_r\\cdot\\vec n_{\\pi}|}{|\\vec d_r|\\,|\\vec n_{\\pi}|}=\\frac{|1\\cdot1+2\\cdot1+1\\cdot0|}{\\sqrt{1+4+1}\\,\\sqrt{1+1+0}}=\\frac{3}{\\sqrt{12}}.$$\n\n$$\\alpha=60^{\\circ}.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Tenemos un consejero y en los puestos puede haber un hombre o una mujer, por lo que es una distribución binomial. Sea $X$ el número de mujeres: $$X\\sim B(10;0{,}277).$$\n\n$$P(X=5)=\\binom{10}{5}\\,0{,}277^5\\cdot0{,}723^5=\\frac{10!}{5!5!}(0{,}277\\cdot0{,}723)^5\\simeq0{,}0811.$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P(\\text{al menos un hombre})=1-P(\\text{ningún hombre})=1-P(X=10)$$\n\n$$=1-\\binom{10}{10}\\,0{,}277^{10}\\cdot0{,}723^0\\simeq0{,}99.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n15",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$X:\\text{ número de mujeres}\\sim B(200;0{,}277)\\simeq N(np,\\sqrt{npq})=N(55{,}4;6{,}33).$$\n\n$$P(X\\ge70)\\quad\\Longrightarrow\\quad P(X'>67{,}5),$$ para asegurar que estamos considerando toda la probabilidad.\n\n$$P\\left(Z>\\frac{67{,}5-55{,}4}{6{,}33}\\right)=P(Z>2{,}23)=1-P(Z<2{,}23)=1-0{,}9871.$$\n\n$$P=0{,}0129.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sean $x$, $y$ y $z$ las edades de Pablo, Alejandro y Alicia, respectivamente. El dinero que recibe cada uno es directamente proporcional a su edad, con constante de proporcionalidad $$k=\\frac{9450}{45}=210.$$\n\n$$\\begin{cases}x+y=2z+3,\\\\x+y+z=45,\\\\x-z=2.\\end{cases}$$\n\nDe las ecuaciones se obtiene $x=16$, $y=15$, $z=14$. Por tanto, las edades son: Pablo, $16$ años; Alejandro, $15$ años; Alicia, $14$ años.\n\nDinero: $$\\text{Pablo}=3360\\,\\mathrm{€},\\qquad \\text{Alejandro}=3150\\,\\mathrm{€},\\qquad \\text{Alicia}=2940\\,\\mathrm{€}.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n18",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$f(x)$ es continua en $\\mathbb{R}$ y, por tanto, en el intervalo $[-1,1]$. Además, $f(-1)\\le0$ y $f(1)>0$. Hay un $c$ en $[-1,1]$ tal que $f(c)=0$. Queda explícitamente demostrado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$f'(x)=\\frac{1\\cdot(x^2+1)-x\\cdot2x}{(x^2+1)^2}=\\frac{1-x^2}{(x^2+1)^2}=0\\quad\\Longrightarrow\\quad 1-x^2=0,\\quad x=\\pm1.$$\n\nComo $f'(-2)<0$, $f'(0)>0$ y $f'(2)<0$, hay un máximo relativo en $\\left(1,\\frac12\\right)$ y un mínimo relativo en $\\left(-1,-\\frac12\\right)$. (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n20",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$f(x)=\\frac{x}{x^2+1}\\text{ es una función impar, }f(-x)=-f(x).$$\n\n$$A=2\\int_0^1\\frac{x}{x^2+1}\\,dx=\\int_0^1\\frac{2x}{x^2+1}\\,dx=\\left[\\ln(x^2+1)\\right]_0^1=\\ln(1^2+1)-\\ln(0^2+1)=\\ln2.$$\n\n$$A=\\ln2\\ \\mathrm{u}^2.$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n22",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El punto cumple la ecuación del plano: si $P\\in\\pi$, entonces $0+1+0=1$; por tanto, $P$ pertenece a $\\pi$.\n\nEl vector normal al plano y el director de la recta son perpendiculares: $\\vec d_{r_1}\\cdot\\vec n_{\\pi}=(1,-1,0)\\cdot(1,1,1)=1-1+0=0$. Un punto cualquiera de la recta es $(1,1,-1)$, y cumple la ecuación del plano: $1+1+(-1)=1$. Por tanto, $r_1$ está contenida en $\\pi$. (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n23",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El vector director buscado debe ser perpendicular a $\\vec d_{r_1}$ y a $\\vec n_{\\pi}$. Tomamos $$\\vec d_s=\\vec d_{r_1}\\times\\vec n_{\\pi}=\\begin{vmatrix}\\vec i&\\vec j&\\vec k\\\\1&-1&0\\\\1&1&1\\end{vmatrix}=(-1,-1,2).$$\n\nLa recta que pasa por $P=(0,1,0)$ es $$s:\\begin{cases}x=-\\lambda,\\\\y=1-\\lambda,\\\\z=2\\lambda.\\end{cases}$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n24",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La recta $r_2$ tiene el mismo vector director que $r_1$ y pasa por $P$: $$r_2:\\begin{cases}x=\\lambda,\\\\y=1-\\lambda,\\\\z=0.\\end{cases}$$\n\nEl lado del cuadrado es la distancia entre $r_1$ y $r_2$:\n\n$$\\ell=\\operatorname{dist}(r_2,r_1)=\\operatorname{dist}(P,r_1)=\\frac{|\\overrightarrow{PP_{r_1}}\\times\\vec d_{r_1}|}{|\\vec d_{r_1}|}.$$\n\nTomando $P_{r_1}=(1,1,-1)$, $$\\overrightarrow{PP_{r_1}}=(1,0,-1),\\qquad \\overrightarrow{PP_{r_1}}\\times\\vec d_{r_1}=\\begin{vmatrix}\\vec i&\\vec j&\\vec k\\\\1&0&-1\\\\1&-1&0\\end{vmatrix}=(-1,-1,-1).$$\n\n$$\\ell=\\frac{\\sqrt{(-1)^2+(-1)^2+(-1)^2}}{\\sqrt{1^2+(-1)^2+0^2}}=\\frac{\\sqrt3}{\\sqrt2}.$$\n\n$$A=\\ell^2=\\frac32\\ \\mathrm{u}^2.$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n26",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P=P(B_1)\\cdot P(N_2\\mid B_1)+P(N_1)\\cdot P(B_2\\mid N_1)$$\n\n$$=\\frac69\\cdot\\frac29+\\frac39\\cdot\\frac2{10}\\simeq0{,}2148.$$ (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  },
+  {
+   "nodo": "n27",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P=1-P(\\text{no aparece ningún negro})=1-P(B_1\\cap B_2)$$\n\n$$=1-P(B_1)\\cdot P(B_2\\mid B_1)=1-\\frac69\\cdot\\frac29\\simeq0{,}8519.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  },
+  {
+   "nodo": "n28",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P(N_1\\mid C)=\\frac{P(N_1\\cap C)}{P(C)}=\\frac{P(N_1)P(C\\mid N_1)}{P(B_1)P(C\\mid B_1)+P(N_1)P(C\\mid N_1)}$$\n\n$$=\\frac{\\frac39\\cdot\\frac4{10}}{\\frac69\\cdot\\frac59+\\frac39\\cdot\\frac4{10}}=0{,}2647.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En la respuesta de A.2.a (página 3), la derivada escrita para $x\\ne0$, $3x^2e^{-1/x^2}-xe^{-1/x^2}$, parece contener una errata.",
+  "En A.4.b (página 5), el documento da $0{,}99$; el valor de $1-0{,}277^{10}$ es aproximadamente $0{,}999997$, por lo que el resultado escrito parece impreciso.",
+  "En B.4.a (página 9), la expresión transcrita considera únicamente pañuelos lisos del color contrario al sombrero ($2/9$ y $2/10$), y no incluye los pañuelos de cuadros, aunque el enunciado pide que aparezca algún color que no sea el del sombrero."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+ 
+1 
+mundoestudiante.com 
+ 
+MATEMÁTICAS II  
+CONVOCATORIA JUNIO ORDINARIA 2022 
+OPCIÓN A 
+ 
+EJERCICIO A1 (Calificación máxima 2,5 puntos) 
+ 
+Dado el siguiente sistema de ecuaciones lineales dependientes del parámetro real  m:  
+ 
+ 
+a) (2 puntos) Discuta el sistema en función de los valores de  m.  
+b) (0.5 puntos) Resuelva el sistema para el valor m =
+1
+2. 
+Solución:  
+ 
+ 
+
+=== PAGINA 2 ===
+ 
+2 
+mundoestudiante.com 
+ 
+ 
+EJERCICIO A.2 (Calificación máxima 2,5 puntos) 
+ 
+Sea la función  
+ 
+ 
+a) (1 punto) Estudie la continuidad y derivabilidad de f(x) en x = 0.  
+b) (0.5 puntos) Estudie si f(x) presenta algún tipo de simetría par o impar.  
+c) (1 punto) Calcule la siguiente integral: ∫
+𝑓(𝑥)
+𝑥6
+2
+1
+𝑑𝑥 
+ 
+Solución:  
+                                                                                                                                                                                          
+ 
+
+=== PAGINA 3 ===
+ 
+3 
+mundoestudiante.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA 4 ===
+ 
+4 
+mundoestudiante.com 
+ 
+EJERCICIO A.3 (Calificación máxima 2,5 puntos) 
+ 
+Con un dispositivo láser situado en el punto P (1,1,1)se ha podido seguir la trayectoria de una 
+partícula que se desplaza sobre la recta de ecuaciones 𝑟≡{2𝑥−𝑦= 10
+𝑥−𝑧= −90  
+ 
+ 
+a) (0,5 punto) Calcule un vector director de r y la posición de la partícula cuando su trayectoria 
+incide con el plano z=0 
+b) (1,25 puntos) Calcule la posición más próxima de la partícula al dispositivo láser. 
+c) (0,75 punto) determine el ángulo entre el plano de ecuación x + y=2 y la recta r. 
+Solución:  
+ 
+ 
+
+=== PAGINA 5 ===
+ 
+5 
+mundoestudiante.com 
+ 
+EJERCICIO A.4 (Calificación máxima 2,5 puntos) 
+ 
+Según el Instituto Nacional de Estadística, durante el último trimestre de 2020, el porcentaje de 
+mujeres que pertenecía al conjunto de Consejos de Administración de las empresas que 
+componen el Ibex-35 fue del 27.7 %. ´ Se reunieron 10 de estos consejeros. 
+a) (0.75 puntos) Halle la probabilidad de que la mitad fueran mujeres.  
+b) (0.75 puntos) Calcule la probabilidad de que hubiese al menos un hombre.  
+c) (1 punto) Determine, aproximando mediante una distribución normal, la probabilidad de que en 
+un congreso de doscientos consejeros de estas empresas hubiera como mínimo un 35 % de 
+representación femenina. 
+Solución:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA 6 ===
+ 
+6 
+mundoestudiante.com 
+ 
+OPCIÓN B 
+ 
+EJERCICIO B.1 (Calificación máxima 2,5 puntos) 
+ 
+Tres primos, Pablo, Alejandro y Alicia, se van a repartir un premio de 9450 euros de forma 
+directamente proporcional a sus edades. La suma de las edades de Pablo y Alejandro excede en 
+tres años al doble de la edad de Alicia. Además, la edad de los tres primos juntos es de 45 años. 
+Sabiendo que en el reparto del premio Pablo recibe 420 euros más que Alicia, calcule las edades 
+de los tres primos y el dinero que recibe cada uno por el  premio. 
+Solución:  
+ 
+ 
+ 
+EJERCICIO B.2 (Calificación máxima 2,5 puntos) 
+ 
+Sea la función f(x) =
+𝑥
+𝑥2+1 
+ a) (0.5 puntos) Compruebe si f(x) verifica las hipotesis del Teorema de Bolzano en el intervalo ´ 
+[−1, 1].  
+b) (1 punto) Calcule y clasifique los extremos relativos de f(x) en R.  
+c) (1 punto) Determine el área comprendida entre la gráfica de la función f(x) y el eje OX en el 
+intervalo [−1, 1]. 
+Solución:  
+ 
+
+=== PAGINA 7 ===
+ 
+7 
+mundoestudiante.com 
+ 
+ 
+ 
+ 
+EJERCICIO B.3 (Calificación máxima 2,5 puntos) 
+ 
+Sean el plano π ≡ x + y + z = 1, la recta 𝑟1 ≡{
+𝑥= 1 + λ
+𝑦= 1 −λ
+𝑧= −1
+   λ ∈ R y el punto P(0, 1, 0).  
+a) (0.5 puntos) Verifique que la recta r1 está contenida en el plano π y que el punto P pertenece 
+al mismo plano.  
+b)  (0.75 puntos) Halle una ecuación de la recta contenida en el plano  π que pase por P y sea 
+perpendicular a r1.  
+c) (1.25 puntos) Calcule una ecuación de la recta,  r2, que pase por P y sea paralela a r1. Halle el 
+área de un  cuadrado que tenga dos de sus lados sobre las rectas r1 y r2. 
+Solución: 
+ 
+ 
+
+=== PAGINA 8 ===
+ 
+8 
+mundoestudiante.com 
+ 
+ 
+ 
+ 
+
+=== PAGINA 9 ===
+ 
+9 
+mundoestudiante.com 
+ 
+EJERCICIO B.4 (Calificación máxima 2,5 puntos) 
+ 
+De una cesta con 6 sombreros blancos y 3 negros se elige uno al azar. Si el sombrero es blanco, se 
+toma, al azar, un pañuelo de un cajón que contiene 2 blancos, 2 negros y 5 con cuadros blancos y 
+negros. Si el sombrero es  negro, se elige, al azar, un pañuelo de otro cajón que contiene 2 
+pañuelos blancos, 4 negros y 4 con cuadros blancos y negros. Se pide: 
+a) (1 punto) Calcular la probabilidad de que en el pañuelo aparezca algún color que no sea el del 
+sombrero.  
+b) (0.5 puntos) Calcular la probabilidad de que en al menos uno de los complementos (sombrero o 
+pañuelo) aparezca el color negro.  
+c) (1 punto) Calcular la probabilidad de que el sombrero haya sido negro, sabiendo que el pañuelo 
+ha sido de cuadros. 
+Solución: 
+ 
+ 

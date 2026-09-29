@@ -1,0 +1,1402 @@
+DOCUMENTO {"id": "172579fa76d4", "region": "País Vasco", "asignatura": "Historia de la Filosofía", "anio": 2021, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "ehu", "url": "https://www.ehu.eus/documents/38889400/40435033/Historia+de+la+filosofia_cas.pdf/396c12f0-0f8a-5320-8152-ea2371befd44?t=1630995032236", "archivo": "pdfs/pais-vasco/historia-de-la-filosofia/2021-extraordinaria-examen-ehu-172579fa76d4.pdf", "paginas": 7, "estrato": "País Vasco · 2020-2024"}
+FUENTE {"archivo": "pdfs/pais-vasco/historia-de-la-filosofia/2021-extraordinaria-examen-ehu-172579fa76d4.pdf", "desde": 6, "anexo": {"tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "ehu", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 6}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "COMPRENSIÓN DEL TEXTO"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resume el texto respetando las ideas contenidas en el mismo y la relación entre ellas. ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explica los términos subrayados. ($1$ punto) ($50$-$75$ palabras por cada término)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Dios"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "sentido"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "A juicio de Descartes, la idea de Dios no proviene de los sentidos y, sin embargo, la existencia de Dios puede ser probada. Expón al menos un argumento a favor de esta tesis de Descartes y al menos una objeción a la misma. Expón finalmente tu reflexión personal al respecto. ($3$ puntos) ($200$-$300$ palabras)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CONTENIDOS Y CONTEXTUALIZACIÓN"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n8",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Intuición y deducción. Análisis y síntesis ($1{,}5$ puntos). (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n8",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Las pasiones y la libertad ($1{,}5$ puntos). (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n8",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Características generales de la Ilustración ($2$ puntos). (Máximo: $250$ palabras)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "COMPRENSIÓN DEL TEXTO"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resume el texto respetando las ideas contenidas en el mismo y la relación entre ellas. ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explica los términos subrayados. ($1$ punto) ($50$-$75$ palabras por cada término)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "religión"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "uso público de su razón"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "A juicio de Kant, el hombre debe valerse de su propia razón a la hora de construir su conciencia moral. Expón al menos un argumento a favor de esta tesis de Kant y al menos una objeción a la misma. Expón finalmente tu reflexión personal al respecto. ($3$ puntos) ($200$-$300$ palabras)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n12",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CONTENIDOS Y CONTEXTUALIZACIÓN"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n19",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Kant, la Ilustración: la autonomía moral. *Caesar non est supra grammaticos*. ($1{,}5$ puntos). (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n19",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Racionalismo y empirismo en Kant ($1{,}5$ puntos). (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n19",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Características generales del racionalismo ($2$ puntos). (Máximo: $250$ palabras)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN C"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n23",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "COMPRENSIÓN DEL TEXTO"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resume el texto respetando las ideas contenidas en el mismo y la relación entre ellas. ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explica los términos subrayados. ($1$ punto) ($50$-$75$ palabras por cada término)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": "n26",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "historia"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n26",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "transformación revolucionaria"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n29",
+  "padre": "n24",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Desarrolla una breve disertación a partir de la tesis \"La historia universal es la historia de los conflictos entre clases sociales opuestas”. Presenta al menos una idea a favor de la tesis y al menos una objeción a la misma. Finalmente, desarrolla tu reflexión personal ante la cuestión. ($3$ puntos) ($200$-$300$ palabras)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n30",
+  "padre": "n23",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CONTENIDOS Y CONTEXTUALIZACIÓN"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n31",
+  "padre": "n30",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La alienación económica. ($1{,}5$ puntos) (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n32",
+  "padre": "n30",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La sociedad comunista ($1{,}5$ puntos) (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n33",
+  "padre": "n30",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Describe la crítica de Nietzsche al cristianismo. (Máximo: $250$ palabras)."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n34",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN D"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n35",
+  "padre": "n34",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "COMPRENSIÓN DEL TEXTO"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n36",
+  "padre": "n35",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resume el texto respetando las ideas contenidas en el mismo y la relación entre ellas. ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n37",
+  "padre": "n35",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explica los términos subrayados. ($1$ punto) ($50$-$75$ palabras por cada término)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n38",
+  "padre": "n37",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Dios"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n39",
+  "padre": "n37",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "alma inmortal"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n40",
+  "padre": "n35",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Desarrolla una breve disertación a partir de la tesis “El concepto de “Dios” ha sido inventado como concepto antitético de la vida”. Presenta al menos una idea a favor de la tesis y al menos una objeción a la misma. Finalmente, desarrolla tu reflexión personal ante la cuestión. ($3$ puntos) ($200$-$300$ palabras)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n41",
+  "padre": "n34",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CONTENIDOS Y CONTEXTUALIZACIÓN"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n42",
+  "padre": "n41",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Lo apolíneo y lo dionisíaco. ($1{,}5$ puntos) (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n43",
+  "padre": "n41",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El nihilismo y la transmutación de los valores. ($1{,}5$ puntos) (Máximo: $150$ palabras)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ },
+ {
+  "id": "n44",
+  "padre": "n41",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La alienación religiosa en Marx. ($2$ puntos) (Máximo: $250$ palabras)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 5
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 6 ===
+UNIBERTSITATERA SARTZEKO EBALUAZIOA 
+EVALUACIÓN PARA EL ACCESO A LA UNIVERSIDAD 
+CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+ZUZENTZEKO ETA KALIFIKATZEKO IRIZPIDEAK 
+HISTORIA DE LA FILOSOFÍA 
+BLOQUE 1. DESCRIPTORES 
+CALIFICACIÓN 
+MÁXIMA 
+1.1 
+El alumno se limita a copiar los fragmentos del texto propuesto 
+en que se expresa la tesis  y las ideas contenidas en el texto 
+como resumen del mismo.  
+0,25 
+El alumno señala adecuadamente la idea central del texto 
+evitando la repetición literal del mismo, pero no recoge el 
+conjunto de las ideas contenidas en el mismo ni la relación 
+existente entre las mismas  
+0.50 
+El alumno señala adecuadamente la idea central del texto 
+evitando la repetición literal del mismo y se refiere las ideas 
+relacionadas con la misma, pero la expresión o la estructura del 
+resumen no son adecuadas. 
+0,75 
+El alumno resume el texto respetando las ideas contenidas en el 
+mismo y la relación entre ellas evitando la repetición literal del 
+mismo y expresándose con claridad y precisión. 
+1 
+1.2.1 
+El alumno describe adecuadamente el concepto subrayado: 
+definición general del término (0,1), uso que le da el autor (0,3) 
+y problemática que suscita el término subrayado (0,1). 
+0,5 
+1.2.2 
+El alumno describe adecuadamente el concepto subrayado: 
+definición general del término (0,1), uso que le da el autor (0,3) 
+y problemática que suscita el término subrayado (0,1). 
+0,5 
+1.3. 
+El alumno no alcanza el siguiente nivel 
+0 
+El alumno desarrolla algunas ideas sobre el tema de la 
+disertación, pero el desarrollo es simple o se presenta sin apoyo 
+o referencias. No hay una opinión personal pertinente.
+1 
+El alumno muestra comprensión de la cuestión filosófica que 
+plantea el texto y explora dos enfoques filosóficos diferentes 
+para desarrollar ideas y argumentos. Los ejemplos son en 
+general apropiados y apoyan en cierta medida la respuesta. Hay 
+alguna muestra de una opinión personal pertinente.  
+2 
+El alumno muestra comprensión  eficaz de la cuestión filosófica 
+que plantea el texto y explora dos enfoques filosóficos 
+diferentes respecto de la cuestión realizando una discusión 
+crítica. Los ejemplos son apropiados. La opinión personal es 
+pertinente. 
+3 
+2021
+
+=== PAGINA 7 ===
+ 
+UNIBERTSITATERA SARTZEKO EBALUAZIOA 
+EVALUACIÓN PARA EL ACCESO A LA UNIVERSIDAD 
+ 
+ 
+CRITERIOS DE CORRECCIÓN Y CALIFICACIÓN 
+ZUZENTZEKO ETA KALIFIKATZEKO IRIZPIDEAK 
+ 
+ 
+BLOQUE 2. DESCRIPTORES 
+CALIFICACIÓN 
+MÁXIMA 
+ 
+El alumno no alcanza el siguiente nivel 
+0 
+2.1 
+y 
+2.2 
+El alumno hace únicamente referencia  parcial a las ideas 
+importantes del autor o del contexto histórico filosófico 
+relevantes para responder la pregunta y la utilización de los 
+conceptos filosóficos es limitada o las ideas no están ordenadas 
+adecuadamente. 
+0,5 
+ 
+La respuesta del alumno sigue un hilo expositivo o argumental 
+adecuado, utiliza eficazmente los conceptos filosóficos, pero 
+hace únicamente referencia parcial a las ideas importantes del 
+autor o del contexto histórico filosófico relevantes para 
+responder la pregunta. 
+0,75 
+ 
+El alumno hace referencia a las ideas más importantes del autor 
+o del contexto histórico filosófico relevantes para responder la 
+pregunta pero la utilización de los conceptos filosóficos es 
+limitada o las ideas no están ordenadas adecuadamente. 
+1 
+ 
+La respuesta del alumno sigue un hilo expositivo o argumental 
+adecuado, utiliza eficazmente los conceptos filosóficos y se 
+refiere a las ideas más importantes del autor o del contexto 
+histórico o filosófico relevantes para responder a la pregunta 
+correspondiente. 
+1,5 
+2.3. 
+El alumno no alcanza el siguiente nivel 
+0 
+ 
+El alumno hace únicamente referencia  parcial a las ideas 
+importantes del autor o del contexto histórico filosófico 
+relevantes para responder la pregunta y la utilización de los 
+conceptos filosóficos es limitada o las ideas no están ordenadas 
+adecuadamente. 
+0,5 
+ 
+La respuesta del alumno sigue un hilo expositivo o argumental 
+adecuado, utiliza eficazmente los conceptos filosóficos, pero 
+hace únicamente referencia parcial a las ideas importantes del 
+autor o del contexto histórico filosófico relevantes para 
+responder la pregunta. 
+1 
+ 
+El alumno hace referencia a las ideas más importantes del autor 
+o del contexto histórico filosófico relevantes para responder la 
+pregunta pero la utilización de los conceptos filosóficos es 
+limitada o las ideas no están ordenadas adecuadamente. 
+1,5 
+ 
+La respuesta del alumno sigue un hilo expositivo o argumental 
+adecuado, utiliza eficazmente los conceptos filosóficos y se 
+refiere a las ideas más importantes del autor o del contexto 
+histórico o filosófico relevantes para responder a la pregunta 
+correspondiente. 
+2 
+ 
+2021

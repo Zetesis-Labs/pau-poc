@@ -1,0 +1,353 @@
+{
+ "documento": "1bc800a06e3b",
+ "fuente": {
+  "archivo": "pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf",
+  "desde": 6,
+  "anexo": {
+   "tipo": "criterios",
+   "contenido": [
+    "criterios",
+    "solucion"
+   ],
+   "origen": "oficial",
+   "fuente": "uc3m",
+   "acceso": "publico",
+   "coincidencia": "exacta",
+   "incrustado": {
+    "pagina": 6
+   }
+  }
+ },
+ "modelo": "gpt-6-luna",
+ "esfuerzo": "high",
+ "prompt": "s2",
+ "esquema": "s1",
+ "segundos": 56.4,
+ "uso": {
+  "input_tokens": 5669,
+  "input_tokens_details": {
+   "cache_write_tokens": 5666,
+   "cached_tokens": 0
+  },
+  "output_tokens": 7142,
+  "output_tokens_details": {
+   "reasoning_tokens": 3106
+  },
+  "total_tokens": 12811
+ },
+ "estado": "completed",
+ "respuesta": "resp_0d77c2a02e05d0fc016abb17b4549887d193262c767458c2fe",
+ "resultado": {
+  "contiene_soluciones": true,
+  "idiomas": [
+   "es"
+  ],
+  "entradas": [
+   {
+    "nodo": "n1",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Sean $A$, $B$ y $C$ el número de acciones de las correspondientes empresas que le tocan a cada hermano. Entonces:\n$$\n\\begin{cases}\n3(A+B+C)=540\\\\\n3\\cdot(3A+1\\cdot B+6C)=1560\\\\\nC=\\dfrac{B}{2}\n\\end{cases}\n\\Rightarrow\n\\begin{cases}\nA+B+C=180\\\\\n3A+B+6C=520\\\\\nB=2C\n\\end{cases}\n\\Rightarrow\n\\begin{cases}\nA+3C=180\\\\\n3A+8C=520\n\\end{cases}\n$$\n$$A=180-3C\\Rightarrow 3(180-3C)+8C=520\\Rightarrow\n\\begin{cases}\nC=540-520=20\\\\\nB=2C=40\\\\\nA=180-3C=180-60=120\n\\end{cases}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n2",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Las curvas $y=f(x)$ e $y=g(x)$ se cortan en los puntos cuya coordenada $x$ verifica la ecuación\n$$0=g(x)-f(x)=3x^2-5x-2\\Rightarrow x=\\frac{5\\pm\\sqrt{25+24}}{6}\\Rightarrow x=2,\\quad x=-\\frac{1}{3}.$$\nPara $x\\in(-1/3,2)$, $g(x)<f(x)$ (ya que, por ejemplo, $g(0)=0<2=f(0)$). Por tanto, el área comprendida por las dos gráficas es\n$$\\int_{-1/3}^{2}(f(x)-g(x))\\,dx=\\int_{-1/3}^{2}(-3x^2+5x+2)\\,dx=\\left.-x^3+\\frac{5x^2}{2}+2x\\right|_{-1/3}^{2}$$\n$$=-8+10+4-\\frac{1}{27}-\\frac{5}{18}+\\frac{2}{3}=\\frac{343}{54}.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n4",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "La recta $r$ está en forma implícita y su vector director es $\\overrightarrow{d_r}=(2,-1,1)$. El vector normal al plano $\\pi$ es $\\overrightarrow{n}=(2,1,-1)$ y por tanto el seno del ángulo $\\alpha$ que forman es\n$$\\operatorname{sen}(\\alpha)=\\frac{|\\overrightarrow{d_r}\\cdot\\overrightarrow{n}|}{|\\overrightarrow{d_r}||\\overrightarrow{n}|}=\\frac{1}{3}\\Rightarrow \\alpha=\\operatorname{arcsen}\\left(\\frac{1}{3}\\right)\\approx 19{,}47^{\\circ}.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n5",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "La recta $r$ es $(x,y,z)=(1,-1,0)+\\lambda(2,-1,1)$. El punto $P$ de intersección entre la recta y el plano se obtiene para $\\lambda$ solución de $2(1+2\\lambda)+(-1-\\lambda)-\\lambda+3=0$, es decir, $\\lambda=-2\\Rightarrow P(-3,1,-2)$. La recta $s$ que pasa por $P$ y es perpendicular al plano $z-y=0$, tiene por ecuaciones paramétricas\n$$s\\equiv\\begin{cases}x=-3\\\\y=1-\\lambda\\\\z=-2+\\lambda\\end{cases}.$$\nLa recta $s$ y el plano $z-y=0$ se cortan en el punto $M(-3,-1/2,-1/2)$, que es el punto medio de $PP_0$. Por tanto $P_0(-3,-2,1)$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n6",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "El plano $\\pi'$ que contiene a $r$ y es perpendicular a $\\pi$ es:\n$$\\pi'\\equiv\\begin{vmatrix}x-1&y+1&z\\\\2&-1&1\\\\2&1&-1\\end{vmatrix}=0\\Rightarrow y+z+1=0$$\ny por tanto la recta proyección de $r$ sobre $\\pi$ tiene por ecuación\n$$\\begin{cases}2x+y-z+3=0\\\\y+z+1=0\\end{cases}.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n8",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$T=$ «tiempo de vida (en meses) de un individuo de esta especie tomado al azar» $\\sim\\operatorname{Normal}(\\mu=8{,}8,\\sigma=3)$. Con $Z$ la distribución Normal $(0,1)$:\n$$P(T>10)=P(Z>0{,}40)\\approx0{,}3446\\Rightarrow\\text{Un }34{,}46\\%\\text{ de los individuos.}$$\n$$P(7<T<10)=P(-0{,}60<Z<0{,}40)\\approx0{,}6554-0{,}2743=0{,}3811\\Rightarrow\\text{Un }38{,}11\\%\\text{ de los individuos.}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n9",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Elegido al azar un individuo de esta especie $p=P(T\\le10)\\approx0{,}6554$. Tomados $4$ individuos al azar, sus tiempos de vida serán independientes y así la variable $X$ que contabiliza cuántos de estos $4$ no han superado los $10$ meses de vida es una Binomial $(4,p=0{,}6554)$. Se pide\n$$P(X\\ge1)=1-P(X=0)=1-(1-0{,}6554)^4=1-0{,}3446^4\\approx0{,}985898637.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n10",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$P(8{,}8-c\\le T\\le8{,}8+c)=0{,}98\\Leftrightarrow P\\left(0\\le Z\\le\\frac{c}{3}\\right)=0{,}49.$$\nDe la tabla de la Normal $(0,1)$ se tiene $c/3\\approx2{,}33$ y así $c\\approx6{,}99$ es el valor buscado."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n12",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$|A|=3a^2-29a+26\\Rightarrow a=1\\quad\\text{y}\\quad a=\\frac{26}{3}.$$\nSi $a\\ne1$ o $\\frac{26}{3}$: sistema compatible determinado.\n\nSi $a=\\frac{26}{3}$: sistema incompatible.\n\nSi $a=1$: sistema compatible indeterminado."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n13",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$\\begin{cases}x-2y=4\\\\-y-6z=10\\end{cases}$$\nSolución: $(-16-12t,-10-6t,t)$ con $t\\in\\mathbb{R}$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n15",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$\\lim_{x\\to0^+}f(x)=\\lim_{x\\to0^-}f(x)=f(0)=0$$\nasí que $f$ es continua en cero. Por lo que se refiere a la derivabilidad,\n$$\\lim_{x\\to0^-}\\frac{f(x)-f(0)}{x}=\\lim_{x\\to0^-}\\frac{\\operatorname{sen}x}{x}=1\\quad(\\text{L'Hôpital})$$\ny\n$$\\lim_{x\\to0^+}\\frac{f(x)-f(0)}{x}=\\lim_{x\\to0^+}e^x=1,$$\npor tanto, $f$ es derivable en $x=0$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n16",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Para $-\\pi<x<0$, $f'(x)=\\cos x$, y se tiene que $f$ es decreciente en $(-\\pi,-\\pi/2)$ y creciente en $(-\\pi/2,0)$. Para $x>0$, $f'(x)=e^x(x+1)>0$, así que $f$ es creciente en $(0,2)$, y por ser continua en $x=0$ lo es en $(-\\pi/2,2)$. Para la segunda parte, basta aplicar el teorema de Bolzano ya que $f$ es continua, $f(0)=0$ y $f(1)=e>2$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n17",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$\\int_{-\\pi/2}^{1}f(x)\\,dx=\\int_{-\\pi/2}^{0}\\operatorname{sen}x\\,dx+\\int_{0}^{1}xe^x\\,dx.$$\nLa función $F=-\\cos x$ es una primitiva de $\\operatorname{sen}x$, mientras que integrando por partes obtenemos que $G(x)=e^x(x-1)$ lo es de $xe^x$. Por Barrow, la integral pedida es\n$$F(0)-F(-\\pi/2)+G(1)-G(0)=0.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n19",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Los planos que son paralelos a $x+y=1$ son de la forma $x+y=D$, la distancia del origen a un plano que cumpla la ecuación anterior será\n$$\\frac{|D|}{\\sqrt{2}}=2,$$\nesto implica que $D=\\pm2\\sqrt{2}$. Por tanto los planos son $x+y=2\\sqrt{2}$ y $x+y=-2\\sqrt{2}$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n20",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Una recta perpendicular al plano $x+z=1$ tiene como vector director $\\overrightarrow{v}=(1,0,1)$ y si corta al eje $y$ en $y=2$ pasa por el punto $(0,2,0)$. Por tanto la ecuación de la recta será $(x,y,z)=(\\lambda,2,\\lambda)$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n21",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Los puntos de intersección con los ejes $x$ e $y$ son los puntos $(1,0,0)$ y $(0,1,0)$ respectivamente. La distancia entre ellos es $\\sqrt{2}$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n23",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Sean los sucesos $N=$ «en un día se supera el nivel permitido de $\\ce{NO2}$» y $P=$ «en un día se supera el nivel permitido de partículas». Se sabe que $P(N)=0{,}16$, $P(P\\mid N)=0{,}33$ y $P(P\\mid\\overline{N})=0{,}08$. Entonces\n$$P(N\\cap P)=P(P\\mid N)\\cdot P(N)=0{,}33\\cdot0{,}16=0{,}0528.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n24",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$P(P)=P(P\\mid N)P(N)+P(P\\mid\\overline{N})\\cdot P(\\overline{N})=0{,}0528+0{,}08\\cdot(1-0{,}16)=0{,}12.$$\n$$P(P\\cup N)=P(P)+P(N)-P(P\\cap N)=0{,}12+0{,}16-0{,}0528=0{,}2272.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n25",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$P$ y $N$ no son independientes, ya que $P(P\\cap N)=0{,}0528$ y $P(P)\\cdot P(N)=0{,}12\\cdot0{,}16=0{,}0192$ no coinciden."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n26",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$P(N\\mid\\overline{P})=\\frac{P(N\\cap\\overline{P})}{P(\\overline{P})}=\\frac{P(N)-P(N\\cap P)}{1-P(P)}\\approx0{,}1218.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   }
+  ],
+  "sin_correspondencia": [],
+  "incidencias": [
+   "En la extracción textual de la página 2 no aparecen claramente las barras de complemento de los sucesos en los apartados B.4.a), B.4.b) y B.4.d). Se han representado como complementos en las fórmulas correspondientes para reflejar la notación que exige el contexto de las probabilidades."
+  ]
+ },
+ "hallazgos": []
+}

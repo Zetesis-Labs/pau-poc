@@ -1,0 +1,376 @@
+{
+ "documento": "25fcf7208b8f",
+ "fuente": {
+  "archivo": "pdfs/madrid/matematicas-ii/2022-ordinaria-solucion-mundoestudiante-3ad37f8a71fd.pdf",
+  "desde": 1,
+  "anexo": {
+   "id": "3ad37f8a71fd",
+   "tipo": "solucion",
+   "contenido": [
+    "solucion"
+   ],
+   "origen": "academia",
+   "fuente": "mundoestudiante",
+   "acceso": "publico",
+   "coincidencia": "exacta",
+   "url": "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2022/Soluci%C3%B3n+EVAU+Madrid+Matem%C3%A1ticas+II+2022+Junio+V3.pdf",
+   "titulo": "MATEMÁTICAS II — SOLUCIÓN (Exámenes EvAU Comunidad de Madrid (junio 2022))"
+  }
+ },
+ "modelo": "gpt-6-luna",
+ "esfuerzo": "high",
+ "prompt": "s2",
+ "esquema": "s1",
+ "segundos": 115.7,
+ "uso": {
+  "input_tokens": 26463,
+  "input_tokens_details": {
+   "cache_write_tokens": 24634,
+   "cached_tokens": 1826
+  },
+  "output_tokens": 14074,
+  "output_tokens_details": {
+   "reasoning_tokens": 8929
+  },
+  "total_tokens": 40537
+ },
+ "estado": "completed",
+ "respuesta": "resp_0d7586d260ad6be0016abb17b4b22c87d1b15a541f57d39cdf",
+ "resultado": {
+  "contiene_soluciones": true,
+  "idiomas": [
+   "es"
+  ],
+  "entradas": [
+   {
+    "nodo": "n2",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Sea $A$ la matriz de coeficientes y $B$ la matriz ampliada. $$|A|=2+2m-m-2-1+2m^2=2m^2+m-1=0$$ De aquí, $m=\\frac{-1\\pm\\sqrt{1+4\\cdot2\\cdot1}}{4}$, es decir, $m=\\frac{1}{2}$ o $m=-1$.\n\n- Si $m\\ne\\frac{1}{2}$ y $m\\ne-1$, $\\operatorname{rg}(A)=\\operatorname{rg}(B)=3$, por tanto, S.C.D.\n- Para $m=-1$, $|A|=0$ y $$\\begin{vmatrix}1&2\\\\-1&2\\end{vmatrix}=2+2=4\\ne0,$$ luego $\\operatorname{rg}(A)=2$. La cuarta columna de $B$ es igual a la primera, por lo que $\\operatorname{rg}(B)=\\operatorname{rg}(A)=2$. S.C.I.\n- Para $m=\\frac{1}{2}$, $|A|=0$, luego $\\operatorname{rg}(A)<3$, y $$\\begin{vmatrix}1&-1\\\\\\frac{1}{2}&2\\end{vmatrix}\\ne0,$$ por lo que $\\operatorname{rg}(A)=2$. Como antes, $\\operatorname{rg}(B)=\\operatorname{rg}(A)=2<3$, número de incógnitas. S.C.I."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 1
+     }
+    ]
+   },
+   {
+    "nodo": "n3",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Para $m=\\frac{1}{2}$, cogemos tantas ecuaciones como indica el rango: $2$ ecuaciones. Tomando $z=\\lambda$: $$\\begin{cases}x-y+z=1,\\\\x+4y-2z=-2.\\end{cases}$$ Entonces $$x-y=1-\\lambda,\\qquad x+4y=-2+2\\lambda,$$ y, al restar, $-5y=3-3\\lambda$, de donde $$y=-\\frac{3}{5}+\\frac{3}{5}\\lambda.$$ Además, $$x+\\frac{3}{5}-\\frac{3}{5}\\lambda+\\lambda=1\\quad\\Rightarrow\\quad x=\\frac{2}{5}-\\frac{2}{5}\\lambda.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 2
+     }
+    ]
+   },
+   {
+    "nodo": "n5",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Condición de continuidad: $\\lim_{x\\to0}f(x)=f(0)$. $$\\lim_{x\\to0}x^3e^{-1/x^2}=\\lim_{x\\to0}\\frac{x^3}{e^{1/x^2}}=\\frac{0}{e^{\\infty}}=\\frac{0}{\\infty}=0=f(0).$$ Los límites por la derecha y por la izquierda coinciden, pues $e^{1/x^2}$ cuando $x\\to0$ es $e^{+\\infty}$. Por tanto, $f$ es continua en $f(0)$.\n\nCondición de derivabilidad: $$f'(0)=\\lim_{x\\to0^+}f'(x)=\\lim_{x\\to0^-}f'(x).$$ Para $x\\ne0$, en la solución se escribe $$f'(x)=3x^2e^{-1/x^2}-xe^{-1/x^2},$$ y para $x=0$, $f'(x)=0$. Así, $$\\lim_{x\\to0}f'(x)=\\lim_{x\\to0}\\left(3x^2e^{-1/x^2}-xe^{-1/x^2}\\right)=\\frac{0}{e^{\\infty}}-\\frac{0}{e^{\\infty}}=0.$$ Los límites por la derecha y por la izquierda coinciden."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n6",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$f(-x)=-x^3e^{-1/(-x)^2}=-x^3e^{-1/x^2}=-f(x)\\quad\\Rightarrow\\quad f\\text{ es impar}.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n7",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$\\begin{aligned}\\int_1^2\\frac{f(x)}{x^6}\\,dx&=\\int_1^2\\frac{x^3e^{-1/x^2}}{x^6}\\,dx=\\frac{1}{2}\\int_1^2\\frac{2e^{-1/x^2}}{x^3}\\,dx\\\\&=\\left.\\frac{1}{2}e^{-1/x^2}\\right|_1^2=\\frac{1}{2}e^{-1/4}-\\frac{1}{2}e^{-1}=\\frac{1}{2\\sqrt[4]{e}}-\\frac{1}{2e}.\n\\end{aligned}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n9",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Parametrizando la recta: $$x=\\lambda,\\qquad y=-10+2\\lambda,\\qquad z=90+\\lambda.$$ Por tanto, un vector director es $\\vec d_r=(1,2,1)$. Para hallar la posición cuando $z=0$, $90+\\lambda=0$, luego $\\lambda=-90$, y la posición es $$A=(-90,-190,0).$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "nodo": "n10",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "La solución plantea el plano $\\pi$ que contiene a $P$ y tiene como vector normal el vector director de $r$. (ver figura en la solución original)\n\nComo $P=(1,1,1)$ y $\\vec n_\\pi=\\vec d_r=(1,2,1)$, $$x+2y+z+D=0,\\qquad 1+2+1+D=0,\\qquad D=-4.$$ Así, $\\pi:x+2y+z-4=0$. La posición más próxima $A$ es la intersección de $r$ y $\\pi$: $$\\lambda+2(-10+2\\lambda)+90+\\lambda-4=0\\quad\\Rightarrow\\quad\\lambda=-11.$$ Por tanto, $$A=(-11,-32,79).$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "nodo": "n11",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "(ver figura en la solución original)\n\nBuscamos $\\alpha$, el ángulo entre el plano y la recta, que es $90^{\\circ}-\\gamma$, donde $\\gamma$ es el ángulo que forman el vector normal al plano y el vector director de la recta. $$\\cos(90^{\\circ}-\\alpha)=\\operatorname{sen}\\alpha=\\frac{|\\vec d_r\\cdot\\vec n_\\pi|}{|\\vec d_r|\\,|\\vec n_\\pi|}=\\frac{|1\\cdot1+2\\cdot1+1\\cdot0|}{\\sqrt{1+4+1}\\sqrt{1+1+0}}=\\frac{3}{\\sqrt{12}}.$$ Por tanto, $\\alpha=60^{\\circ}$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   },
+   {
+    "nodo": "n13",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$X$: número de mujeres, $X\\sim B(10;0{,}277)$. $$P(X=5)=\\binom{10}{5}\\cdot0{,}277^5\\cdot0{,}723^5\\approx0{,}0811.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 5
+     }
+    ]
+   },
+   {
+    "nodo": "n14",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$P(\\text{al menos un hombre})=1-P(\\text{ningún hombre})=1-P(X=10)$$ $$=1-\\binom{10}{10}\\cdot0{,}277^{10}\\cdot0{,}723^0\\approx0{,}99.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 5
+     }
+    ]
+   },
+   {
+    "nodo": "n15",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$X\\sim B(200;0{,}277)\\approx N(np,\\sqrt{npq})=N(55{,}4;6{,}33).$$ $$P(X\\ge70)\\quad\\Rightarrow\\quad P(X>69{,}5),$$ para asegurar que estamos considerando toda la probabilidad. $$P\\left(Z>\\frac{69{,}5-55{,}4}{6{,}33}\\right)=P(Z>2{,}23)=1-P(Z\\le2{,}23)=1-0{,}9871.$$ Por tanto, $P=0{,}0129$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 5
+     }
+    ]
+   },
+   {
+    "nodo": "n16",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "Sean $x$, $y$ y $z$ las edades de Pablo, Alejandro y Alicia, respectivamente. Como el reparto es directamente proporcional a las edades, cada uno recibe su edad multiplicada por $k$, donde $$k=\\frac{9450}{45}.$$ Las ecuaciones son $$\\begin{cases}x+y=2z+3,\\\\x+y+z=45,\\\\xk=zk+420.\\end{cases}$$ La última ecuación da $x-z=2$, y queda $$\\begin{cases}x+y-2z=3,\\\\x+y+z=45,\\\\x-z=2.\\end{cases}$$ De estas ecuaciones se obtiene $z=14$, $y=15$ y $x=16$.\n\nDinero: Pablo recibe $3360\\,\\mathrm{€}$, Alejandro recibe $3150\\,\\mathrm{€}$ y Alicia recibe $2940\\,\\mathrm{€}$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 6
+     }
+    ]
+   },
+   {
+    "nodo": "n18",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$f(x)$ es continua en $\\mathbb{R}$ y, por tanto, en el intervalo. $f(-1)\\le0$ y $f(1)>0$. Hay un $c\\in[-1,1]$ tal que $f(c)=0$. Queda explícitamente demostrado."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n19",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$f'(x)=\\frac{1\\cdot(x^2+1)-x\\cdot2x}{(x^2+1)^2}=\\frac{1-x^2}{(x^2+1)^2}=0\\quad\\Rightarrow\\quad1-x^2=0\\quad\\Rightarrow\\quad x=\\pm1.$$ La función decrece, crece y decrece, respectivamente, en los intervalos delimitados por $-1$ y $1$. Además, $f'(-2)<0$, $f'(0)>0$ y $f'(2)<0$. Por tanto, hay un máximo relativo en $\\left(1,\\frac{1}{2}\\right)$ y un mínimo relativo en $\\left(-1,-\\frac{1}{2}\\right)$."
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n20",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$f(x)=\\frac{x}{x^2+1}$ es una función impar, $f(-x)=-f(x)$. (ver figura en la solución original)\n\n$$\\begin{aligned}A&=2\\int_0^1\\frac{x}{x^2+1}\\,dx=\\int_0^1\\frac{2x}{x^2+1}\\,dx\\\\&=\\left.\\ln|x^2+1|\\right|_0^1=\\ln(1^2+1)-\\ln(0^2+1)=\\ln2\\,\\mathrm{u}^2.\n\\end{aligned}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 7
+     }
+    ]
+   },
+   {
+    "nodo": "n22",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "(ver figura en la solución original)\n\nEl punto debe cumplir la ecuación del plano. Si $P\\in\\pi$, $0+1+0=1$, por lo que $P$ pertenece a $\\pi$.\n\nSi $r_1\\subset\\pi$, el vector normal al plano y el director de la recta son perpendiculares: $$\\vec d_{r_1}\\cdot\\vec n_\\pi=0\\quad\\Rightarrow\\quad(1,-1,0)\\cdot(1,1,1)=1-1+0=0.$$ Además, un punto cualquiera de la recta debe cumplir la ecuación del plano. Para $P_{\\text{recta}}=(1,1,-1)$, $$1+1+(-1)=1.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 8
+     }
+    ]
+   },
+   {
+    "nodo": "n23",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "(ver figura en la solución original)\n\nUn vector director de la recta buscada debe ser perpendicular a $\\vec d_{r_1}$ y a $\\vec n_\\pi$. Por tanto, $$\\vec d_s=\\vec d_{r_1}\\times\\vec n_\\pi=\\begin{vmatrix}\\vec i&\\vec j&\\vec k\\\\1&-1&0\\\\1&1&1\\end{vmatrix}=(-1,-1,2).$$ La recta que pasa por $P=(0,1,0)$ es $$s:\\begin{cases}x=-\\lambda,\\\\y=1-\\lambda,\\\\z=2\\lambda.\\end{cases}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 8
+     }
+    ]
+   },
+   {
+    "nodo": "n24",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "(ver figura en la solución original)\n\nLa recta $r_2$ tiene el mismo vector director que $r_1$ y pasa por $P$: $$r_2:\\begin{cases}x=\\lambda,\\\\y=1-\\lambda,\\\\z=0.\\end{cases}$$ El lado del cuadrado es la distancia entre $r_1$ y $r_2$, es decir, $l=\\operatorname{dist}(P,r_1)$: $$l=\\frac{|\\overrightarrow{PP_{r_1}}\\times\\vec d_{r_1}|}{|\\vec d_{r_1}|},\\qquad \\overrightarrow{PP_{r_1}}=(1,1,-1)-(0,1,0)=(1,0,-1).$$ $$\\overrightarrow{PP_{r_1}}\\times\\vec d_{r_1}=\\begin{vmatrix}\\vec i&\\vec j&\\vec k\\\\1&0&-1\\\\1&-1&0\\end{vmatrix}=(-1,-1,-1).$$ $$l=\\frac{\\sqrt{(-1)^2+(-1)^2+(-1)^2}}{\\sqrt{1^2+(-1)^2+0^2}}=\\frac{\\sqrt{3}}{\\sqrt{2}}\\quad\\Rightarrow\\quad A=l^2=\\frac{3}{2}\\,\\mathrm{u}^2.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 8
+     }
+    ]
+   },
+   {
+    "nodo": "n26",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "(ver figura en la solución original)\n\nSea $B_1$ el suceso de que el sombrero sea blanco, $N_1$ el de que sea negro, $B_2$ el de que el pañuelo sea blanco y $N_2$ el de que sea negro. La solución calcula $$P=P(B_1)P(N_2\\mid B_1)+P(N_1)P(B_2\\mid N_1)=\\frac{6}{9}\\cdot\\frac{2}{9}+\\frac{3}{9}\\cdot\\frac{2}{10}\\approx0{,}2148.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 9
+     }
+    ]
+   },
+   {
+    "nodo": "n27",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$P=1-P(\\text{no aparece negro})=1-P(B_1\\cap B_2)=1-P(B_1)P(B_2\\mid B_1)=1-\\frac{6}{9}\\cdot\\frac{2}{9}\\approx0{,}8519.$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 9
+     }
+    ]
+   },
+   {
+    "nodo": "n28",
+    "respuesta": [
+     {
+      "idioma": "es",
+      "markdown": "$$\\begin{aligned}P(N_1\\mid C)&=\\frac{P(N_1\\cap C)}{P(C)}=\\frac{P(N_1)P(C\\mid N_1)}{P(B_1)P(C\\mid B_1)+P(N_1)P(C\\mid N_1)}\\\\&=\\frac{\\frac{3}{9}\\cdot\\frac{4}{10}}{\\frac{6}{9}\\cdot\\frac{5}{9}+\\frac{3}{9}\\cdot\\frac{4}{10}}\\approx0{,}2647.\n\\end{aligned}$$"
+     }
+    ],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 9
+     }
+    ]
+   }
+  ],
+  "sin_correspondencia": [],
+  "incidencias": [
+   "n5, página 3: la expresión manuscrita para $f'(x)$, $3x^2e^{-1/x^2}-xe^{-1/x^2}$, parece errónea al derivar la función dada.",
+   "n10, página 4: la solución incluye un esquema geométrico; consultar la figura en el original.",
+   "n11, página 4: la solución incluye un esquema del ángulo entre plano y recta; consultar la figura en el original.",
+   "n14, página 5: la solución da $0{,}99$, pero este valor no concuerda con la expresión escrita $1-0{,}277^{10}$.",
+   "n20, página 7: la solución incluye una gráfica con áreas sombreadas; consultar la figura en el original.",
+   "n22, página 8: la solución incluye un esquema geométrico; consultar la figura en el original.",
+   "n23, página 8: la solución incluye un esquema geométrico; consultar la figura en el original.",
+   "n24, página 8: la solución incluye un esquema de las rectas paralelas; consultar la figura en el original.",
+   "n26, página 9: la solución incluye un árbol de probabilidad; consultar la figura en el original.",
+   "n26, página 9: la expresión de probabilidad solo cuenta pañuelos del color opuesto al sombrero; no incluye los pañuelos de cuadros, aunque estos también contienen un color distinto del sombrero."
+  ]
+ },
+ "hallazgos": []
+}

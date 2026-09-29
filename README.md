@@ -32,12 +32,22 @@ modelo) queda fuera del repositorio; el catálogo enlaza cada documento a su ori
 
 ## Uso
 
+Los fallos pendientes detectados en la revisión del POC están registrados en
+[docs/revision-2026-09-29.md](docs/revision-2026-09-29.md).
+La auditoría de preguntas, soluciones, rúbricas, figuras y publicación está en
+[docs/auditoria-2026-09-29/README.md](docs/auditoria-2026-09-29/README.md), con evidencias e inventarios por registro.
+Los nuevos prompts candidatos y los controles añadidos están en
+[docs/prompts-extraccion.md](docs/prompts-extraccion.md).
+El control local que bloquea publicaciones con pérdidas se describe en
+[docs/verificacion-banco.md](docs/verificacion-banco.md).
+
 ```bash
 # pipeline (Python 3.12+, uv)
 cd pipeline
 uv sync
 uv run pau --help
-uv run pau publicar gpt-6-luna__p5   # regenera ../datos/
+uv run pau verificar gpt-6-luna__p5  # informe local, sin IA
+uv run pau publicar gpt-6-luna__p5   # regenera ../datos/ solo si supera los controles
 
 # web (Node 22, pnpm)
 cd web
@@ -45,6 +55,15 @@ pnpm install
 pnpm dev          # http://localhost:3100
 pnpm test && pnpm typecheck && pnpm lint
 ```
+
+La vista de preguntas tiene dos columnas (lista y detalle); en móvil se abre el detalle a pantalla
+completa. El botón **Filtros**, junto al buscador, abre un modal con selección provisional y recuentos:
+**Ver preguntas** aplica los cambios y **Cancelar** los descarta. Los documentos originales están al
+final del detalle, en acordeones de **Examen**, **Criterios** y **Soluciones**, y se cargan al abrirlos.
+Los enlaces de rúbrica y solución abren el PDF correspondiente en su página.
+
+El tema usa **Sistema** por defecto y responde en vivo a `prefers-color-scheme`. **Claro** y **Oscuro**
+permiten fijarlo manualmente; volver a Sistema elimina la preferencia guardada.
 
 La extracción necesita `OPENAI_API_KEY` en el entorno o en `.env` (ignorado por git).
 

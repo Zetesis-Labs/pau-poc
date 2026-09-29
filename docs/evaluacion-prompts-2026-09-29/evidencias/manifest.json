@@ -1,0 +1,117 @@
+{
+  "p6-fda5ea13b6c5": {
+    "salida": "pipeline/salida/gpt-6-luna__p6/fda5ea13b6c5.json",
+    "copia": "docs/evaluacion-prompts-2026-09-29/evidencias/p6-fda5ea13b6c5.json",
+    "sha256": "6fa69ec02eec5ea4a4af3f2e84470e197aa5ac59571ac973656a81e09586587f",
+    "bytes": 31375,
+    "estado": "completed",
+    "modelo": "gpt-6-luna",
+    "prompt": "p6",
+    "esquema": "v3",
+    "uso": {
+      "input_tokens": 19432,
+      "input_tokens_details": {
+        "cache_write_tokens": 19429,
+        "cached_tokens": 0
+      },
+      "output_tokens": 12053,
+      "output_tokens_details": {
+        "reasoning_tokens": 3442
+      },
+      "total_tokens": 31485
+    },
+    "prompt_sha256": "aa8d0b2304c3ca48412346f968bce2a4fd8d3660ecadafbbc96b9a40911a5e6f"
+  },
+  "p6-0b7e227a5499": {
+    "salida": "pipeline/salida/gpt-6-luna__p6/0b7e227a5499.json",
+    "copia": "docs/evaluacion-prompts-2026-09-29/evidencias/p6-0b7e227a5499.json",
+    "sha256": "7ac502544a4ecb6f0046277d1c7d68abb2b7c2224e473ed7cbb62a495d3039ba",
+    "bytes": 22639,
+    "estado": "completed",
+    "modelo": "gpt-6-luna",
+    "prompt": "p6",
+    "esquema": "v3",
+    "uso": {
+      "input_tokens": 16195,
+      "input_tokens_details": {
+        "cache_write_tokens": 16192,
+        "cached_tokens": 0
+      },
+      "output_tokens": 13931,
+      "output_tokens_details": {
+        "reasoning_tokens": 5057
+      },
+      "total_tokens": 30126
+    },
+    "prompt_sha256": "aa8d0b2304c3ca48412346f968bce2a4fd8d3660ecadafbbc96b9a40911a5e6f"
+  },
+  "r3-070c3795d83c": {
+    "salida": "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r3/070c3795d83c.json",
+    "copia": "docs/evaluacion-prompts-2026-09-29/evidencias/r3-070c3795d83c.json",
+    "sha256": "4377d0bee1d770d7acd39c771bd59ebdc1894b7d1594b76d6925fc5a559968a7",
+    "bytes": 12390,
+    "estado": "completed",
+    "modelo": "gpt-6-luna",
+    "prompt": "r3",
+    "esquema": "r1",
+    "uso": {
+      "input_tokens": 16202,
+      "input_tokens_details": {
+        "cache_write_tokens": 16199,
+        "cached_tokens": 0
+      },
+      "output_tokens": 8474,
+      "output_tokens_details": {
+        "reasoning_tokens": 5696
+      },
+      "total_tokens": 24676
+    },
+    "prompt_sha256": "5992c80711a130d4e6de516500b1a63d7bc1621195ccefd760b5ae754ad51444"
+  },
+  "s2-academia-25fcf7208b8f": {
+    "salida": "pipeline/salida/gpt-6-luna__p5/soluciones/gpt-6-luna__s2/academia/25fcf7208b8f.json",
+    "copia": "docs/evaluacion-prompts-2026-09-29/evidencias/s2-academia-25fcf7208b8f.json",
+    "sha256": "e91bc07a19efa3b3e4f63457cd0190a3f3127a914000cfee3f7b56bad8c65d13",
+    "bytes": 14284,
+    "estado": "completed",
+    "modelo": "gpt-6-luna",
+    "prompt": "s2",
+    "esquema": "s1",
+    "uso": {
+      "input_tokens": 26463,
+      "input_tokens_details": {
+        "cache_write_tokens": 24634,
+        "cached_tokens": 1826
+      },
+      "output_tokens": 14074,
+      "output_tokens_details": {
+        "reasoning_tokens": 8929
+      },
+      "total_tokens": 40537
+    },
+    "prompt_sha256": "d86ac9b5ae0bf19bf63e1a2df87ca6dc2f72ea620252c30881dbc299f9089515"
+  },
+  "s2-oficial-1bc800a06e3b": {
+    "salida": "pipeline/salida/gpt-6-luna__p5/soluciones/gpt-6-luna__s2/oficial/1bc800a06e3b.json",
+    "copia": "docs/evaluacion-prompts-2026-09-29/evidencias/s2-oficial-1bc800a06e3b.json",
+    "sha256": "edefa48609c3b133899d044f8f0016de811238f50cd6542274acca91c7b2f372",
+    "bytes": 11158,
+    "estado": "completed",
+    "modelo": "gpt-6-luna",
+    "prompt": "s2",
+    "esquema": "s1",
+    "uso": {
+      "input_tokens": 5669,
+      "input_tokens_details": {
+        "cache_write_tokens": 5666,
+        "cached_tokens": 0
+      },
+      "output_tokens": 7142,
+      "output_tokens_details": {
+        "reasoning_tokens": 3106
+      },
+      "total_tokens": 12811
+    },
+    "prompt_sha256": "d86ac9b5ae0bf19bf63e1a2df87ca6dc2f72ea620252c30881dbc299f9089515"
+  }
+}

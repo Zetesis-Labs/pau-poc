@@ -1,0 +1,3681 @@
+{
+  "antes": "959be99e530f85cf7f9fd35532fe392ec725ce16d5cb75eee07e307fcbad42fb",
+  "despues": "2858d10e748e2e516f444754d04322181d7f99349cd4f86a4ff9d45becc8334d",
+  "entradas": {
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/03364198c8fb.json": "3055cc201544fcf1f2e7ee8c8cb6393429d98ec718d334cdedbccaa673e7c200",
+    "pipeline/salida/gpt-6-luna__p5/03364198c8fb.json": "f6ea0b8f6130b0340db494db8f919bf7e0a617879e9bd6daaac367ec99317726",
+    "data/pdfs/madrid/frances/2025-ordinaria-examen-uc3m-03364198c8fb.pdf": "e512d9ff81b009eb30c96d023dea6d2b8316d66b09e4a630935c26953e580565",
+    "datos/pdfs/03364198c8fb.pdf": "e512d9ff81b009eb30c96d023dea6d2b8316d66b09e4a630935c26953e580565",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/070c3795d83c.json": "f2e50bb4cd4a0137c2ed5ecd030c4dc32fe22dd69d1661adbba90e26d9abb6df",
+    "pipeline/salida/gpt-6-luna__p5/070c3795d83c.json": "23dfcadc4a7c5ad3d5499d72e3835e2fa3d16977e92f1d5df4fa15852bc1acdb",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/0a50595f8036.json": "36b096b71ba71fcaa5144750c769b787dfe0332d54419392ca69bc560ac2b800",
+    "pipeline/salida/gpt-6-luna__p5/0a50595f8036.json": "4e1fb4b3da6198f80a27d8d0bb06762ae1f3f67cee03af60477cfc552f7f59e8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/0bed555f767c.json": "a365d9af2945ef2cd79d1e8e87f101672d40f5b1a2ed19c9a685dda379e2ff3f",
+    "pipeline/salida/gpt-6-luna__p5/0bed555f767c.json": "fe6f4a04d060f323edd548b226c106aed92b3a33d6a299a12fa54adc28149383",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/16eb4becf2b2.json": "1cec49a89b3c0f342bce2f488997bfb964c28f435fc5299c5892856dcd2245e1",
+    "pipeline/salida/gpt-6-luna__p5/16eb4becf2b2.json": "da70ef1733018fe16fa60e1b59d5164330d121499d31f547e353ca4980325a93",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2014-extraordinaria-criterios-llibreta-56d8eca4f480.pdf": "5e8305ea90bf039ceeab5a3a66f2f0c5c6769dcb099884c7b829e564833c3abb",
+    "datos/pdfs/56d8eca4f480.pdf": "5e8305ea90bf039ceeab5a3a66f2f0c5c6769dcb099884c7b829e564833c3abb",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/172579fa76d4.json": "c3f38a921940f6631a577c711af33a136d11251f12beb40bf5a314df389d2d6c",
+    "pipeline/salida/gpt-6-luna__p5/172579fa76d4.json": "63d9168e18d3f8176584d8be3e10a43818be470295618e9dad8b00caf4d641d9",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/17445f0ab770.json": "61331a134c1868aa46c887a38ea79dbd8bdfe82fab8a25d2b8d1b0b326b128cb",
+    "pipeline/salida/gpt-6-luna__p5/17445f0ab770.json": "c366e731b0f3a28957280d0523d5a8dd41c1da2367298c33da3cdd46d9b218bb",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/1f06fc98f001.json": "910f79f0222be72021609db012bb2573373444ae47d9b2e02cbe4183da27d79d",
+    "pipeline/salida/gpt-6-luna__p5/1f06fc98f001.json": "233bfd5f3106013562c1482b1f54f2d5e043a0ecf2894cc7f73d7e9fb462fe1e",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/2787fc4d640f.json": "2be4d47e4e1c4596068800c35dad344dbec3c70c5541b65f1cd7964baad42b33",
+    "pipeline/salida/gpt-6-luna__p5/2787fc4d640f.json": "d4558b901b70748dea28c602a7b20598494b062494db0d92040bb5dbcc76475d",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/2e1486f4d824.json": "5e650fafb8cce28bb1d1e66923b917089fd167831b1376b795ea17a885b6baa6",
+    "pipeline/salida/gpt-6-luna__p5/2e1486f4d824.json": "f989fc5f19d2dd4b39641059911b2669fea0ab434ff2dc10007704d6b0aeebf6",
+    "data/pdfs/comunidad-valenciana/ingles/2022-ordinaria-criterios-llibreta-02a263ae6aa6.pdf": "2fb3d5b4a4ae9b77b752436b3de0113926b291f874c7c39cfa5c62113ce79fb8",
+    "datos/pdfs/02a263ae6aa6.pdf": "2fb3d5b4a4ae9b77b752436b3de0113926b291f874c7c39cfa5c62113ce79fb8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/3068d1110070.json": "713ae1ce74b7b42c6c647a8f30f1ae7617db610018794621355c3c5db44571bb",
+    "pipeline/salida/gpt-6-luna__p5/3068d1110070.json": "c9e1fe0edf70aa2d1f61d8a78572985154cd93f206e7f7394520d7a7721dfb9d",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/32e15229d4e3.json": "c1bb8260e6a2d33dcc11c1581840a12d92cf57bfa11c9815e2cc9b548caa63f7",
+    "pipeline/salida/gpt-6-luna__p5/32e15229d4e3.json": "225a3902691a03be7b600bf8c5f0fa4b09dffaf7d3eef9db5bef79543bab9c28",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2015-ordinaria-criterios-llibreta-cbf2b68f28e4.pdf": "a6704815ab36eae9e68f4761b4c982e6d416422f38cb6dc7189268e57dcafc54",
+    "datos/pdfs/cbf2b68f28e4.pdf": "a6704815ab36eae9e68f4761b4c982e6d416422f38cb6dc7189268e57dcafc54",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/3469f9a1dc3e.json": "640932059e718fd10715f6cbd7e5f14879eaef9edf6d5fb45839c1e39bfd338d",
+    "pipeline/salida/gpt-6-luna__p5/3469f9a1dc3e.json": "e34629ace96bfe9be0b63de05a945aa7eed75f28cf7b5f5063f0d928e4c91ab1",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2016-extraordinaria-criterios-llibreta-4988a8bfdafc.pdf": "15f77bcf1de6227aa75eee7843d3c58fcdc47bf40d7436ac7583a58be925aea8",
+    "datos/pdfs/4988a8bfdafc.pdf": "15f77bcf1de6227aa75eee7843d3c58fcdc47bf40d7436ac7583a58be925aea8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/3c134e1125e6.json": "8e8163f719899acf7d43626ee98e129f73a26499fda26c2922fffa9fc8612cc1",
+    "pipeline/salida/gpt-6-luna__p5/3c134e1125e6.json": "960ab61ac7c9e5353282132ebd50bb5d607caa21ddfbb53214235ffae27e801d",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/41fdc1fe038d.json": "317e3250cab93323beba4413d2182e40d806d400a5732c320083acfda3299394",
+    "pipeline/salida/gpt-6-luna__p5/41fdc1fe038d.json": "5e7b6af9f297b0a3422fb465047a636c541825f67c0f3c11d0420c2f130c6e55",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2013-extraordinaria-criterios-llibreta-fa8d9f01f2bb.pdf": "9d61202ec2bbcf332c83077e731a0a43d918f47ed0ae9a369962582d6fb69cf4",
+    "datos/pdfs/fa8d9f01f2bb.pdf": "9d61202ec2bbcf332c83077e731a0a43d918f47ed0ae9a369962582d6fb69cf4",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/42576f6f84fc.json": "0889bb296496c9f66189a62853f4357c27af82689231548ceb573b1506feafd9",
+    "pipeline/salida/gpt-6-luna__p5/42576f6f84fc.json": "212911971ff10fec81d43aa4964444f32cc9c2a0a3f5246c50ad43c689a70c50",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/488817140d92.json": "4a4fe1497ec0a183fb4712a078fe05fc9ef47603554f223fea73d95d1413e89d",
+    "pipeline/salida/gpt-6-luna__p5/488817140d92.json": "dc5757cf35fbc68e8ce4a0cae6fb6c0f278a8afffa44b485070467cc23c07be8",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2012-ordinaria-criterios-llibreta-bfb9aecda4b2.pdf": "1b5d7b022fe2261ca3ff4b56e027460d3dbdce2940da16afa4673acd938f530f",
+    "datos/pdfs/bfb9aecda4b2.pdf": "1b5d7b022fe2261ca3ff4b56e027460d3dbdce2940da16afa4673acd938f530f",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/49e9ef3c3296.json": "b5957164b63f1eace21e1babeef23012f6cec041052a8fa8d3f16b1bb0b975ad",
+    "pipeline/salida/gpt-6-luna__p5/49e9ef3c3296.json": "1d07176588d24a3616e1304a292bd77c63df9a9137e086da53e283250641183e",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/4a7c96ae2912.json": "d4cd948780d619c8e9fae784a5d1ff69350b69e577958e5f198fe67fa9bb7195",
+    "pipeline/salida/gpt-6-luna__p5/4a7c96ae2912.json": "f003de21d7c908210ef423ebf136e2a0941933127f1b084263b00b0698e03842",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/4afa0f0f8a54.json": "9132dd220465f299822a4c02e3fc8de6588b87c19bb163c997637b8e35f30f58",
+    "pipeline/salida/gpt-6-luna__p5/4afa0f0f8a54.json": "5467fc3a29dc89c6ef6cc2b45f7cb21e811c784d1c77351c6a472e3314f876a9",
+    "data/pdfs/madrid/coro-y-tecnica-vocal-ii/2025-ordinaria-examen-uc3m-4afa0f0f8a54.pdf": "bacbcac87cb726243944747f0a9eda6c85f3d1fa0eab0fc221b7118b9482aadf",
+    "datos/pdfs/4afa0f0f8a54.pdf": "bacbcac87cb726243944747f0a9eda6c85f3d1fa0eab0fc221b7118b9482aadf",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/4e4bbca013d1.json": "eb432521637f68201f995c2a9cd84496bd0217a4deb181df56d2a2b2df5f7b5b",
+    "pipeline/salida/gpt-6-luna__p5/4e4bbca013d1.json": "4361aa7bc8a2a02f0ed352da57d7f0e164572a4b05ff34cb216124a8c2f1b89e",
+    "data/pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-ordinaria-criterios-llibreta-1c8617a16bb4.pdf": "8014e30f00df8667b74e8659ff295b632699fe802267f94bb84ae60a10647e05",
+    "datos/pdfs/1c8617a16bb4.pdf": "8014e30f00df8667b74e8659ff295b632699fe802267f94bb84ae60a10647e05",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/4e703d87e493.json": "416a644827db6fff3c0a2c36bb61d0338fbc4a83d455672bdbdc021d0fbb0b4d",
+    "pipeline/salida/gpt-6-luna__p5/4e703d87e493.json": "6def96e6e41ed06172dc7d0d438fcc87156f103d2d5e798a9a069c002fa9cfea",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2017-extraordinaria-criterios-llibreta-897d080bd341.pdf": "5cdfc5287ea25931078a623f6579916103a9d84b58990db71bc8092619b54ff8",
+    "datos/pdfs/897d080bd341.pdf": "5cdfc5287ea25931078a623f6579916103a9d84b58990db71bc8092619b54ff8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/5091bd5d23ad.json": "a803aaab918d9a7755ece9c4e7110e805626dbb6b1510196cd0a14dd370ba22c",
+    "pipeline/salida/gpt-6-luna__p5/5091bd5d23ad.json": "efbd505f297b2f1a8814d50ec8fdfbd2c74cc3acb34fe5756eae69a89ac37f5a",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/53bf68f29024.json": "645ff47250549c5a2a621f59ff7db4a382e42878a8f168741fff75770f4e936b",
+    "pipeline/salida/gpt-6-luna__p5/53bf68f29024.json": "63db207dc72d3e19df2ad25c9ae4bef457bd7bfe622216b972815cda5c136eda",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/5bf79e24ec75.json": "c15f20f89dd895dfd604b0f7e6884317c17c631a0def592406f9bf679de72ebc",
+    "pipeline/salida/gpt-6-luna__p5/5bf79e24ec75.json": "2eadebb61d21ed18f6e023cfac87632296d188c23563d78e01564c14744f47f9",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/6446ce8ed0cf.json": "f7f5051dbaacb8d05de749a46d79fb0666c77447ac7aa90e018ea6b033cbd926",
+    "pipeline/salida/gpt-6-luna__p5/6446ce8ed0cf.json": "ac12e19b824c19b4b86b65523f7c1871197ba38186302f161170afc09485fc61",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/6649ce9eecb2.json": "89b59c7fcdb00d9fc7a7d8dd3c845d05bea2cefeb3738cd18c63ef9d854b229b",
+    "pipeline/salida/gpt-6-luna__p5/6649ce9eecb2.json": "15f11ba0225996debdcbbbd46a7179d83aee1dbb1ab33beee8aeae092ee69005",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/67eea232db63.json": "fce42453f80be1065690317762811f5e5bbef7eee18ab1bfb57460414a0c8b0a",
+    "pipeline/salida/gpt-6-luna__p5/67eea232db63.json": "abd4e2fc9ec423006e9d7df829ee95a7332fd2edccfd31c3a6f10874db27fd4a",
+    "data/pdfs/pais-vasco/dibujo-tecnico-ii/2024-extraordinaria-examen-ehu-67eea232db63.pdf": "daa271f471687999cdaf7978767b4771907fed1ea84a2efdfcb84a66d7fd0fda",
+    "datos/pdfs/67eea232db63.pdf": "daa271f471687999cdaf7978767b4771907fed1ea84a2efdfcb84a66d7fd0fda",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/68febd0b4352.json": "319c9db0185e0785c033b54d585b8556b3b5583401a6471568a44b1187dd14a5",
+    "pipeline/salida/gpt-6-luna__p5/68febd0b4352.json": "dd118b81ce368e303b5ba9205181d3756db2efd78c17f66517a7e54004f609ae",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/6a2a804ce68f.json": "0cd396b48f33cbe1cce71957186bbf787d384fcb1566be2da4f0ea7c21a8d03b",
+    "pipeline/salida/gpt-6-luna__p5/6a2a804ce68f.json": "ecf227957057b35df4b5e05b41fa3d0d85432337ed6c35396077c738e31ca716",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/7336bed75af4.json": "9f25aaf4376741bac59a4f880b049b88722185ea8e124ef718d80ab3e27349f0",
+    "pipeline/salida/gpt-6-luna__p5/7336bed75af4.json": "ed9b31cfef2ad59a14d37d00fd7d5859d69cffca4cd3154ccf66837bf9752a49",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2018-extraordinaria-criterios-llibreta-626c9a4b4e3c.pdf": "55a3157075e3398e2a5b66b518f39a3f1c999b1005e1ec7c778292f536362cb3",
+    "datos/pdfs/626c9a4b4e3c.pdf": "55a3157075e3398e2a5b66b518f39a3f1c999b1005e1ec7c778292f536362cb3",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/73d799a38839.json": "e1d08955637c9836fccd22e98b8ae6406300d8817e08c375c913cb990f1081ea",
+    "pipeline/salida/gpt-6-luna__p5/73d799a38839.json": "64313cf0bb37e89730958652e7e36c0bf476aa4a02268747896819aac57b7111",
+    "data/pdfs/pais-vasco/lengua-vasca-y-literatura-ii/2025-ordinaria-solucion-ehu-3f8e49538d86.pdf": "5bdc806700678fbe4f802ac489c71919d1fc9075db2b41b85d66590ba7ed4d38",
+    "datos/pdfs/3f8e49538d86.pdf": "5bdc806700678fbe4f802ac489c71919d1fc9075db2b41b85d66590ba7ed4d38",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/785105ac7ec2.json": "9e2ebe772e3b18539548aafe8f848f5cb232f9327b83e7d0134859dbf43250bd",
+    "pipeline/salida/gpt-6-luna__p5/785105ac7ec2.json": "8b962ceea1b950490f61144e71a677e99bbd99984422a08bf029777b03525781",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/7a8748608425.json": "b2e615dfb6df1c9cca85e2a886c114c1c1e6e2178a8818609a7c71b0a2e4ff6e",
+    "pipeline/salida/gpt-6-luna__p5/7a8748608425.json": "2ced851cf4f02eb14abf9db11fe06eea5810b0b2f0e3a300e3232da02eef8b4a",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2019-ordinaria-criterios-llibreta-db1138ec6522.pdf": "c2734d4383a8d60ad43d1329170f13fd6593a206f761e638d115965107b33757",
+    "datos/pdfs/db1138ec6522.pdf": "c2734d4383a8d60ad43d1329170f13fd6593a206f761e638d115965107b33757",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/7e1bad7a80fd.json": "b25ffb4233641cde1982db50b1ab71a9d7d72afa2f41bd1604f2aab854366be6",
+    "pipeline/salida/gpt-6-luna__p5/7e1bad7a80fd.json": "2d46e0b72cc13e5e1b2f0e7fa58180072abb5fa8f8d09a1979cfee93499ed4c0",
+    "data/pdfs/pais-vasco/ciencias-generales/2025-ordinaria-solucion-ehu-87ed6f23bee3.pdf": "506f43e4e582d40c4c16fd498000db48768675df499414516975759250c1f1cd",
+    "datos/pdfs/87ed6f23bee3.pdf": "506f43e4e582d40c4c16fd498000db48768675df499414516975759250c1f1cd",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/8298a6121d59.json": "c65864431c48cb9ddbe96fb6032f4fa033e755b99d7b3352cef03fcb7b965f7c",
+    "pipeline/salida/gpt-6-luna__p5/8298a6121d59.json": "e38d12ffff7f217e5f51ef469608367415f30f2ebc23b77f9563ac776a3043d5",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/85dac4a830fa.json": "f82fe08731650d89d794954cde7f6de6fbf4c86691b90433606fdcdc6c7921a6",
+    "pipeline/salida/gpt-6-luna__p5/85dac4a830fa.json": "288256548ab8e44c99ae30c4fcb041f4d1bb82976fa2442c230ea9d4630e9308",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/873535963f9d.json": "dbd763f894dc4107d9f89ef437a12c7d59f5808869b8276ecb56091265be1a46",
+    "pipeline/salida/gpt-6-luna__p5/873535963f9d.json": "e4e9845133ccf22441591a9ac4f6a5fa603e7e15ed059a42de435b807b14baea",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2017-ordinaria-criterios-llibreta-4d17545945cd.pdf": "a4fc37223809f8008fc447983076a3a56f412f3b1a792cc70b7ed21f0841146b",
+    "datos/pdfs/4d17545945cd.pdf": "a4fc37223809f8008fc447983076a3a56f412f3b1a792cc70b7ed21f0841146b",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/8daec23be074.json": "ed4e0722d0c7081aec0fa99fb89a463d079bcde2d181855380d8fe6a45e416eb",
+    "pipeline/salida/gpt-6-luna__p5/8daec23be074.json": "4a6d25e1d256fc77574df39c0a5f0efd4c5ae1c4d61447738c0e75d2500427ed",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/8f1700eef6e5.json": "23463704fdd0eec05d19e3ca6b3559e48fc52a50587117a8ab0a87ce993e2a2e",
+    "pipeline/salida/gpt-6-luna__p5/8f1700eef6e5.json": "07bfb577c5ef63826f082fb5de7e153e20c3d6fbc7d934bedc9f00d3d35f82b0",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2016-ordinaria-criterios-llibreta-4937469543e4.pdf": "cf975df05bf5cceba6e1ace447829428f6f895d916d64c8fe4a2cc21474578c9",
+    "datos/pdfs/4937469543e4.pdf": "cf975df05bf5cceba6e1ace447829428f6f895d916d64c8fe4a2cc21474578c9",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/907fb92539f2.json": "1333eee88a1c38f1749850cc3fd222f5db1fa6d5dd3386e85b5500ac93ef29b7",
+    "pipeline/salida/gpt-6-luna__p5/907fb92539f2.json": "af969fc0c56a39833d651e8049caa0989c5171ff4067b227cda10a5a3ecdb017",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/929807ad22eb.json": "f6c53224dc09a4f3a7e27f5169bbe58446ae372e1d59098fecad7e904cb72539",
+    "pipeline/salida/gpt-6-luna__p5/929807ad22eb.json": "f62d6447432daf4d7c45f1d3aa0e37bad8421dd896ec073916c7f437d14bff3f",
+    "data/pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2022-ordinaria-criterios-llibreta-b073b8e5856e.pdf": "129c23a81b487c1ecace0d40a5d73ddeeafc096c7c3cec6e02f8d4adebb58be1",
+    "datos/pdfs/b073b8e5856e.pdf": "129c23a81b487c1ecace0d40a5d73ddeeafc096c7c3cec6e02f8d4adebb58be1",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/933b666312f9.json": "0d92c97df4174279bbcc8a1f4189e17dbd4d8a8a0e45af32126bc064b4fb413d",
+    "pipeline/salida/gpt-6-luna__p5/933b666312f9.json": "314ad30bf78e85bf57ecfea8d46255d082d70215b03b069a44e87850d18721da",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/942b1778f510.json": "aff81b8bc1ba120a53490b7f7e66f0d625e4d09e39ec8c70d277dd9191385650",
+    "pipeline/salida/gpt-6-luna__p5/942b1778f510.json": "1c9a829608111a27f4f5e6c68c6e200ebb7e431d5a384ad42a443047a6fb2d06",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/98f921b58193.json": "14d3121d0721eac33c6d1ea008101149ab8908a5496881c5973e9638f6e3a4e2",
+    "pipeline/salida/gpt-6-luna__p5/98f921b58193.json": "81e6adc7539de43087a159ff8ea0acf73332ac33eee865b874e670ae9c7c77e8",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2011-ordinaria-criterios-llibreta-03700fae00e8.pdf": "e4fd29e1230fde4eb797ab75805bc800786e7aa0bbf861c9f13cfaaa61d1a599",
+    "datos/pdfs/03700fae00e8.pdf": "e4fd29e1230fde4eb797ab75805bc800786e7aa0bbf861c9f13cfaaa61d1a599",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/9c4cbc92103b.json": "5c09fd9f98a962938fc6610932aa43c11d4d197c0a3d15fd690aaafad5c74f1a",
+    "pipeline/salida/gpt-6-luna__p5/9c4cbc92103b.json": "34326ee35f29ded39e10e0f6024bb4d7b7fb3defe676a9a4b50eaeede9b2eb4c",
+    "data/pdfs/madrid/frances/2025-extraordinaria-examen-coincidencias-uc3m-9c4cbc92103b.pdf": "c14ac59c748bfc4610e29019a165413b1de8b8328c662f6c5d1d7328a3d74696",
+    "datos/pdfs/9c4cbc92103b.pdf": "c14ac59c748bfc4610e29019a165413b1de8b8328c662f6c5d1d7328a3d74696",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/9c694c304495.json": "112cd7d4ecc5b2532a8dbb4d477bd4c0ba48f6ce2bd68c64527c19401f65a227",
+    "pipeline/salida/gpt-6-luna__p5/9c694c304495.json": "a6324313c8b92179d096d67dc89f7c249dd8002b6ff39647d6c8d2251525b874",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/9e8570ee562e.json": "48ffe3522cb8c2434d0bd72f8356840d8338605431f7690230c4daaed1109447",
+    "pipeline/salida/gpt-6-luna__p5/9e8570ee562e.json": "c8d9a743ca30aece013445f40edea41f682aa8444410a5f181e10dbb620c3d3a",
+    "data/pdfs/pais-vasco/matematicas-ii/2021-ordinaria-examen-ehu-9e8570ee562e.pdf": "dc3ba3b84dffcc917d6407c9db7019a0d1f1c188ee824e7e56f4e338f8069b5d",
+    "datos/pdfs/9e8570ee562e.pdf": "dc3ba3b84dffcc917d6407c9db7019a0d1f1c188ee824e7e56f4e338f8069b5d",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a05dd314b1f2.json": "b2006cd89793dbdd554ca415090a1e48c81eb81d7f2aefc2c0e002840df695c9",
+    "pipeline/salida/gpt-6-luna__p5/a05dd314b1f2.json": "ef30a7bb10c0521a58752acb635c8615c59de85c7692fced4c8a9b3fea7fc85a",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a0e4c2414f7c.json": "a5e43ec341100e51b2dd995d0aaeaf67b9356cd22019cba1957749865cc5eb57",
+    "pipeline/salida/gpt-6-luna__p5/a0e4c2414f7c.json": "0254c1e4d265eca1e03e04ade91b9db0156050c850a93fe4a98ede54b2d99d70",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a2af56a74785.json": "cb802c537bd3df0bfaf298dc171897258f130d5a84dabdc36d70dea6d342a1c1",
+    "pipeline/salida/gpt-6-luna__p5/a2af56a74785.json": "8e771820ae4a1c639f916878c54b94716190ad9dc63b03938d090f43e2fc9547",
+    "data/pdfs/pais-vasco/geologia-y-ciencias-ambientales/2026-extraordinaria-solucion-ehu-5efbf34ebedd.pdf": "a186a2e32ffb18d93b5f68e5a335153d1fc0c0693a9eded603e9b77827849409",
+    "datos/pdfs/5efbf34ebedd.pdf": "a186a2e32ffb18d93b5f68e5a335153d1fc0c0693a9eded603e9b77827849409",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a48e0ad45b08.json": "386a5b6d40b63a4def290e535e0065d218a475c8b5b02b5348c2f4c7765e4886",
+    "pipeline/salida/gpt-6-luna__p5/a48e0ad45b08.json": "95848c9cd27e0fea9f8c257f0850e5ffd3f674f764b260b8b78faf37179c1440",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a64fafe8c661.json": "a009dfd2eabb9ccd27ff3144799f4bfcd33e945df4a2209ca5ab24338c28bfa8",
+    "pipeline/salida/gpt-6-luna__p5/a64fafe8c661.json": "57bf1a6b16908b14e2fcd6602f1daac26cf971fdf07194bd0800d035396e705c",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2014-ordinaria-criterios-llibreta-5e0d20f9ae2d.pdf": "3f2d0a580d22bbe861f16a8ea09dd40fb857c0f5428a126357a8cf9052a2e747",
+    "datos/pdfs/5e0d20f9ae2d.pdf": "3f2d0a580d22bbe861f16a8ea09dd40fb857c0f5428a126357a8cf9052a2e747",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/a657e3b0b744.json": "39407a3fb4df1b2a934ef2a9e2fbeac406833b86d494181b8b22c8fec062224c",
+    "pipeline/salida/gpt-6-luna__p5/a657e3b0b744.json": "b283d989971aa2bba10586788c1ad93b7cce93cf7b1019faa8803ba7b41c0b27",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/ab690a84e30c.json": "b55a2d71c6412c022970fb021e0d394f504d5e6b0221a0ca93950d49cbeeb423",
+    "pipeline/salida/gpt-6-luna__p5/ab690a84e30c.json": "ea8b5cbad8c4c46426055e649cd31578a14c5da0a6dd37dfe8d5d9a4a4f8c2a1",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/acbda9a58213.json": "dd7e750ba1a8af14c7d27b9956dbcce69e29035f13974cf1c3d7fae046621b6b",
+    "pipeline/salida/gpt-6-luna__p5/acbda9a58213.json": "0b1090743eef044a7f975506d4e18d5f7684f576d371c0b55c336b883a70468f",
+    "data/pdfs/comunidad-valenciana/matematicas-aplicadas-a-las-ccss-ii/2022-ordinaria-criterios-llibreta-62af687fbe22.pdf": "f2a5967846da8a2e1479f1cc872a728ff579b03dae03a68de070410ed32021d6",
+    "datos/pdfs/62af687fbe22.pdf": "f2a5967846da8a2e1479f1cc872a728ff579b03dae03a68de070410ed32021d6",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/b3ab481497c0.json": "69f1f017e93c709241380452aee5a2998a2993698deebb7313e14f5755486ae9",
+    "pipeline/salida/gpt-6-luna__p5/b3ab481497c0.json": "80349a5d8049b4cab46fa8e75c02e4259aa93e004ae791782f01d54bbfce8e3f",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2012-extraordinaria-criterios-llibreta-64d48c69f111.pdf": "2400bf99b8586e23f02458ed625cc33ca7335dff3e31cce5cc749794b50700b8",
+    "datos/pdfs/64d48c69f111.pdf": "2400bf99b8586e23f02458ed625cc33ca7335dff3e31cce5cc749794b50700b8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/b5ab08876761.json": "6d09f7abc4a11686afbad61979cb4d97c82f6e8f458b8a0999b327cf85798d11",
+    "pipeline/salida/gpt-6-luna__p5/b5ab08876761.json": "c34a3dac6df7a180925f0787b66a57e50cc0f188d9d2ab637a6d58fe00d9319b",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2019-extraordinaria-criterios-llibreta-ca573ed5c4a1.pdf": "65b9eae9a4434fe7dca167f7a2bf42d5fc00abff58ae33f2b0a03b15a32485b4",
+    "datos/pdfs/ca573ed5c4a1.pdf": "65b9eae9a4434fe7dca167f7a2bf42d5fc00abff58ae33f2b0a03b15a32485b4",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/b8bc434a54f5.json": "7365ce7144e98202be1afb32b9ba1388fab7f9edd7728ad3dd58dc144f4c6351",
+    "pipeline/salida/gpt-6-luna__p5/b8bc434a54f5.json": "32be0b06899c3e8edd837232c17dee24fe2a4557ae920027015b15998079f466",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2011-extraordinaria-criterios-llibreta-92af7f25d59b.pdf": "3e1164fefa5bcd445d016e89165f653ea8f4514a66520532e5a0f5e0d0ccb40a",
+    "datos/pdfs/92af7f25d59b.pdf": "3e1164fefa5bcd445d016e89165f653ea8f4514a66520532e5a0f5e0d0ccb40a",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/b996e7795739.json": "8f5e32a6552f80171fa6b4171962e0e41402a6258abd90a00919e18d863b0d3d",
+    "pipeline/salida/gpt-6-luna__p5/b996e7795739.json": "056533f9e1fa2211374824d8be82e821b41815eb63f0f29bed137df6409db1e5",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/be1849698853.json": "e7363647d60ecf38fbfea9840d9121f3205f95040afb2b039116f57cf498a7ec",
+    "pipeline/salida/gpt-6-luna__p5/be1849698853.json": "657b226acce8561d8455766620741210a37dd20364df5aa3a9ddc321c6b296d8",
+    "data/pdfs/madrid/diseno/2023-ordinaria-examen-uc3m-be1849698853.pdf": "a696344c8ba9f02210a50992c3f43feb83698a471830a79b184a1ca5811bd2cf",
+    "datos/pdfs/be1849698853.pdf": "a696344c8ba9f02210a50992c3f43feb83698a471830a79b184a1ca5811bd2cf",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/c159097f9120.json": "7fb0d28dcceb4a14d534d5cee5328a49c931b64b29fc32117458fe1fba68074b",
+    "pipeline/salida/gpt-6-luna__p5/c159097f9120.json": "f8e45c8789630bf46fe3493f0040cf972520ce639eb2257d5c8369674f7892c1",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/c18e08692807.json": "828d0ac206c247d5d10ae24597fe2b0dab5153960ca0eb4725e5853ec3fa2397",
+    "pipeline/salida/gpt-6-luna__p5/c18e08692807.json": "3163a4259fd55ff3fa52da4e4fbd76278f499261ea2a629fae034875cc90415b",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/c1e0cd9998cb.json": "6b4adc6b6b6b2e54b2d769e0cb8372689be7d2cb0630f7e170259412183382c7",
+    "pipeline/salida/gpt-6-luna__p5/c1e0cd9998cb.json": "1e4e08f1b4cee9bd2fbabefd64ebfdfe85d932228cd67448e0600129862f6028",
+    "data/pdfs/madrid/italiano/2021-extraordinaria-examen-coincidencias-uc3m-c1e0cd9998cb.pdf": "917e21eab34bc440b344062e2d447b48844a97ba7422817fefb50afe03fd4d11",
+    "datos/pdfs/c1e0cd9998cb.pdf": "917e21eab34bc440b344062e2d447b48844a97ba7422817fefb50afe03fd4d11",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/cd011dfc3111.json": "7738bdb2411255f05b1040fede2478059fdde78b800d1ed8f18c84df69db863e",
+    "pipeline/salida/gpt-6-luna__p5/cd011dfc3111.json": "b2a6f0a7e157fce6a110f91829fa299f6c38862dcf8c87762a99a92f7932869b",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2018-ordinaria-criterios-llibreta-1f26a8daac4b.pdf": "cd5c50bd9bf1317630054a46a80ecb16aa4b5f5771d5257a3ddd4c1e56c6aeb5",
+    "datos/pdfs/1f26a8daac4b.pdf": "cd5c50bd9bf1317630054a46a80ecb16aa4b5f5771d5257a3ddd4c1e56c6aeb5",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/cdd0f4f759e1.json": "c85b9b7c4b9612fc7618ac5137fdf046cf581c85cccadf92a681fb80562034bf",
+    "pipeline/salida/gpt-6-luna__p5/cdd0f4f759e1.json": "980b74a7b371686e57b8f3c63ce63dd58d92bc82664d5b1070c8e73e30907f9c",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2026-extraordinaria-criterios-llibreta-a94284193403.pdf": "25b0f865d30d03aedad8f955b5b70c254cafd3b297092a19edebd4ca5164d7d1",
+    "datos/pdfs/a94284193403.pdf": "25b0f865d30d03aedad8f955b5b70c254cafd3b297092a19edebd4ca5164d7d1",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/ce17d1837c64.json": "947490a95cccbe94fd33fdd4d9bf84d85a47e421aa0eba68a2cf22b407d1df70",
+    "pipeline/salida/gpt-6-luna__p5/ce17d1837c64.json": "7a8cfb7150002f41ce58d01d59a0061edc616f0a0cf37483a1d3c719fdbcb0f4",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/cf8f175f86e7.json": "3f3b47632ccb26b96bd3bdb3485de0cfc08307a8999f16188ce758d18ab37a3f",
+    "pipeline/salida/gpt-6-luna__p5/cf8f175f86e7.json": "89e05b477efaa53d6380122179e892b5573af8909b8d8aa9b93f9143a0f364e8",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/d1e0bad7ac24.json": "80bad897ba8a49ec9271825a465894ef176901472dbecafddfca9662b23b7f33",
+    "pipeline/salida/gpt-6-luna__p5/d1e0bad7ac24.json": "6e2eb48fa14f9800e212957efb4559456c277c0b303b305f7936fb6501810f2c",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2015-extraordinaria-criterios-llibreta-f68f760ed36b.pdf": "c79e60d0a65cca731ca050159a95975b644eaadecf12b66c514bd0ed6dcc7977",
+    "datos/pdfs/f68f760ed36b.pdf": "c79e60d0a65cca731ca050159a95975b644eaadecf12b66c514bd0ed6dcc7977",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/d33db3386e53.json": "2f4febce7bd6ef964ab492d91a9115b880a4450039050a1b38f42955090059c0",
+    "pipeline/salida/gpt-6-luna__p5/d33db3386e53.json": "7f9d1adaf74f21bcd41ec96871a29eb5d83da21bea39135303562a49ef8616c2",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/d54d5d841933.json": "2ff10733d6a99bea9f7b22f6a5159deb4e1a2d66fac2aa4f840f934a131f04a8",
+    "pipeline/salida/gpt-6-luna__p5/d54d5d841933.json": "803328ba40365ca57291a1bd50fdc7d7adecaeb98f3fab176cfffe8b46207a58",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/d779a6b74aba.json": "3bd0652fccf63a9cc8322fd5f2c99b4fef4cd417d78b6e537e6e6c17ed0a9145",
+    "pipeline/salida/gpt-6-luna__p5/d779a6b74aba.json": "b824d1f15e7fe84c57a29fb4d047ae59a4b1eca4a089447ae3ba98e292e7b102",
+    "data/pdfs/comunidad-valenciana/historia-de-espana/2013-ordinaria-criterios-llibreta-9db6504234c3.pdf": "895987988d913cafcd59519d444d076eaf8977d4d87034808938816229b3cdbc",
+    "datos/pdfs/9db6504234c3.pdf": "895987988d913cafcd59519d444d076eaf8977d4d87034808938816229b3cdbc",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/db08dd7416d3.json": "31a5a927e88b34d9d2716ae0f153292d730660cf876d55c31409efa84e5d7206",
+    "pipeline/salida/gpt-6-luna__p5/db08dd7416d3.json": "d9fe68a7cbd44e0926a2a5f739aec14f29e5b70eb7487103cf7aa2411fa664b3",
+    "data/pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-extraordinaria-criterios-llibreta-cfcd341d1891.pdf": "7dde27ed710552f87b81ac0f4c13e6d55a88d4a48aab0a15e463d03a9d9e891f",
+    "datos/pdfs/cfcd341d1891.pdf": "7dde27ed710552f87b81ac0f4c13e6d55a88d4a48aab0a15e463d03a9d9e891f",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/dfa70105641a.json": "0eb4561fddc859b7fc16f84c7e1780b6d81141eaf68a8a0112600249614672df",
+    "pipeline/salida/gpt-6-luna__p5/dfa70105641a.json": "6cfcf77a9e89c1e4b41ea78e98a8d523e32b96fb50d910ec5192d7d713b6cf9d",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/eb1d77ddf433.json": "e56244f99c345d65d16da1b185770f7f007bee86ff109ee8bbf2d7a68867d7af",
+    "pipeline/salida/gpt-6-luna__p5/eb1d77ddf433.json": "7b1f7ea702ab81ebe1b47b95c374e5b088fdcc6f04192d2e4a38e0d4ba2f72be",
+    "data/pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2023-extraordinaria-criterios-llibreta-73c25f2247ec.pdf": "640976c751cb988d0aaa117e42daa18908acedf6aa8ef9c31d5ab2668a174d0e",
+    "datos/pdfs/73c25f2247ec.pdf": "640976c751cb988d0aaa117e42daa18908acedf6aa8ef9c31d5ab2668a174d0e",
+    "pipeline/salida/gpt-6-luna__p5/rubricas/gpt-6-luna__r2/ed03ea4e6cf8.json": "cead892dbdc055827e9676f30e6c5326e2f5521e2fe223710d55a2dda315347c",
+    "pipeline/salida/gpt-6-luna__p5/ed03ea4e6cf8.json": "679cac87fabada346fb6777e3db25b20a980cd6734a347c1c20c1f6f56b64cbf",
+    "data/pdfs/madrid/artes-escenicas-ii/2020-ordinaria-examen-coincidencias-uc3m-ed03ea4e6cf8.pdf": "d3da10e9517789978920ffaf3fec1323feb8b9ff7295638825af945247493f0d",
+    "datos/pdfs/ed03ea4e6cf8.pdf": "d3da10e9517789978920ffaf3fec1323feb8b9ff7295638825af945247493f0d"
+  },
+  "cambios": [
+    {
+      "id": "03364198c8fb:n3",
+      "pregunta": "03364198c8fb:n2",
+      "solucion_sha256": "313aa5b5da28f7a82d3011217eda95434e608c0363180a80723523f9824e06a8"
+    },
+    {
+      "id": "03364198c8fb:n4",
+      "pregunta": "03364198c8fb:n2",
+      "solucion_sha256": "4c85ab1cab826d8c2885ad9ef66360dedc5bf75f207fbb99c42b81bc0db8f509"
+    },
+    {
+      "id": "03364198c8fb:n5",
+      "pregunta": "03364198c8fb:n2",
+      "solucion_sha256": "313aa5b5da28f7a82d3011217eda95434e608c0363180a80723523f9824e06a8"
+    },
+    {
+      "id": "03364198c8fb:n6",
+      "pregunta": "03364198c8fb:n2",
+      "solucion_sha256": "313aa5b5da28f7a82d3011217eda95434e608c0363180a80723523f9824e06a8"
+    },
+    {
+      "id": "03364198c8fb:n8",
+      "pregunta": "03364198c8fb:n7",
+      "solucion_sha256": "34582800ffe63195c2c061e5ff32f21934a10ccdd2906e5482c6f387c86842a1"
+    },
+    {
+      "id": "03364198c8fb:n9",
+      "pregunta": "03364198c8fb:n7",
+      "solucion_sha256": "a0a1aeea8da1d8bac79e667e2b29fc316036b07c29005e4526a11de06fd2186b"
+    },
+    {
+      "id": "03364198c8fb:n10",
+      "pregunta": "03364198c8fb:n7",
+      "solucion_sha256": "d733252d563dea56ffcd84a80c7d5847c3eb410f89a8a8fde19de6645f0389e2"
+    },
+    {
+      "id": "03364198c8fb:n14",
+      "pregunta": "03364198c8fb:n11",
+      "solucion_sha256": "50a4c799fe5f8cbec118918ae5b1841f94e00eed0f5f4a3ab808dc8d5b5dfba5"
+    },
+    {
+      "id": "03364198c8fb:n15",
+      "pregunta": "03364198c8fb:n11",
+      "solucion_sha256": "0a4797d31d00d95f84f932a3018b9314dd597c2a9a098be81ae936a1419791e9"
+    },
+    {
+      "id": "03364198c8fb:n18",
+      "pregunta": "03364198c8fb:n17",
+      "solucion_sha256": "5d95acfe3b0a975ba4475e520cad3a53cfe99bee1c6d6680e7e97ba0129e9c12"
+    },
+    {
+      "id": "03364198c8fb:n19",
+      "pregunta": "03364198c8fb:n17",
+      "solucion_sha256": "723cf222c45cffa278addf5f4c1d05d8f3cde2ca5aac02183d38e24d93e15e8b"
+    },
+    {
+      "id": "03364198c8fb:n23",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "d9e7bc1b55148f0465271460c95a3bc3faf75e3df5cbb145c2bb974a65a22e30"
+    },
+    {
+      "id": "03364198c8fb:n24",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "aa6b1d3d45d6784568609498f3d498cb3a0dce4a4d17a4d26f15a1f85834b66d"
+    },
+    {
+      "id": "03364198c8fb:n26",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "7e366ba6409defcaa6c58ca7d4d47634bc6ab63874082db65ef2fe8d7d4fc6f2"
+    },
+    {
+      "id": "03364198c8fb:n27",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "a8c1e629314695eb977073c224c35bed2b18932a0e5560c7c233e7139e5d83ed"
+    },
+    {
+      "id": "03364198c8fb:n29",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "a99571ba8b2047e9176d45478a1b593d0546f58eb1f3eb941bf839ed2833bdfb"
+    },
+    {
+      "id": "03364198c8fb:n30",
+      "pregunta": "03364198c8fb:n21",
+      "solucion_sha256": "04a500b48309f174fc4e2372e85d70d26996da2c26d7490c7a9b660ba57ec688"
+    },
+    {
+      "id": "03364198c8fb:n33",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "ad774b573fb7577af3fbc4c163af2ce9647645be137a73b5bfc558232f6d542a"
+    },
+    {
+      "id": "03364198c8fb:n34",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "f8fcbdec4c1e7bb3f3d6d61fb7284cc318654fd9e2a9b6138aced06cf31adeb1"
+    },
+    {
+      "id": "03364198c8fb:n35",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "d58720bfb5d268ccd9cbbbcd96d36d981f82db6a80eb8cbe9b23d4a768b1c28e"
+    },
+    {
+      "id": "03364198c8fb:n36",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "fd5a464082233bb9799d3b418e30b43c11c341130ae626680d1c954c23ce2e02"
+    },
+    {
+      "id": "03364198c8fb:n38",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "e0c1cc0aaaf0ff5754ade74186f2dab63d34317ed72d91dc3d8d838ddf4a04fd"
+    },
+    {
+      "id": "03364198c8fb:n39",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "ad9ae80d135e4c853a2e0795ca363458a58fc8eb48075dc9eeeb79d36be0f881"
+    },
+    {
+      "id": "03364198c8fb:n40",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "878a75cf7bcc4c1a7af1cf0b2f3f480e147de7c52a6f5107fc8061311453e1dd"
+    },
+    {
+      "id": "03364198c8fb:n41",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "c95365f0724deb726d9f5bf2279fb9d0634823c2be57eacbe23ec4910da32842"
+    },
+    {
+      "id": "03364198c8fb:n43",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "87b6797701106f544f059baa2e98d34d74441f04b26133fa19e269deb83c28fa"
+    },
+    {
+      "id": "03364198c8fb:n44",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "1554d0564b53d66e43e95b50b264e0aac8beb9f07e2321a340e84938da07f5e9"
+    },
+    {
+      "id": "03364198c8fb:n45",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "d170eb4f5d4a86ba8cebe8c4b3cd5b9a424b6c22af4585acaf5f94ae2b261bd2"
+    },
+    {
+      "id": "03364198c8fb:n46",
+      "pregunta": "03364198c8fb:n31",
+      "solucion_sha256": "5f24356643fd5ebfead0dde249ec1967d8e2273dc298155e15ccaba1aa0b8775"
+    },
+    {
+      "id": "16eb4becf2b2:n2",
+      "pregunta": "16eb4becf2b2:n2",
+      "solucion_sha256": "f1cdbaef193f767c5279d1a51fc68208b226ca0965772eef5396391eca0346b7"
+    },
+    {
+      "id": "16eb4becf2b2:n3",
+      "pregunta": "16eb4becf2b2:n3",
+      "solucion_sha256": "84ff1aee58dee5e009a2e1b953035f53d172e0b85104233bcac341428f538ba1"
+    },
+    {
+      "id": "16eb4becf2b2:n4",
+      "pregunta": "16eb4becf2b2:n4",
+      "solucion_sha256": "4fde603ff18781a9d7254fa67f8b7c0bafa955fb0307f995d575af69c45e6d93"
+    },
+    {
+      "id": "16eb4becf2b2:n6",
+      "pregunta": "16eb4becf2b2:n5",
+      "solucion_sha256": "011775f360ed3e2ec529ff5899217441c857945d7f5a444bba98294cef178c68"
+    },
+    {
+      "id": "16eb4becf2b2:n7",
+      "pregunta": "16eb4becf2b2:n5",
+      "solucion_sha256": "3d0a583bb9f66a62a05a5b01ba9acdd922058bd45bad07fca6a2a8734c929992"
+    },
+    {
+      "id": "16eb4becf2b2:n9",
+      "pregunta": "16eb4becf2b2:n9",
+      "solucion_sha256": "e23b9b315343296a9e66c6e0c16cf8fad07a6c5bc3daffad765b6df9dc701e59"
+    },
+    {
+      "id": "16eb4becf2b2:n10",
+      "pregunta": "16eb4becf2b2:n10",
+      "solucion_sha256": "88430008a23af9d5610a7fa670edab13fb7297d9023258cba46917bcda0b2df2"
+    },
+    {
+      "id": "16eb4becf2b2:n11",
+      "pregunta": "16eb4becf2b2:n11",
+      "solucion_sha256": "3dfce1753650ca61092af58335d030a176c9d41f7bdc8c4c722c1af9a5748955"
+    },
+    {
+      "id": "16eb4becf2b2:n13",
+      "pregunta": "16eb4becf2b2:n12",
+      "solucion_sha256": "6f04adf818a2cfd3eef3bdc4cbfd25c5801883cc0ff07c7a159109552af03eca"
+    },
+    {
+      "id": "16eb4becf2b2:n14",
+      "pregunta": "16eb4becf2b2:n12",
+      "solucion_sha256": "00bcf6ba60ab95fc2b6dab36a7f90adc8a6c90762c4a5176c1b6bea293a9bd4b"
+    },
+    {
+      "id": "2e1486f4d824:n4",
+      "pregunta": "2e1486f4d824:n3",
+      "solucion_sha256": "a2d1069bff4247c1e5e3abe4b31c30eb537f7854be1105a53c3d8db6486817dd"
+    },
+    {
+      "id": "2e1486f4d824:n5",
+      "pregunta": "2e1486f4d824:n3",
+      "solucion_sha256": "da69a7d30a4463467c8eed4c1f4d9b864c4de0825b6a3018ccdce28e5442a554"
+    },
+    {
+      "id": "2e1486f4d824:n7",
+      "pregunta": "2e1486f4d824:n6",
+      "solucion_sha256": "e0d870e87cdfb4491329df12cf4e37aa760b3a85a088fa7a870f7c15f40d80cf"
+    },
+    {
+      "id": "2e1486f4d824:n8",
+      "pregunta": "2e1486f4d824:n6",
+      "solucion_sha256": "b8f3dfb5d559513df81f3d4be5bde152ce164d602b9f4578e604673cd4b24eb2"
+    },
+    {
+      "id": "2e1486f4d824:n11",
+      "pregunta": "2e1486f4d824:n10",
+      "solucion_sha256": "7817ae66c0bca84ebb5afea0080ee5721feaffe440557efba2895d0dbba540a0"
+    },
+    {
+      "id": "2e1486f4d824:n12",
+      "pregunta": "2e1486f4d824:n10",
+      "solucion_sha256": "12fe86971c5b201d550f65cccbf3a193b271c2e690892613813bd0feaa2556cf"
+    },
+    {
+      "id": "2e1486f4d824:n13",
+      "pregunta": "2e1486f4d824:n10",
+      "solucion_sha256": "8931b2ff89ed54ed4c1f201d1964c2d795e567ebebd72f620b4918913e6c91fc"
+    },
+    {
+      "id": "2e1486f4d824:n15",
+      "pregunta": "2e1486f4d824:n14",
+      "solucion_sha256": "65aad2f86045be98602d1ad8118955124c95d8ddb46512a3d86ec092bee1e68b"
+    },
+    {
+      "id": "2e1486f4d824:n16",
+      "pregunta": "2e1486f4d824:n14",
+      "solucion_sha256": "3235bee85fcc452dfe1bc907e591f3170097a5260e24d749784cfbfe30a21990"
+    },
+    {
+      "id": "2e1486f4d824:n17",
+      "pregunta": "2e1486f4d824:n14",
+      "solucion_sha256": "eaa82aae1355db9909f363c86a2ee49436924b081c006f877fc405ae6255dc2d"
+    },
+    {
+      "id": "2e1486f4d824:n20",
+      "pregunta": "2e1486f4d824:n19",
+      "solucion_sha256": "b794af8de1f7aeeb8035958538fe83473f84f081da37036a66b2cde02f1feb5c"
+    },
+    {
+      "id": "2e1486f4d824:n21",
+      "pregunta": "2e1486f4d824:n19",
+      "solucion_sha256": "3a583c48bfc50d52f89bec2528a1fbbf10d3b2b7d93079da52ae26ee6a59856e"
+    },
+    {
+      "id": "2e1486f4d824:n22",
+      "pregunta": "2e1486f4d824:n19",
+      "solucion_sha256": "970e4ca7b0b204ca584dac2c89dabca53cf8da600d2e30ecf2a0713acb03ea7e"
+    },
+    {
+      "id": "2e1486f4d824:n23",
+      "pregunta": "2e1486f4d824:n19",
+      "solucion_sha256": "6555394e1c962a62344b40d91bf3581771b40a4866ba07ef551b5953fc9eca21"
+    },
+    {
+      "id": "2e1486f4d824:n25",
+      "pregunta": "2e1486f4d824:n24",
+      "solucion_sha256": "48b9fd6058ad8acb1de42a3771f2ef9fb21e491373121cdc5604ae59c8e69b49"
+    },
+    {
+      "id": "2e1486f4d824:n26",
+      "pregunta": "2e1486f4d824:n24",
+      "solucion_sha256": "f3d7da775a7d94271890fbf302fe1645c2ba2257bf46ef321b44440af2f29690"
+    },
+    {
+      "id": "2e1486f4d824:n27",
+      "pregunta": "2e1486f4d824:n24",
+      "solucion_sha256": "aa3eaa133494927a8c9a09b3da1f4cfbbdf7977f82bd5f7740e06f461b23e47b"
+    },
+    {
+      "id": "2e1486f4d824:n28",
+      "pregunta": "2e1486f4d824:n24",
+      "solucion_sha256": "895798924749cef80343506e06d3d4094bb687e564eca95fbe730f07723b4902"
+    },
+    {
+      "id": "32e15229d4e3:n2",
+      "pregunta": "32e15229d4e3:n2",
+      "solucion_sha256": "e213ce42bf25501494c39301bf84f2b80b33dc1858deaf8a77c87cf032a3f731"
+    },
+    {
+      "id": "32e15229d4e3:n3",
+      "pregunta": "32e15229d4e3:n3",
+      "solucion_sha256": "21f931182b3de84f588d482a2da1679445d4d5421ff57ea5c0ba2406f68e7c3b"
+    },
+    {
+      "id": "32e15229d4e3:n4",
+      "pregunta": "32e15229d4e3:n4",
+      "solucion_sha256": "b2ec67b5943f347e941560cce0bef72b697c3f001cbfde29e9f2eeba2e9b8782"
+    },
+    {
+      "id": "32e15229d4e3:n6",
+      "pregunta": "32e15229d4e3:n5",
+      "solucion_sha256": "df30c9eb5f6c638fbe4bf6a667a2a31481212658c57a31d46673468fceba0273"
+    },
+    {
+      "id": "32e15229d4e3:n9",
+      "pregunta": "32e15229d4e3:n9",
+      "solucion_sha256": "3a183d0659521e3ba6ab135790c4b4a20c579292d41a90740f67654db7b84d4c"
+    },
+    {
+      "id": "32e15229d4e3:n10",
+      "pregunta": "32e15229d4e3:n10",
+      "solucion_sha256": "ef8226e80cc77e055f3c15841f046d6be3bbf2f3fd8836e537a4dfe2b6ed25e1"
+    },
+    {
+      "id": "32e15229d4e3:n11",
+      "pregunta": "32e15229d4e3:n11",
+      "solucion_sha256": "3632f2e2bf37f220cd8d55748c50a3b986a8fc54c72ebd056cb8eef64b4acc60"
+    },
+    {
+      "id": "32e15229d4e3:n13",
+      "pregunta": "32e15229d4e3:n12",
+      "solucion_sha256": "95b64c458ab858dfee67a705e71b6ee1f2277da066ecf343c6cec0834f186595"
+    },
+    {
+      "id": "3469f9a1dc3e:n2",
+      "pregunta": "3469f9a1dc3e:n2",
+      "solucion_sha256": "13e5f7a1085c70a3e2791560c2a41583cd3981f2f6743d713254ac2f3011ffc0"
+    },
+    {
+      "id": "3469f9a1dc3e:n3",
+      "pregunta": "3469f9a1dc3e:n3",
+      "solucion_sha256": "9dbe1129ff3292b632691832d9803f3202c94793ae8a3e2e063f78aacddbb8d7"
+    },
+    {
+      "id": "3469f9a1dc3e:n4",
+      "pregunta": "3469f9a1dc3e:n4",
+      "solucion_sha256": "b14e4d6f2d7276d1c115f273f90e22c2a3ea5427e734deda9f965a1d50bbe88e"
+    },
+    {
+      "id": "3469f9a1dc3e:n6",
+      "pregunta": "3469f9a1dc3e:n5",
+      "solucion_sha256": "f8b3b46d4a4139a5f42d0243989c0bbed85248b63eff2ca2880d6f3039efa6d7"
+    },
+    {
+      "id": "3469f9a1dc3e:n7",
+      "pregunta": "3469f9a1dc3e:n5",
+      "solucion_sha256": "2ce8c7042e3b7be6a7877492475e751701f66f58e607370fd2ef344922f81efc"
+    },
+    {
+      "id": "3469f9a1dc3e:n9",
+      "pregunta": "3469f9a1dc3e:n9",
+      "solucion_sha256": "0af31c4f97093e096878c8441f5366b6dbc333308f208e37c481ffa13088cad0"
+    },
+    {
+      "id": "3469f9a1dc3e:n10",
+      "pregunta": "3469f9a1dc3e:n10",
+      "solucion_sha256": "f2ca865497a2f9ada33166d6a74ea1558866e18fc862c555cd10c941453445be"
+    },
+    {
+      "id": "3469f9a1dc3e:n11",
+      "pregunta": "3469f9a1dc3e:n11",
+      "solucion_sha256": "2de2ffcbb77deb2250fb00b7f9fc91df10ba0ac133320aed86cdfaebfbf1f6c1"
+    },
+    {
+      "id": "3469f9a1dc3e:n13",
+      "pregunta": "3469f9a1dc3e:n12",
+      "solucion_sha256": "b35e68dd60734bdf001f35cd9c3490ae28ad96cdb2fa6da134176b0d0eb9b98f"
+    },
+    {
+      "id": "41fdc1fe038d:n3",
+      "pregunta": "41fdc1fe038d:n3",
+      "solucion_sha256": "1a888326003fc26631e1584d1aa83f70fd4966423fa09d85d65d005d1c2ac2b8"
+    },
+    {
+      "id": "41fdc1fe038d:n4",
+      "pregunta": "41fdc1fe038d:n4",
+      "solucion_sha256": "c88259a6ae4ab6bc0c0753e11c85009f36d9b71673d438beb7d24078056c8352"
+    },
+    {
+      "id": "41fdc1fe038d:n5",
+      "pregunta": "41fdc1fe038d:n5",
+      "solucion_sha256": "02bdf4d8058307b69c54442d64387a2bfae275315079a125ba9e635e89a77a08"
+    },
+    {
+      "id": "41fdc1fe038d:n9",
+      "pregunta": "41fdc1fe038d:n9",
+      "solucion_sha256": "621b4372d88e72b54ff03b97dae23e0f0afe7e9281e3269364d0f85a851941b5"
+    },
+    {
+      "id": "41fdc1fe038d:n10",
+      "pregunta": "41fdc1fe038d:n10",
+      "solucion_sha256": "c5a6cda9ce7855f1aea04f769167475e921c4ae06d612558c4d15b6eab1bec70"
+    },
+    {
+      "id": "41fdc1fe038d:n11",
+      "pregunta": "41fdc1fe038d:n11",
+      "solucion_sha256": "f252581844dcda57c44b6c8bf65e2c44fd962d6c699302ddf88e548586d41efb"
+    },
+    {
+      "id": "41fdc1fe038d:n13",
+      "pregunta": "41fdc1fe038d:n12",
+      "solucion_sha256": "6e02a18bb7424098d8ebc0d3964394c5e3fa181c195fdec8895d99764aab82d7"
+    },
+    {
+      "id": "488817140d92:n2",
+      "pregunta": "488817140d92:n2",
+      "solucion_sha256": "93eb3c7ef11a386c5fb4355b400a240eabd93b588bca7fa65570d502f1dae0f1"
+    },
+    {
+      "id": "488817140d92:n3",
+      "pregunta": "488817140d92:n3",
+      "solucion_sha256": "6ce6fd73f1f7b3d78f832ee99accdb06c6a60fc0b6e061ba203fb612d631a21a"
+    },
+    {
+      "id": "488817140d92:n5",
+      "pregunta": "488817140d92:n4",
+      "solucion_sha256": "95580741c1ebc0b7b529ed1f4bee6bbdd82b70179732aaffcec2e468ec7e48cd"
+    },
+    {
+      "id": "488817140d92:n6",
+      "pregunta": "488817140d92:n4",
+      "solucion_sha256": "efe1abd7c1f3955b97d5477c037cfded3004d07fc1acf439fd4ade12abd4d51a"
+    },
+    {
+      "id": "488817140d92:n8",
+      "pregunta": "488817140d92:n7",
+      "solucion_sha256": "0f2b190b285e541b0a012d58a1b426c754e94137bb90af21f6cfb63b07cf48db"
+    },
+    {
+      "id": "488817140d92:n11",
+      "pregunta": "488817140d92:n11",
+      "solucion_sha256": "4d4e681a4051e3cdb0843e3d2b15916d2b5e4262224e6f8d585663f124d8d92b"
+    },
+    {
+      "id": "488817140d92:n12",
+      "pregunta": "488817140d92:n12",
+      "solucion_sha256": "33759623be7ee6a50354e43b9eed280655a010a66af58d3542da4e6d18757961"
+    },
+    {
+      "id": "488817140d92:n14",
+      "pregunta": "488817140d92:n13",
+      "solucion_sha256": "bc6b92237a6a7799afbcec363f90fa52333fe646bed660ef3391acd3affb4f72"
+    },
+    {
+      "id": "488817140d92:n15",
+      "pregunta": "488817140d92:n13",
+      "solucion_sha256": "4da6c1f8192f33baf320fd484e2e1c02ee445861ef07725159b32f3507fa2b85"
+    },
+    {
+      "id": "488817140d92:n17",
+      "pregunta": "488817140d92:n16",
+      "solucion_sha256": "7aadc10592d342565b99f114b00c94c0d7e9c167e31112fb18447b96d65d2749"
+    },
+    {
+      "id": "488817140d92:n18",
+      "pregunta": "488817140d92:n16",
+      "solucion_sha256": "e91bf95120f9557074bc3294d308f42b14180f4b59e28ec7df9b3e6823b6a9e6"
+    },
+    {
+      "id": "4afa0f0f8a54:n3",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "94410ceed4b2a6a0fbe938fef433ad8f42c69984020d7376482c9616aa709484"
+    },
+    {
+      "id": "4afa0f0f8a54:n4",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "102cfba21630261270265c9270084de9d6d3eb7d80e46c33aadd23ad3a3f7496"
+    },
+    {
+      "id": "4afa0f0f8a54:n5",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "c2f963715d09dfa895bedfa3df5189c9477ca6cfe3bc47364a08b8a2f83ce88c"
+    },
+    {
+      "id": "4afa0f0f8a54:n6",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "d5dd58a06ebc3c13ec41fa0b25f84cdcf945994c6c49ddc17366d35ffa2ff0cb"
+    },
+    {
+      "id": "4afa0f0f8a54:n7",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "5c535b5563f7a733073f7b0e84301b18dfcd47a2adcfa4a3034ac028e2623498"
+    },
+    {
+      "id": "4afa0f0f8a54:n8",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "b52f40c8abe0213f8ed3d45c0b2b8899ecf26c27b3b49d2ec5395c52ed907dce"
+    },
+    {
+      "id": "4afa0f0f8a54:n9",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "3fb843ff8b759a43d8a10b0e8a7cdc7dc92747bac08a730740319af6f460b95f"
+    },
+    {
+      "id": "4afa0f0f8a54:n10",
+      "pregunta": "4afa0f0f8a54:n2",
+      "solucion_sha256": "7351a863f1054bd0eeff53b68ce03085bd0d95efec5b8aa1c6ae602dd0bb1d69"
+    },
+    {
+      "id": "4afa0f0f8a54:n12",
+      "pregunta": "4afa0f0f8a54:n12",
+      "solucion_sha256": "3e171cd9a2ba8ee969b62ffb82b9e22b4aa0c14e4c6d5ba2540b1ecc882caf10"
+    },
+    {
+      "id": "4afa0f0f8a54:n13",
+      "pregunta": "4afa0f0f8a54:n13",
+      "solucion_sha256": "0ae9e3a982b6ea33d61fbb98c9967858f984270fe66f164ef7a70fceaf9b6f2f"
+    },
+    {
+      "id": "4afa0f0f8a54:n14",
+      "pregunta": "4afa0f0f8a54:n14",
+      "solucion_sha256": "f4c4df83c8785c7e5221411a45a4e59b027e2c3e2e0c3f5c6a6e681c343ffb7e"
+    },
+    {
+      "id": "4afa0f0f8a54:n15",
+      "pregunta": "4afa0f0f8a54:n15",
+      "solucion_sha256": "8de78d25096a3ca4eaa0058421c041f81103f7427ed7b8afe255a7f7b6e702ca"
+    },
+    {
+      "id": "4afa0f0f8a54:n17",
+      "pregunta": "4afa0f0f8a54:n17",
+      "solucion_sha256": "9d81d3f8c58257b7ea9a0d8330742eb77e185e4fa77f5aab04d76bf308caf97d"
+    },
+    {
+      "id": "4afa0f0f8a54:n18",
+      "pregunta": "4afa0f0f8a54:n18",
+      "solucion_sha256": "0f8a0cc6848b4e35a9d72ed00f0ce30faed1562f147a8fc7ec09e751a9df0087"
+    },
+    {
+      "id": "4afa0f0f8a54:n19",
+      "pregunta": "4afa0f0f8a54:n19",
+      "solucion_sha256": "cf99cbbf3025bd8eefa211b01a62a49004b4af4c3fa9a999be47bb281f6d1221"
+    },
+    {
+      "id": "4afa0f0f8a54:n20",
+      "pregunta": "4afa0f0f8a54:n20",
+      "solucion_sha256": "83d8d8c7fc1a9c8a1fec4e9090eead150c4596f79f720b2c5eb956eda0ed7622"
+    },
+    {
+      "id": "4afa0f0f8a54:n21",
+      "pregunta": "4afa0f0f8a54:n21",
+      "solucion_sha256": "735f6d0e92daf1b7ec008d81048665764f0c8ef617dca6d10990f18ae5db2356"
+    },
+    {
+      "id": "4afa0f0f8a54:n22",
+      "pregunta": "4afa0f0f8a54:n22",
+      "solucion_sha256": "d62251e011a2d93c7f71214bd870d3339695f0118330a0083b81e6f64c97b7b4"
+    },
+    {
+      "id": "4afa0f0f8a54:n24",
+      "pregunta": "4afa0f0f8a54:n24",
+      "solucion_sha256": "c672f905295feafbaf7b90ebc0fe3edef7c7bb9a7c2c3c1fc41035f9f5dbdda7"
+    },
+    {
+      "id": "4afa0f0f8a54:n25",
+      "pregunta": "4afa0f0f8a54:n25",
+      "solucion_sha256": "c672f905295feafbaf7b90ebc0fe3edef7c7bb9a7c2c3c1fc41035f9f5dbdda7"
+    },
+    {
+      "id": "4afa0f0f8a54:n26",
+      "pregunta": "4afa0f0f8a54:n26",
+      "solucion_sha256": "361b02c68e4f66d43c7d8e16d50ddeefa17aa068acf4948d37d90d69bc82bb08"
+    },
+    {
+      "id": "4afa0f0f8a54:n27",
+      "pregunta": "4afa0f0f8a54:n27",
+      "solucion_sha256": "c672f905295feafbaf7b90ebc0fe3edef7c7bb9a7c2c3c1fc41035f9f5dbdda7"
+    },
+    {
+      "id": "4afa0f0f8a54:n28",
+      "pregunta": "4afa0f0f8a54:n28",
+      "solucion_sha256": "c672f905295feafbaf7b90ebc0fe3edef7c7bb9a7c2c3c1fc41035f9f5dbdda7"
+    },
+    {
+      "id": "4afa0f0f8a54:n29",
+      "pregunta": "4afa0f0f8a54:n29",
+      "solucion_sha256": "c672f905295feafbaf7b90ebc0fe3edef7c7bb9a7c2c3c1fc41035f9f5dbdda7"
+    },
+    {
+      "id": "4e4bbca013d1:n3",
+      "pregunta": "4e4bbca013d1:n3",
+      "solucion_sha256": "946d423ff722b2a96ec173d2ff30ab974b8bd799a28b4d2fc0f8af71df4297ea"
+    },
+    {
+      "id": "4e4bbca013d1:n4",
+      "pregunta": "4e4bbca013d1:n4",
+      "solucion_sha256": "0a3096af3627615dd9a1c7094b57dd29454d624e14cc2a908e53c1d5c127e83c"
+    },
+    {
+      "id": "4e4bbca013d1:n6",
+      "pregunta": "4e4bbca013d1:n6",
+      "solucion_sha256": "cbb1d1b64fe7d8805341edabe3e53a65489d13942094257f6152644292bf9715"
+    },
+    {
+      "id": "4e4bbca013d1:n9",
+      "pregunta": "4e4bbca013d1:n8",
+      "solucion_sha256": "528985af533928c10a1af00580228285b104a16f71eb7504ee59d8488213625a"
+    },
+    {
+      "id": "4e4bbca013d1:n10",
+      "pregunta": "4e4bbca013d1:n8",
+      "solucion_sha256": "d844f3fce37ea5611c8c69ae24fb74af71544d67c0416389829bd9d2e134b5a2"
+    },
+    {
+      "id": "4e4bbca013d1:n11",
+      "pregunta": "4e4bbca013d1:n8",
+      "solucion_sha256": "033dc654cf96d0bc1371259940def35cee0a60b22cdf41b9f50042b2837165b4"
+    },
+    {
+      "id": "4e4bbca013d1:n13",
+      "pregunta": "4e4bbca013d1:n12",
+      "solucion_sha256": "18784a462a643d07787e7430747591765fd194530e5fb71dd6cc3d4fbaac88f2"
+    },
+    {
+      "id": "4e4bbca013d1:n14",
+      "pregunta": "4e4bbca013d1:n12",
+      "solucion_sha256": "8e9b3ac76485044343c11ff564fbd6950654121153b5cac3c8a8d726a377e1f4"
+    },
+    {
+      "id": "4e4bbca013d1:n15",
+      "pregunta": "4e4bbca013d1:n12",
+      "solucion_sha256": "8e798a918fcfdfb41f24a7e69c17fe5210c627d63ac1552a694ede0c60d2d4ce"
+    },
+    {
+      "id": "4e4bbca013d1:n16",
+      "pregunta": "4e4bbca013d1:n16",
+      "solucion_sha256": "bacc886314d4defe23bcc4240aaab9824d4b4d27cb1da35090bbefc3108a1574"
+    },
+    {
+      "id": "4e4bbca013d1:n18",
+      "pregunta": "4e4bbca013d1:n17",
+      "solucion_sha256": "e78929afe62b72137dc2634897bd2b5eb7777d61142ba263b36349519f95589c"
+    },
+    {
+      "id": "4e4bbca013d1:n19",
+      "pregunta": "4e4bbca013d1:n17",
+      "solucion_sha256": "2269036f7e2ebb26f88edc2c7d93672bd745677e46cce362f01d18a37a89a1c8"
+    },
+    {
+      "id": "4e4bbca013d1:n20",
+      "pregunta": "4e4bbca013d1:n17",
+      "solucion_sha256": "871edeb859dbc7bc552872e4258ae364448c8c3f927c4d39c3da7c4828b7d685"
+    },
+    {
+      "id": "4e4bbca013d1:n22",
+      "pregunta": "4e4bbca013d1:n21",
+      "solucion_sha256": "418bbaa24985c600b387509ae734758632a9ec616b9cd429cedef1fdb5a8b11b"
+    },
+    {
+      "id": "4e4bbca013d1:n23",
+      "pregunta": "4e4bbca013d1:n21",
+      "solucion_sha256": "45c4bf081f4cef9f782df678a32082c4791cdb00da873dc9b48cf8ae49cabd48"
+    },
+    {
+      "id": "4e4bbca013d1:n24",
+      "pregunta": "4e4bbca013d1:n21",
+      "solucion_sha256": "1839d4b634b6c3b9c94840139ed8218139ebed332228c877d8c0af3145af0b7a"
+    },
+    {
+      "id": "4e4bbca013d1:n26",
+      "pregunta": "4e4bbca013d1:n25",
+      "solucion_sha256": "23991dcf99e9186038cdb31e4de7675bb8f7fc5054dfcd3f2bb416434966b3de"
+    },
+    {
+      "id": "4e4bbca013d1:n27",
+      "pregunta": "4e4bbca013d1:n25",
+      "solucion_sha256": "6e966ef295e3388c3446fe581a70f266443585fedf59e58d2bbbc621815ac324"
+    },
+    {
+      "id": "4e4bbca013d1:n28",
+      "pregunta": "4e4bbca013d1:n25",
+      "solucion_sha256": "eaa4d3e02f974c47d0c0f8933b26da4b8ba9bcf6fedd837fa173fd4c2db885dd"
+    },
+    {
+      "id": "4e4bbca013d1:n29",
+      "pregunta": "4e4bbca013d1:n29",
+      "solucion_sha256": "186123dd72daed4464922abd7b558ab4e0862a87be38f468c891d4cba9e796f4"
+    },
+    {
+      "id": "4e4bbca013d1:n30",
+      "pregunta": "4e4bbca013d1:n30",
+      "solucion_sha256": "5a8ad2d0b16770660592b4444d9f29301ba11adf741e4cb161884ef067845c15"
+    },
+    {
+      "id": "4e4bbca013d1:n31",
+      "pregunta": "4e4bbca013d1:n31",
+      "solucion_sha256": "6e4451ac18a69db51174251c6ab3eed287ff65a43f987d574e72ef40de8abd21"
+    },
+    {
+      "id": "4e4bbca013d1:n33",
+      "pregunta": "4e4bbca013d1:n33",
+      "solucion_sha256": "3c418cc02837cc0b385183a222b8326e4ea1aaf4997a910a9a917a9f316a4ee1"
+    },
+    {
+      "id": "4e4bbca013d1:n34",
+      "pregunta": "4e4bbca013d1:n34",
+      "solucion_sha256": "19fecb5fbd62298bbdfb6a5f6fa4009debf4d55649902e2e6f3d2f18053a7fc3"
+    },
+    {
+      "id": "4e703d87e493:n2",
+      "pregunta": "4e703d87e493:n2",
+      "solucion_sha256": "18eb1680ca6ddb4384cf04104c61f2aa81e9872490835fcf1d50dc0d8f9b6704"
+    },
+    {
+      "id": "4e703d87e493:n3",
+      "pregunta": "4e703d87e493:n3",
+      "solucion_sha256": "10910cef6c3ec211a0e397bac0776c8fe16dcd64335db5ea1a610c9a1dd2010b"
+    },
+    {
+      "id": "4e703d87e493:n4",
+      "pregunta": "4e703d87e493:n4",
+      "solucion_sha256": "3782509747fbf93f4f5a5a71ff3fd85efa0ce6d0fd80e66250b2b35c40ce4789"
+    },
+    {
+      "id": "4e703d87e493:n6",
+      "pregunta": "4e703d87e493:n5",
+      "solucion_sha256": "a106c244c776c09ddf0ab6d49cbdb6999ba68e4b23a34361077428206c63aeb6"
+    },
+    {
+      "id": "4e703d87e493:n9",
+      "pregunta": "4e703d87e493:n9",
+      "solucion_sha256": "dd771d364b15cf4e44e33476cd43afdf91e90bb1fe7a28c90c8a59c6afd96793"
+    },
+    {
+      "id": "4e703d87e493:n10",
+      "pregunta": "4e703d87e493:n10",
+      "solucion_sha256": "ca905a41a6fcf301960159a8a4351afde5415b8fad6f69178656dd6c9dc7346b"
+    },
+    {
+      "id": "4e703d87e493:n11",
+      "pregunta": "4e703d87e493:n11",
+      "solucion_sha256": "ea56af0e7118e2208cd8961dc0f3854b2dd2104d8d97cdb8ac4784f7b4d45a9f"
+    },
+    {
+      "id": "4e703d87e493:n13",
+      "pregunta": "4e703d87e493:n12",
+      "solucion_sha256": "ed9c5ee678f245ffeabba3c9f4225e10a0c2c0bc702d4ad8f6ef959775082972"
+    },
+    {
+      "id": "4e703d87e493:n14",
+      "pregunta": "4e703d87e493:n12",
+      "solucion_sha256": "8ee2236235e95b8158423ce1ec0e47ed7fdd4301c0108dcc0ebdc753a01a2c97"
+    },
+    {
+      "id": "67eea232db63:n5",
+      "pregunta": "67eea232db63:n5",
+      "solucion_sha256": "9b57092c83e34b5edcab6adc75a6427035d09df2ffb523d019d71abd1db07d58"
+    },
+    {
+      "id": "67eea232db63:n7",
+      "pregunta": "67eea232db63:n6",
+      "solucion_sha256": "49614619f883e5810f52bf8a235149b4b858574627b5b4fb8fb79695aa85f96b"
+    },
+    {
+      "id": "67eea232db63:n9",
+      "pregunta": "67eea232db63:n6",
+      "solucion_sha256": "e0bd2c1520d8e629eb6970c33848123b573db2d2e905894dd4a0cb63638b2493"
+    },
+    {
+      "id": "67eea232db63:n10",
+      "pregunta": "67eea232db63:n6",
+      "solucion_sha256": "87d944287f7a4d0657e4cab2270f8a365edfe5b8ed3f1a883e7b1c2388d3198d"
+    },
+    {
+      "id": "67eea232db63:n12",
+      "pregunta": "67eea232db63:n12",
+      "solucion_sha256": "85d5189aa89b73bd5b2403abee6b5742ebc95eee90ad365f0921fbdab1ee9877"
+    },
+    {
+      "id": "67eea232db63:n13",
+      "pregunta": "67eea232db63:n13",
+      "solucion_sha256": "b5baea82b227dda2c2abc743841db1a64c45354b3d1560cd34857a774c4122b4"
+    },
+    {
+      "id": "7336bed75af4:n2",
+      "pregunta": "7336bed75af4:n2",
+      "solucion_sha256": "5b6ab0348b259577b6bcfa77a820e3482a406e481f338c3c5611d6c0a83d9669"
+    },
+    {
+      "id": "7336bed75af4:n3",
+      "pregunta": "7336bed75af4:n3",
+      "solucion_sha256": "f3d9c0472bba359e0697d55957b9ce33c2a32db0462f7cb952bc2f5862fbf904"
+    },
+    {
+      "id": "7336bed75af4:n4",
+      "pregunta": "7336bed75af4:n4",
+      "solucion_sha256": "5900b6be29949e1bd07757e6eadd84f7e1ffbb89eda76e45ebbd434a0797143e"
+    },
+    {
+      "id": "7336bed75af4:n6",
+      "pregunta": "7336bed75af4:n5",
+      "solucion_sha256": "6c4640f6d41f998a67d21a2a62546db47b5959997847cce0c70d40aaaf339902"
+    },
+    {
+      "id": "7336bed75af4:n7",
+      "pregunta": "7336bed75af4:n5",
+      "solucion_sha256": "9bed3a7676cd41b4334da540088552456835e2426d31d4d50d036d3ed8a9584a"
+    },
+    {
+      "id": "7336bed75af4:n9",
+      "pregunta": "7336bed75af4:n9",
+      "solucion_sha256": "3fd5cb8a10b9a5bbead654c0dbdd82822a8a18d6c5522ea5de15b27dbaf59700"
+    },
+    {
+      "id": "7336bed75af4:n10",
+      "pregunta": "7336bed75af4:n10",
+      "solucion_sha256": "2028dd9a172809802d51408d73ad78dce9b2ab9aa9e31e5b3020695785ad9b0b"
+    },
+    {
+      "id": "7336bed75af4:n11",
+      "pregunta": "7336bed75af4:n11",
+      "solucion_sha256": "ca3b8f8bc404a6945a4f50f5491bb11fd525b5d5e88ac8aeeae07d0339c6a5b0"
+    },
+    {
+      "id": "7336bed75af4:n13",
+      "pregunta": "7336bed75af4:n12",
+      "solucion_sha256": "71a140e92a175aa23f966b9c0437fdc20e2e9b03f4a790428f7bca9e16b3a3e6"
+    },
+    {
+      "id": "7336bed75af4:n14",
+      "pregunta": "7336bed75af4:n12",
+      "solucion_sha256": "eaf4f606bbc8ebc80f3ff3c1281f36c19635f3dc819a6b7f8ce8d475bb8a6154"
+    },
+    {
+      "id": "73d799a38839:n3",
+      "pregunta": "73d799a38839:n3",
+      "solucion_sha256": "89ff87006b6cf40c12a5d4124262279d36c3146f1a0fb6e4ebdb32236a1d0104"
+    },
+    {
+      "id": "73d799a38839:n8",
+      "pregunta": "73d799a38839:n8",
+      "solucion_sha256": "271b162eef181a5c02a281ffaf9b8bd6f8613668b3f634f5b997ff9f01bf5864"
+    },
+    {
+      "id": "73d799a38839:n13",
+      "pregunta": "73d799a38839:n13",
+      "solucion_sha256": "e2e50c8e7046784ff8573e395c0d8bfe54b950ba38f39ae4bc9d3477ab034c81"
+    },
+    {
+      "id": "73d799a38839:n18",
+      "pregunta": "73d799a38839:n18",
+      "solucion_sha256": "271b162eef181a5c02a281ffaf9b8bd6f8613668b3f634f5b997ff9f01bf5864"
+    },
+    {
+      "id": "73d799a38839:n23",
+      "pregunta": "73d799a38839:n23",
+      "solucion_sha256": "e2e50c8e7046784ff8573e395c0d8bfe54b950ba38f39ae4bc9d3477ab034c81"
+    },
+    {
+      "id": "73d799a38839:n33",
+      "pregunta": "73d799a38839:n32",
+      "solucion_sha256": "9f42f1a53b14d7d1c67730016cba00f1ce7149f79052651fd8660285baaf7365"
+    },
+    {
+      "id": "73d799a38839:n34",
+      "pregunta": "73d799a38839:n32",
+      "solucion_sha256": "273acf94b9b96ff0d8c89a0de0287f3f2f28d8159623cefc1b834ad716d2a913"
+    },
+    {
+      "id": "73d799a38839:n35",
+      "pregunta": "73d799a38839:n32",
+      "solucion_sha256": "5a827024724f4c2e0df2a8b7e5ca9c87c57ea3445c7a4a5a9c351b9a10f2cddd"
+    },
+    {
+      "id": "73d799a38839:n36",
+      "pregunta": "73d799a38839:n32",
+      "solucion_sha256": "78e17a61b80e21384d43ebf1d6fac7d81e2aad7be5258ab159546b41963e9262"
+    },
+    {
+      "id": "73d799a38839:n37",
+      "pregunta": "73d799a38839:n32",
+      "solucion_sha256": "e890943c7c26ed8259e431031d65315abee148f437708023b97ed6180c15e2f8"
+    },
+    {
+      "id": "73d799a38839:n39",
+      "pregunta": "73d799a38839:n38",
+      "solucion_sha256": "e4e1651fa692f2e644adc06d63791b05b4b83f7bc4a5a1192441373ba5de3fac"
+    },
+    {
+      "id": "73d799a38839:n40",
+      "pregunta": "73d799a38839:n38",
+      "solucion_sha256": "b24c573251719037ce37d4b6c1a893bf516fb2973137e41c7822114c513e5138"
+    },
+    {
+      "id": "73d799a38839:n41",
+      "pregunta": "73d799a38839:n38",
+      "solucion_sha256": "9ce7f5519e81c9cb98f342185998d3153afde1736e27da8bade83af1477f3387"
+    },
+    {
+      "id": "73d799a38839:n42",
+      "pregunta": "73d799a38839:n38",
+      "solucion_sha256": "faa3e58e688edfb6ccc411256caaf3efb6f45529e14d9bfe6d62a0cfa99a3708"
+    },
+    {
+      "id": "73d799a38839:n43",
+      "pregunta": "73d799a38839:n38",
+      "solucion_sha256": "c0fbdfdcc75feaba19a5bc0571255f54cc8f98c09bae3689027bb1867d0c7f77"
+    },
+    {
+      "id": "73d799a38839:n45",
+      "pregunta": "73d799a38839:n44",
+      "solucion_sha256": "aee0906f01ef3686d8caa39e60cf840a53ffe478b3fb92f113181cc3ef6df866"
+    },
+    {
+      "id": "73d799a38839:n46",
+      "pregunta": "73d799a38839:n44",
+      "solucion_sha256": "38da61d5ca88f9d43a890d5e7e208d0b3b4a09a676eafc6b9243f0c1ca262978"
+    },
+    {
+      "id": "73d799a38839:n47",
+      "pregunta": "73d799a38839:n44",
+      "solucion_sha256": "39cb5695df4bcc97019babccf14153bbf5860505c2e7af2bcc419e392d5b3a17"
+    },
+    {
+      "id": "73d799a38839:n48",
+      "pregunta": "73d799a38839:n44",
+      "solucion_sha256": "d686b8681c92722a7bf232db7eacee97903375f04830393a60f35a6e87aff169"
+    },
+    {
+      "id": "73d799a38839:n49",
+      "pregunta": "73d799a38839:n44",
+      "solucion_sha256": "9e9d3d8ca4e22c2499b300c06ed2695533ae227fc08a5cb37fa7becbf0be3527"
+    },
+    {
+      "id": "7a8748608425:n2",
+      "pregunta": "7a8748608425:n2",
+      "solucion_sha256": "6aaa05e74ebb56fefc747b638bb0efd7cb8908ce0d853fc27dda8d9d2917eb04"
+    },
+    {
+      "id": "7a8748608425:n3",
+      "pregunta": "7a8748608425:n3",
+      "solucion_sha256": "adba260c1293f7acff8cbe97a6b83fb5d69d25a6f12028fcba7571d01e9e79f3"
+    },
+    {
+      "id": "7a8748608425:n4",
+      "pregunta": "7a8748608425:n4",
+      "solucion_sha256": "6b3ed408c6d2d55b6a8b1d6bb0ed71278983650a8da5ef8e2278976924bb91a3"
+    },
+    {
+      "id": "7a8748608425:n6",
+      "pregunta": "7a8748608425:n5",
+      "solucion_sha256": "ce7f16f9c9ba521fbdfe99ad6bcbf9a7ed04ace5b25b6efc06ff28cb0e9a19d1"
+    },
+    {
+      "id": "7a8748608425:n9",
+      "pregunta": "7a8748608425:n9",
+      "solucion_sha256": "74d6d2be412689acb073294a5f43bd8f7176969ee41a5edcbf0664d2d8fa9da0"
+    },
+    {
+      "id": "7a8748608425:n10",
+      "pregunta": "7a8748608425:n10",
+      "solucion_sha256": "315adda13b89fb55d1aa1f2dd58c2bb995cf399ad7d67f4b7078bc779b740971"
+    },
+    {
+      "id": "7a8748608425:n11",
+      "pregunta": "7a8748608425:n11",
+      "solucion_sha256": "c51cecae0361140500b6e5e6c3c9d6aacae959dfeb6fff569e3a68227dfd0e1a"
+    },
+    {
+      "id": "7e1bad7a80fd:n2",
+      "pregunta": "7e1bad7a80fd:n1",
+      "solucion_sha256": "644b3fce00cdd9a3c04a5cdabcd9eb69121d115b81d4f9b385cae85136e10715"
+    },
+    {
+      "id": "7e1bad7a80fd:n3",
+      "pregunta": "7e1bad7a80fd:n1",
+      "solucion_sha256": "9cf0eaae1a99434d3c723dd5fd5cf18e1c1b6e632fa0aa90a7804213d927dded"
+    },
+    {
+      "id": "7e1bad7a80fd:n4",
+      "pregunta": "7e1bad7a80fd:n1",
+      "solucion_sha256": "f58961175d41341d60aa813ab1b380ea336c5c61420efe8949a9404ad701b704"
+    },
+    {
+      "id": "7e1bad7a80fd:n5",
+      "pregunta": "7e1bad7a80fd:n1",
+      "solucion_sha256": "9e9daae60e527d01ddf5b0278d8a1d268405a35ac30ebd2d59606cee8823221f"
+    },
+    {
+      "id": "7e1bad7a80fd:n8",
+      "pregunta": "7e1bad7a80fd:n7",
+      "solucion_sha256": "3d7d554e440097edd4e7f55f5f7b7bcd2afc118778cefce9be12085be20866d3"
+    },
+    {
+      "id": "7e1bad7a80fd:n9",
+      "pregunta": "7e1bad7a80fd:n7",
+      "solucion_sha256": "1ab1437c33e98d9219f0960319b3088c1301820692e312349dc48c1e8c00ee2a"
+    },
+    {
+      "id": "7e1bad7a80fd:n10",
+      "pregunta": "7e1bad7a80fd:n7",
+      "solucion_sha256": "5a9b5b855c884eabbb9ca0bce8dd360f93ac346f202ffef8ec2990867d7bbe13"
+    },
+    {
+      "id": "7e1bad7a80fd:n11",
+      "pregunta": "7e1bad7a80fd:n7",
+      "solucion_sha256": "bf0f13230afc68258043ecc1fd02b3f04b58f185a088fab586fe2657477637c6"
+    },
+    {
+      "id": "7e1bad7a80fd:n12",
+      "pregunta": "7e1bad7a80fd:n7",
+      "solucion_sha256": "fdf1ec165405d7fcaac62ddd5d86d8a494060d8adc8bfbe30c73873f7d6ec36b"
+    },
+    {
+      "id": "7e1bad7a80fd:n14",
+      "pregunta": "7e1bad7a80fd:n13",
+      "solucion_sha256": "ad1ec8dd246a00e445f4231f9066c8746c64b941e532326d0987edf8124a1eec"
+    },
+    {
+      "id": "7e1bad7a80fd:n15",
+      "pregunta": "7e1bad7a80fd:n13",
+      "solucion_sha256": "36b5586f9e4fbb96260878916ae778808765cf146f1737d485ec5bc73137b62f"
+    },
+    {
+      "id": "7e1bad7a80fd:n16",
+      "pregunta": "7e1bad7a80fd:n13",
+      "solucion_sha256": "5c1881aeed663af554a10f62fc406af2562fa5844e2dd1250118bf16e965b3eb"
+    },
+    {
+      "id": "7e1bad7a80fd:n17",
+      "pregunta": "7e1bad7a80fd:n13",
+      "solucion_sha256": "190ab2f3ae3050528e2741da70ec8f29902fd3aea05cec848269bf8905d41462"
+    },
+    {
+      "id": "7e1bad7a80fd:n20",
+      "pregunta": "7e1bad7a80fd:n19",
+      "solucion_sha256": "ed3717eea4075b25da86b2969ae6d4e7ca0324d69b710ce1ea28961d607766ce"
+    },
+    {
+      "id": "7e1bad7a80fd:n21",
+      "pregunta": "7e1bad7a80fd:n19",
+      "solucion_sha256": "bb1fa6f229af98d8c6c6102f2f58493f334e2247e75bd64a6ebcf21e6e2bb546"
+    },
+    {
+      "id": "7e1bad7a80fd:n22",
+      "pregunta": "7e1bad7a80fd:n19",
+      "solucion_sha256": "2909e1e316f3cc83382cf5af91be064e9aea9839bf735cfc73e0a3a025a59f4d"
+    },
+    {
+      "id": "7e1bad7a80fd:n23",
+      "pregunta": "7e1bad7a80fd:n19",
+      "solucion_sha256": "cdc2b65315860b135702aa7ac2e2968300bf5c9ee6746e1daed94391efc68911"
+    },
+    {
+      "id": "7e1bad7a80fd:n25",
+      "pregunta": "7e1bad7a80fd:n24",
+      "solucion_sha256": "eb75ea39b45fa12c99dbbed481fef8331452dec68f6dc181116663541efea1ee"
+    },
+    {
+      "id": "7e1bad7a80fd:n26",
+      "pregunta": "7e1bad7a80fd:n24",
+      "solucion_sha256": "2a7afe4fbdbae10897827ef099cfae37a81b5959161d15971a433d1d73434326"
+    },
+    {
+      "id": "7e1bad7a80fd:n27",
+      "pregunta": "7e1bad7a80fd:n24",
+      "solucion_sha256": "ac5b5bb56df0c30d902b20786b686535d4e8df8a2fe931ed96d94f205a790466"
+    },
+    {
+      "id": "7e1bad7a80fd:n28",
+      "pregunta": "7e1bad7a80fd:n24",
+      "solucion_sha256": "3d1a1e2ffc3e7b6e1eb64706aa8e4d6a94af62003ee8728f81f036066b46cabd"
+    },
+    {
+      "id": "7e1bad7a80fd:n31",
+      "pregunta": "7e1bad7a80fd:n30",
+      "solucion_sha256": "53de329ba74f795e75e5b97c8239bcf3b089b47b3458ece34791a0c3e4dc6376"
+    },
+    {
+      "id": "7e1bad7a80fd:n32",
+      "pregunta": "7e1bad7a80fd:n30",
+      "solucion_sha256": "8c0263262080ff2cd26b7a96c59882d8a1fdbe3042b0f159fa6fb1c86e900a22"
+    },
+    {
+      "id": "7e1bad7a80fd:n33",
+      "pregunta": "7e1bad7a80fd:n30",
+      "solucion_sha256": "2f0b4372c5e3223165b081b2991dd7d81f66a352c5616a539432b69ccd058ea5"
+    },
+    {
+      "id": "7e1bad7a80fd:n35",
+      "pregunta": "7e1bad7a80fd:n34",
+      "solucion_sha256": "9b25d5b380f6a69b1e6d2076dc6be29851d467d167b065f262d94e143c8eed42"
+    },
+    {
+      "id": "7e1bad7a80fd:n36",
+      "pregunta": "7e1bad7a80fd:n34",
+      "solucion_sha256": "22747290462fe318d250322915146892d75f6871012b8340893378febc5e5c13"
+    },
+    {
+      "id": "7e1bad7a80fd:n37",
+      "pregunta": "7e1bad7a80fd:n34",
+      "solucion_sha256": "54c1c1cbad4672cf56d92e73b5f53459192fdf38b018f2e445dcf1ec10e22bb8"
+    },
+    {
+      "id": "873535963f9d:n2",
+      "pregunta": "873535963f9d:n2",
+      "solucion_sha256": "451e45e9af13976dd1ac3549d060a8211deabfcb68e1f1760fd5a142fcacb80e"
+    },
+    {
+      "id": "873535963f9d:n3",
+      "pregunta": "873535963f9d:n3",
+      "solucion_sha256": "8305a9c5d4be44dcc334229f6701690c1b40c58975092be66b87919274937bca"
+    },
+    {
+      "id": "873535963f9d:n5",
+      "pregunta": "873535963f9d:n4",
+      "solucion_sha256": "a2c52a8cac54ac273802eca2e1126536976988d4a6cfe0a5392a562e9f4f507a"
+    },
+    {
+      "id": "873535963f9d:n6",
+      "pregunta": "873535963f9d:n4",
+      "solucion_sha256": "8b9b07ee393a0bd2065dfd2d60cfa8e63eb9247d004f161e9a4b8ebd96d6c754"
+    },
+    {
+      "id": "873535963f9d:n8",
+      "pregunta": "873535963f9d:n7",
+      "solucion_sha256": "997a0a2fe73a98d9097f407710834b3570ec6f1210c55ab5dec807a00d27a0af"
+    },
+    {
+      "id": "873535963f9d:n11",
+      "pregunta": "873535963f9d:n11",
+      "solucion_sha256": "e2637f37f0a108ea1fcb4d9f77b486cce1b1622023c73049b60a3dfc3ef8f4d9"
+    },
+    {
+      "id": "873535963f9d:n12",
+      "pregunta": "873535963f9d:n12",
+      "solucion_sha256": "81c4be6b46d39f2edc09fb629f7cf46a91a565a33842ea6297183879dba75c03"
+    },
+    {
+      "id": "873535963f9d:n14",
+      "pregunta": "873535963f9d:n13",
+      "solucion_sha256": "201095b45fc55fdf2f6550bcd316366a2e266e00cb9301ff5b6cfd0515835e2d"
+    },
+    {
+      "id": "873535963f9d:n15",
+      "pregunta": "873535963f9d:n13",
+      "solucion_sha256": "fc4ed5c5abf4eb67ac007dfdf84f0170d6fac7162234c267676af04155ff2984"
+    },
+    {
+      "id": "873535963f9d:n17",
+      "pregunta": "873535963f9d:n16",
+      "solucion_sha256": "fd61d0158eac0febc6ce5d67b5c4070e4a9616cce938eefe5b81f41e228bf791"
+    },
+    {
+      "id": "8f1700eef6e5:n2",
+      "pregunta": "8f1700eef6e5:n2",
+      "solucion_sha256": "b04279d079f5a1c6e70a18428e523fc289a02ded359a593c7c147a0aade3675f"
+    },
+    {
+      "id": "8f1700eef6e5:n3",
+      "pregunta": "8f1700eef6e5:n3",
+      "solucion_sha256": "9d58dfb514e636ed098a91e43072e5650e2367d8fefbfd18f9345641cf7cc892"
+    },
+    {
+      "id": "8f1700eef6e5:n4",
+      "pregunta": "8f1700eef6e5:n4",
+      "solucion_sha256": "292a90017c5f5a847db8961beb38b4ea7393f3245401c84e5cc55efc4120cacc"
+    },
+    {
+      "id": "8f1700eef6e5:n6",
+      "pregunta": "8f1700eef6e5:n5",
+      "solucion_sha256": "6269d36c6a74aaf162393fd8c6b6b43700a3e56afe34de414d65f34c059f17d5"
+    },
+    {
+      "id": "8f1700eef6e5:n9",
+      "pregunta": "8f1700eef6e5:n9",
+      "solucion_sha256": "fc6e4637c117a6ca29e5df9bd63e7d0f27efdc2c99a57d0ef4b983fec858a86d"
+    },
+    {
+      "id": "8f1700eef6e5:n10",
+      "pregunta": "8f1700eef6e5:n10",
+      "solucion_sha256": "d4deeb18bf6106ae775b1b61ae82e65bbc4a8cfa62ca7b89f8af51eb9deace05"
+    },
+    {
+      "id": "8f1700eef6e5:n11",
+      "pregunta": "8f1700eef6e5:n11",
+      "solucion_sha256": "798c5f467fa8a3e0ce5ed8e0cad2ba8bdc8a2c70179045420ebeace65e6e7c80"
+    },
+    {
+      "id": "8f1700eef6e5:n13",
+      "pregunta": "8f1700eef6e5:n12",
+      "solucion_sha256": "90cf28b02d8d836efae9b314db432e3e8235e8cb9607610b40e59aa0f23f9fdf"
+    },
+    {
+      "id": "929807ad22eb:n3",
+      "pregunta": "929807ad22eb:n2",
+      "solucion_sha256": "0c2b697660fa4d84a4772e78d8768efcd162126e04bb6b9f2da05c75c10ce957"
+    },
+    {
+      "id": "929807ad22eb:n4",
+      "pregunta": "929807ad22eb:n2",
+      "solucion_sha256": "0ef806c9b99ebf23a39e5a6873e420d492c061ad6feb61b87803ecc95c896471"
+    },
+    {
+      "id": "929807ad22eb:n5",
+      "pregunta": "929807ad22eb:n5",
+      "solucion_sha256": "b1bb7558d46654f088fc380d3f8140cccb1b6ae4ff69b140084e7e14b8a09249"
+    },
+    {
+      "id": "929807ad22eb:n8",
+      "pregunta": "929807ad22eb:n7",
+      "solucion_sha256": "40010fa382e8024d6491d45c56423aa04338673df5ff69e2052e27f7797fdd21"
+    },
+    {
+      "id": "929807ad22eb:n9",
+      "pregunta": "929807ad22eb:n7",
+      "solucion_sha256": "ab4cdd9305a56aa89cea42c03e85b3cd13b76bbdeec2dc35f2d4f60e01b56ef9"
+    },
+    {
+      "id": "929807ad22eb:n10",
+      "pregunta": "929807ad22eb:n7",
+      "solucion_sha256": "44e5b77a76b6cf070b24c8783fa054114d261e2c635161767548938b38e0b9ca"
+    },
+    {
+      "id": "929807ad22eb:n12",
+      "pregunta": "929807ad22eb:n11",
+      "solucion_sha256": "b442bb3c0808c0c23c07f76bf4ecad3ee488e11a92ef15a731ccba6e97b6f10c"
+    },
+    {
+      "id": "929807ad22eb:n13",
+      "pregunta": "929807ad22eb:n11",
+      "solucion_sha256": "a2d54c297dd790e1cbe2b396cda4bd4bcfb3e01a0893c63ebcd36b5840ea05b4"
+    },
+    {
+      "id": "929807ad22eb:n14",
+      "pregunta": "929807ad22eb:n11",
+      "solucion_sha256": "058953bfd6383b5e9b80bffe99bfb539679c83803c72b4d626d4ef287609358e"
+    },
+    {
+      "id": "929807ad22eb:n16",
+      "pregunta": "929807ad22eb:n15",
+      "solucion_sha256": "33dccdde34c8abbe65b771640dcaffcfdf1773b7a7e6a2299b5fe4078102286b"
+    },
+    {
+      "id": "929807ad22eb:n17",
+      "pregunta": "929807ad22eb:n15",
+      "solucion_sha256": "37d95a822d4e0e06f7543d64f4e495243591b8ddbc5d324c567b29e69a973946"
+    },
+    {
+      "id": "929807ad22eb:n18",
+      "pregunta": "929807ad22eb:n15",
+      "solucion_sha256": "34564df6cd8d5029f3cf8d9e3d450d08bcc6d3bded33123fe8f0b40c5ea9a4de"
+    },
+    {
+      "id": "929807ad22eb:n20",
+      "pregunta": "929807ad22eb:n19",
+      "solucion_sha256": "a9cdc6bf186a5baa2ddc7519c88fe6c475d628ea60697135ac1ea1feed890481"
+    },
+    {
+      "id": "929807ad22eb:n21",
+      "pregunta": "929807ad22eb:n19",
+      "solucion_sha256": "87825dcb4ee43a46c387e0782775c73de5b4c372c62fadc5c3321c8424392302"
+    },
+    {
+      "id": "929807ad22eb:n22",
+      "pregunta": "929807ad22eb:n19",
+      "solucion_sha256": "e532b3bf66cbec85e3d7fca295ccc102424310550673380a38ed1370dbfe6081"
+    },
+    {
+      "id": "929807ad22eb:n23",
+      "pregunta": "929807ad22eb:n23",
+      "solucion_sha256": "5746fd0680c05fc94b50f4f14a5b9c385efef27d7edaf3443135afba8b39a658"
+    },
+    {
+      "id": "929807ad22eb:n25",
+      "pregunta": "929807ad22eb:n24",
+      "solucion_sha256": "00bba46ad7aa40429a8d8f17d18599a6c6952a7f05d91ec571acbe36d30c712a"
+    },
+    {
+      "id": "929807ad22eb:n26",
+      "pregunta": "929807ad22eb:n24",
+      "solucion_sha256": "15ce4587557a9a9306fbcaabd02ad8d8ba4193a65923bdce912ff71fb5b4c923"
+    },
+    {
+      "id": "929807ad22eb:n27",
+      "pregunta": "929807ad22eb:n24",
+      "solucion_sha256": "ee2733b3c2ddb1f45477dfb1825ace61b846f54a1e947d120d70df41cd1c0b47"
+    },
+    {
+      "id": "929807ad22eb:n28",
+      "pregunta": "929807ad22eb:n28",
+      "solucion_sha256": "ca70b1853af41d56bb9fc40a0873d70c8766ae86246b509b8490c00a07829e76"
+    },
+    {
+      "id": "929807ad22eb:n29",
+      "pregunta": "929807ad22eb:n29",
+      "solucion_sha256": "25d5e65b71449f82703430dec866f61f4cbe54dd1dbe2f9bfa18a576f9f68f66"
+    },
+    {
+      "id": "929807ad22eb:n30",
+      "pregunta": "929807ad22eb:n30",
+      "solucion_sha256": "2b333b1486882751387e223352128ea727adc7488064e2c640eb16c4a05d49bd"
+    },
+    {
+      "id": "929807ad22eb:n31",
+      "pregunta": "929807ad22eb:n31",
+      "solucion_sha256": "0827cacc464343e518a70d8e904366b4264e6a4ebd4f727e417961a0c27cba13"
+    },
+    {
+      "id": "98f921b58193:n2",
+      "pregunta": "98f921b58193:n2",
+      "solucion_sha256": "e37e9c6aa87aecb1b4bda131bfec99a85ef7c8b26e1d38b48228a034ba4408eb"
+    },
+    {
+      "id": "98f921b58193:n3",
+      "pregunta": "98f921b58193:n3",
+      "solucion_sha256": "07a9e68b644609609c7f83acb22a36dd1e6eee6f32776ee69c1634b1f1e39cc6"
+    },
+    {
+      "id": "98f921b58193:n6",
+      "pregunta": "98f921b58193:n5",
+      "solucion_sha256": "167844ce9884243c2e6fb20be09a2ae3cc170add8e5cf2e5565aac3fc8f06a49"
+    },
+    {
+      "id": "98f921b58193:n7",
+      "pregunta": "98f921b58193:n5",
+      "solucion_sha256": "eb956d718986044ffdf719e0dc6161cfa251823a423f9af4594c80c0ec2f3596"
+    },
+    {
+      "id": "98f921b58193:n9",
+      "pregunta": "98f921b58193:n9",
+      "solucion_sha256": "49d9da149270b415ab5075b1566b509bd629039b600725ab6b5ed78543a227ff"
+    },
+    {
+      "id": "98f921b58193:n10",
+      "pregunta": "98f921b58193:n10",
+      "solucion_sha256": "2f77371ec0527836e7317b91dfdc124f60f13a4c340f4df05f52ffd78785c856"
+    },
+    {
+      "id": "98f921b58193:n11",
+      "pregunta": "98f921b58193:n11",
+      "solucion_sha256": "6e3c1728b8bbc8a62c0f836b0fc00f98d7c4da804b3843ed4fcd25e3143e4048"
+    },
+    {
+      "id": "98f921b58193:n13",
+      "pregunta": "98f921b58193:n12",
+      "solucion_sha256": "3a1e4498403699a7dc713538589ddb790e24f01a3f9ee72d2d3a8a2a57d602b5"
+    },
+    {
+      "id": "98f921b58193:n14",
+      "pregunta": "98f921b58193:n12",
+      "solucion_sha256": "ecbbcdbdd82fe83fc6068e9bc82c051878dd89fc7809a17f58a9014f74cd7f7d"
+    },
+    {
+      "id": "9c4cbc92103b:n3",
+      "pregunta": "9c4cbc92103b:n2",
+      "solucion_sha256": "8951920aea257e96b09b44979b3d2f50ae3fa525ddf1c8f2959b58adc71243b0"
+    },
+    {
+      "id": "9c4cbc92103b:n4",
+      "pregunta": "9c4cbc92103b:n2",
+      "solucion_sha256": "8951920aea257e96b09b44979b3d2f50ae3fa525ddf1c8f2959b58adc71243b0"
+    },
+    {
+      "id": "9c4cbc92103b:n5",
+      "pregunta": "9c4cbc92103b:n2",
+      "solucion_sha256": "9475b9f55a42bac5648aec8226b3043eff04ce7560254ce668680cb2ce21a089"
+    },
+    {
+      "id": "9c4cbc92103b:n6",
+      "pregunta": "9c4cbc92103b:n2",
+      "solucion_sha256": "9475b9f55a42bac5648aec8226b3043eff04ce7560254ce668680cb2ce21a089"
+    },
+    {
+      "id": "9c4cbc92103b:n8",
+      "pregunta": "9c4cbc92103b:n7",
+      "solucion_sha256": "f14ed0dcc4e8ea6e96d0c6c4b6d674c9166e5bd7f935cfd2ed64b1cf5c05ab01"
+    },
+    {
+      "id": "9c4cbc92103b:n9",
+      "pregunta": "9c4cbc92103b:n7",
+      "solucion_sha256": "a53ee76c9df8162af0c69ece10279405e51f3ef02fd4b1387668b9bb7504651a"
+    },
+    {
+      "id": "9c4cbc92103b:n10",
+      "pregunta": "9c4cbc92103b:n7",
+      "solucion_sha256": "75995b4d67806c45329f4a7a63b8afbb3acc018d5b204f373b848580a0bd7e0b"
+    },
+    {
+      "id": "9c4cbc92103b:n12",
+      "pregunta": "9c4cbc92103b:n11",
+      "solucion_sha256": "edaa0e6b6419c69b3a4f18a4f86ed410544f8efc6b60bf60ed70c683832cdf24"
+    },
+    {
+      "id": "9c4cbc92103b:n14",
+      "pregunta": "9c4cbc92103b:n11",
+      "solucion_sha256": "86e898598669fe525aaa4258a96b5f5ad4b275964618c26d0b612d44ed9c17e0"
+    },
+    {
+      "id": "9c4cbc92103b:n18",
+      "pregunta": "9c4cbc92103b:n17",
+      "solucion_sha256": "b50ffcd6ae86b41e890539022712e5420f844d26d9d7fc221704961a720d1d36"
+    },
+    {
+      "id": "9c4cbc92103b:n19",
+      "pregunta": "9c4cbc92103b:n17",
+      "solucion_sha256": "a598d5b8c4e0600907af5fc40bfec73d4edc9f040fd76e4b03836d977e3b592e"
+    },
+    {
+      "id": "9c4cbc92103b:n22",
+      "pregunta": "9c4cbc92103b:n21",
+      "solucion_sha256": "370c6012873524c6c12acf133fd906c1dc7e7ef4d32713c7d66a0bbe71347a08"
+    },
+    {
+      "id": "9c4cbc92103b:n23",
+      "pregunta": "9c4cbc92103b:n21",
+      "solucion_sha256": "f74ea2252a9e88c9b76cb5a0dd843fdfea1d114ade5b6d99801a0cb1db4b0429"
+    },
+    {
+      "id": "9c4cbc92103b:n24",
+      "pregunta": "9c4cbc92103b:n21",
+      "solucion_sha256": "02b5a8f6057477957f71a4e1f28c219fe818dc306c807d86d972938bbf7afb56"
+    },
+    {
+      "id": "9c4cbc92103b:n26",
+      "pregunta": "9c4cbc92103b:n25",
+      "solucion_sha256": "c2441fde3ac84522d883d1376860756967c1c0b504cea3f6e12cc3e8f70f0540"
+    },
+    {
+      "id": "9c4cbc92103b:n27",
+      "pregunta": "9c4cbc92103b:n25",
+      "solucion_sha256": "dbf40cb0a49dd42bee15943c37aaea360f10f8a7c793f643802ec7c94ce490f7"
+    },
+    {
+      "id": "9c4cbc92103b:n28",
+      "pregunta": "9c4cbc92103b:n25",
+      "solucion_sha256": "48b1c756bc4efde1014a260224496c2cec08f36f5301f779b59ec267dd0bbb1e"
+    },
+    {
+      "id": "9e8570ee562e:n4",
+      "pregunta": "9e8570ee562e:n3",
+      "solucion_sha256": "e59e8f44d2da799244b625330ecc867ed68f29b8b49bf2547467f7fa76b2b738"
+    },
+    {
+      "id": "9e8570ee562e:n5",
+      "pregunta": "9e8570ee562e:n3",
+      "solucion_sha256": "1701b185a13618ab3ac27380feb94bfeb12dc11311b8d8ca812e623d8c57f65b"
+    },
+    {
+      "id": "9e8570ee562e:n8",
+      "pregunta": "9e8570ee562e:n7",
+      "solucion_sha256": "88de0bd95b014e988c466bd7544a6b2219d1fc249aab03de2361905f67a1e90a"
+    },
+    {
+      "id": "9e8570ee562e:n14",
+      "pregunta": "9e8570ee562e:n13",
+      "solucion_sha256": "d2837d076c983a381fdd8fff7a6cacabe0a84bcce973147a199591e53fc07019"
+    },
+    {
+      "id": "9e8570ee562e:n15",
+      "pregunta": "9e8570ee562e:n13",
+      "solucion_sha256": "b427de457ac03ede6e3de728397127dc458eaccae2671c6fdcc8d241424dbeb2"
+    },
+    {
+      "id": "9e8570ee562e:n18",
+      "pregunta": "9e8570ee562e:n17",
+      "solucion_sha256": "7c0edcd795525ce675fccb0043dc6ca1cf980e10d53fa2ca8d4d4b40b68e73da"
+    },
+    {
+      "id": "9e8570ee562e:n19",
+      "pregunta": "9e8570ee562e:n17",
+      "solucion_sha256": "8db0e6576ffe48f69eb3c7f150866e958ac5af066682b516dca5dd771ae10a6a"
+    },
+    {
+      "id": "9e8570ee562e:n23",
+      "pregunta": "9e8570ee562e:n22",
+      "solucion_sha256": "6684dbd26060ad113057e2b04f5a1d0bc4219bbab1d8a8a419c10517593b8519"
+    },
+    {
+      "id": "9e8570ee562e:n24",
+      "pregunta": "9e8570ee562e:n22",
+      "solucion_sha256": "e8c0f8eab8c5ee243fc14a6bb49777ed601c2bfa8434386e1f588a694ab56ce9"
+    },
+    {
+      "id": "9e8570ee562e:n25",
+      "pregunta": "9e8570ee562e:n25",
+      "solucion_sha256": "2c5b1a16a27565cc049ea6e24d01683ca44ac543cbaf8afb70fd7b5b1193bb73"
+    },
+    {
+      "id": "9e8570ee562e:n26",
+      "pregunta": "9e8570ee562e:n25",
+      "solucion_sha256": "c098568db68ba7adc9a70cb17ee39d925a443e284ad85e9e9c0fd422c8ab9070"
+    },
+    {
+      "id": "9e8570ee562e:n27",
+      "pregunta": "9e8570ee562e:n25",
+      "solucion_sha256": "b99d58a4cdb53f4602bbd325c35d58755d5d486ef462115d77f5e44bf01a27ee"
+    },
+    {
+      "id": "a2af56a74785:n2",
+      "pregunta": "a2af56a74785:n2",
+      "solucion_sha256": "b4a60aa2053e53e26fd4b7a13803054cb6217edb64c48be4277303314cc97f37"
+    },
+    {
+      "id": "a2af56a74785:n3",
+      "pregunta": "a2af56a74785:n3",
+      "solucion_sha256": "791e3faa85f804107c02d93608a498c5ab3126de347fc2129e53b49cceecd48d"
+    },
+    {
+      "id": "a2af56a74785:n4",
+      "pregunta": "a2af56a74785:n4",
+      "solucion_sha256": "b91b0430cdcedc9b50d7ef06da8283a4fdb0a0ee1fea72449058e609ddfaeffa"
+    },
+    {
+      "id": "a2af56a74785:n5",
+      "pregunta": "a2af56a74785:n5",
+      "solucion_sha256": "f7b14e409587c34fb28e3b6ed3f59ce779c0ea23f13d373b29c39824e8eae69a"
+    },
+    {
+      "id": "a2af56a74785:n8",
+      "pregunta": "a2af56a74785:n8",
+      "solucion_sha256": "63b141ea27e1699fcdecd2608484aced45a6ed01fc6689e1b41de0817f7631f5"
+    },
+    {
+      "id": "a2af56a74785:n9",
+      "pregunta": "a2af56a74785:n9",
+      "solucion_sha256": "464570d27eeb011feb67f9206ea5e2d17ccb8ca9a7fb71f0eea8eb4d91efac9a"
+    },
+    {
+      "id": "a2af56a74785:n11",
+      "pregunta": "a2af56a74785:n11",
+      "solucion_sha256": "4b2d6368210556337c5f23cc57277128449e675172110b282ea9145818ac0ca3"
+    },
+    {
+      "id": "a2af56a74785:n12",
+      "pregunta": "a2af56a74785:n12",
+      "solucion_sha256": "a2b81655c2528b4427d5b513677ec202aaf5ed95621d8753a864a33310cf2843"
+    },
+    {
+      "id": "a2af56a74785:n15",
+      "pregunta": "a2af56a74785:n15",
+      "solucion_sha256": "5dc58a598a46350f4d0c93ebecdac851958a1dd86984fdbd940be1464c9857e9"
+    },
+    {
+      "id": "a2af56a74785:n16",
+      "pregunta": "a2af56a74785:n16",
+      "solucion_sha256": "fe6b636428ed9ec8b5ebe8ecc75639f4c1a1e0d4880d0054207002ff33302d5a"
+    },
+    {
+      "id": "a2af56a74785:n18",
+      "pregunta": "a2af56a74785:n18",
+      "solucion_sha256": "0a240db3a2338b8199982c9f827cd4f804a1274a5bc9724b3150190da4b0a14f"
+    },
+    {
+      "id": "a2af56a74785:n19",
+      "pregunta": "a2af56a74785:n19",
+      "solucion_sha256": "3ecd05253d6f46444d52dd2f78085d80ed3fc872f499d08080af8026b21f7c1c"
+    },
+    {
+      "id": "a2af56a74785:n23",
+      "pregunta": "a2af56a74785:n22",
+      "solucion_sha256": "cb69bcec3799ff02ca14093d6a13f5e2d65821c8ff87ce2e14efcbb110de9825"
+    },
+    {
+      "id": "a2af56a74785:n24",
+      "pregunta": "a2af56a74785:n22",
+      "solucion_sha256": "93fe2ac2efb831572b77a00932fcd725554ad99760217139c09faaa1449feb1b"
+    },
+    {
+      "id": "a2af56a74785:n25",
+      "pregunta": "a2af56a74785:n22",
+      "solucion_sha256": "773dc86c7ce6bd52426344280848086f6adaecc7a63f59ba91f84526448306ba"
+    },
+    {
+      "id": "a2af56a74785:n26",
+      "pregunta": "a2af56a74785:n26",
+      "solucion_sha256": "c1589bd0f9d589c51eaca57e97f17fcb74be9f79df19a581f64417f77feba63d"
+    },
+    {
+      "id": "a2af56a74785:n28",
+      "pregunta": "a2af56a74785:n28",
+      "solucion_sha256": "50b66b73202ed992ff1751b1050e595e92c1ec19a24f84bf01e4ce612a312a12"
+    },
+    {
+      "id": "a2af56a74785:n29",
+      "pregunta": "a2af56a74785:n29",
+      "solucion_sha256": "737b71df8cf2fb15e65ea09f1c89337d1e8f28f4b3901bb160284ca8fa09a5f4"
+    },
+    {
+      "id": "a2af56a74785:n32",
+      "pregunta": "a2af56a74785:n32",
+      "solucion_sha256": "6630219fbf5cc853d84c92822308d27d1a2a06ef5e59ed7025e6ebc36b045054"
+    },
+    {
+      "id": "a2af56a74785:n33",
+      "pregunta": "a2af56a74785:n33",
+      "solucion_sha256": "7a66c2b13052af9ea236bc409f7e43838277f7f26009ad8292be75a4fba1f8fa"
+    },
+    {
+      "id": "a2af56a74785:n36",
+      "pregunta": "a2af56a74785:n35",
+      "solucion_sha256": "3774cfe264424a9a86d9eae592654e2ecddaab9ab5103bfec302bb3e15c89792"
+    },
+    {
+      "id": "a2af56a74785:n37",
+      "pregunta": "a2af56a74785:n35",
+      "solucion_sha256": "8863ddab3797852fefd3f968986c2b9dacb1baa35ef2ee07c37968ae25704415"
+    },
+    {
+      "id": "a2af56a74785:n38",
+      "pregunta": "a2af56a74785:n38",
+      "solucion_sha256": "d52c0d7cd6d9ecff89915aebceb53d72d177bcaca2ed4a140d745b1811fa1640"
+    },
+    {
+      "id": "a64fafe8c661:n2",
+      "pregunta": "a64fafe8c661:n2",
+      "solucion_sha256": "02ac1906c0f03005f2dfeb0b1f283727f9c7ed3af8ab25a69fe287bcb2157712"
+    },
+    {
+      "id": "a64fafe8c661:n3",
+      "pregunta": "a64fafe8c661:n3",
+      "solucion_sha256": "9e69f256b91f215f8625a8077608572aec97b8a30b1039283f81ea466a93b24f"
+    },
+    {
+      "id": "a64fafe8c661:n5",
+      "pregunta": "a64fafe8c661:n4",
+      "solucion_sha256": "6bc3dec75d416ffbe470859652d59f2b64dfc5794df76029f2a64eff7ed3d150"
+    },
+    {
+      "id": "a64fafe8c661:n6",
+      "pregunta": "a64fafe8c661:n4",
+      "solucion_sha256": "cda11e6c7796afd8af21a39ac43d53f022c9b8a9095a6aaf546d2c8b611ce6d6"
+    },
+    {
+      "id": "a64fafe8c661:n7",
+      "pregunta": "a64fafe8c661:n7",
+      "solucion_sha256": "6e639d3e47544f45ce564f397b69929a5625449ea2328a06d5dc9e434d821e6e"
+    },
+    {
+      "id": "a64fafe8c661:n9",
+      "pregunta": "a64fafe8c661:n9",
+      "solucion_sha256": "ddc7d9518f20db200dcd090458c345cb61a2c6de154b41eebe18f1371613a7e3"
+    },
+    {
+      "id": "a64fafe8c661:n10",
+      "pregunta": "a64fafe8c661:n10",
+      "solucion_sha256": "05c2d8126804e3c09250d5b9d8c1738ac7cbe3505b5999115fc4d1e6b6a5df5e"
+    },
+    {
+      "id": "a64fafe8c661:n12",
+      "pregunta": "a64fafe8c661:n11",
+      "solucion_sha256": "8b9b8f63c44f0f4dd8414e57158d7b528c9ce954c080f43e55d402a0566a3672"
+    },
+    {
+      "id": "a64fafe8c661:n13",
+      "pregunta": "a64fafe8c661:n11",
+      "solucion_sha256": "8910ac4e2b39bc640123e75892921d13e9af5d5157915086a60ea2820da40f11"
+    },
+    {
+      "id": "a64fafe8c661:n15",
+      "pregunta": "a64fafe8c661:n14",
+      "solucion_sha256": "20c73c5b666da84b95b0ae217a72046ea2c65c3283ef404c590d598707080d3c"
+    },
+    {
+      "id": "a64fafe8c661:n16",
+      "pregunta": "a64fafe8c661:n14",
+      "solucion_sha256": "c2e2ed0118084f67bbd8745dbb1bdb3ac7c0ea8208252d287e9355a7d1d65bea"
+    },
+    {
+      "id": "acbda9a58213:n1",
+      "pregunta": "acbda9a58213:n1",
+      "solucion_sha256": "a91dcce6abc5f09fdcf7d036283a66217640d17a45720055cd63aaba91d70aea"
+    },
+    {
+      "id": "acbda9a58213:n3",
+      "pregunta": "acbda9a58213:n2",
+      "solucion_sha256": "17175c16e44adae00fb1c698ce342f937a8cd2fc0fbc3613d011c248db5d861f"
+    },
+    {
+      "id": "acbda9a58213:n4",
+      "pregunta": "acbda9a58213:n2",
+      "solucion_sha256": "7eb38bb90d4859b25a458122fa1f3f54eee980911a4c3369917f161dc349bf95"
+    },
+    {
+      "id": "acbda9a58213:n6",
+      "pregunta": "acbda9a58213:n5",
+      "solucion_sha256": "776ca2c8aa1db7f39d2a253726b877d81bbafcb0f72a39ef56676e1be2c8272c"
+    },
+    {
+      "id": "acbda9a58213:n7",
+      "pregunta": "acbda9a58213:n5",
+      "solucion_sha256": "acef4ac5e3dbed527cc1ece4b6c4fe7c4e6a8770a56077b9f5be774d81043fc9"
+    },
+    {
+      "id": "acbda9a58213:n8",
+      "pregunta": "acbda9a58213:n5",
+      "solucion_sha256": "b905554307c214496eeeb0d1dc93fcf8b1fce858b315ab8ca3af3ab05299337a"
+    },
+    {
+      "id": "acbda9a58213:n9",
+      "pregunta": "acbda9a58213:n5",
+      "solucion_sha256": "d306e49807da1db7f5c13f74cf901699bef3dca1a86a14eb6ba315047cce73b6"
+    },
+    {
+      "id": "acbda9a58213:n12",
+      "pregunta": "acbda9a58213:n11",
+      "solucion_sha256": "10ce7521ae4af00886d53c7f2d0181056638477221f62aeeaef019cfd6861809"
+    },
+    {
+      "id": "acbda9a58213:n13",
+      "pregunta": "acbda9a58213:n11",
+      "solucion_sha256": "b0d6d86d3c5fabb5c2a0153a4c9dbd947989b58618b4d5e87fbedad3ff579acc"
+    },
+    {
+      "id": "acbda9a58213:n14",
+      "pregunta": "acbda9a58213:n11",
+      "solucion_sha256": "cce449b4914c9a5e8d4a59bc5667fe8f07305f0f6a9fb4927a63b05b0e6c2f2e"
+    },
+    {
+      "id": "acbda9a58213:n16",
+      "pregunta": "acbda9a58213:n15",
+      "solucion_sha256": "487c97bf9a8530e8370f852fd9d76dde21dd6315f57094eb853957415595c6ab"
+    },
+    {
+      "id": "acbda9a58213:n17",
+      "pregunta": "acbda9a58213:n15",
+      "solucion_sha256": "a3228d8a9f175597b171132605599bb8888b798da013acde4858916cc6fbf862"
+    },
+    {
+      "id": "acbda9a58213:n18",
+      "pregunta": "acbda9a58213:n15",
+      "solucion_sha256": "0e7979c9721681ecb12bfebff2925ae31831e0b731117ff7cdbc7e8097f2473b"
+    },
+    {
+      "id": "acbda9a58213:n20",
+      "pregunta": "acbda9a58213:n19",
+      "solucion_sha256": "718003ff64cca896ce3a4cd47265918f6a469ec48ff48619c1c09e33189fad4f"
+    },
+    {
+      "id": "acbda9a58213:n21",
+      "pregunta": "acbda9a58213:n19",
+      "solucion_sha256": "8b2f8c0f2f21010db2c49d0db8743ce8ee13f9697b0d27b6bbe5e840dc8a4116"
+    },
+    {
+      "id": "acbda9a58213:n22",
+      "pregunta": "acbda9a58213:n19",
+      "solucion_sha256": "e390395e881607c7ef9c133a62ec0c3daa0e16419bacaf8d16b6661ae897894b"
+    },
+    {
+      "id": "acbda9a58213:n23",
+      "pregunta": "acbda9a58213:n19",
+      "solucion_sha256": "635544ecae750934465ae2666b76cc1a5a92dd595507348b750b6273267fd119"
+    },
+    {
+      "id": "b3ab481497c0:n2",
+      "pregunta": "b3ab481497c0:n2",
+      "solucion_sha256": "1fee9efdd963fb463fc27b20537c40a67695ce885cc4b96a58f7543802e2cd14"
+    },
+    {
+      "id": "b3ab481497c0:n3",
+      "pregunta": "b3ab481497c0:n3",
+      "solucion_sha256": "e9edb467263b3e2090ef70ddd21c20f1c577cda9768052d71d2bdd4770bfbdca"
+    },
+    {
+      "id": "b3ab481497c0:n4",
+      "pregunta": "b3ab481497c0:n4",
+      "solucion_sha256": "73e3797bc090cb79fed760f9c78fd44c5f2392977db84681c2ec7bf830459ec8"
+    },
+    {
+      "id": "b3ab481497c0:n6",
+      "pregunta": "b3ab481497c0:n5",
+      "solucion_sha256": "165ae0d916cb20257372d3c7eedc9b223478363738f7c5fdbd984ec46648af82"
+    },
+    {
+      "id": "b3ab481497c0:n7",
+      "pregunta": "b3ab481497c0:n5",
+      "solucion_sha256": "da12504237e43967e1b4df60e9ef584272f610d56de554bf9e230dd862ff6c0d"
+    },
+    {
+      "id": "b3ab481497c0:n9",
+      "pregunta": "b3ab481497c0:n9",
+      "solucion_sha256": "675088b5593eb6977fd959f9426ef9c68e25102de3ba0ebc0823ae1caa7e8dd3"
+    },
+    {
+      "id": "b3ab481497c0:n10",
+      "pregunta": "b3ab481497c0:n10",
+      "solucion_sha256": "9030f01eef57a7530b675032d8526ee5edd03db5342978338b3e6d50fe23ce81"
+    },
+    {
+      "id": "b3ab481497c0:n11",
+      "pregunta": "b3ab481497c0:n11",
+      "solucion_sha256": "6aa90297cdda01a68333258e0325da54ac2cfc2ad9c813b5496564d5c7c37f97"
+    },
+    {
+      "id": "b3ab481497c0:n13",
+      "pregunta": "b3ab481497c0:n12",
+      "solucion_sha256": "11aa8847b21025eba9aad922e3d8ceadeb77089062d036f6eb6a44a7a8097278"
+    },
+    {
+      "id": "b3ab481497c0:n14",
+      "pregunta": "b3ab481497c0:n12",
+      "solucion_sha256": "b9307188e89c84fea901ff077cd7fce4834995c734a813582b2de963f8897034"
+    },
+    {
+      "id": "b5ab08876761:n2",
+      "pregunta": "b5ab08876761:n2",
+      "solucion_sha256": "2f1023bb0550f955c262b66f434d9427dbd0db7bb8c81a220613ddc86baab0a5"
+    },
+    {
+      "id": "b5ab08876761:n3",
+      "pregunta": "b5ab08876761:n3",
+      "solucion_sha256": "ee748a8132bf9e190ebba8effaad42bcacf94e49eac6071ad691bc1e92b79d19"
+    },
+    {
+      "id": "b5ab08876761:n4",
+      "pregunta": "b5ab08876761:n4",
+      "solucion_sha256": "b472ef2636f3153902ce550b3cf1f53a4315a47b5711ee21d2242df8334fda4b"
+    },
+    {
+      "id": "b5ab08876761:n6",
+      "pregunta": "b5ab08876761:n5",
+      "solucion_sha256": "00dee82225f0d0118cfbfdffd235ae28709ecf4ae19eebfb550d572777b7c537"
+    },
+    {
+      "id": "b5ab08876761:n9",
+      "pregunta": "b5ab08876761:n9",
+      "solucion_sha256": "1ddbfb0546a0a2abadf9955d0ffef4273248c262e1ef2229cfea31069ac5ccec"
+    },
+    {
+      "id": "b5ab08876761:n10",
+      "pregunta": "b5ab08876761:n10",
+      "solucion_sha256": "c86af8ab331612e1d9a9530d5181abe63745c16fed0cc8dfe92fabe5eaaec539"
+    },
+    {
+      "id": "b5ab08876761:n11",
+      "pregunta": "b5ab08876761:n11",
+      "solucion_sha256": "03dfbf29801fdad81b8faba27e6417683f7980065cc4075717e1eda6ef040e6c"
+    },
+    {
+      "id": "b5ab08876761:n13",
+      "pregunta": "b5ab08876761:n12",
+      "solucion_sha256": "0f9c8652c625438c7eaae3683fcfae5a76d41ccfa6ec48edfef4821eee02bebd"
+    },
+    {
+      "id": "b5ab08876761:n14",
+      "pregunta": "b5ab08876761:n12",
+      "solucion_sha256": "d1fcda75309281783209ee430c8a29078336a150e49c4c8c488af847e3b577f8"
+    },
+    {
+      "id": "b8bc434a54f5:n2",
+      "pregunta": "b8bc434a54f5:n2",
+      "solucion_sha256": "0086724f5991307aafd588a8e93c6c6c0d1fe0212d936dba0443767da26862b1"
+    },
+    {
+      "id": "b8bc434a54f5:n3",
+      "pregunta": "b8bc434a54f5:n3",
+      "solucion_sha256": "cccff05e4c8ed0e0e449cefc4a8e9ad188fec2424db45fb5ea0886cfc9ba680b"
+    },
+    {
+      "id": "b8bc434a54f5:n4",
+      "pregunta": "b8bc434a54f5:n4",
+      "solucion_sha256": "b86c1bcbfc90f4c59571dd5eadc0ed919db1a6f93efb41aaa8452cf2c1e54839"
+    },
+    {
+      "id": "b8bc434a54f5:n6",
+      "pregunta": "b8bc434a54f5:n5",
+      "solucion_sha256": "186f4f03aa5dc6157b1bf956602022cd82f01197d34f413c5ee62a3d2f2f93d6"
+    },
+    {
+      "id": "b8bc434a54f5:n9",
+      "pregunta": "b8bc434a54f5:n9",
+      "solucion_sha256": "0a1bf0a4e17fc8bc5f2e2cf2441573c176f68dca0e4a93d8b44597b71083d12a"
+    },
+    {
+      "id": "b8bc434a54f5:n10",
+      "pregunta": "b8bc434a54f5:n10",
+      "solucion_sha256": "9790cbcea9181acb9a8277bbd9c3fe3fc0e6e3afb785c9f77025efd5dd0d400e"
+    },
+    {
+      "id": "b8bc434a54f5:n11",
+      "pregunta": "b8bc434a54f5:n11",
+      "solucion_sha256": "a1615d9b7f41dbec744aacd33a75ad6ffafe1c6261e340b4ba1e7442c266480f"
+    },
+    {
+      "id": "b8bc434a54f5:n13",
+      "pregunta": "b8bc434a54f5:n12",
+      "solucion_sha256": "7e4370de742373d51cd61c4294e10cba47bb3a52f4ae116a428c9e064cbb4281"
+    },
+    {
+      "id": "be1849698853:n2",
+      "pregunta": "be1849698853:n2",
+      "solucion_sha256": "59939cc3c70df4689e1dcd0cf62f7a6f4558a65a51112f9906a9a5e96e292301"
+    },
+    {
+      "id": "be1849698853:n3",
+      "pregunta": "be1849698853:n3",
+      "solucion_sha256": "349ca02d41e3ec2ab7254e0235820f86f75f41eeb2bb4e5974821cdaafaa290a"
+    },
+    {
+      "id": "be1849698853:n5",
+      "pregunta": "be1849698853:n5",
+      "solucion_sha256": "46e0fccd5cf3528aba73516b673dc3a342bf843cb00c3bd8d4987dfca04a079c"
+    },
+    {
+      "id": "be1849698853:n7",
+      "pregunta": "be1849698853:n7",
+      "solucion_sha256": "611d076bca1c8c1cfc3d4a0224e902c5ed47bee9394abd6b8d790f0966eee6c3"
+    },
+    {
+      "id": "c1e0cd9998cb:n7",
+      "pregunta": "c1e0cd9998cb:n6",
+      "solucion_sha256": "c191a58cc7c1e653ef5ffad5a2ac522e8415b100909e9deccb0a9b2c4358bb65"
+    },
+    {
+      "id": "c1e0cd9998cb:n8",
+      "pregunta": "c1e0cd9998cb:n6",
+      "solucion_sha256": "e887a9dc564b96c4ec0144adeed7fc8a453b526999883ae0f051c0f21933c8fa"
+    },
+    {
+      "id": "c1e0cd9998cb:n9",
+      "pregunta": "c1e0cd9998cb:n6",
+      "solucion_sha256": "e887a9dc564b96c4ec0144adeed7fc8a453b526999883ae0f051c0f21933c8fa"
+    },
+    {
+      "id": "c1e0cd9998cb:n10",
+      "pregunta": "c1e0cd9998cb:n6",
+      "solucion_sha256": "c191a58cc7c1e653ef5ffad5a2ac522e8415b100909e9deccb0a9b2c4358bb65"
+    },
+    {
+      "id": "c1e0cd9998cb:n20",
+      "pregunta": "c1e0cd9998cb:n19",
+      "solucion_sha256": "91db673a1c83b35abc34daacf9e7e3108a729622fefdd7f57d2f615279e675c9"
+    },
+    {
+      "id": "c1e0cd9998cb:n21",
+      "pregunta": "c1e0cd9998cb:n19",
+      "solucion_sha256": "91db673a1c83b35abc34daacf9e7e3108a729622fefdd7f57d2f615279e675c9"
+    },
+    {
+      "id": "c1e0cd9998cb:n22",
+      "pregunta": "c1e0cd9998cb:n19",
+      "solucion_sha256": "91db673a1c83b35abc34daacf9e7e3108a729622fefdd7f57d2f615279e675c9"
+    },
+    {
+      "id": "c1e0cd9998cb:n23",
+      "pregunta": "c1e0cd9998cb:n19",
+      "solucion_sha256": "66998e20a3b704aa28f4c624b0efbeb17c357c79bbee3f102b61383f4a5370d4"
+    },
+    {
+      "id": "c1e0cd9998cb:n31",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "9e1816ea127978ecc31a5627050eb57b870aa4e3f91d210aabc9f7b40fcc80e1"
+    },
+    {
+      "id": "c1e0cd9998cb:n32",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "eef64997a6f58d8f38984ebcd25a22c874a25ff54f6b9ca77d14c8cc475f1735"
+    },
+    {
+      "id": "c1e0cd9998cb:n33",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "ee0f7b4a9f23337f13b4683d8323f824aa1ab091ddd30854017b9dcde20a5777"
+    },
+    {
+      "id": "c1e0cd9998cb:n35",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "72f6b10f0d9ee57d2e8742b70f243d872c5da0aac19f68ab133d464a1dbc5196"
+    },
+    {
+      "id": "c1e0cd9998cb:n36",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "73b9e68884fa1fe014342aa26bbb50d065f02fc946c4e00e78004f013e1a65ff"
+    },
+    {
+      "id": "c1e0cd9998cb:n37",
+      "pregunta": "c1e0cd9998cb:n30",
+      "solucion_sha256": "a63583f4c9484ce5462efefe33c2d0d05c9bf86a26e48d8f7cfc911434a67959"
+    },
+    {
+      "id": "c1e0cd9998cb:n39",
+      "pregunta": "c1e0cd9998cb:n38",
+      "solucion_sha256": "d7d69b4820cb85edda24408e32169571d51ddbccbb10a63c3c360daac3892be2"
+    },
+    {
+      "id": "c1e0cd9998cb:n40",
+      "pregunta": "c1e0cd9998cb:n38",
+      "solucion_sha256": "d9e28e33fbf77289682123967bbf6c1c69252e287bb98a881ba2da7c70a5a595"
+    },
+    {
+      "id": "c1e0cd9998cb:n41",
+      "pregunta": "c1e0cd9998cb:n38",
+      "solucion_sha256": "9f2f5ef02f5fffa57f7eea4b555996e383a5978f7232f982596558d4105df26b"
+    },
+    {
+      "id": "c1e0cd9998cb:n42",
+      "pregunta": "c1e0cd9998cb:n38",
+      "solucion_sha256": "33c7e23ef164c2e68040c6183a2d23a940957e3a835a1a64eed011dfdd77604f"
+    },
+    {
+      "id": "c1e0cd9998cb:n43",
+      "pregunta": "c1e0cd9998cb:n43",
+      "solucion_sha256": "cfb9ea0b50e305be278593495b7d1b57e8bba55b086fa2f92dcd2ba02236048d"
+    },
+    {
+      "id": "c1e0cd9998cb:n45",
+      "pregunta": "c1e0cd9998cb:n44",
+      "solucion_sha256": "b25dcc63140f71b27178a53019ec20de035a609d1375890cd69f1d83baa94ce4"
+    },
+    {
+      "id": "c1e0cd9998cb:n46",
+      "pregunta": "c1e0cd9998cb:n44",
+      "solucion_sha256": "c1d1b62f8ebbed672e3713f275faaa692a6cb1a3ce8dcca540ba25284a926320"
+    },
+    {
+      "id": "c1e0cd9998cb:n47",
+      "pregunta": "c1e0cd9998cb:n44",
+      "solucion_sha256": "0d7b18fc85d575c02acafc4f469c16df9f8c9e9180494d1e3c12c010f8c3855b"
+    },
+    {
+      "id": "c1e0cd9998cb:n48",
+      "pregunta": "c1e0cd9998cb:n44",
+      "solucion_sha256": "4888a3ca1307f24c578e25481978b10f32ec889d3b1372aabbdf8191df6aa469"
+    },
+    {
+      "id": "cd011dfc3111:n2",
+      "pregunta": "cd011dfc3111:n2",
+      "solucion_sha256": "deea0dfe9fe23d9089506440d048c0429925227013b6b1231656be56dbc15830"
+    },
+    {
+      "id": "cd011dfc3111:n3",
+      "pregunta": "cd011dfc3111:n3",
+      "solucion_sha256": "3ee061a880105f7565b18966a7994778e34d06dcdc0cd74aa7f7e4091ac6146e"
+    },
+    {
+      "id": "cd011dfc3111:n4",
+      "pregunta": "cd011dfc3111:n4",
+      "solucion_sha256": "d533e0e66172a70b5cb63cee9b89ffc8948ed23875233f7a4e7a876a21a20092"
+    },
+    {
+      "id": "cd011dfc3111:n6",
+      "pregunta": "cd011dfc3111:n5",
+      "solucion_sha256": "07128ae257ae822ea82fe103b821c4342b230a5e07b4078e1a3135fbb3792a2f"
+    },
+    {
+      "id": "cd011dfc3111:n7",
+      "pregunta": "cd011dfc3111:n5",
+      "solucion_sha256": "f5d27b3b0d03bdf75a075106f10365ab641fd475d67212cb9895d9e62885f9f9"
+    },
+    {
+      "id": "cd011dfc3111:n9",
+      "pregunta": "cd011dfc3111:n9",
+      "solucion_sha256": "90f948d9d4489051d4f7078efaab0460361c90750c66e3d0f65a8110486a0386"
+    },
+    {
+      "id": "cd011dfc3111:n10",
+      "pregunta": "cd011dfc3111:n10",
+      "solucion_sha256": "c1d2b838c39dd7571e9002fb730813490b12d738017048d4c10f9d5b4d9b59da"
+    },
+    {
+      "id": "cd011dfc3111:n11",
+      "pregunta": "cd011dfc3111:n11",
+      "solucion_sha256": "8abe49bc148a9c862af76f6318bf0fc1875801f7875eeaf478c189e5a4396b74"
+    },
+    {
+      "id": "cd011dfc3111:n13",
+      "pregunta": "cd011dfc3111:n12",
+      "solucion_sha256": "d6c9b108abb0af638975ee826f834315bf39a48c4b5e84e5c1299645e67a855c"
+    },
+    {
+      "id": "cd011dfc3111:n14",
+      "pregunta": "cd011dfc3111:n12",
+      "solucion_sha256": "2367256f8be3aa7d2ebfbf6c65c5740571096cd277a75dcc0c9350781bda5ba8"
+    },
+    {
+      "id": "cdd0f4f759e1:n3",
+      "pregunta": "cdd0f4f759e1:n2",
+      "solucion_sha256": "f76bfb276c689ffa634f9da6c9b29761361267a7e38829888aac5826037d0606"
+    },
+    {
+      "id": "cdd0f4f759e1:n4",
+      "pregunta": "cdd0f4f759e1:n2",
+      "solucion_sha256": "ffcc270e60914e342015fb64962d3183fe2c5703743b3d217e06b6d897008062"
+    },
+    {
+      "id": "cdd0f4f759e1:n5",
+      "pregunta": "cdd0f4f759e1:n2",
+      "solucion_sha256": "1eb7f6f1f64ac7bc50f9f580b0bac6c5037545ea65fd4665d11a8a9c2860df6c"
+    },
+    {
+      "id": "cdd0f4f759e1:n6",
+      "pregunta": "cdd0f4f759e1:n2",
+      "solucion_sha256": "eec314560b5a8301478931f68c852160a1b934ca49881c0c220f241800c49a50"
+    },
+    {
+      "id": "cdd0f4f759e1:n14",
+      "pregunta": "cdd0f4f759e1:n14",
+      "solucion_sha256": "e3614884707c5644b7a05716fcb5e2bcf7fc3f9868259e27f2a032c007181d8e"
+    },
+    {
+      "id": "d1e0bad7ac24:n2",
+      "pregunta": "d1e0bad7ac24:n2",
+      "solucion_sha256": "b14f37fb8691295108925b61884e03803309664c5cb67f0f1e484716ef3929ea"
+    },
+    {
+      "id": "d1e0bad7ac24:n3",
+      "pregunta": "d1e0bad7ac24:n3",
+      "solucion_sha256": "8f4d7013ea76269f197ba9956bddd32298501e3fa586a521028a03e8759968a3"
+    },
+    {
+      "id": "d1e0bad7ac24:n4",
+      "pregunta": "d1e0bad7ac24:n4",
+      "solucion_sha256": "fdd96987315c35afe756d9ed592b87e1851aaad92ac9497eb94d63623fec94b2"
+    },
+    {
+      "id": "d1e0bad7ac24:n6",
+      "pregunta": "d1e0bad7ac24:n5",
+      "solucion_sha256": "01957bb98d9e06f63c6a1677d170b01e22f98405a5c8dbf7300d82c71935ec02"
+    },
+    {
+      "id": "d1e0bad7ac24:n7",
+      "pregunta": "d1e0bad7ac24:n5",
+      "solucion_sha256": "6f3c755e4dfa8df6af07bffe8e629b98d2084c7c1e001b625e65f84995a1bdbc"
+    },
+    {
+      "id": "d1e0bad7ac24:n9",
+      "pregunta": "d1e0bad7ac24:n9",
+      "solucion_sha256": "1ec418876a85080b6338b0409a57a41f674d1d7a6213dadd7efa6c7b85e0778c"
+    },
+    {
+      "id": "d1e0bad7ac24:n10",
+      "pregunta": "d1e0bad7ac24:n10",
+      "solucion_sha256": "7c8186ac4e0c4d95dfbc4a01dbf5c804a7d7de507c89a0ffbada3cc9bb3264d3"
+    },
+    {
+      "id": "d1e0bad7ac24:n11",
+      "pregunta": "d1e0bad7ac24:n11",
+      "solucion_sha256": "7060ddab2496bfd470e9b7e090af2d9502707c839414496885af0148714d92af"
+    },
+    {
+      "id": "d1e0bad7ac24:n13",
+      "pregunta": "d1e0bad7ac24:n12",
+      "solucion_sha256": "fa12949325b58bad77be7fdc6d20ccf9747deddc6c7c997c97c85f76eb9af735"
+    },
+    {
+      "id": "d1e0bad7ac24:n14",
+      "pregunta": "d1e0bad7ac24:n12",
+      "solucion_sha256": "9f15bc3f94e23e341b04d1cc7a0b8e4c854132b8b0d8c2d6950bd3ae83c215cf"
+    },
+    {
+      "id": "d779a6b74aba:n3",
+      "pregunta": "d779a6b74aba:n3",
+      "solucion_sha256": "cebd6cf3d496c3d492f614c56f927123f22bbf2c3b6c0debaad929d3b701e9f9"
+    },
+    {
+      "id": "d779a6b74aba:n4",
+      "pregunta": "d779a6b74aba:n4",
+      "solucion_sha256": "f45ae34299fbd06e54e5ac4ef985de5a30cdd16459d269248aa569ca4d4752f6"
+    },
+    {
+      "id": "d779a6b74aba:n6",
+      "pregunta": "d779a6b74aba:n5",
+      "solucion_sha256": "a6115b8b035c9736fc8664b009676987f314c55af87fa63376f5a56e82e08cf1"
+    },
+    {
+      "id": "d779a6b74aba:n7",
+      "pregunta": "d779a6b74aba:n5",
+      "solucion_sha256": "644f76d2f1f95a028b5224561634bbae388d8a7c053552d439a725a43c44ece3"
+    },
+    {
+      "id": "d779a6b74aba:n9",
+      "pregunta": "d779a6b74aba:n8",
+      "solucion_sha256": "2050d58ccdc3e0550e6db95363719d980b8ea4638ec1d1962e9da7884cab1331"
+    },
+    {
+      "id": "d779a6b74aba:n10",
+      "pregunta": "d779a6b74aba:n8",
+      "solucion_sha256": "1e66ffa2e4bc091ce57e5e55b61a79548713576388a06b028b378a7dce45c932"
+    },
+    {
+      "id": "d779a6b74aba:n11",
+      "pregunta": "d779a6b74aba:n11",
+      "solucion_sha256": "e3fb70f6d15ca4af59d7cc6d7b1fd4387387ded05b7fbaebd822b8b05eda6068"
+    },
+    {
+      "id": "d779a6b74aba:n12",
+      "pregunta": "d779a6b74aba:n12",
+      "solucion_sha256": "f09c829995365532880969506362d3f6c6e8ecd8eef9a8460377d9e09e4c4ee9"
+    },
+    {
+      "id": "d779a6b74aba:n14",
+      "pregunta": "d779a6b74aba:n13",
+      "solucion_sha256": "b5c30e0bad186fed6986047e5925132f2db5fd031a5e030a035cdbd8e8b0c249"
+    },
+    {
+      "id": "d779a6b74aba:n15",
+      "pregunta": "d779a6b74aba:n13",
+      "solucion_sha256": "8d5bde8e33143e693ba812b02e659a42d24049474631b1c1a015253193596dce"
+    },
+    {
+      "id": "d779a6b74aba:n17",
+      "pregunta": "d779a6b74aba:n16",
+      "solucion_sha256": "73fd2ac08d60b015950fff306bf05d9d226b1b8b34fec46077d0890e62f8329c"
+    },
+    {
+      "id": "db08dd7416d3:n3",
+      "pregunta": "db08dd7416d3:n3",
+      "solucion_sha256": "48cf6081184c0acb4df0b3eaa8f3d25db22241dfdbed41f067f1b12e32dde4ff"
+    },
+    {
+      "id": "db08dd7416d3:n4",
+      "pregunta": "db08dd7416d3:n4",
+      "solucion_sha256": "23615be93a2890975d303d77c3b3c14cd8fd4aeaec562e9da295cac0b84849b5"
+    },
+    {
+      "id": "db08dd7416d3:n8",
+      "pregunta": "db08dd7416d3:n7",
+      "solucion_sha256": "92b6d017e1dc47655174ebd62198037277cc56c1daa28b5192406422103c793d"
+    },
+    {
+      "id": "db08dd7416d3:n10",
+      "pregunta": "db08dd7416d3:n7",
+      "solucion_sha256": "6665081836b7fe42123dcfc80e839d7f1057ff9c02f719c76bd2473f4dfdf3bc"
+    },
+    {
+      "id": "db08dd7416d3:n15",
+      "pregunta": "db08dd7416d3:n14",
+      "solucion_sha256": "02f8329afa557dc90479f8294cc957c1b4b15587b32eeb77516ff174cb4d5eb2"
+    },
+    {
+      "id": "db08dd7416d3:n16",
+      "pregunta": "db08dd7416d3:n14",
+      "solucion_sha256": "2e1654ade97a6c5523a2ad00d7486f0f8094470dd2314ef7bd7f067fc0bfa16d"
+    },
+    {
+      "id": "db08dd7416d3:n17",
+      "pregunta": "db08dd7416d3:n14",
+      "solucion_sha256": "409528fd9ef13ccdea27e96194d3be7cf457968b233a019c39d4dcba8b8a398b"
+    },
+    {
+      "id": "db08dd7416d3:n19",
+      "pregunta": "db08dd7416d3:n18",
+      "solucion_sha256": "1250e40b5bab2511c77850e6a7ad44774338463bed1c7002501cb864b73dc250"
+    },
+    {
+      "id": "db08dd7416d3:n20",
+      "pregunta": "db08dd7416d3:n18",
+      "solucion_sha256": "64e71c64cbc41961ce7f9d7f73faa4c21eba55cfdd2c93709bf4b2b5fc666799"
+    },
+    {
+      "id": "db08dd7416d3:n21",
+      "pregunta": "db08dd7416d3:n18",
+      "solucion_sha256": "619e8fe0243ef8c66412fb9d045a2c65060888647a507e1573b72f8ff3cfff83"
+    },
+    {
+      "id": "db08dd7416d3:n22",
+      "pregunta": "db08dd7416d3:n22",
+      "solucion_sha256": "ec8b85f4219e990613b1586f385958e9caaa6c1ddde43bfced591983076c0f8a"
+    },
+    {
+      "id": "db08dd7416d3:n23",
+      "pregunta": "db08dd7416d3:n23",
+      "solucion_sha256": "d839d5eaceeb96f91520e7ac7770b5aa1324e48a7497d583faf7cbbe901dbb31"
+    },
+    {
+      "id": "db08dd7416d3:n24",
+      "pregunta": "db08dd7416d3:n24",
+      "solucion_sha256": "ec95f262a19e521ff1ceb4c3267e6ebee675e2b3903c348e094d6aa407ba9ad1"
+    },
+    {
+      "id": "db08dd7416d3:n26",
+      "pregunta": "db08dd7416d3:n25",
+      "solucion_sha256": "7fc0e96c37cc31631530f5d0826d3f246c5e6ef88a5f8b33fa95c9d3c47a9974"
+    },
+    {
+      "id": "db08dd7416d3:n27",
+      "pregunta": "db08dd7416d3:n25",
+      "solucion_sha256": "3ec20feb52147d72d23a08597a7f369fdb6cadba9dd2f63af515a9b534b24e85"
+    },
+    {
+      "id": "eb1d77ddf433:n3",
+      "pregunta": "eb1d77ddf433:n3",
+      "solucion_sha256": "cd141b8c83ac69de8b5caf2e915d309fa3c4a302f55516b3eb38165e5c0e1e42"
+    },
+    {
+      "id": "eb1d77ddf433:n4",
+      "pregunta": "eb1d77ddf433:n4",
+      "solucion_sha256": "cd33d9a90a3909ba634a485a9c15d22562bd5dafa56797d60d481d2a9323971a"
+    },
+    {
+      "id": "eb1d77ddf433:n9",
+      "pregunta": "eb1d77ddf433:n8",
+      "solucion_sha256": "aa8b7cbdafdd70eaa555c75f27ffe8d306899f90636c9d0541c8e56d1cdd3a18"
+    },
+    {
+      "id": "eb1d77ddf433:n10",
+      "pregunta": "eb1d77ddf433:n8",
+      "solucion_sha256": "021e91973d75f100f3438a8d340a82e223c7beee708cd493c8825879a3b04d85"
+    },
+    {
+      "id": "eb1d77ddf433:n11",
+      "pregunta": "eb1d77ddf433:n8",
+      "solucion_sha256": "7b5e1aa0e1702ab063edbb21fc25ea14db9ee4fb945a8bf1fe662ead23b05775"
+    },
+    {
+      "id": "eb1d77ddf433:n13",
+      "pregunta": "eb1d77ddf433:n12",
+      "solucion_sha256": "c10865d1e7271f10882d5bea0a6637567db6ac462ed7a5b0c0aa5a9932ff9891"
+    },
+    {
+      "id": "eb1d77ddf433:n14",
+      "pregunta": "eb1d77ddf433:n12",
+      "solucion_sha256": "3ffa018e2f0754ae054566566f4b1b3e5ba31f7e82d59dbe85b5e597c8b7da99"
+    },
+    {
+      "id": "eb1d77ddf433:n15",
+      "pregunta": "eb1d77ddf433:n12",
+      "solucion_sha256": "315372c71321b234cfa026c69af3527411f754d98321ede3244e66cd63d070e2"
+    },
+    {
+      "id": "eb1d77ddf433:n17",
+      "pregunta": "eb1d77ddf433:n17",
+      "solucion_sha256": "2936a980534a88bd019a09b9853e274983794d0299564ad041f8f476749434b8"
+    },
+    {
+      "id": "eb1d77ddf433:n20",
+      "pregunta": "eb1d77ddf433:n19",
+      "solucion_sha256": "559ebaa557f4e567773944399b62687f8d0c8ef38cdc5417197e3e5f03b8ed20"
+    },
+    {
+      "id": "eb1d77ddf433:n21",
+      "pregunta": "eb1d77ddf433:n19",
+      "solucion_sha256": "811d92853c4a6702ef3eb694a34a798d7abcfb96528882e1ff76b7d04f826eff"
+    },
+    {
+      "id": "eb1d77ddf433:n22",
+      "pregunta": "eb1d77ddf433:n19",
+      "solucion_sha256": "91fe1bbeb14bab05e8ffb58fda8c342b094d1f577c75c52d36ad5f7082730818"
+    },
+    {
+      "id": "eb1d77ddf433:n23",
+      "pregunta": "eb1d77ddf433:n23",
+      "solucion_sha256": "fd4d4e1946c0b731cf642eaf853e73ea15d83fd0145aa33010cb8cc2de623d81"
+    },
+    {
+      "id": "eb1d77ddf433:n24",
+      "pregunta": "eb1d77ddf433:n24",
+      "solucion_sha256": "fffd56651d8da36efed6f439cde1f2082846875d7e4ace1c149f5f9985310d3f"
+    },
+    {
+      "id": "eb1d77ddf433:n26",
+      "pregunta": "eb1d77ddf433:n26",
+      "solucion_sha256": "b60378465ff0b81bdeb41511fc2c8c1fed8e48fbd4c3064385e0c41f229090f4"
+    },
+    {
+      "id": "ed03ea4e6cf8:n6",
+      "pregunta": "ed03ea4e6cf8:n5",
+      "solucion_sha256": "a731e9b2a2d1f022f249a75a58aca616ea52916ad4fc65531f7c65bffe7d44e8"
+    },
+    {
+      "id": "ed03ea4e6cf8:n7",
+      "pregunta": "ed03ea4e6cf8:n5",
+      "solucion_sha256": "232eea23ba1fe759cc558a64183c35536625d90300183e72c51cb66348ccfc37"
+    },
+    {
+      "id": "ed03ea4e6cf8:n8",
+      "pregunta": "ed03ea4e6cf8:n5",
+      "solucion_sha256": "d60e5a96254cc3c79232407e322634eb5d1e3dd2650cf807bc36119089287c93"
+    },
+    {
+      "id": "ed03ea4e6cf8:n9",
+      "pregunta": "ed03ea4e6cf8:n5",
+      "solucion_sha256": "56b6521ed012587257fa98b0f519420fe02e6a4376c7988411588b0cdb123e59"
+    },
+    {
+      "id": "ed03ea4e6cf8:n10",
+      "pregunta": "ed03ea4e6cf8:n5",
+      "solucion_sha256": "c7f32e80cbd5cebfdf80087e69ade4f877283242cd391485246455fd817ff99d"
+    },
+    {
+      "id": "ed03ea4e6cf8:n14",
+      "pregunta": "ed03ea4e6cf8:n13",
+      "solucion_sha256": "824c8c5a5c56d7dd29578b91af81f9dee55818aeca50a60d5fa4847bbcb50408"
+    },
+    {
+      "id": "ed03ea4e6cf8:n15",
+      "pregunta": "ed03ea4e6cf8:n13",
+      "solucion_sha256": "fd7cbc13ec1946b5990ecd3f118e0580511009064828e5d18992d13d735a038b"
+    },
+    {
+      "id": "ed03ea4e6cf8:n16",
+      "pregunta": "ed03ea4e6cf8:n13",
+      "solucion_sha256": "908b148bfd9cb032f557465361c6c371aaf0afd056771b53e80be031bc62cd88"
+    },
+    {
+      "id": "ed03ea4e6cf8:n17",
+      "pregunta": "ed03ea4e6cf8:n13",
+      "solucion_sha256": "ea7b642627c96d6ef864c43e27697f3536a9fd1e55969962fe5be44971a675ad"
+    },
+    {
+      "id": "ed03ea4e6cf8:n18",
+      "pregunta": "ed03ea4e6cf8:n13",
+      "solucion_sha256": "c7f181a2302ab5d60956af81e46a63126c51a76404422ebafe61ed7ef63fcb0d"
+    }
+  ],
+  "exclusiones": [
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n16",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n19",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n21",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n23",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n26",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n27",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n28",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n30",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n31",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n32",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n33",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n35",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n36",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n37",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n38",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n40",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n41",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n42",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n44",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n45",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "2787fc4d640f",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n46",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "3c134e1125e6",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "41fdc1fe038d",
+      "nodo": "n7",
+      "motivo": "nodo_no_publicado"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n2",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n7",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n16",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "49e9ef3c3296",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n19",
+      "motivo": "solucion-existente"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n16",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n20",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n21",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n23",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n24",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "5091bd5d23ad",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n25",
+      "motivo": "correspondencia-parcial"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n15",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n16",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n19",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n20",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n21",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n23",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n24",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "6649ce9eecb2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n25",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "67eea232db63",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "73d799a38839",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n29",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n2",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n20",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "9e8570ee562e",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "idioma-repetido"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n7",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n15",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n19",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n20",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "a05dd314b1f2",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n21",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n15",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n27",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n39",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n40",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n41",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n44",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n45",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n47",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n48",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n49",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n50",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n52",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n57",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "ab690a84e30c",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n62",
+      "motivo": "baremo-distinto"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n3",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n10",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n14",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n15",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n17",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n19",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n21",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n22",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "b996e7795739",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n23",
+      "motivo": "origen-no-acreditado"
+    },
+    {
+      "documento": "be1849698853",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n4",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "be1849698853",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "cdd0f4f759e1",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n8",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "cdd0f4f759e1",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "pagina-incorrecta"
+    },
+    {
+      "documento": "cdd0f4f759e1",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "cdd0f4f759e1",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "db08dd7416d3",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n5",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "db08dd7416d3",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n9",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "db08dd7416d3",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n11",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "db08dd7416d3",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n12",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "db08dd7416d3",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n13",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "eb1d77ddf433",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n6",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "eb1d77ddf433",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n16",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "eb1d77ddf433",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n18",
+      "motivo": "idiomas-paginas-distintos"
+    },
+    {
+      "documento": "eb1d77ddf433",
+      "etapa": "respuesta-rubrica",
+      "nodo": "n25",
+      "motivo": "idiomas-paginas-distintos"
+    }
+  ],
+  "resumen": {
+    "respuestas": 479,
+    "preguntas": 285,
+    "examenes": 36,
+    "motivos_exclusion": {
+      "solucion-existente": 55,
+      "nodo_no_publicado": 1,
+      "idiomas-paginas-distintos": 34,
+      "correspondencia-parcial": 18,
+      "origen-no-acreditado": 34,
+      "idioma-repetido": 6,
+      "baremo-distinto": 24,
+      "pagina-incorrecta": 1
+    }
+  }
+}

@@ -1,0 +1,1314 @@
+DOCUMENTO {"id": "09feb8541d90", "region": "Comunidad Valenciana", "asignatura": "Historia de España", "anio": 2021, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "umh", "url": "http://bancdelaselectivitat.umh.es/files/2022/05/ExamenHistoriadeEspañaOrdinaria-de-2021.pdf", "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2021-ordinaria-examen-umh-09feb8541d90.pdf", "paginas": 4, "estrato": "piloto · Comunidad Valenciana · Historia de España"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/historia-de-espana/2021-ordinaria-solucion-llibreta-e91853eaf194.pdf", "desde": 1, "anexo": {"id": "e91853eaf194", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/012A%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20junio%202021.pdf", "titulo": "Junio 2021 — Solución"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (Fins a 1 punt)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 1 punto)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (Fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3ª)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Definiu DOS dels conceptes següents (Fins a 2 punts)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Defina DOS de los conceptos siguientes (Hasta 2 puntos)"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 2,
+   "maximo": 2,
+   "de": 4,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Definiu DOS dels conceptes següents"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Defina DOS de los conceptos siguientes"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Censura"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Censura"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Senyoriu"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Señorío"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Nacionalcatolicisme"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Nacionalcatolicismo"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Dictadura"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Dictadura"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (Fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Analitzeu les principals mesures legislatives adoptades per les Corts de Cadis per a posar fi a l’Antic Règim."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Analice las principales medidas legislativas adoptadas por las Cortes de Cádiz para acabar con el Antiguo Régimen."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Exposeu les principals característiques del marc ideològic de la dictadura franquista. Presteu especial atenció als aspectes relacionats amb la repressió i el control social."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Exponga las principales características del marco ideológico de la dictadura franquista, prestando especial atención a los aspectos relacionados con la represión y el control social."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (Fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda una de las dos opciones (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Exposeu les característiques de la Constitució de Cadis i compareu-ne el contingut amb els textos fonamentals de 1845 i 1869 en matèria de sobirania, divisió de poders i drets individuals."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Exponga las características de la Constitución de Cádiz y compare su contenido con los textos fundamentales de 1845 y 1869 en materia de soberanía, división de poderes y derechos individuales."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Compareu la situació de la dona en la Segona República i la dictadura franquista, remarcant els aspectes polítics i de vida quotidiana."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Compare la situación de la mujer en la Segunda República y la Dictadura franquista, haciendo hincapié en los aspectos políticos y de vida cotidiana."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Documento 1 y el Documento 2 son fuentes primarias que reflejan el contexto de las Cortes de Cádiz ($1810$-$1812$), un momento clave en la historia de España durante la Guerra de Independencia contra Francia. Se trata de textos legislativos emitidos por las Cortes que muestran la voluntad de acabar con los elementos más característicos del Antiguo Régimen y establecer los principios del liberalismo político y económico.\n\n- Documento 1 (Decreto de $10$ de noviembre de $1810$): Este texto aborda la cuestión de la libertad de imprenta, un derecho que permite a los ciudadanos publicar sus pensamientos e ideas políticas sin necesidad de autorización previa. La abolición de la censura previa y de los juzgados de imprenta simboliza el intento de las Cortes por limitar el poder absoluto del Estado y garantizar la libre circulación de las ideas, un principio fundamental del liberalismo.\n- Documento 2 (Decreto de $6$ de agosto de $1811$): En este decreto se declara la abolición de los señoríos jurisdiccionales y las prestaciones asociadas al vasallaje, eliminando así una de las instituciones feudales más características del Antiguo Régimen. Al suprimir los señoríos, las Cortes integran estas tierras en el sistema de propiedad privada, promoviendo así la igualdad jurídica entre ciudadanos y la consolidación del derecho a la propiedad como base del nuevo sistema liberal.\n\nAmbos documentos son fuentes jurídicas y políticas porque reflejan las decisiones legislativas tomadas por las Cortes con el objetivo de modernizar el país y acabar con los privilegios estamentales propios del sistema feudal. Asimismo, son testimonios directos del proceso de transformación que se vivió en España en los albores del liberalismo."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Por otro lado, el Documento 3 y el Documento 4 son también fuentes primarias, pero de un contexto muy diferente: la dictadura franquista ($1939$-$1975$). Ambas fuentes reflejan la visión tradicionalista y patriarcal del régimen sobre el papel de la mujer en la sociedad.\n\n- Documento 3 (Enciclopedia de la Sección Femenina, $1957$): Este texto procede de la Sección Femenina, una organización ligada a la Falange que se encargaba de inculcar los valores del régimen a las mujeres. La fuente presenta la figura de la mujer como “compañera del hombre” y primera educadora de los hijos, relegándola al espacio doméstico y asignándole tareas relacionadas con el cuidado del hogar. La “ciencia doméstica” se considera, en este contexto, la formación esencial para las mujeres, lo que refleja la concepción franquista de la mujer como esposa, madre y ama de casa.\n- Documento 4 (Normas de decencia cristiana, $1958$): Este texto, emitido por la Comisión Episcopal de Ortodoxia y Moralidad, refuerza la moral católica del régimen franquista, estableciendo normas estrictas sobre la vestimenta femenina. La fuente insiste en la idea de la “modestia” y la “honestidad” como valores esenciales en la mujer, defendiendo un modelo femenino sumiso, recatado y subordinado al hombre, lo cual refleja el nacionalcatolicismo que impregnaba todas las esferas del franquismo.\n\nEn resumen, estos documentos son fuentes ideológicas y educativas, ya que expresan el control que ejercía la dictadura sobre la vida privada y pública de las mujeres, utilizando la religión y la moral tradicional como herramientas de represión y adoctrinamiento."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "En el contexto de las Cortes de Cádiz, tanto el Decreto sobre la libertad de imprenta ($1810$) como el Decreto sobre la abolición de los señoríos jurisdiccionales ($1811$) reflejan las principales ideas del liberalismo y el deseo de acabar con las estructuras del Antiguo Régimen.\n\nEl Documento 1 es especialmente relevante porque proclama la libertad de expresión y de imprenta como un derecho fundamental de los ciudadanos. Se argumenta que la posibilidad de publicar ideas políticas es un medio para controlar el poder arbitrario del gobierno y para fomentar el debate público y la “ilustración” de la nación. Esta medida es coherente con los ideales de la Ilustración y con las revoluciones liberales que habían estallado en otros países europeos y americanos.\n\nEl Documento 2, por su parte, aborda la abolición de los señoríos jurisdiccionales, una institución feudal que otorgaba a los señores derechos sobre tierras y personas, incluyendo tributos y jurisdicción judicial. Al eliminar los señoríos y las relaciones de vasallaje, las Cortes buscaban instaurar la igualdad jurídica entre todos los ciudadanos y promover un sistema basado en la propiedad privada, fundamento del liberalismo económico.\n\nContexto histórico: Estas medidas legislativas se inscriben en el proceso de transformación iniciado por las Cortes de Cádiz entre $1810$ y $1812$, durante la Guerra de Independencia ($1808$-$1814$). Mientras España luchaba contra la ocupación francesa, las Cortes aprovecharon la situación para sentar las bases de un nuevo orden liberal que acabaría con los privilegios del Antiguo Régimen. La Constitución de $1812$ consolidaría estas ideas, aunque su vigencia sería breve debido al regreso del absolutismo con Fernando VII."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    },
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "En un contexto muy diferente, los Documentos 3 y 4 muestran la concepción de la mujer durante la dictadura franquista. En ambos textos se insiste en un modelo femenino tradicional basado en los valores del nacionalcatolicismo.\n\nEl Documento 3 describe la función de la mujer como esposa, madre y educadora en el hogar. Se promueve la idea de que las mujeres deben limitarse al ámbito doméstico y capacitarse en tareas como cocinar, planchar y cuidar a la familia. Esta visión responde al intento del franquismo de reforzar un modelo de sociedad jerárquica y patriarcal donde las mujeres quedaban subordinadas a los hombres.\n\nEl Documento 4, por su parte, establece normas estrictas sobre la vestimenta femenina, defendiendo la “decencia” y la “modestia” como valores esenciales. Estas normas reflejan la influencia de la Iglesia Católica, que colaboraba con el régimen para controlar la moral y las costumbres de la población, especialmente de las mujeres.\n\nContexto histórico: Ambos documentos se enmarcan en los años $50$, una década en la que el franquismo consolidó su ideología y su control social. La mujer fue uno de los principales objetivos del régimen, que a través de la Sección Femenina y la Iglesia impuso un modelo de feminidad basado en la sumisión, la obediencia y la moral católica. Este control formaba parte de la política de reafirmación nacional del franquismo, que buscaba imponer un orden social tradicional frente a las ideas progresistas y feministas de la Segunda República."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La censura es el control previo o la supresión de información, ideas u opiniones por parte de una autoridad, generalmente el Estado. Su objetivo es evitar la difusión de contenidos considerados inaceptables o peligrosos. Durante el franquismo, la censura fue un instrumento clave para controlar la prensa, la literatura y el cine, limitando la libertad de expresión y silenciando cualquier oposición al régimen."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El señorío era una institución feudal en la que un señor tenía derechos sobre un territorio y sus habitantes. Los señoríos podían ser jurisdiccionales, con poderes judiciales y políticos, o territoriales, limitados a la propiedad de la tierra. En el Antiguo Régimen, los señores feudalistas controlaban la vida económica y social de los campesinos. Fueron abolidos por las Cortes de Cádiz en $1811$, lo que permitió la integración de estas tierras a la nación y promovió la propiedad privada."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Fue la ideología que definió la dictadura franquista, caracterizada por la fusión del nacionalismo español con los valores y principios de la Iglesia Católica. El nacionalcatolicismo otorgaba a la religión un papel central en la vida pública y privada, imponiendo la moral cristiana en la educación, la cultura y la política."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La dictadura es un régimen en el que el poder está concentrado en una sola persona o grupo, sin restricciones legales ni democracia. Las dictaduras suelen suprimir las libertades individuales y la oposición política. En ellas, el gobernante tiene control absoluto sobre el Estado. Ejemplos notables son las dictaduras militares y totalitarias, como la dictadura franquista en España, que anuló los derechos civiles y controló todos los aspectos de la vida social y política."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Las Cortes de Cádiz ($1810$-$1814$) representaron un intento revolucionario de acabar con el Antiguo Régimen y sentar las bases de un Estado liberal y moderno. Durante este período, las Cortes adoptaron medidas legislativas que respondían a los principios de igualdad, libertad y soberanía nacional.\n\nUna de las medidas más importantes fue la abolición de los señoríos jurisdiccionales ($1811$), lo que supuso el fin de las relaciones feudales que subordinaban a los campesinos a los señores. Asimismo, se proclamó la libertad de imprenta ($1810$), permitiendo la libre expresión de ideas políticas y limitando el poder del Estado para censurar la opinión pública. Estas medidas se completaron con la abolición de la Inquisición ($1813$) y la promulgación de la Constitución de $1812$, que establecía la soberanía nacional, la división de poderes y los derechos individuales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    },
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La dictadura franquista, que se extendió desde $1939$ hasta $1975$, estuvo fundamentada en un marco ideológico autoritario, ultraconservador y nacionalista. Este marco fue una síntesis del nacionalcatolicismo, el militarismo, el corporativismo y la exaltación de la figura de Francisco Franco como líder supremo del Estado.\n\nUno de los pilares fundamentales del franquismo fue el nacionalcatolicismo, que otorgaba a la Iglesia Católica un papel preeminente en la sociedad española. La religión católica no solo monopolizó la educación y la moral pública, sino que también sirvió para legitimar ideológicamente el régimen. La Iglesia era el instrumento a través del cual se imponían valores tradicionales, como la obediencia, la disciplina, el patriarcado y la moralidad cristiana. La educación, controlada por instituciones religiosas, se utilizó para inculcar estos principios desde edades tempranas.\n\nEl control social y la represión fueron elementos clave del régimen franquista. Desde el final de la Guerra Civil, el franquismo implementó una política de represión sistemática contra cualquier forma de disidencia o oposición política. Esta represión se articuló a través de múltiples mecanismos:\n\n- Se crearon tribunales especiales, como el Tribunal de Orden Público (TOP), para juzgar delitos políticos y castigar a aquellos que se consideraban “enemigos de la patria”.\n- Se practicaron fusilamientos masivos, encarcelamientos, torturas y exilio forzoso de miles de personas, especialmente durante los años $40$, cuando el régimen llevó a cabo una “depuración” de los sectores republicanos y de izquierda.\n- Se instauró una estricta censura sobre los medios de comunicación, el cine, la literatura y el arte, que debían ajustarse a los valores del régimen. La prensa quedó sometida a un control férreo que impedía la libre expresión de ideas contrarias al franquismo.\n- La vida privada también fue objeto de control. La Sección Femenina y la Iglesia promovieron un modelo de familia tradicional, donde la mujer debía someterse al marido y cumplir con su rol de madre y ama de casa. Las mujeres fueron relegadas al ámbito doméstico y privadas de derechos fundamentales como el voto o el acceso igualitario a la educación y al trabajo.\n\nLa ideología franquista exaltaba la unidad de España y el nacionalismo español. Las lenguas y culturas regionales, como el catalán, el gallego o el euskera, fueron perseguidas y prohibidas en el espacio público, en un intento de imponer una identidad nacional homogénea. Además, el franquismo defendía un corporativismo económico y social, inspirado en el modelo fascista italiano, donde los sindicatos verticales controlados por el Estado organizaban las relaciones laborales.\n\nPor último, la figura de Franco ocupaba un lugar central en la ideología del régimen. Se le atribuían características casi divinas, como el título de “Caudillo de España por la gracia de Dios”, y su imagen era omnipresente en la propaganda oficial. Franco se convirtió en el símbolo del orden, la autoridad y la “victoria nacional” frente al caos de la Segunda República.\n\nEn conclusión, el marco ideológico franquista fue un sistema autoritario basado en la represión política, el control social y la imposición de valores tradicionales y nacionalistas. El régimen utilizó la Iglesia, la educación, la censura y la violencia para asegurar su estabilidad y perpetuarse en el poder, sofocando cualquier atisbo de oposición o modernización."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    },
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La Constitución de Cádiz, promulgada el $19$ de marzo de $1812$, fue un texto revolucionario que marcó un antes y un después en la historia del constitucionalismo español. Surgida en el contexto de la Guerra de Independencia contra Francia, esta constitución fue redactada por las Cortes de Cádiz, donde predominaban los liberales, y representaba el primer intento serio de establecer un sistema político moderno y liberal en España.\n\nLas características principales de la Constitución de Cádiz son las siguientes:\n\n- Soberanía nacional: Por primera vez, se estableció que la soberanía residía en la nación, es decir, en el conjunto de los ciudadanos, y no en el monarca. Esta idea rompía con la tradición absolutista del Antiguo Régimen, en la que el poder del rey era considerado de origen divino.\n- División de poderes: La Constitución consagraba la separación de poderes en tres ramas: el poder legislativo, que recaía en unas Cortes unicamerales; el poder ejecutivo, que correspondía al rey, aunque limitado por las Cortes; y el poder judicial, ejercido por tribunales independientes.\n- Derechos individuales: Se reconocieron derechos fundamentales como la libertad de imprenta, la inviolabilidad del domicilio, la igualdad jurídica, el derecho a la propiedad y la abolición de privilegios estamentales.\n- Religión: Se declaró la religión católica como la única confesión permitida, reflejando la influencia de la Iglesia en la sociedad española de la época.\n- Sufragio censitario: Se estableció un sistema de votación indirecto y limitado, en el que solo podían votar los varones mayores de $25$ años con cierto nivel de renta.\n\nComparación con los textos de $1845$ y $1869$\n\n1. Constitución de $1845$:\n   - Fue promulgada durante el reinado de Isabel II y representó una vuelta al moderantismo.\n   - La soberanía nacional fue sustituida por la soberanía compartida entre el rey y las Cortes, lo que reforzaba el poder de la Corona.\n   - La división de poderes quedó debilitada, ya que el rey tenía amplias prerrogativas, como la capacidad de disolver las Cortes y nombrar ministros.\n   - Los derechos individuales quedaron restringidos y sometidos a la voluntad del monarca.\n2. Constitución de $1869$:\n   - Fue fruto del Sexenio Democrático y representó un avance liberal y democrático.\n   - Se reafirmó la soberanía nacional, otorgando todo el poder a la nación y eliminando las prerrogativas del monarca.\n   - La división de poderes fue más clara y efectiva. El poder legislativo recayó en unas Cortes bicamerales, mientras que el ejecutivo quedó limitado.\n   - Se reconocieron derechos y libertades más amplios, como la libertad de culto, la libertad de expresión y el derecho de reunión.\n   - El sufragio se amplió a los varones mayores de $25$ años, estableciendo así el sufragio universal masculino.\n\nEn conclusión, la Constitución de Cádiz sentó las bases del liberalismo en España, pero sus principios fueron modificados en los textos posteriores según el contexto político de cada época. Mientras que la Constitución de $1845$ representaba un retroceso hacia el moderantismo y el poder monárquico, la de $1869$ supuso un avance hacia un sistema democrático y una mayor protección de las libertades individuales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    },
+    {
+     "idioma": "es",
+     "pagina": 7
+    },
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La situación de la mujer en España durante la primera mitad del siglo XX estuvo marcada por dos etapas profundamente contrastadas: el período progresista y reformista de la Segunda República ($1931$-$1936$) y el régimen autoritario y ultraconservador de la dictadura franquista ($1939$-$1975$). Mientras que la Segunda República representó un avance hacia la emancipación femenina, el franquismo supuso un retroceso absoluto, imponiendo un modelo tradicional y patriarcal que relegó a las mujeres a la esfera doméstica.\n\nLa mujer en la Segunda República ($1931$-$1936$)\n\nLa proclamación de la Segunda República el $14$ de abril de $1931$ trajo consigo un proceso de modernización política y social que tuvo un impacto directo en la vida de las mujeres. Por primera vez en la historia de España, se tomaron medidas para reconocer y garantizar sus derechos políticos, sociales y laborales, rompiendo con el modelo tradicional del Antiguo Régimen y de la monarquía.\n\nDesde el punto de vista político, uno de los avances más significativos fue la concesión del derecho al voto femenino con la aprobación de la Constitución de $1931$. Esta medida fue defendida en las Cortes por figuras emblemáticas como Clara Campoamor, quien argumentó que el sufragio era un derecho fundamental y una cuestión de justicia e igualdad. Aunque otras políticas como Victoria Kent se mostraron reticentes por temor a que las mujeres, influenciadas por la Iglesia, votaran a las fuerzas conservadoras, finalmente el derecho al voto femenino quedó reconocido. Como resultado, las elecciones de $1933$ fueron las primeras en las que las mujeres pudieron votar en igualdad de condiciones con los hombres.\n\nAdemás del derecho al voto, la Segunda República impulsó reformas que mejoraron la participación de las mujeres en la vida pública y su acceso a cargos de responsabilidad. Por primera vez, algunas mujeres ocuparon escaños en el Parlamento, como la propia Clara Campoamor y Margarita Nelken, lo que evidenció el avance hacia una mayor representación política femenina.\n\nEn el ámbito social y laboral, la República también aprobó leyes destinadas a garantizar la igualdad de derechos entre hombres y mujeres. Se reconoció el derecho de las mujeres a acceder a la educación y al trabajo en igualdad de condiciones, lo que les permitió incorporarse de manera progresiva a profesiones y actividades que hasta entonces les estaban vedadas. La educación se convirtió en un eje central de la política republicana, y se promovió la escolarización femenina para combatir el analfabetismo y favorecer la formación de las mujeres como ciudadanas activas.\n\nAsimismo, se llevaron a cabo reformas que mejoraron la situación jurídica de las mujeres. Se aprobó la Ley del Divorcio en $1932$, que reconocía el derecho de las mujeres a romper matrimonios infelices y a recuperar su libertad individual. También se reconocieron los derechos laborales de las mujeres, como la igualdad salarial y la protección durante la maternidad, lo que supuso un importante avance en comparación con etapas anteriores.\n\nEn resumen, durante la Segunda República, la mujer experimentó avances políticos y sociales sin precedentes. El reconocimiento del sufragio femenino, el acceso a la educación y al trabajo, y las reformas en materia de derechos civiles evidenciaron un cambio de mentalidad y el inicio de la lucha por la igualdad de género.\n\nLa mujer durante la dictadura franquista ($1939$-$1975$)\n\nLa llegada de la dictadura franquista en $1939$ supuso un retroceso drástico en los derechos y libertades de las mujeres. El régimen impuso un modelo de sociedad tradicional, patriarcal y profundamente influido por el nacionalcatolicismo, donde la mujer fue relegada al ámbito doméstico y subordinada al hombre. La visión franquista de la mujer quedaba resumida en los lemas de la época, como “la mujer, esposa y madre”, y en las directrices impuestas por la Sección Femenina de la Falange, dirigida por Pilar Primo de Rivera.\n\nDesde el punto de vista político, las mujeres perdieron los derechos adquiridos durante la Segunda República. El derecho al voto quedó suspendido, ya que durante la dictadura no existían elecciones democráticas. Además, la mujer fue apartada de la vida pública y de cualquier posibilidad de participación política. La legislación franquista restringió su capacidad jurídica: las mujeres casadas necesitaban la autorización del marido (conocida como “permiso marital”) para trabajar, viajar o realizar cualquier transacción económica, lo que las situaba en una posición de dependencia absoluta.\n\nEn el ámbito social y de la vida cotidiana, el franquismo promovió un modelo de mujer sometida y dedicada exclusivamente a su papel de esposa, madre y ama de casa. La educación de las mujeres fue orientada a prepararlas para las tareas del hogar, como cocinar, coser o cuidar a los hijos. La Enciclopedia de la Sección Femenina ($1957$), mencionada en el examen, reflejaba esta concepción, al afirmar que la “ciencia doméstica” era el “bachillerato” de las mujeres, y que debían formarse para resolver tareas como guisar, planchar y zurcir.\n\nLa Iglesia Católica tuvo un papel central en la consolidación de este modelo patriarcal. A través de la enseñanza religiosa y las Normas de Decencia Cristiana ($1958$), se imponían reglas estrictas sobre la moralidad femenina. Las mujeres debían vestir de forma recatada, evitar comportamientos considerados “provocativos” y aceptar su rol como complemento del hombre. Cualquier desviación de este ideal era vista como una amenaza al orden social y moral del franquismo.\n\nEn el ámbito laboral, la situación de la mujer fue igualmente restrictiva. Aunque muchas mujeres trabajaron durante la posguerra debido a la necesidad económica, el régimen promovía la idea de que el lugar natural de la mujer era el hogar. Las leyes laborales limitaban sus derechos, y las mujeres recibían salarios inferiores a los hombres por el mismo trabajo. Además, la Ley de Peligrosidad Social castigaba a aquellas mujeres que se desviaban del modelo oficial, como las trabajadoras sexuales o las mujeres independientes.\n\nEn conclusión, la dictadura franquista impuso un modelo de mujer sumisa, dependiente y limitada al ámbito doméstico, eliminando los derechos adquiridos durante la Segunda República. Mientras que en la República las mujeres fueron reconocidas como ciudadanas con plenos derechos, el franquismo las redujo a meros instrumentos de la familia y del orden social tradicional.\n\nLa comparación entre la Segunda República y la dictadura franquista pone de manifiesto dos modelos de sociedad radicalmente opuestos. Durante la Segunda República, las mujeres consiguieron avances significativos en materia de derechos políticos, civiles y laborales, lo que les permitió integrarse en la vida pública y luchar por su emancipación. En cambio, el franquismo supuso un retroceso absoluto, relegando a las mujeres al papel tradicional de esposas y madres, sometidas a la autoridad masculina y controladas por la Iglesia y el Estado. Esta dualidad refleja las tensiones ideológicas y sociales que marcaron la historia de España durante el siglo XX."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    },
+    {
+     "idioma": "es",
+     "pagina": 9
+    },
+    {
+     "idioma": "es",
+     "pagina": 10
+    },
+    {
+     "idioma": "es",
+     "pagina": 11
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En la respuesta sobre la Constitución de Cádiz se afirma que estableció un sufragio censitario limitado a varones mayores de 25 años con cierto nivel de renta; esta afirmación parece errónea.",
+  "La respuesta sitúa la Segunda República entre 1931 y 1936, aunque el periodo republicano se prolongó hasta 1939."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+Pregunta 1
+Documentos 1 y 2
+El Documento 1 y el Documento 2 son fuentes primarias que reflejan el contexto de las
+Cortes de Cádiz (1810-1812), un momento clave en la historia de España durante la
+Guerra de Independencia contra Francia. Se trata de textos legislativos emitidos por
+las Cortes que muestran la voluntad de acabar con los elementos más característicos
+del Antiguo Régimen y establecer los principios del liberalismo político y económico.
+●Documento 1 (Decreto de 10 de noviembre de 1810): Este texto aborda la
+cuestión de la libertad de imprenta, un derecho que permite a los ciudadanos
+publicar sus pensamientos e ideas políticas sin necesidad de autorización previa.
+La abolición de la censura previa y de los juzgados de imprenta simboliza el
+intento de las Cortes por limitar el poder absoluto del Estado y garantizar la
+libre circulación de las ideas, un principio fundamental del liberalismo.
+●Documento 2 (Decreto de 6 de agosto de 1811): En este decreto se declara la
+abolición de los señoríos jurisdiccionales y las prestaciones asociadas al
+vasallaje, eliminando así una de las instituciones feudales más características del
+Antiguo Régimen. Al suprimir los señoríos, las Cortes integran estas tierras en
+el sistema de propiedad privada, promoviendo así la igualdad jurídica entre
+ciudadanos y la consolidación del derecho a la propiedad como base del nuevo
+sistema liberal.
+Ambos documentos son fuentes jurídicas y políticas porque reflejan las decisiones
+legislativas tomadas por las Cortes con el objetivo de modernizar el país y acabar con
+los privilegios estamentales propios del sistema feudal. Asimismo, son testimonios
+directos del proceso de transformación que se vivió en España en los albores del
+liberalismo.
+Documentos 3 y 4
+Por otro lado, el Documento 3 y el Documento 4 son también fuentes primarias, pero
+de un contexto muy diferente: la dictadura franquista (1939-1975). Ambas fuentes
+
+=== PAGINA 2 ===
+reflejan la visión tradicionalista y patriarcal del régimen sobre el papel de la mujer en la
+sociedad.
+●Documento 3 (Enciclopedia de la Sección Femenina, 1957): Este texto procede
+de la Sección Femenina, una organización ligada a la Falange que se encargaba
+de inculcar los valores del régimen a las mujeres. La fuente presenta la figura de
+la mujer como “compañera del hombre” y primera educadora de los hijos,
+relegándola al espacio doméstico y asignándole tareas relacionadas con el
+cuidado del hogar. La “ciencia doméstica” se considera, en este contexto, la
+formación esencial para las mujeres, lo que refleja la concepción franquista de la
+mujer como esposa, madre y ama de casa.
+●Documento 4 (Normas de decencia cristiana, 1958): Este texto, emitido por la
+Comisión Episcopal de Ortodoxia y Moralidad, refuerza la moral católica del
+régimen franquista, estableciendo normas estrictas sobre la vestimenta
+femenina. La fuente insiste en la idea de la “modestia” y la “honestidad” como
+valores esenciales en la mujer, defendiendo un modelo femenino sumiso, recatado
+y subordinado al hombre, lo cual refleja el nacionalcatolicismo que impregnaba
+todas las esferas del franquismo.
+En resumen, estos documentos son fuentes ideológicas y educativas, ya que expresan el
+control que ejercía la dictadura sobre la vida privada y pública de las mujeres, utilizando
+la religión y la moral tradicional como herramientas de represión y adoctrinamiento.
+Pregunta 2: Identificación de ideas principales y contexto histórico
+Documentos 1 y 2
+En el contexto de las Cortes de Cádiz, tanto el Decreto sobre la libertad de imprenta
+(1810) como el Decreto sobre la abolición de los señoríos jurisdiccionales (1811) reflejan
+las principales ideas del liberalismo y el deseo de acabar con las estructuras del Antiguo
+Régimen.
+El Documento 1 es especialmente relevante porque proclama la libertad de expresión y
+de imprenta como un derecho fundamental de los ciudadanos. Se argumenta que la
+posibilidad de publicar ideas políticas es un medio para controlar el poder arbitrario del
+gobierno y para fomentar el debate público y la “ilustración” de la nación. Esta medida es
+coherente con los ideales de la Ilustración y con las revoluciones liberales que habían
+estallado en otros países europeos y americanos.
+
+=== PAGINA 3 ===
+El Documento 2, por su parte, aborda la abolición de los señoríos jurisdiccionales, una
+institución feudal que otorgaba a los señores derechos sobre tierras y personas,
+incluyendo tributos y jurisdicción judicial. Al eliminar los señoríos y las relaciones de
+vasallaje, las Cortes buscaban instaurar la igualdad jurídica entre todos los ciudadanos y
+promover un sistema basado en la propiedad privada, fundamento del liberalismo
+económico.
+Contexto histórico: Estas medidas legislativas se inscriben en el proceso de
+transformación iniciado por las Cortes de Cádiz entre 1810 y 1812, durante la Guerra
+de Independencia (1808-1814). Mientras España luchaba contra la ocupación francesa,
+las Cortes aprovecharon la situación para sentar las bases de un nuevo orden liberal
+que acabaría con los privilegios del Antiguo Régimen. La Constitución de 1812
+consolidaría estas ideas, aunque su vigencia sería breve debido al regreso del
+absolutismo con Fernando VII.
+Documentos 3 y 4
+En un contexto muy diferente, los Documentos 3 y 4 muestran la concepción de la mujer
+durante la dictadura franquista. En ambos textos se insiste en un modelo femenino
+tradicional basado en los valores del nacionalcatolicismo.
+El Documento 3 describe la función de la mujer como esposa, madre y educadora en el
+hogar. Se promueve la idea de que las mujeres deben limitarse al ámbito doméstico y
+capacitarse en tareas como cocinar, planchar y cuidar a la familia. Esta visión responde
+al intento del franquismo de reforzar un modelo de sociedad jerárquica y patriarcal
+donde las mujeres quedaban subordinadas a los hombres.
+El Documento 4, por su parte, establece normas estrictas sobre la vestimenta
+femenina, defendiendo la “decencia” y la “modestia” como valores esenciales. Estas
+normas reflejan la influencia de la Iglesia Católica, que colaboraba con el régimen para
+controlar la moral y las costumbres de la población, especialmente de las mujeres.
+Contexto histórico: Ambos documentos se enmarcan en los años 50, una década en la
+que el franquismo consolidó su ideología y su control social. La mujer fue uno de los
+principales objetivos del régimen, que a través de la Sección Femenina y la Iglesia
+impuso un modelo de feminidad basado en la sumisión, la obediencia y la moral católica.
+Este control formaba parte de la política de reafirmación nacional del franquismo, que
+buscaba imponer un orden social tradicional frente a las ideas progresistas y feministas
+de la Segunda República.
+
+=== PAGINA 4 ===
+Pregunta 3: Definición de conceptos
+1.
+Censura: La censura es el control previo o la supresión de información, ideas u
+opiniones por parte de una autoridad, generalmente el Estado. Su objetivo es
+evitar la difusión de contenidos considerados inaceptables o peligrosos. Durante
+el franquismo, la censura fue un instrumento clave para controlar la prensa, la
+literatura y el cine, limitando la libertad de expresión y silenciando cualquier
+oposición al régimen.
+2. Nacionalcatolicismo: Fue la ideología que definió la dictadura franquista,
+caracterizada por la fusión del nacionalismo español con los valores y principios
+de la Iglesia Católica. El nacionalcatolicismo otorgaba a la religión un papel
+central en la vida pública y privada, imponiendo la moral cristiana en la educación,
+la cultura y la política.
+3. Señorío: El señorío era una institución feudal en la que un señor tenía derechos
+sobre un territorio y sus habitantes. Los señoríos podían ser jurisdiccionales, con
+poderes judiciales y políticos, o territoriales, limitados a la propiedad de la tierra.
+En el Antiguo Régimen, los señores feudalistas controlaban la vida económica y
+social de los campesinos. Fueron abolidos por las Cortes de Cádiz en 1811, lo que
+permitió la integración de estas tierras a la nación y promovió la propiedad
+privada.
+4. Dictadura:La dictadura es un régimen en el que el poder está concentrado en
+una sola persona o grupo, sin restricciones legales ni democracia. Las dictaduras
+suelen suprimir las libertades individuales y la oposición política. En ellas, el
+gobernante tiene control absoluto sobre el Estado. Ejemplos notables son las
+dictaduras militares y totalitarias, como la dictadura franquista en España, que
+anuló los derechos civiles y controló todos los aspectos de la vida social y
+política.
+Pregunta 4a
+Las principales medidas legislativas de las Cortes de Cádiz
+Las Cortes de Cádiz (1810-1814) representaron un intento revolucionario de acabar
+con el Antiguo Régimen y sentar las bases de un Estado liberal y moderno. Durante
+este período, las Cortes adoptaron medidas legislativas que respondían a los principios
+de igualdad, libertad y soberanía nacional.
+
+=== PAGINA 5 ===
+Una de las medidas más importantes fue la abolición de los señoríos jurisdiccionales
+(1811), lo que supuso el fin de las relaciones feudales que subordinaban a los campesinos
+a los señores. Asimismo, se proclamó la libertad de imprenta (1810), permitiendo la libre
+expresión de ideas políticas y limitando el poder del Estado para censurar la opinión
+pública. Estas medidas se completaron con la abolición de la Inquisición (1813) y la
+promulgación de la Constitución de 1812, que establecía la soberanía nacional, la división
+de poderes y los derechos individuales.
+2. Las principales características del marco ideológico de la dictadura franquista, con
+especial atención a la represión y el control social
+La dictadura franquista, que se extendió desde 1939 hasta 1975, estuvo fundamentada
+en un marco ideológico autoritario, ultraconservador y nacionalista. Este marco fue una
+síntesis del nacionalcatolicismo, el militarismo, el corporativismo y la exaltación de la
+figura de Francisco Franco como líder supremo del Estado.
+Uno de los pilares fundamentales del franquismo fue el nacionalcatolicismo, que
+otorgaba a la Iglesia Católica un papel preeminente en la sociedad española. La religión
+católica no solo monopolizó la educación y la moral pública, sino que también sirvió para
+legitimar ideológicamente el régimen. La Iglesia era el instrumento a través del cual se
+imponían valores tradicionales, como la obediencia, la disciplina, el patriarcado y la
+moralidad cristiana. La educación, controlada por instituciones religiosas, se utilizó para
+inculcar estos principios desde edades tempranas.
+El control social y la represión fueron elementos clave del régimen franquista. Desde el
+final de la Guerra Civil, el franquismo implementó una política de represión sistemática
+contra cualquier forma de disidencia o oposición política. Esta represión se articuló a
+través de múltiples mecanismos:
+●Se crearon tribunales especiales, como el Tribunal de Orden Público (TOP),
+para juzgar delitos políticos y castigar a aquellos que se consideraban “enemigos
+de la patria”.
+●Se practicaron fusilamientos masivos, encarcelamientos, torturas y exilio
+forzoso de miles de personas, especialmente durante los años 40, cuando el
+
+=== PAGINA 6 ===
+régimen llevó a cabo una “depuración” de los sectores republicanos y de
+izquierda.
+●Se instauró una estricta censura sobre los medios de comunicación, el cine, la
+literatura y el arte, que debían ajustarse a los valores del régimen. La prensa
+quedó sometida a un control férreo que impedía la libre expresión de ideas
+contrarias al franquismo.
+●La vida privada también fue objeto de control. La Sección Femenina y la Iglesia
+promovieron un modelo de familia tradicional, donde la mujer debía someterse al
+marido y cumplir con su rol de madre y ama de casa. Las mujeres fueron
+relegadas al ámbito doméstico y privadas de derechos fundamentales como el
+voto o el acceso igualitario a la educación y al trabajo.
+La ideología franquista exaltaba la unidad de España y el nacionalismo español. Las
+lenguas y culturas regionales, como el catalán, el gallego o el euskera, fueron
+perseguidas y prohibidas en el espacio público, en un intento de imponer una identidad
+nacional homogénea. Además, el franquismo defendía un corporativismo económico y
+social, inspirado en el modelo fascista italiano, donde los sindicatos verticales
+controlados por el Estado organizaban las relaciones laborales.
+Por último, la figura de Franco ocupaba un lugar central en la ideología del régimen. Se
+le atribuían características casi divinas, como el título de “Caudillo de España por la
+gracia de Dios”, y su imagen era omnipresente en la propaganda oficial. Franco se
+convirtió en el símbolo del orden, la autoridad y la “victoria nacional” frente al caos de la
+Segunda República.
+En conclusión, el marco ideológico franquista fue un sistema autoritario basado en la
+represión política, el control social y la imposición de valores tradicionales y
+nacionalistas. El régimen utilizó la Iglesia, la educación, la censura y la violencia para
+asegurar su estabilidad y perpetuarse en el poder, sofocando cualquier atisbo de
+oposición o modernización.
+Pregunta 4b
+1. Las características de la Constitución de Cádiz y su comparación con los textos
+fundamentales de 1845 y 1869
+La Constitución de Cádiz, promulgada el 19 de marzo de 1812, fue un texto
+revolucionario que marcó un antes y un después en la historia del constitucionalismo
+español. Surgida en el contexto de la Guerra de Independencia contra Francia, esta
+
+=== PAGINA 7 ===
+constitución fue redactada por las Cortes de Cádiz, donde predominaban los liberales, y
+representaba el primer intento serio de establecer un sistema político moderno y liberal
+en España.
+Las características principales de la Constitución de Cádiz son las siguientes:
+●Soberanía nacional: Por primera vez, se estableció que la soberanía residía en la
+nación, es decir, en el conjunto de los ciudadanos, y no en el monarca. Esta idea
+rompía con la tradición absolutista del Antiguo Régimen, en la que el poder del
+rey era considerado de origen divino.
+●División de poderes: La Constitución consagraba la separación de poderes en
+tres ramas: el poder legislativo, que recaía en unas Cortes unicamerales; el
+poder ejecutivo, que correspondía al rey, aunque limitado por las Cortes; y el
+poder judicial, ejercido por tribunales independientes.
+●Derechos individuales: Se reconocieron derechos fundamentales como la
+libertad de imprenta, la inviolabilidad del domicilio, la igualdad jurídica, el derecho
+a la propiedad y la abolición de privilegios estamentales.
+●Religión: Se declaró la religión católica como la única confesión permitida,
+reflejando la influencia de la Iglesia en la sociedad española de la época.
+●Sufragio censitario: Se estableció un sistema de votación indirecto y limitado, en
+el que solo podían votar los varones mayores de 25 años con cierto nivel de
+renta.
+Comparación con los textos de 1845 y 1869
+1. Constitución de 1845:
+○Fue promulgada durante el reinado de Isabel II y representó una vuelta al
+moderantismo.
+○La soberanía nacional fue sustituida por la soberanía compartida entre el
+rey y las Cortes, lo que reforzaba el poder de la Corona.
+○La división de poderes quedó debilitada, ya que el rey tenía amplias
+prerrogativas, como la capacidad de disolver las Cortes y nombrar
+ministros.
+○Los derechos individuales quedaron restringidos y sometidos a la voluntad
+del monarca.
+2. Constitución de 1869:
+○Fue fruto del Sexenio Democrático y representó un avance liberal y
+democrático.
+
+=== PAGINA 8 ===
+○Se reafirmó la soberanía nacional, otorgando todo el poder a la nación y
+eliminando las prerrogativas del monarca.
+○La división de poderes fue más clara y efectiva. El poder legislativo
+recayó en unas Cortes bicamerales, mientras que el ejecutivo quedó
+limitado.
+○Se reconocieron derechos y libertades más amplios, como la libertad de
+culto, la libertad de expresión y el derecho de reunión.
+○El sufragio se amplió a los varones mayores de 25 años, estableciendo así
+el sufragio universal masculino.
+En conclusión, la Constitución de Cádiz sentó las bases del liberalismo en España, pero
+sus principios fueron modificados en los textos posteriores según el contexto político de
+cada época. Mientras que la Constitución de 1845 representaba un retroceso hacia el
+moderantismo y el poder monárquico, la de 1869 supuso un avance hacia un sistema
+democrático y una mayor protección de las libertades individuales.
+2. Comparación de la situación de la mujer en la Segunda República y la dictadura
+franquista, con especial atención a los aspectos políticos y de vida cotidiana
+La situación de la mujer en España durante la primera mitad del siglo XX estuvo
+marcada por dos etapas profundamente contrastadas: el período progresista y
+reformista de la Segunda República (1931-1936) y el régimen autoritario y
+ultraconservador de la dictadura franquista (1939-1975). Mientras que la Segunda
+República representó un avance hacia la emancipación femenina, el franquismo supuso
+un retroceso absoluto, imponiendo un modelo tradicional y patriarcal que relegó a las
+mujeres a la esfera doméstica.
+La mujer en la Segunda República (1931-1936)
+La proclamación de la Segunda República el 14 de abril de 1931 trajo consigo un proceso
+de modernización política y social que tuvo un impacto directo en la vida de las mujeres.
+Por primera vez en la historia de España, se tomaron medidas para reconocer y
+garantizar sus derechos políticos, sociales y laborales, rompiendo con el modelo
+tradicional del Antiguo Régimen y de la monarquía.
+Desde el punto de vista político, uno de los avances más significativos fue la concesión
+del derecho al voto femenino con la aprobación de la Constitución de 1931. Esta medida
+
+=== PAGINA 9 ===
+fue defendida en las Cortes por figuras emblemáticas como Clara Campoamor, quien
+argumentó que el sufragio era un derecho fundamental y una cuestión de justicia e
+igualdad. Aunque otras políticas como Victoria Kent se mostraron reticentes por temor
+a que las mujeres, influenciadas por la Iglesia, votaran a las fuerzas conservadoras,
+finalmente el derecho al voto femenino quedó reconocido. Como resultado, las
+elecciones de 1933 fueron las primeras en las que las mujeres pudieron votar en
+igualdad de condiciones con los hombres.
+Además del derecho al voto, la Segunda República impulsó reformas que mejoraron la
+participación de las mujeres en la vida pública y su acceso a cargos de responsabilidad.
+Por primera vez, algunas mujeres ocuparon escaños en el Parlamento, como la propia
+Clara Campoamor y Margarita Nelken, lo que evidenció el avance hacia una mayor
+representación política femenina.
+En el ámbito social y laboral, la República también aprobó leyes destinadas a garantizar
+la igualdad de derechos entre hombres y mujeres. Se reconoció el derecho de las
+mujeres a acceder a la educación y al trabajo en igualdad de condiciones, lo que les
+permitió incorporarse de manera progresiva a profesiones y actividades que hasta
+entonces les estaban vedadas. La educación se convirtió en un eje central de la política
+republicana, y se promovió la escolarización femenina para combatir el analfabetismo y
+favorecer la formación de las mujeres como ciudadanas activas.
+Asimismo, se llevaron a cabo reformas que mejoraron la situación jurídica de las
+mujeres. Se aprobó la Ley del Divorcio en 1932, que reconocía el derecho de las
+mujeres a romper matrimonios infelices y a recuperar su libertad individual. También se
+reconocieron los derechos laborales de las mujeres, como la igualdad salarial y la
+protección durante la maternidad, lo que supuso un importante avance en comparación
+con etapas anteriores.
+En resumen, durante la Segunda República, la mujer experimentó avances políticos y
+sociales sin precedentes. El reconocimiento del sufragio femenino, el acceso a la
+educación y al trabajo, y las reformas en materia de derechos civiles evidenciaron un
+cambio de mentalidad y el inicio de la lucha por la igualdad de género.
+La mujer durante la dictadura franquista (1939-1975)
+La llegada de la dictadura franquista en 1939 supuso un retroceso drástico en los
+derechos y libertades de las mujeres. El régimen impuso un modelo de sociedad
+tradicional, patriarcal y profundamente influido por el nacionalcatolicismo, donde la
+mujer fue relegada al ámbito doméstico y subordinada al hombre. La visión franquista de
+
+=== PAGINA 10 ===
+la mujer quedaba resumida en los lemas de la época, como “la mujer, esposa y madre”, y
+en las directrices impuestas por la Sección Femenina de la Falange, dirigida por Pilar
+Primo de Rivera.
+Desde el punto de vista político, las mujeres perdieron los derechos adquiridos durante
+la Segunda República. El derecho al voto quedó suspendido, ya que durante la dictadura
+no existían elecciones democráticas. Además, la mujer fue apartada de la vida pública y
+de cualquier posibilidad de participación política. La legislación franquista restringió su
+capacidad jurídica: las mujeres casadas necesitaban la autorización del marido (conocida
+como “permiso marital”) para trabajar, viajar o realizar cualquier transacción económica,
+lo que las situaba en una posición de dependencia absoluta.
+En el ámbito social y de la vida cotidiana, el franquismo promovió un modelo de mujer
+sometida y dedicada exclusivamente a su papel de esposa, madre y ama de casa. La
+educación de las mujeres fue orientada a prepararlas para las tareas del hogar, como
+cocinar, coser o cuidar a los hijos. La Enciclopedia de la Sección Femenina (1957),
+mencionada en el examen, reflejaba esta concepción, al afirmar que la “ciencia
+doméstica” era el “bachillerato” de las mujeres, y que debían formarse para resolver
+tareas como guisar, planchar y zurcir.
+La Iglesia Católica tuvo un papel central en la consolidación de este modelo patriarcal.
+A través de la enseñanza religiosa y las Normas de Decencia Cristiana (1958), se
+imponían reglas estrictas sobre la moralidad femenina. Las mujeres debían vestir de
+forma recatada, evitar comportamientos considerados “provocativos” y aceptar su rol
+como complemento del hombre. Cualquier desviación de este ideal era vista como una
+amenaza al orden social y moral del franquismo.
+En el ámbito laboral, la situación de la mujer fue igualmente restrictiva. Aunque muchas
+mujeres trabajaron durante la posguerra debido a la necesidad económica, el régimen
+promovía la idea de que el lugar natural de la mujer era el hogar. Las leyes laborales
+limitaban sus derechos, y las mujeres recibían salarios inferiores a los hombres por el
+mismo trabajo. Además, la Ley de Peligrosidad Social castigaba a aquellas mujeres que
+se desviaban del modelo oficial, como las trabajadoras sexuales o las mujeres
+independientes.
+En conclusión, la dictadura franquista impuso un modelo de mujer sumisa, dependiente y
+limitada al ámbito doméstico, eliminando los derechos adquiridos durante la Segunda
+República. Mientras que en la República las mujeres fueron reconocidas como
+
+=== PAGINA 11 ===
+ciudadanas con plenos derechos, el franquismo las redujo a meros instrumentos de la
+familia y del orden social tradicional.
+La comparación entre la Segunda República y la dictadura franquista pone de manifiesto
+dos modelos de sociedad radicalmente opuestos. Durante la Segunda República, las
+mujeres consiguieron avances significativos en materia de derechos políticos, civiles y
+laborales, lo que les permitió integrarse en la vida pública y luchar por su emancipación.
+En cambio, el franquismo supuso un retroceso absoluto, relegando a las mujeres al papel
+tradicional de esposas y madres, sometidas a la autoridad masculina y controladas por la
+Iglesia y el Estado. Esta dualidad refleja las tensiones ideológicas y sociales que
+marcaron la historia de España durante el siglo XX.

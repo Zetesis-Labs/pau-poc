@@ -1,0 +1,843 @@
+[
+  {
+    "documento": "09feb8541d90",
+    "origen": "academia",
+    "asignatura": "Historia de España",
+    "anio": 2021,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 12,
+    "paginas_pdf": 11,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2021-ordinaria-solucion-llibreta-e91853eaf194.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "e91853eaf194",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/012A%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20junio%202021.pdf",
+        "titulo": "Junio 2021 — Solución"
+      }
+    },
+    "sha256_pdf": "4b04f367b32a7bb0e3d697d4a61f67de7613b50084001d462887cf4b08f8a781",
+    "incidencias": [
+      "En la respuesta sobre la Constitución de Cádiz se afirma que estableció un sufragio censitario limitado a varones mayores de 25 años con cierto nivel de renta; esta afirmación parece errónea.",
+      "La respuesta sitúa la Segunda República entre 1931 y 1936, aunque el periodo republicano se prolongó hasta 1939."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "16d0161b5c29",
+    "origen": "academia",
+    "asignatura": "Historia de España",
+    "anio": 2020,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 12,
+    "paginas_pdf": 11,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2020-ordinaria-solucion-llibreta-cc054e488195.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "cc054e488195",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/011A-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20julio%202020.pdf",
+        "titulo": "Julio 2020 — Solución"
+      }
+    },
+    "sha256_pdf": "50486805e8e2090a5c3b446ac5a5676c49f2fde2f5ceee700aa8991bc4d450e7",
+    "incidencias": [
+      "En la página 3, el documento afirma que la Constitución establecía «un sistema bicameral» y lo describe entre paréntesis como «Cortes unicamerales», una contradicción interna.",
+      "En la página 3 aparece literalmente «Las tierras señorías», posible errata del documento."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "1b0c55921d01",
+    "origen": "academia",
+    "asignatura": "Historia de España",
+    "anio": 2022,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 12,
+    "paginas_pdf": 8,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2022-ordinaria-solucion-llibreta-b2c85fae1b4e.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "b2c85fae1b4e",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/013A%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20junio%202022.pdf",
+        "titulo": "Junio 2022 — Solución"
+      }
+    },
+    "sha256_pdf": "8dd3e34c6454a70f1376be5408dbf1a850b041445581352571eb9dbbcdccd1ff",
+    "incidencias": [
+      "El solucionario repite las etiquetas «4a» para los dos desarrollos de la cuarta sección y «4b» para los dos de la quinta; se asociaron a los nodos correspondientes por su contenido."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "25fcf7208b8f",
+    "origen": "academia",
+    "asignatura": "Matemáticas II",
+    "anio": 2022,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 21,
+    "paginas_pdf": 9,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/madrid/matematicas-ii/2022-ordinaria-solucion-mundoestudiante-3ad37f8a71fd.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "3ad37f8a71fd",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "mundoestudiante",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2022/Soluci%C3%B3n+EVAU+Madrid+Matem%C3%A1ticas+II+2022+Junio+V3.pdf",
+        "titulo": "MATEMÁTICAS II — SOLUCIÓN (Exámenes EvAU Comunidad de Madrid (junio 2022))"
+      }
+    },
+    "sha256_pdf": "32070785301dc93146a0688acca1851f2be019a128066aa1edbd682a2395b163",
+    "incidencias": [
+      "En la respuesta de A.2.a (página 3), la derivada escrita para $x\\ne0$, $3x^2e^{-1/x^2}-xe^{-1/x^2}$, parece contener una errata.",
+      "En A.4.b (página 5), el documento da $0{,}99$; el valor de $1-0{,}277^{10}$ es aproximadamente $0{,}999997$, por lo que el resultado escrito parece impreciso.",
+      "En B.4.a (página 9), la expresión transcrita considera únicamente pañuelos lisos del color contrario al sombrero ($2/9$ y $2/10$), y no incluye los pañuelos de cuadros, aunque el enunciado pide que aparezca algún color que no sea el del sombrero."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "334e3227bf82",
+    "origen": "academia",
+    "asignatura": "Historia de España",
+    "anio": 2023,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 12,
+    "paginas_pdf": 9,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2023-extraordinaria-solucion-llibreta-31af0002c6ff.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "31af0002c6ff",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/014B%20-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20julio%202023.pdf",
+        "titulo": "Julio 2023 — Solución"
+      }
+    },
+    "sha256_pdf": "bc2ae4511ad37fc932fa40b6b5f478325388e866b705e486e94f4027be51b550",
+    "incidencias": [
+      "En la respuesta del documento 3 de la pregunta 2 se afirma que el manifiesto de 1917 corresponde a los años posteriores a la Primera Guerra Mundial, aunque la guerra se desarrolló entre 1914 y 1918.",
+      "El nodo n6 está etiquetado «a)» en el árbol, pero su enunciado corresponde a los documentos 3 y 4 y la solución lo presenta como «Opción b»; se ha asociado por el contenido y los documentos."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "6426459db740",
+    "origen": "academia",
+    "asignatura": "Historia de España",
+    "anio": 2021,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 20,
+    "paginas_pdf": 12,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-solucion-mundoestudiante-419c32445ca2.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "419c32445ca2",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "academia",
+        "fuente": "mundoestudiante",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://cdn.mundoestudiante.com/documentos/enunciados/Selectividad-EVAU/Madrid/2021/Soluci%C3%B3n+EVAU+Madrid+Historia+2021+Julio.pdf",
+        "titulo": "HISTORIA DE ESPAÑA — SOLUCIÓN (Exámenes EvAU Comunidad de Madrid (julio 2021))"
+      }
+    },
+    "sha256_pdf": "5e97da9a675036f78ec68fc15a345fc8c6c8cb3363605657fe2ced751f585e1e",
+    "incidencias": [
+      "En n28 el documento indica «General Martínez en Sagunto»; parece una errata en el nombre del general."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "01808acbd270",
+    "origen": "oficial",
+    "asignatura": "Historia de España",
+    "anio": 2024,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 7,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/historia-de-espana/2024-extraordinaria-examen-coincidencias-uc3m-01808acbd270.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "dd09de6430a4a118e7606fe70c2978b57cbede9c0b664edb8444ff29a5005193",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "053608cf06ee",
+    "origen": "oficial",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "anio": 2013,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 2,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-extraordinaria-criterios-llibreta-2b63a12d4e02.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "2b63a12d4e02",
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25681/mod_folder/content/0/004B%20-%20SOL%20-%20Castellano%20Lengua%20y%20Literatura%20-%20julio%202013.pdf",
+        "titulo": "Julio 2013 — Criterios de corrección"
+      }
+    },
+    "sha256_pdf": "927092ec39aaec47e6f57f152ae16970f91a9b1f46dc42631e53475cf8c1f852",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "070c3795d83c",
+    "origen": "oficial",
+    "asignatura": "Técnicas de Expresión Gráfico-Plástica",
+    "anio": 2026,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 4,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-solucion-ehu-d84a81a0f038.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "d84a81a0f038",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "ehu",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/tecnicas-expresion-grafico-plastica-solucionario-extraord-2026",
+        "titulo": "Técnicas de Expresión Gráfico-Plástica — Solucionario"
+      }
+    },
+    "sha256_pdf": "45887cbb901be38537ed85b47c53c2e6a8ea940f1e2643b05e36df03dcacd766",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0743849de2d6",
+    "origen": "oficial",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "anio": 2025,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 6,
+    "paginas_pdf": 6,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-uc3m-0743849de2d6.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "8eb22c40b11a45a5808c6dd9da1788a0f38cd72e6ac5af9cf2380aba635b5488",
+    "incidencias": [
+      "Para 2.4, el documento ofrece ejemplos de antónimos, pero no incluye una definición del concepto de antonimia."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0a50595f8036",
+    "origen": "oficial",
+    "asignatura": "Dibujo Artístico II",
+    "anio": 2026,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 3,
+    "desde": 2,
+    "fuente": {
+      "archivo": "pdfs/madrid/dibujo-artistico-ii/2026-ordinaria-examen-uc3m-0a50595f8036.pdf",
+      "desde": 2,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 2
+        }
+      }
+    },
+    "sha256_pdf": "c6289b7e149fc47bf1c2a378e7eaf462dcb8a9169d021c3f9ec2a5757c8d5e28",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0b7e227a5499",
+    "origen": "oficial",
+    "asignatura": "Matemáticas II",
+    "anio": 2026,
+    "convocatoria": "modelo",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 13,
+    "paginas_pdf": 7,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/matematicas-ii/2026-modelo-modelo-uc3m-0b7e227a5499.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "2a58a8f9a5a98ab5ffc8774c4eb007819f1ce44ff86aaa88efd695613c7b173a",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0bed555f767c",
+    "origen": "oficial",
+    "asignatura": "Italiano",
+    "anio": 2018,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 3,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/italiano/2018-extraordinaria-examen-uc3m-0bed555f767c.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "6b478c04dca19d55ef9b08a26b4af41cc045297df3775abab9f50a156a59f323",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0d5e5806192a",
+    "origen": "oficial",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "anio": 2019,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 4,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/lengua-castellana-y-literatura-ii/2019-extraordinaria-examen-uc3m-0d5e5806192a.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "0db7f5480b2bf8ace145d55e04548ebb442a490fe30c164de20720aa1e7ed651",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "0fedaac3fe5f",
+    "origen": "oficial",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "anio": 2011,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 2,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2011-extraordinaria-criterios-llibreta-d1dfca4e69b9.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "d1dfca4e69b9",
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25681/mod_folder/content/0/002%20-%20SOL%20-%20Castellano%20Lengua%20y%20Literatura%20-%20sept%202011.pdf",
+        "titulo": "Septiembre 2011 — Criterios de corrección"
+      }
+    },
+    "sha256_pdf": "53f1a1048b724bf58903a3e3cbf9dce7929863de6572523955ae2a8e9705546b",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "114bff1bacb1",
+    "origen": "oficial",
+    "asignatura": "Lengua Castellana y Literatura II",
+    "anio": 2023,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 8,
+    "paginas_pdf": 6,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-ordinaria-examen-coincidencias-uc3m-114bff1bacb1.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "14b616b416a4bd19a0ec975551dc90ad5d136050d6aae993fe0f07345c6ae860",
+    "incidencias": [
+      "En A.5, el enunciado del árbol se refiere a «generalización», pero las dos segmentaciones transcritas en la solución terminan en «es», indicado como morfema flexivo de número.",
+      "En B.5, el documento no proporciona una definición de antonimia; solo indica que se defina el concepto y aporta ejemplos de antónimos de «orden»."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "13244a0fa596",
+    "origen": "oficial",
+    "asignatura": "Historia de España",
+    "anio": 2021,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 8,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-coincidencias-uc3m-13244a0fa596.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "eee156bf9e9b5fa035a5c97c64ea9975ab8aea827b4154c56534081a9584b7ef",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "172579fa76d4",
+    "origen": "oficial",
+    "asignatura": "Historia de la Filosofía",
+    "anio": 2021,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 7,
+    "desde": 6,
+    "fuente": {
+      "archivo": "pdfs/pais-vasco/historia-de-la-filosofia/2021-extraordinaria-examen-ehu-172579fa76d4.pdf",
+      "desde": 6,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "ehu",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 6
+        }
+      }
+    },
+    "sha256_pdf": "d6a4b890e9b20dd2fa5e170c65ba6ee268667cc64b6c546f80ec8b7052d40e97",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "17445f0ab770",
+    "origen": "oficial",
+    "asignatura": "Química",
+    "anio": 2023,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": false,
+    "entradas": 0,
+    "paginas_pdf": 1,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/quimica/2023-ordinaria-criterios-llibreta-93c019930f9d.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "93c019930f9d",
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://aula.academialallibreta.es/pluginfile.php/25695/mod_folder/content/0/014A%20-%20SOL%20-%20Qu%C3%ADmica%20-%20junio%202023.pdf",
+        "titulo": "Junio 2023 — Criterios de corrección"
+      }
+    },
+    "sha256_pdf": "74aa29bc323de96ff26b9e8c49e9a1042ce07cf8ba92cf7dfc78e5415ac34d75",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "184bfaad518f",
+    "origen": "oficial",
+    "asignatura": "Matemáticas II",
+    "anio": 2019,
+    "convocatoria": "modelo",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 9,
+    "paginas_pdf": 8,
+    "desde": 6,
+    "fuente": {
+      "archivo": "pdfs/madrid/matematicas-ii/2019-modelo-modelo-uc3m-184bfaad518f.pdf",
+      "desde": 6,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 6
+        }
+      }
+    },
+    "sha256_pdf": "d60714d24f65ae8c1abc27d716836beafb8bc5acafccc9d19752e5ad974a050a",
+    "incidencias": [
+      "En n31, la solución imprime $P(A\\cap M)=P(A)-P(A\\cap M)$ y obtiene $0{,}15$. La igualdad es contradictoria y el suceso pedido en el enunciado es que el remitente sea varón y estudie alemán; se transcribió literalmente sin corregir."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "1bc800a06e3b",
+    "origen": "oficial",
+    "asignatura": "Matemáticas II",
+    "anio": 2021,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 20,
+    "paginas_pdf": 7,
+    "desde": 6,
+    "fuente": {
+      "archivo": "pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf",
+      "desde": 6,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 6
+        }
+      }
+    },
+    "sha256_pdf": "5665ffab83c2a919bfd7a42dfa11c460f6e661d59acd944d42ae851cffb8562a",
+    "incidencias": [],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "2787fc4d640f",
+    "origen": "oficial",
+    "asignatura": "Química",
+    "anio": 2019,
+    "convocatoria": "modelo",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 34,
+    "paginas_pdf": 11,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/quimica/2019-modelo-modelo-uc3m-2787fc4d640f.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "147e45949a69e8d460452e2c64130ba640d922cccb00f32ff11694e1cba9f351",
+    "incidencias": [
+      "El nodo n31 se asocia con el apartado b) de B2 por el contenido y el orden, ya que su etiqueta en el árbol es la ecuación de reactivos en vez de «b)».",
+      "En B2 b), la ecuación del solucionario presenta el éster sin incluir agua como producto.",
+      "En B5 a), el solucionario contiene un corchete de cierre sobrante en la expresión de la presión parcial de los productos."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "32384d10aa13",
+    "origen": "oficial",
+    "asignatura": "Historia de España",
+    "anio": 2018,
+    "convocatoria": "modelo",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 16,
+    "paginas_pdf": 14,
+    "desde": 3,
+    "fuente": {
+      "archivo": "pdfs/madrid/historia-de-espana/2018-modelo-modelo-uc3m-32384d10aa13.pdf",
+      "desde": 3,
+      "anexo": {
+        "tipo": "criterios",
+        "contenido": [
+          "criterios",
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "uc3m",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "incrustado": {
+          "pagina": 3
+        }
+      }
+    },
+    "sha256_pdf": "ae59fb557f20770fe6172971090754669b9167cbe1184c2585ee450599f5d718",
+    "incidencias": [
+      "El solucionario no incluye respuesta para el apartado 1 del comentario de texto (n21). El apartado de desamortización de Mendizábal se ha asociado a n22 por su contenido; el documento no separa la respuesta con la numeración de los apartados del árbol."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "3c134e1125e6",
+    "origen": "oficial",
+    "asignatura": "Historia de España",
+    "anio": 2026,
+    "convocatoria": "ordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 9,
+    "paginas_pdf": 6,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2026-ordinaria-criterios-llibreta-7c5377981b00.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "7c5377981b00",
+        "tipo": "criterios",
+        "contenido": [
+          "criterios"
+        ],
+        "origen": "oficial",
+        "fuente": "llibreta",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://universitats.gva.es/documents/389338055/393318644/Criterios+HESP+junio+2026.pdf/e2b10360-8493-a1be-c1cf-5c22a25d27cb",
+        "titulo": "Junio 2026 — Criterios de corrección"
+      }
+    },
+    "sha256_pdf": "4e28772083044b4ceca6e414923c72abfae6b35b504e82ca123e15a3a78ff703",
+    "incidencias": [
+      "En la respuesta de la pregunta 4, el documento contiene la errata gramatical «legalización de las venta» en castellano y «legalització de les venda» en valenciano; se ha transcrito literalmente.",
+      "En la respuesta de la pregunta 2.1 en castellano, el original presenta un paréntesis de apertura adicional en «Regencia de M.ª Cristina (1833-1840), (Estatuto Real (1834)»; se ha conservado."
+    ],
+    "sin_correspondencia": []
+  },
+  {
+    "documento": "49e9ef3c3296",
+    "origen": "oficial",
+    "asignatura": "Matemáticas II",
+    "anio": 2026,
+    "convocatoria": "extraordinaria",
+    "estado_pipeline": "completed",
+    "contiene_soluciones": true,
+    "entradas": 14,
+    "paginas_pdf": 6,
+    "desde": 1,
+    "fuente": {
+      "archivo": "pdfs/pais-vasco/matematicas-ii/2026-extraordinaria-solucion-ehu-a77749e62a45.pdf",
+      "desde": 1,
+      "anexo": {
+        "id": "a77749e62a45",
+        "tipo": "solucion",
+        "contenido": [
+          "solucion"
+        ],
+        "origen": "oficial",
+        "fuente": "ehu",
+        "acceso": "publico",
+        "coincidencia": "exacta",
+        "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/matematicas-ii-solucionario-extraord-2026",
+        "titulo": "Matemáticas II — Solucionario"
+      }
+    },
+    "sha256_pdf": "7ef7d7eb6b34f25b6a1174a89c5b35dfbebc7db52d19080b08139aefd33937ab",
+    "incidencias": [],
+    "sin_correspondencia": []
+  }
+]

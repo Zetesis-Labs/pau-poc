@@ -1,0 +1,12 @@
+{
+  "nodos_mapeados": 5492,
+  "discrepancias_texto_entre_nodo_y_publicacion": 0,
+  "entradas_r2": 1186,
+  "rubricas_en_nodo_no_publicado": 82,
+  "entradas_r2_con_respuesta": 652,
+  "respuestas_r2_en_nodo_no_publicado": 10,
+  "respuestas_r2_en_nodo_publicado_sin_solucion": 587,
+  "respuestas_r2_en_nodo_publicado_con_solucion": 55,
+  "solucion_identica_respuesta_r2": 13,
+  "advertencia": "Las respuestas r2 no se certifican correctas: hay que contrastarlas con fuente antes de reutilizarlas."
+}

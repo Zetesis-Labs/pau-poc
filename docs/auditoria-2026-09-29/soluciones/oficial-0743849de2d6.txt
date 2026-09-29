@@ -1,0 +1,916 @@
+DOCUMENTO {"id": "0743849de2d6", "region": "Madrid", "asignatura": "Lengua Castellana y Literatura II", "anio": 2025, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1pGm1BciuIQL6vpks6DpIth9fzNtrzngI/view?usp=drive_link", "archivo": "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-uc3m-0743849de2d6.pdf", "paginas": 6, "estrato": "piloto · Madrid · Lengua Castellana y Literatura II"}
+FUENTE {"archivo": "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-uc3m-0743849de2d6.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "COMUNICACIÓN. LA LENGUA Y SUS HABLANTES\nResponda las tres preguntas siguientes:"
+   }
+  ],
+  "puntos": 5.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Haga un comentario de texto del fragmento que se propone contestando a las preguntas siguientes:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "enuncie el tema del texto"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "detalle sus características lingüísticas y estilísticas más sobresalientes"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "indique qué tipo de texto es"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Redacte un resumen del contenido del texto."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Elabore un texto argumentativo sobre el contenido del texto, manifestando acuerdo o desacuerdo con alguna de las ideas que refleja."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "REFLEXIÓN SOBRE LA LENGUA"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n8",
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda una de estas dos preguntas:"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Analice sintácticamente: El tiempo nos permite reposo cuando necesitamos calma."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n9",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Analice sintácticamente: Necesitamos rescatar los valores que perdimos en esta sociedad materialista."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n8",
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda una de estas dos preguntas:"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Indique a qué categoría gramatical, o clase de palabras, pertenece regeneración, analice su estructura morfológica y señale a qué proceso de formación de palabras responde."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Defina el concepto de antonimia y ejemplifíquelo aportando, al menos, dos antónimos de la palabra aceleración."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "BLOQUE 3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "EDUCACIÓN LITERARIA"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda una de estas dos preguntas:"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n16",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Literatura de fin de siglo: la generación del 98 y el modernismo. La novela y el teatro anterior a 1936."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n16",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La lírica y el teatro posteriores a 1936."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n15",
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda una de estas dos preguntas:"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n19",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comente los aspectos más relevantes de la obra española o hispanoamericana que haya leído escrita en el período posterior a 1975 hasta la actualidad, en relación con su contexto sociohistórico y la tradición literaria."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n19",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comente los aspectos más relevantes de la obra española que haya leído escrita entre 1937 y 1974, en relación con su contexto sociohistórico y la tradición literaria."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La importancia de valorar adecuadamente el tiempo."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Texto de carácter humanístico. Ensayo. También será válido texto de carácter expositivo-argumentativo. Artículo de opinión."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "(ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "(ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Regeneración: palabra formada por derivación. Sustantivo.\n\na) Re prefijo + gener raíz/lexema + a vocal temática + ción sufijo\n\nb) Re prefijo + genera raíz/lexema + ción sufijo"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "A modo de ejemplo, podrían citarse: retraso, deceleración, desaceleración, frenada, etc."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "Para 2.4, el documento ofrece ejemplos de antónimos, pero no incluye una definición del concepto de antonimia."
+ ]
+}
+PDF
+=== PAGINA 3 ===
+LENGUA CASTELLANA Y LITERATURA II      
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN 
+I. INFORMACIÓN GENERAL
+Estructura de la prueba
+La prueba consta de un texto de carácter no especializado y una serie de preguntas. El estudiante debe
+contestar a las preguntas según se le indica en las instrucciones. Las preguntas se estructuran de
+acuerdo con el modelo siguiente:
+Bloque 1  
+Comprensión y comentario del texto propuesto: 
+1.1. Comentario de texto: a) tema del texto (0,5 puntos); b) características lingüísticas y 
+estilísticas más sobresalientes (1,5 puntos); c) tipo de texto (0,5 puntos). (Calificación total: 
+2,5 puntos) 
+1.2. Resumen del texto. (1 punto) 
+1.3. Elaboración de un texto argumentativo sobre el tema que se propone. (1,5 puntos) 
+Bloque 2 
+Cuestiones sobre los contenidos de Lengua Castellana del currículo de 2.º de Bachillerato: 
+2.1.o 2.2. Análisis sintáctico de una oración compleja o compuesta. (1,5 
+puntos) 
+2.3. o 2.4. Cuestiones de carácter morfológico o léxico-semántico. (1 punto) 
+Bloque 3 
+Cuestiones sobre contenidos de Literatura en castellano del currículo de 2º de Bachillerato: 
+3.1. o 3.2. Tema de literatura española para desarrollar. (1,5 puntos) 
+3.3. o 3.4. Análisis de la obra leída en relación con su contexto sociohistórico y la tradición 
+literaria. (1 punto)  
+Tiempo. La duración del examen es de 90 minutos.  
+Puntuación. La prueba se califica sobre 10. En cada pregunta, figura entre paréntesis la puntuación 
+máxima asignada.  
+II. CRITERIOS DE CALIFICACIÓN DE LA PRUEBA
+Las preguntas del bloque 1 se corresponden con cuestiones relativas a la comprensión y análisis de los
+textos propuestos. Con la pregunta 1.1. se pretende que el estudiante sepa hacer un comentario de
+texto, para lo cual ha de comprender su naturaleza y su significado. Para facilitar y sistematizar las
+respuestas, se han previsto tres cuestiones dentro de esta primera pregunta, que el estudiante debe
+contestar siguiendo las indicaciones siguientes:
+a) Debe enunciar su tema de manera concisa en una o dos líneas de extensión como máximo
+(0,5 puntos).
+b) Explicará las características lingüísticas y estilísticas más sobresalientes del texto. En caso de
+que resulte pertinente (por ejemplo, en el caso de las noticias periodísticas), también deberán
+incluirse aspectos de la estructura textual. Se analizarán los elementos lingüísticos que permitan
+identificar tanto las secuencias textuales (narración, descripción, exposición, argumentación,
+etc.) como el género discursivo (noticia periodística, ensayo humanístico, etc.): predominio de
+determinadas estructuras oracionales, tipo de léxico empleado, preferencia por determinados
+tiempos verbales, etc. Asimismo, se valorarán recursos de especial interés estilístico (o incluso
+de carácter literario) en el texto en cuestión: repeticiones, contraposiciones, ironía, metáfora,
+entre otros posibles, así como el dominio de las características del español actual y el
+conocimiento del contraste entre las variedades culta y estándar del español. En ningún caso se
+valorará que el estudiante elabore un mero listado de elementos (sustantivos, adjetivos, verbos
+en presente, etc.); es imprescindible que señale la función que las propiedades lingüísticas y
+estilísticas señaladas poseen / reflejan en el texto (1,5 puntos).
+c) Indicará el tipo de texto y el género discursivo al que corresponde el fragmento propuesto (0,5
+puntos).
+
+=== PAGINA 4 ===
+En la pregunta 1.2. el estudiante debe mostrar su capacidad de síntesis. Para ello, debe elaborar un 
+resumen del texto que se adecue a las siguientes pautas: a) no debe exceder de seis o siete líneas; b) 
+debe contener las ideas principales exponiéndolas con coherencia interna; c) se redactará con las 
+palabras del estudiante; d) no debe ser una paráfrasis del texto; e) debe ser objetivo; por tanto, no se 
+expresarán opiniones o valoraciones personales. Se calificará con una puntuación máxima de 1 punto.  
+En la pregunta 1.3. el estudiante debe mostrar su madurez intelectual, su capacidad de reflexión, 
+su facultad para exponer clara y ordenadamente sus ideas, así como su destreza en la argumentación. 
+Es imprescindible que el estudiante se exprese de forma personal y no conteste con fórmulas 
+estereotipadas, que exponga sus ideas con coherencia, con rigor y con una expresión correcta. Es 
+importante que construya un texto de naturaleza argumentativa, donde se observe claramente cuál es 
+su posición y los argumentos que la justifican. Se admitirán distintos tipos de estructuras 
+argumentativas, siempre que sean coherentes. Esta pregunta recibirá una calificación máxima de 1,5 
+puntos.  
+Las preguntas del bloque 2, relativas a cuestiones de lengua, seguirán un esquema fijo que 
+describimos a continuación. Las preguntas 2.1. y 2.2. consistirán en un análisis sintáctico. El estudiante 
+debe realizar el análisis funcional interoracional e intraoracional de la oración propuesta. Este análisis 
+debe extenderse hasta el nivel de las palabras. Se calificará con un máximo de 1,5 puntos. Las 
+preguntas 2.3. y 2.4. ofrecen la posibilidad de elegir entre cuestiones de morfología (estructura 
+morfológica de palabras complejas, categoría o clase de palabras, procesos de creación léxica como 
+derivación, composición o parasíntesis) y cuestiones léxico-semánticas, tales como sinonimia, 
+antonimia, polisemia, homonimia, hiperonimia e hiponimia, relacionadas con la comprensión del 
+significado de ciertos elementos del texto. Su puntuación máxima será de 1 punto. 
+El bloque 3 comprende preguntas relativas a contenidos de literatura (preguntas 3.1. y 3.2.) y a 
+las obras que el estudiante habrá leído en 2.º de Bachillerato (preguntas 3.3. y 3.4.). En su respuesta se 
+valorarán los conocimientos del estudiante, tanto los derivados del estudio de la historia de la literatura 
+como los que pueda haber adquirido mediante la lectura de las obras literarias. En las preguntas 3.1. y 
+3.2., el estudiante habrá de demostrar sus conocimientos acerca de las tendencias literarias del 
+movimiento o época por los que se pregunta y deberá, asimismo, hacer referencia a los autores y obras 
+más relevantes. Es preciso que haga una exposición de conjunto donde demuestre un conocimiento 
+global del movimiento literario en cuestión y de la significación de los autores y de sus obras, más allá 
+de un mero catálogo de estos. La puntuación máxima de esta pregunta es de 1,5 puntos. En cuanto a 
+las preguntas 3.3. y 3.4., el estudiante debe mostrar su conocimiento de la obra leída, relacionarla con el 
+movimiento o tendencia literarios a los que pertenece y destacar su importancia en relación con su 
+contexto sociohistórico y la tradición literaria. Su puntuación máxima será de 1 punto.  
+En el marco de los criterios establecidos con carácter general por la Comisión Organizadora del 
+Distrito Único de Madrid para todas las materias, se reitera la importancia de la corrección de la 
+expresión escrita en esta materia. Así, además de calificar la prueba de acuerdo con el contenido, se 
+valorará la capacidad de redacción, manifestada en la exposición ordenada de las ideas, el correcto 
+engarce sintáctico, la riqueza léxica y la matización expresiva. La ortografía será juzgada en su totalidad 
+—letras, tildes y signos de puntuación— y valorada dentro de la capacidad de expresión del estudiante. 
+Hechas estas consideraciones generales, la máxima deducción global en el ejercicio será de dos puntos 
+de la forma siguiente: 
+— La primera incorrección ortográfica no se penalizará. 
+— Cuando se repita la misma falta de ortografía se contará como una sola. 
+— A partir de la segunda, por cada falta se deducirán 0,25 puntos hasta un máximo de dos 
+puntos. 
+— Por errores en la redacción, en la presentación, falta de coherencia, falta de cohesión, 
+incorrección léxica e incorrección gramatical se podrá deducir un máximo de 1 punto. 
+Obsérvese que, aunque la suma de las deducciones anteriores sea superior a 2 puntos, la máxima 
+deducción permitida será de 2 puntos. 
+
+=== PAGINA 5 ===
+ 
+LENGUA CASTELLANA Y LITERATURA II - SOLUCIONES 
+(Documento de trabajo orientativo) 
+TEXTO 
+1.1. (2,5 puntos) a. Con carácter orientador: la importancia de valorar adecuadamente el tiempo (0,5 
+puntos); b. Respuesta de carácter abierto. En ella el estudiante debe poner de relieve las principales 
+características lingüísticas y estilísticas del texto (1,5 puntos); c. Texto de carácter humanístico. Ensayo. 
+También será válido texto de carácter expositivo-argumentativo. Artículo de opinión (0,5 puntos). 
+1.2. (1 punto) Respuesta de carácter abierto, donde el estudiante debe condensar las principales ideas del 
+texto. 
+1.3. (1,5 puntos) Respuesta de carácter abierto en la cual se valora especialmente la capacidad del 
+estudiante para construir un texto argumentativo, así como la corrección y claridad de la expresión. 
+2.1. (1,5 puntos) Análisis sintáctico. Se calificará con un máximo de 1 punto el análisis intraoracional y con 
+un máximo de 0,5 puntos el análisis interoracional. 
+Opción 1 
+El        tiempo      nos       permite   reposo   cuando  
+ necesitamos   calma   
+  Ø 
+Det1      Núcleo    Núcleo    Núcleo    Núcleo    Nexo2 
+      Núcleo     Núcleo 
+ CC 
+ CD   
+  a 
+      Predicado                                Sujeto 
+  ____________________________________ 
+  CI 
+ CD 
+  Complemento circunstancial3 
+  a 
+  Sujeto 
+  Predicado 
+1 Se admitirá también modificador. 
+2 Se admitirá también adverbio relativo. 
+3 En el análisis interoracional, se admitirá también oración de relativo libre o sin antecedente expreso. 
+Opción 2 
+El         tiempo      nos  
+ permite   reposo   cuando      necesitamos      calma 
+   Ø 
+Det1     Núcleo    Núcleo    Núcleo    Núcleo     Nexo   
+  Núcleo          Núcleo 
+ CD     a  
+  a 
+  Predicado  
+  Sujeto 
+  CI 
+ CD  
+ CC2 
+  a 
+  Sujeto 
+  Predicado 
+1 Se admitirá también modificador. 
+2 En el análisis interoracional, se admitirá también oración subordinada adverbial de tiempo. 
+
+=== PAGINA 6 ===
+2.2. (1,5 puntos) Análisis sintáctico. Se calificará con un máximo de 1 punto el análisis intraoracional y con 
+un máximo de 0,5 puntos el análisis interoracional. 
+Ø
+Necesitamos   Ø   rescatar   los    valores   que    perdimos   en   esta    sociedad materialista    Ø
+    Núcleo  
+  Núcleo   Det1   Núcleo  Nexo2  Núcleo     Enl3  Det1     Núcleo      Núcleo  
+  CN 
+  a 
+  Término4   
+ a 
+  CD 
+ CC 
+ aa 
+  Predicado  
+ Suj 
+  Complemento del nombre5   
+ a 
+  Complemento directo   
+  a 
+ Suj    
+ Predicado 
+ a 
+  Complemento directo6 
+  a 
+Suj  
+ Predicado 
+1 Se admitirá también modificador. 
+2 Se admitirá también pronombre relativo. 
+3 Se admitirá también preposición, núcleo de la construcción que encabeza. 
+4  Se admitirá también complemento de la preposición. 
+5 En el análisis interoracional, se admitirá también oración subordinada adjetiva o de relativo con función de 
+complemento del nombre. 
+6 En el análisis interoracional, se admitirá también oración subordinada sustantiva o de infinitivo en 
+función de complemento directo.  
+2.3. (1 punto) Análisis morfológico: 
+Regeneración: palabra formada por derivación. Sustantivo. 
+a) Re prefijo + gener raíz/lexema + a vocal temática + ción sufijo
+b) Re prefijo + genera raíz/lexema + ción sufijo 
+2.4. (1 punto) El estudiante deberá definir el concepto de antonimia y ejemplificarlo aportando, al menos, 
+dos antónimos de la palabra aceleración. A modo de ejemplo, podrían citarse: retraso, deceleración, 
+desaceleración, frenada, etc. 
+3.1. (1,5 puntos) El estudiante deberá redactar un texto expositivo que responda a la pregunta: Literatura 
+de fin de siglo: la generación del 98 y el modernismo. La novela y el teatro anterior a 1936. 
+3.2. (1,5 puntos) El estudiante deberá redactar un texto expositivo que responda a la pregunta: La lírica y 
+el teatro posteriores a 1936. 
+3.3. (1 punto) El estudiante deberá comentar los aspectos más relevantes de la obra española o 
+hispanoamericana que haya leído escrita en el período posterior a 1975 hasta la actualidad, en relación 
+con su contexto sociohistórico y la tradición literaria. 
+3.4. (1 punto) El estudiante deberá comentar los aspectos más relevantes de la obra española que haya 
+leído escrita entre 1937 y 1974, en relación con su contexto sociohistórico y la tradición literaria. 
