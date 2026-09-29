@@ -1,0 +1,1502 @@
+DOCUMENTO {"id": "0bed555f767c", "region": "Madrid", "asignatura": "Italiano", "anio": 2018, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1VJSw_w0_ADus9W5ArENGS2rtm-eoX8EB/view?usp=sharing", "archivo": "pdfs/madrid/italiano/2018-extraordinaria-examen-uc3m-0bed555f767c.pdf", "paginas": 3, "estrato": "Madrid · hasta-2019"}
+FUENTE {"archivo": "pdfs/madrid/italiano/2018-extraordinaria-examen-uc3m-0bed555f767c.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Riassumere in poche parole il contenuto del testo."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire se è vero o falso:"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Conosciamo con certezza la causa dell’estinzione dei dinosauri."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "La morte dei dinosauri carnivori ha portato alla morte di quelli erbivori."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Un grande cambiamento climatico può portare una specie all’estinzione."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Oggi non esiste più il pericolo di estinzione per gli animali."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Scrivere una frase con ognuna delle seguenti espressioni, tenendo conto del loro significato nel testo:"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "esplosione"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "tossico"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "teoria"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n8",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "sopravvivere"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n13",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire un sinonimo di:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "gelido"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "suolo"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "provocare"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n13",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire l’opposto di:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "luce"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "morte"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "impenetrabile"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Trasforma le seguenti frasi coniugando i verbi al passato prossimo."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "L'estinzione dei dinosauri è un mistero, al riguardo <u>esistono</u> molte teorie."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Anche oggi molti animali <u>rischiano di estinguersi</u>."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "E non <u>si tratta</u> di un passo avanti."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "L’articolo afferma che l’uomo è responsabile dell’estinzione di molte specie animali. Sei d’accordo? Cosa pensi si possa fare per evitarlo? ($10$ righe)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n27",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n28",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Riassumere in poche parole il contenuto del testo."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n29",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire se è vero o falso:"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n30",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "È giusto temere la morte."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n31",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "La felicità si può conquistare."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n32",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Bisogna saper distinguere i piaceri necessari."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n33",
+  "padre": "n29",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "È più importante essere fortunati che intelligenti."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n34",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Scrivere una frase con ognuna delle seguenti espressioni, tenendo conto del loro significato nel testo:"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n35",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "altrimenti"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n36",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "scegliere"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n37",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "conoscenza"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n38",
+  "padre": "n34",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "lucido"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n39",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n40",
+  "padre": "n39",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire un sinonimo di:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n41",
+  "padre": "n40",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "causa"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n42",
+  "padre": "n40",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "meditare"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n43",
+  "padre": "n40",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "preda"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n44",
+  "padre": "n39",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "4.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Dire l’opposto di:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n45",
+  "padre": "n44",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "tutto"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n46",
+  "padre": "n44",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "giusto"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n47",
+  "padre": "n44",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "piacere"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n48",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Trasforma le seguenti frasi coinugando i verbi sottolineati al passato prossimo:"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n49",
+  "padre": "n48",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "È sciocco chi sostiene di aver paura della morte."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n50",
+  "padre": "n48",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Non c’è vita felice senza che sia intelligente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n51",
+  "padre": "n48",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "5.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "I sapori semplici danno lo stesso piacere dei più raffinati."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n52",
+  "padre": "n27",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "it",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "it",
+    "markdown": "Sei d’accordo con le parole di Epicuro? Cosa pensi sia necessario fare per raggiungere la felicità? ($10$ righe)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "it",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 3 ===
+ 
+  
+ITALIANO 
+ 
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN 
+OPCIÓN A 
+ 
+ 
+Pregunta 1. Se propone evaluar la capacidad del alumno para comprender y sintetizar adecuadamente 
+los contenidos fundamentales del texto. 
+Se calificará con un total de 3 puntos, de los cuales se asignarán: 
+1,50 puntos a valorar el planteamiento claro, ordenado y preciso de la síntesis argumental; 
+1,50 puntos a valorar la corrección gramatical en sus aspectos morfológicos y/o sintácticos, la 
+corrección ortográfica y la precisión léxica d dicha síntesis. 
+Pregunta 2. Se formula para confirmar la buena comprensión de aspectos más concretos de los 
+contenidos del texto propuesto.  
+Se calificará con 1 punto. 
+Preguntas 3, 4, 5. Tienen el objetivo de evaluar los conocimientos morfosintácticas y léxicos del 
+alumno. 
+Se calificarán con 1 punto cada una. 
+Pregunta 6. La redacción, que permitirá valorar la capacidad d expresión en lengua italiana del alumno, 
+deberá tener una extensión aproximada de unas 10 líneas. 
+Se calificará con un máximo de 3 puntos, de los cuales se asignarán: 
+1,50 puntos a valorar la coherencia expositiva de las ideas, su orden y su cohesión interna, así como la 
+madurez en el sistema de expresión y elaboración de su razonamiento; 
+1,50 puntos a valorar la corrección morfosintáctica y ortográfica y la precisión y riqueza en el manejo 
+del léxico. 
+Tanto en la pregunta 1 como en la 6 se calificarán con 0 puntos las respuestas que incorporen 
+fragmentos copiados literalmente del texto propuesto. 
+ 
+ 

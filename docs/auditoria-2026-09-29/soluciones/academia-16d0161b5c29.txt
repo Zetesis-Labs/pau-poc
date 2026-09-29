@@ -1,0 +1,1281 @@
+DOCUMENTO {"id": "16d0161b5c29", "region": "Comunidad Valenciana", "asignatura": "Historia de España", "anio": 2020, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "umh", "url": "http://bancdelaselectivitat.umh.es/files/2021/03/Examen-Historia-de-España-Ordinaria-2020.pdf", "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2020-ordinaria-examen-umh-16d0161b5c29.pdf", "paginas": 4, "estrato": "piloto · Comunidad Valenciana · Historia de España"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/historia-de-espana/2020-ordinaria-solucion-llibreta-cc054e488195.pdf", "desde": 1, "anexo": {"id": "cc054e488195", "tipo": "solucion", "contenido": ["solucion"], "origen": "academia", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://aula.academialallibreta.es/pluginfile.php/25689/mod_folder/content/0/011A-%20SOL%20-%20Historia%20de%20Espa%C3%B1a%20-%20julio%202020.pdf", "titulo": "Julio 2020 — Solución"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1ª)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 1 punt)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 1 punto)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2º)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+   },
+   {
+    "idioma": "es",
+    "markdown": "DE DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3º)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 2,
+   "maximo": 2,
+   "de": 4,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Definiu DOS dels conceptes següents (fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Defina DOS de los conceptos siguientes (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Societats patriòtiques"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Sociedades Patrióticas"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Pronunciament"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Pronunciamiento"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Sufragi femení"
+   },
+   {
+    "idioma": "es",
+    "markdown": "Sufragio femenino"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "República democràtica"
+   },
+   {
+    "idioma": "es",
+    "markdown": "República democrática"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4a)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [],
+  "puntos": 2.5,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2,5 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos opciones (Hasta 2,5 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1."
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Expliqueu les principals mesures polítiques adoptades a Espanya durant el Trienni Liberal. Utilitzeu per a això els textos proposats 1 i 2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique las principales medidas políticas adoptadas en España durante el Trienio Liberal. Utilice para ello los textos propuestos 1 y 2."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Desenvolupeu les principals característiques de les polítiques reformismes de la Segona República. Utilitzeu per a això els textos proposats 3 i 4."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Desarrolle las principales características de las políticas reformistas de la Segunda República. Utilice para ello los textos propuestos 3 y 4."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [
+   "E3",
+   "E4"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4b)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Responeu a una de les dues opcions (fins a 2 punts)"
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda una de las dos opciones (Hasta 2 puntos)"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Descriviu les diferències ideològiques en matèria de sobirania, divisió de poders i drets individuals entre un règim absolutista i un règim constitucional entre 1808 i 1843."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Describe las diferencias ideológicas en materia de Soberanía, División de poderes y Derechos individuales entre un régimen absolutista y un régimen constitucional entre 1808 y 1843."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2."
+   },
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Compareu el paper atribuït a la dona en la República i en la dictadura franquista."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Compare el papel atribuido a la mujer en la República y en la dictadura franquista."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Ambos documentos son fuentes primarias relacionadas con el contexto histórico del Trienio Liberal. El Documento $1$ recoge las palabras del general Rafael del Riego en $1820$, cuando inició el levantamiento militar que buscaba reinstaurar la Constitución de $1812$. Se trata de una fuente discursiva e ideológica, con un fuerte carácter político. El Documento $2$ es un fragmento literario de *La Fontana de Oro* de Benito Pérez Galdós, que, aunque es una obra de ficción, describe acontecimientos históricos del siglo $XIX$. Como fuente, es literaria y refleja los debates políticos de la época."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Documento $3$ es una fuente primaria de carácter jurídico: la ley electoral de $1931$ que introdujo avances democráticos como el sufragio universal. Por su parte, el Documento $4$ es un fragmento de un discurso parlamentario de $1931$, por lo que también es una fuente primaria, política y discursiva, centrada en los debates sobre la igualdad de derechos entre hombres y mujeres durante la Segunda República."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "- **Ideas principales:** En el Documento $1$, Rafael del Riego argumenta que el levantamiento militar de $1820$ tiene como objetivo restaurar los derechos de la nación y reinstaurar la Constitución de $1812$, dejando en manos del pueblo soberano el futuro del rey Fernando $VII$. El Documento $2$ describe el ambiente de las sociedades patrióticas, espacios de debate político y radicalismo durante el Trienio Liberal ($1820$–$1823$).\n- **Contexto histórico:** Ambos documentos reflejan el inicio del Trienio Liberal, una etapa marcada por la reinstauración de la Constitución de Cádiz tras el pronunciamiento de Riego. Este periodo mostró el enfrentamiento entre absolutistas y liberales, y culminó con la restauración absolutista en $1823$ gracias a la intervención de la Santa Alianza."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "- **Ideas principales:** El Documento $3$ resalta los cambios democráticos en la Segunda República, como la reducción de la edad electoral y el reconocimiento del derecho de las mujeres a participar en las elecciones. El Documento $4$ defiende la igualdad absoluta entre hombres y mujeres, destacando la labor de Clara Campoamor como líder en la lucha por el sufragio femenino.\n- **Contexto histórico:** Ambos documentos reflejan el espíritu reformista de la Segunda República ($1931$–$1936$), que buscó democratizar el sistema político español. Estas reformas, como el reconocimiento del sufragio femenino en $1931$, fueron avances clave, aunque generaron divisiones dentro de la propia República."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Fueron asociaciones formadas en el siglo $XIX$ para promover ideas liberales y constitucionales. Surgieron especialmente durante el Trienio Liberal ($1820$–$1823$) y se convirtieron en espacios de debate político y movilización ciudadana."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Es un levantamiento militar típico del siglo $XIX$ en España, liderado por oficiales del ejército con el objetivo de cambiar el régimen político. Ejemplo destacado es el pronunciamiento de Rafael del Riego en $1820$, que dio inicio al Trienio Liberal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Derecho de las mujeres a participar en elecciones como votantes y candidatas. En España, fue reconocido en $1931$ durante la Segunda República, siendo Clara Campoamor una figura clave en su consecución."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Forma de gobierno basada en la soberanía popular, la separación de poderes y la igualdad de derechos para todos los ciudadanos. En España, la Segunda República ($1931$–$1939$) fue un intento de consolidar este modelo con amplias reformas sociales y políticas."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Trienio Liberal fue un periodo comprendido entre $1820$ y $1823$ en el que España experimentó un intento de reinstaurar el constitucionalismo tras el pronunciamiento de Rafael del Riego. Este periodo supuso un regreso a los principios de la Constitución de Cádiz de $1812$, consolidando un modelo político basado en la soberanía nacional y la limitación del poder real. Sin embargo, estas reformas chocaron con la oposición de sectores absolutistas y con la intervención de la Santa Alianza, que reinstauró el absolutismo en $1823$. Durante estos tres años, las Cortes y el gobierno emprendieron varias reformas significativas.\n\n**$1$. Reinstauración de la Constitución de Cádiz de $1812$**\n\nEl pronunciamiento de Riego marcó el inicio del Trienio Liberal y supuso el retorno de la Constitución de $1812$, que había sido abolida por Fernando $VII$ tras su regreso en $1814$. Este texto constitucional establecía:\n\n- **Soberanía nacional**, situando el poder en la nación y no en el rey.\n- **División de poderes**, con un sistema bicameral (Cortes unicamerales y el monarca como parte del poder ejecutivo).\n- **Reconocimiento de derechos individuales**, como la libertad de imprenta y la inviolabilidad del domicilio.\n\nLa reinstauración de la Constitución marcó un intento por crear un Estado moderno, basado en principios liberales.\n\n**$2$. Abolición de los señoríos y reforma agraria**\n\nUna de las medidas más destacadas del Trienio fue la abolición de los señoríos jurisdiccionales. Esto significaba que los señores feudales perdieron sus derechos sobre la jurisdicción y la administración de justicia en sus territorios.\n\n- Las tierras señorías pasaron a ser propiedad de los campesinos que las trabajaban, aunque esta medida se implementó de forma desigual.\n- Aunque se plantearon ideas de reforma agraria, muchas no llegaron a ejecutarse, lo que generó descontento entre los sectores más pobres.\n\n**$3$. Supresión de la Inquisición**\n\nEl liberalismo del Trienio abogó por la libertad de pensamiento y culto. En este contexto, una de las medidas más emblemáticas fue la supresión definitiva del Tribunal de la Santa Inquisición, que había sido restaurado por Fernando $VII$ en $1814$.\n\n- Esta decisión buscaba garantizar derechos fundamentales como la libertad de expresión y limitar la influencia de la Iglesia Católica en la vida política.\n- Sin embargo, esta medida generó una fuerte oposición por parte de sectores conservadores y del propio clero.\n\n**$4$. Creación de la Milicia Nacional**\n\nLa Milicia Nacional se estableció como un cuerpo armado vinculado al liberalismo, con el objetivo de defender el régimen constitucional.\n\n- Estaba formada principalmente por ciudadanos de ideología liberal y pequeños propietarios.\n- Su existencia fue clave para mantener el orden público durante el Trienio, aunque su carácter partidista también generó divisiones internas.\n\n**$5$. Reforma de la administración pública**\n\nDurante el Trienio, se llevaron a cabo reformas administrativas para modernizar el funcionamiento del Estado:\n\n- Se impulsó la centralización administrativa, consolidando el modelo de provincias diseñado en la Constitución de $1812$.\n- Se buscó una mayor profesionalización en la administración pública, aunque con recursos limitados.\n\n**$6$. Ampliación de los derechos individuales**\n\nEl Trienio Liberal supuso avances en materia de libertades individuales:\n\n- Se reafirmó la libertad de prensa, permitiendo un mayor acceso a ideas liberales y críticas al absolutismo.\n- Se reconocieron derechos fundamentales como la libertad de reunión y asociación, esenciales para el fortalecimiento del movimiento liberal.\n\n**$7$. Conflictos internos y oposición absolutista**\n\nA pesar de los esfuerzos reformistas, el Trienio Liberal estuvo marcado por fuertes tensiones:\n\n- Los absolutistas, liderados por Fernando $VII$, conspiraron activamente para derrocar el régimen constitucional.\n- Los liberales se dividieron en dos facciones: moderados (más pragmáticos) y exaltados (más radicales), lo que debilitó la unidad del movimiento.\n\n**$8$. Intervención de la Santa Alianza y el fin del Trienio Liberal**\n\nEl Trienio Liberal terminó abruptamente en $1823$ con la intervención de los Cien Mil Hijos de San Luis, un ejército enviado por la Santa Alianza para restaurar el absolutismo en España. Este ejército derrotó a las fuerzas liberales, devolviendo el poder absoluto a Fernando $VII$.\n\n- Este final marcó el retorno a la represión política y la persecución de los liberales, que fueron exiliados o ejecutados.\n- Sin embargo, las ideas liberales sembradas durante el Trienio seguirían siendo una referencia en la lucha por la modernización de España en décadas posteriores.\n\n**Impacto histórico**\n\nEl Trienio Liberal, aunque breve, representó un esfuerzo por consolidar un Estado constitucional en España. Sus reformas marcaron un precedente importante en la historia del país, mostrando la viabilidad de un modelo político basado en el liberalismo. Aunque enfrentó grandes obstáculos y fue suprimido por la fuerza, dejó una huella profunda en las futuras generaciones de políticos y pensadores liberales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La Segunda República Española se proclamó el $14$ de abril de $1931$ tras la caída de la monarquía de Alfonso $XIII$. Fue un periodo caracterizado por un ambicioso programa de reformas sociales, políticas y económicas que buscaban modernizar el país, democratizar las instituciones y reducir las profundas desigualdades sociales que habían marcado la historia de España. Estas reformas, impulsadas principalmente durante el bienio reformista ($1931$–$1933$), generaron grandes esperanzas en sectores progresistas y liberales, pero también encontraron una fuerte oposición de las élites conservadoras, la Iglesia y el ejército.\n\n**$1$. Reforma agraria**\n\nEl problema agrario era uno de los más graves de España, especialmente en el sur, donde predominaban los latifundios. En estas regiones, los campesinos vivían en condiciones de extrema pobreza, mientras que la tierra estaba concentrada en pocas manos.\n\n- En $1932$ se aprobó la Ley de Reforma Agraria, cuyo objetivo principal era expropiar tierras de los grandes propietarios que no estuvieran siendo explotadas adecuadamente para redistribuirlas entre los campesinos sin tierra.\n- También se estableció el Instituto de Reforma Agraria para supervisar este proceso.\n- Sin embargo, la falta de recursos financieros y la resistencia de los propietarios dificultaron la aplicación de esta reforma, lo que provocó frustración entre los campesinos y tensiones sociales.\n\n**$2$. Reforma educativa**\n\nUno de los objetivos centrales de la Segunda República fue combatir el analfabetismo y promover la educación laica.\n\n- Durante este periodo, se crearon más de $10.000$ escuelas públicas y se duplicó el presupuesto destinado a educación.\n- Se impulsó una educación basada en principios laicos, dejando de lado la influencia de la Iglesia Católica, que hasta entonces había controlado gran parte del sistema educativo.\n- También se promovieron metodologías pedagógicas modernas, inspiradas en movimientos como el krausismo.\n\nEstas medidas tuvieron un impacto significativo, aunque también enfrentaron críticas de sectores religiosos y conservadores que veían amenazada su influencia sobre la sociedad.\n\n**$3$. Reforma laboral**\n\nLa legislación laboral fue una de las áreas más innovadoras de la Segunda República, destinada a mejorar las condiciones de vida de los trabajadores y reducir las tensiones sociales.\n\n- Se reconoció la jornada laboral de ocho horas, consolidando una demanda histórica de los movimientos obreros.\n- Se aprobaron leyes para regular las condiciones de trabajo, como la Ley de Contratos de Cultivo, que protegía a los arrendatarios frente a los propietarios.\n- Se impulsaron los derechos sindicales y el derecho a huelga, lo que permitió a los trabajadores defender sus intereses de forma más organizada.\n\nSin embargo, estas reformas también provocaron conflictos, como huelgas y enfrentamientos entre obreros y patronos.\n\n**$4$. Reforma militar**\n\nLa Segunda República intentó democratizar y profesionalizar el ejército, una institución que había intervenido repetidamente en la política española.\n\n- Se aprobó la Ley Azaña, que redujo el número de oficiales y fomentó la jubilación voluntaria con sueldos completos.\n- También se buscó reducir la influencia política del ejército, sometiéndolo al poder civil y eliminando privilegios tradicionales.\n\nEstas reformas generaron descontento entre sectores militares, que se convirtieron en un foco de conspiraciones contra el régimen republicano.\n\n**$5$. Reforma política y territorial**\n\n- La Segunda República reconoció la diversidad cultural y territorial de España. En $1932$ se aprobó el Estatuto de Autonomía de Cataluña, y se inició un proceso similar en otras regiones como el País Vasco y Galicia.\n- Estas medidas descentralizadoras buscaban satisfacer las demandas de autogobierno de algunos territorios, aunque también generaron tensiones con sectores centralistas.\n\n**$6$. Reforma religiosa**\n\nLa Segunda República adoptó una postura laica, separando la Iglesia del Estado.\n\n- La Constitución de $1931$ declaró a España como un Estado aconfesional y eliminó la financiación pública de la Iglesia Católica.\n- Se prohibieron las órdenes religiosas que asumieran actividades incompatibles con la soberanía del Estado, como la Compañía de Jesús.\n- También se legalizó el divorcio, desafiando los valores tradicionales defendidos por la Iglesia.\n\nEstas reformas provocaron una fuerte oposición de la jerarquía eclesiástica y movilizaron a sectores católicos contra la República.\n\n**Impacto y limitaciones**\n\nAunque las reformas de la Segunda República fueron innovadoras y trataron de modernizar España, enfrentaron numerosas dificultades:\n\n- La oposición de las élites tradicionales, la Iglesia, el ejército y parte del campesinado que no vio resultados inmediatos.\n- La polarización política y social, que desembocó en conflictos violentos y en la radicalización de las posturas políticas.\n- La falta de recursos económicos en un contexto de crisis internacional, como la Gran Depresión, limitó el alcance de muchas medidas.\n\nA pesar de sus limitaciones, las políticas reformistas de la Segunda República sentaron las bases para el progreso social y político en España, marcando un precedente en la lucha por la democracia y los derechos sociales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Entre $1808$ y $1843$, España vivió una profunda transformación política marcada por la lucha entre el absolutismo, representado por los partidarios del Antiguo Régimen, y el constitucionalismo, impulsado por los liberales. Estas dos corrientes defendían modelos opuestos en aspectos fundamentales como la soberanía, la división de poderes y los derechos individuales.\n\n**$1$. Soberanía**\n\n- En el régimen absolutista, la soberanía recaía exclusivamente en el monarca, quien gobernaba por derecho divino. Esta idea justificaba que el poder del rey proviniera de Dios y no de los ciudadanos. Fernando $VII$ encarnó este modelo durante los periodos absolutistas de su reinado, especialmente tras la abolición de la Constitución de Cádiz en $1814$.\n- En el régimen constitucional, la soberanía residía en la nación, tal como establecía la Constitución de Cádiz de $1812$. Este principio significaba que el poder emanaba del pueblo, representado en las Cortes, que se convertían en la base del sistema político.\n\n**$2$. División de poderes**\n\n- El absolutismo concentraba todos los poderes (legislativo, ejecutivo y judicial) en la figura del monarca. No existían límites efectivos a la autoridad real, lo que generaba una administración arbitraria. En este sistema, las instituciones como las Cortes sólo tenían un carácter consultivo.\n- El constitucionalismo introdujo la separación de poderes como uno de sus pilares fundamentales:\n  - El poder legislativo recaía en las Cortes, elegidas por los ciudadanos, aunque con sufragio censitario.\n  - El poder ejecutivo se delegaba en el gobierno, bajo la supervisión de las Cortes y el monarca.\n  - El poder judicial se pretendía independiente, aunque su aplicación práctica dependía del contexto. Esta división buscaba evitar abusos y garantizar un gobierno basado en leyes claras.\n\n**$3$. Derechos individuales**\n\n- En el régimen absolutista, los derechos individuales estaban supeditados a la voluntad del rey. No existía garantía de libertades como la de expresión, reunión o propiedad, y las instituciones represivas, como la Inquisición, aseguraban el control ideológico.\n- En el régimen constitucional, se consagraron derechos fundamentales, como la libertad de prensa, la igualdad ante la ley y la abolición de privilegios señoriales. La Constitución de Cádiz de $1812$ fue pionera en reconocer estos derechos, aunque su aplicación enfrentó resistencias.\n\n**$4$. Sociedad y economía**\n\n- El absolutismo defendía un modelo de sociedad estamental, en el que la nobleza y el clero mantenían privilegios frente al resto de la población. La economía estaba basada en el feudalismo y el control rígido de la propiedad.\n- El constitucionalismo promovió una sociedad basada en la igualdad legal y fomentó reformas económicas, como la abolición de los señoríos y la desamortización, que buscaban modernizar el sistema productivo.\n\nEn resumen, mientras el absolutismo representaba la continuidad del Antiguo Régimen, el constitucionalismo simbolizaba la transición hacia una sociedad moderna, basada en la libertad y la igualdad. Estas diferencias marcaron las luchas políticas y sociales de gran parte del siglo $XIX$ en España."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 8
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La Segunda República ($1931$–$1939$) y la dictadura franquista ($1939$–$1975$) representaron dos momentos históricos completamente opuestos en cuanto al papel de la mujer en la sociedad. Durante la República se promovieron avances hacia la igualdad de género, mientras que el franquismo supuso un retroceso, relegando a las mujeres a un rol tradicional y doméstico.\n\n**$1$. La mujer durante la Segunda República**\n\nLa Segunda República fue un periodo de avances significativos en los derechos de las mujeres, marcando un hito en su participación social, política y laboral:\n\n- **Derechos políticos:** En $1931$ se reconoció el derecho al voto femenino gracias a la lucha de figuras como Clara Campoamor, quien defendió en las Cortes la igualdad de derechos entre hombres y mujeres. Por primera vez, las mujeres pudieron votar en las elecciones generales de $1933$.\n- **Participación política:** Además de votar, las mujeres pudieron presentarse como candidatas en las elecciones, y algunas ocuparon cargos relevantes. Esto fue un paso importante hacia su inclusión en la vida pública.\n- **Avances laborales:** Se aprobaron leyes que mejoraron las condiciones laborales de las mujeres, como la regulación de los horarios y el acceso a trabajos anteriormente reservados a los hombres.\n- **Educación y cultura:** La República impulsó una educación laica e igualitaria, eliminando las barreras de género en el acceso a la formación. Las mujeres comenzaron a participar activamente en actividades culturales y científicas.\n\nSin embargo, a pesar de estos avances, las resistencias culturales y religiosas limitaron la aplicación de algunas medidas, y muchas mujeres continuaron enfrentando prejuicios.\n\n**$2$. La mujer durante el franquismo**\n\nCon la llegada del régimen franquista tras la Guerra Civil, los derechos adquiridos por las mujeres durante la República fueron eliminados, y su rol quedó definido por valores tradicionales vinculados al catolicismo y al nacionalismo:\n\n- **Rol doméstico y subordinado:** La mujer fue relegada al ámbito privado, desempeñando funciones como madre y esposa. Su principal objetivo debía ser cuidar del hogar y obedecer a su marido.\n- **Sumisión legal:** Las leyes franquistas reforzaron la dependencia de las mujeres respecto a los hombres. Necesitaban el permiso del esposo o el padre para trabajar, abrir una cuenta bancaria o realizar actividades fuera del hogar.\n- **Educación diferenciada:** La educación para mujeres estaba orientada a formarlas como amas de casa. La Sección Femenina, liderada por Pilar Primo de Rivera, impartía cursos sobre labores domésticas, maternidad y valores tradicionales.\n- **Control de la moralidad:** Se promovía una estricta moral católica, y las mujeres solteras o madres solteras eran estigmatizadas. Se prohibió el divorcio y se criminalizó el aborto.\n\n**$3$. Comparación entre ambos periodos**\n\nLa República y el franquismo representaron modelos completamente opuestos respecto a la mujer. Mientras que la República promovió su inclusión como ciudadanas plenas, con derechos políticos y laborales, el franquismo revirtió estos avances y las relegó a un papel secundario. Este contraste refleja los cambios sociales y políticos que experimentó España durante el siglo $XX$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 9
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En la página 3, el documento afirma que la Constitución establecía «un sistema bicameral» y lo describe entre paréntesis como «Cortes unicamerales», una contradicción interna.",
+  "En la página 3 aparece literalmente «Las tierras señorías», posible errata del documento."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+Primera pregunta: Descripción de las fuentes
+Documentos 1 y 2:
+Ambos documentos son fuentes primarias relacionadas con el contexto histórico del
+Trienio Liberal. El Documento 1 recoge las palabras del general Rafael del Riego en
+1820, cuando inició el levantamiento militar que buscaba reinstaurar la Constitución de
+1812. Se trata de una fuente discursiva e ideológica, con un fuerte carácter político. El
+Documento 2 es un fragmento literario de La Fontana de Oro de Benito Pérez Galdós,
+que, aunque es una obra de ficción, describe acontecimientos históricos del siglo XIX.
+Como fuente, es literaria y refleja los debates políticos de la época.
+Documentos 3 y 4:
+El Documento 3 es una fuente primaria de carácter jurídico: la ley electoral de 1931 que
+introdujo avances democráticos como el sufragio universal. Por su parte, el Documento
+4 es un fragmento de un discurso parlamentario de 1931, por lo que también es una
+fuente primaria, política y discursiva, centrada en los debates sobre la igualdad de
+derechos entre hombres y mujeres durante la Segunda República.
+Segunda pregunta: Ideas principales y contexto histórico
+Documentos 1 y 2:
+●Ideas principales: En el Documento 1, Rafael del Riego argumenta que el
+levantamiento militar de 1820 tiene como objetivo restaurar los derechos de la
+nación y reinstaurar la Constitución de 1812, dejando en manos del pueblo
+soberano el futuro del rey Fernando VII. El Documento 2 describe el ambiente
+de las sociedades patrióticas, espacios de debate político y radicalismo durante el
+Trienio Liberal (1820-1823).
+●Contexto histórico: Ambos documentos reflejan el inicio del Trienio Liberal, una
+etapa marcada por la reinstauración de la Constitución de Cádiz tras el
+pronunciamiento de Riego. Este periodo mostró el enfrentamiento entre
+absolutistas y liberales, y culminó con la restauración absolutista en 1823 gracias
+a la intervención de la Santa Alianza.
+
+=== PAGINA 2 ===
+Documentos 3 y 4:
+●Ideas principales: El Documento 3 resalta los cambios democráticos en la
+Segunda República, como la reducción de la edad electoral y el reconocimiento
+del derecho de las mujeres a participar en las elecciones. El Documento 4
+defiende la igualdad absoluta entre hombres y mujeres, destacando la labor de
+Clara Campoamor como líder en la lucha por el sufragio femenino.
+●Contexto histórico: Ambos documentos reflejan el espíritu reformista de la
+Segunda República (1931-1936), que buscó democratizar el sistema político
+español. Estas reformas, como el reconocimiento del sufragio femenino en 1931,
+fueron avances clave, aunque generaron divisiones dentro de la propia República.
+Tercera pregunta: Definición de los conceptos
+1. Sociedades Patrióticas: Fueron asociaciones formadas en el siglo XIX para
+promover ideas liberales y constitucionales. Surgieron especialmente durante el
+Trienio Liberal (1820-1823) y se convirtieron en espacios de debate político y
+movilización ciudadana.
+2. Pronunciamiento: Es un levantamiento militar típico del siglo XIX en España,
+liderado por oficiales del ejército con el objetivo de cambiar el régimen político.
+Ejemplo destacado es el pronunciamiento de Rafael del Riego en 1820, que dio
+inicio al Trienio Liberal.
+3. Sufragio Femenino: Derecho de las mujeres a participar en elecciones como
+votantes y candidatas. En España, fue reconocido en 1931 durante la Segunda
+República, siendo Clara Campoamor una figura clave en su consecución.
+4. República Democrática: Forma de gobierno basada en la soberanía popular, la
+separación de poderes y la igualdad de derechos para todos los ciudadanos. En
+España, la Segunda República (1931-1939) fue un intento de consolidar este
+modelo con amplias reformas sociales y políticas.
+4a) 1. Medidas políticas durante el Trienio Liberal
+El Trienio Liberal fue un periodo comprendido entre 1820 y 1823 en el que España
+experimentó un intento de reinstaurar el constitucionalismo tras el pronunciamiento de
+Rafael del Riego. Este periodo supuso un regreso a los principios de la Constitución de
+Cádiz de 1812, consolidando un modelo político basado en la soberanía nacional y la
+
+=== PAGINA 3 ===
+limitación del poder real. Sin embargo, estas reformas chocaron con la oposición de
+sectores absolutistas y con la intervención de la Santa Alianza, que reinstauró el
+absolutismo en 1823. Durante estos tres años, las Cortes y el gobierno emprendieron
+varias reformas significativas.
+1. Reinstauración de la Constitución de Cádiz de 1812
+El pronunciamiento de Riego marcó el inicio del Trienio Liberal y supuso el retorno de la
+Constitución de 1812, que había sido abolida por Fernando VII tras su regreso en 1814.
+Este texto constitucional establecía:
+●Soberanía nacional, situando el poder en la nación y no en el rey.
+●División de poderes, con un sistema bicameral (Cortes unicamerales y el
+monarca como parte del poder ejecutivo).
+●Reconocimiento de derechos individuales, como la libertad de imprenta y la
+inviolabilidad del domicilio.
+La reinstauración de la Constitución marcó un intento por crear un Estado moderno,
+basado en principios liberales.
+2. Abolición de los señoríos y reforma agraria
+Una de las medidas más destacadas del Trienio fue la abolición de los señoríos
+jurisdiccionales. Esto significaba que los señores feudales perdieron sus derechos sobre
+la jurisdicción y la administración de justicia en sus territorios.
+●Las tierras señorías pasaron a ser propiedad de los campesinos que las
+trabajaban, aunque esta medida se implementó de forma desigual.
+●Aunque se plantearon ideas de reforma agraria, muchas no llegaron a ejecutarse,
+lo que generó descontento entre los sectores más pobres.
+3. Supresión de la Inquisición
+El liberalismo del Trienio abogó por la libertad de pensamiento y culto. En este
+contexto, una de las medidas más emblemáticas fue la supresión definitiva del Tribunal
+de la Santa Inquisición, que había sido restaurado por Fernando VII en 1814.
+●Esta decisión buscaba garantizar derechos fundamentales como la libertad de
+expresión y limitar la influencia de la Iglesia Católica en la vida política.
+●Sin embargo, esta medida generó una fuerte oposición por parte de sectores
+conservadores y del propio clero.
+
+=== PAGINA 4 ===
+4. Creación de la Milicia Nacional
+La Milicia Nacional se estableció como un cuerpo armado vinculado al liberalismo, con el
+objetivo de defender el régimen constitucional.
+●Estaba formada principalmente por ciudadanos de ideología liberal y pequeños
+propietarios.
+●Su existencia fue clave para mantener el orden público durante el Trienio,
+aunque su carácter partidista también generó divisiones internas.
+5. Reforma de la administración pública
+Durante el Trienio, se llevaron a cabo reformas administrativas para modernizar el
+funcionamiento del Estado:
+●Se impulsó la centralización administrativa, consolidando el modelo de provincias
+diseñado en la Constitución de 1812.
+●Se buscó una mayor profesionalización en la administración pública, aunque con
+recursos limitados.
+6. Ampliación de los derechos individuales
+El Trienio Liberal supuso avances en materia de libertades individuales:
+●Se reafirmó la libertad de prensa, permitiendo un mayor acceso a ideas liberales
+y críticas al absolutismo.
+●Se reconocieron derechos fundamentales como la libertad de reunión y
+asociación, esenciales para el fortalecimiento del movimiento liberal.
+7. Conflictos internos y oposición absolutista
+A pesar de los esfuerzos reformistas, el Trienio Liberal estuvo marcado por fuertes
+tensiones:
+●Los absolutistas, liderados por Fernando VII, conspiraron activamente para
+derrocar el régimen constitucional.
+●Los liberales se dividieron en dos facciones: moderados (más pragmáticos) y
+exaltados (más radicales), lo que debilitó la unidad del movimiento.
+8. Intervención de la Santa Alianza y el fin del Trienio Liberal
+
+=== PAGINA 5 ===
+El Trienio Liberal terminó abruptamente en 1823 con la intervención de los Cien Mil
+Hijos de San Luis, un ejército enviado por la Santa Alianza para restaurar el
+absolutismo en España. Este ejército derrotó a las fuerzas liberales, devolviendo el
+poder absoluto a Fernando VII.
+●Este final marcó el retorno a la represión política y la persecución de los
+liberales, que fueron exiliados o ejecutados.
+●Sin embargo, las ideas liberales sembradas durante el Trienio seguirían siendo
+una referencia en la lucha por la modernización de España en décadas
+posteriores.
+Impacto histórico
+El Trienio Liberal, aunque breve, representó un esfuerzo por consolidar un Estado
+constitucional en España. Sus reformas marcaron un precedente importante en la
+historia del país, mostrando la viabilidad de un modelo político basado en el liberalismo.
+Aunque enfrentó grandes obstáculos y fue suprimido por la fuerza, dejó una huella
+profunda en las futuras generaciones de políticos y pensadores liberales.
+4 a) 2. Las políticas reformistas de la Segunda República
+La Segunda República Española se proclamó el 14 de abril de 1931 tras la caída de la
+monarquía de Alfonso XIII. Fue un periodo caracterizado por un ambicioso programa de
+reformas sociales, políticas y económicas que buscaban modernizar el país, democratizar
+las instituciones y reducir las profundas desigualdades sociales que habían marcado la
+historia de España. Estas reformas, impulsadas principalmente durante el bienio
+reformista (1931-1933), generaron grandes esperanzas en sectores progresistas y
+liberales, pero también encontraron una fuerte oposición de las élites conservadoras, la
+Iglesia y el ejército.
+1. Reforma agraria
+El problema agrario era uno de los más graves de España, especialmente en el sur,
+donde predominaban los latifundios. En estas regiones, los campesinos vivían en
+condiciones de extrema pobreza, mientras que la tierra estaba concentrada en pocas
+manos.
+●En 1932 se aprobó la Ley de Reforma Agraria, cuyo objetivo principal era
+expropiar tierras de los grandes propietarios que no estuvieran siendo
+explotadas adecuadamente para redistribuirlas entre los campesinos sin tierra.
+
+=== PAGINA 6 ===
+●También se estableció el Instituto de Reforma Agraria para supervisar este
+proceso.
+●Sin embargo, la falta de recursos financieros y la resistencia de los propietarios
+dificultaron la aplicación de esta reforma, lo que provocó frustración entre los
+campesinos y tensiones sociales.
+2. Reforma educativa
+Uno de los objetivos centrales de la Segunda República fue combatir el analfabetismo y
+promover la educación laica.
+●Durante este periodo, se crearon más de 10.000 escuelas públicas y se duplicó
+el presupuesto destinado a educación.
+●Se impulsó una educación basada en principios laicos, dejando de lado la
+influencia de la Iglesia Católica, que hasta entonces había controlado gran parte
+del sistema educativo.
+●También se promovieron metodologías pedagógicas modernas, inspiradas en
+movimientos
+ 
+como
+ 
+el
+ 
+krausismo.
+Estas medidas tuvieron un impacto significativo, aunque también enfrentaron
+críticas de sectores religiosos y conservadores que veían amenazada su
+influencia sobre la sociedad.
+3. Reforma laboral
+La legislación laboral fue una de las áreas más innovadoras de la Segunda República,
+destinada a mejorar las condiciones de vida de los trabajadores y reducir las tensiones
+sociales.
+●Se reconoció la jornada laboral de ocho horas, consolidando una demanda
+histórica de los movimientos obreros.
+●Se aprobaron leyes para regular las condiciones de trabajo, como la Ley de
+Contratos de Cultivo, que protegía a los arrendatarios frente a los propietarios.
+●Se impulsaron los derechos sindicales y el derecho a huelga, lo que permitió a los
+trabajadores defender sus intereses de forma más organizada.
+Sin embargo, estas reformas también provocaron conflictos, como huelgas y
+enfrentamientos entre obreros y patronos.
+
+=== PAGINA 7 ===
+4. Reforma militar
+La Segunda República intentó democratizar y profesionalizar el ejército, una institución
+que había intervenido repetidamente en la política española.
+●Se aprobó la Ley Azaña, que redujo el número de oficiales y fomentó la jubilación
+voluntaria con sueldos completos.
+●También se buscó reducir la influencia política del ejército, sometiéndolo al poder
+civil
+ 
+y
+ 
+eliminando
+ 
+privilegios
+ 
+tradicionales.
+Estas reformas generaron descontento entre sectores militares, que se
+convirtieron en un foco de conspiraciones contra el régimen republicano.
+5. Reforma política y territorial
+●La Segunda República reconoció la diversidad cultural y territorial de España.
+En 1932 se aprobó el Estatuto de Autonomía de Cataluña, y se inició un proceso
+similar en otras regiones como el País Vasco y Galicia.
+●Estas medidas descentralizadoras buscaban satisfacer las demandas de
+autogobierno de algunos territorios, aunque también generaron tensiones con
+sectores centralistas.
+6. Reforma religiosa
+La Segunda República adoptó una postura laica, separando la Iglesia del Estado.
+●La Constitución de 1931 declaró a España como un Estado aconfesional y eliminó
+la financiación pública de la Iglesia Católica.
+●Se prohibieron las órdenes religiosas que asumieran actividades incompatibles
+con la soberanía del Estado, como la Compañía de Jesús.
+●También se legalizó el divorcio, desafiando los valores tradicionales defendidos
+por
+ 
+la
+ 
+Iglesia.
+Estas reformas provocaron una fuerte oposición de la jerarquía eclesiástica y
+movilizaron a sectores católicos contra la República.
+Impacto y limitaciones
+Aunque las reformas de la Segunda República fueron innovadoras y trataron de
+modernizar España, enfrentaron numerosas dificultades:
+●La oposición de las élites tradicionales, la Iglesia, el ejército y parte del
+campesinado que no vio resultados inmediatos.
+
+=== PAGINA 8 ===
+●La polarización política y social, que desembocó en conflictos violentos y en la
+radicalización de las posturas políticas.
+●La falta de recursos económicos en un contexto de crisis internacional, como la
+Gran Depresión, limitó el alcance de muchas medidas.
+A pesar de sus limitaciones, las políticas reformistas de la Segunda República sentaron
+las bases para el progreso social y político en España, marcando un precedente en la
+lucha por la democracia y los derechos sociales.
+4 b) 1. Diferencias entre absolutismo y constitucionalismo entre 1808 y 1843
+Entre 1808 y 1843, España vivió una profunda transformación política marcada por la
+lucha entre el absolutismo, representado por los partidarios del Antiguo Régimen, y el
+constitucionalismo, impulsado por los liberales. Estas dos corrientes defendían modelos
+opuestos en aspectos fundamentales como la soberanía, la división de poderes y los
+derechos individuales.
+1. Soberanía
+●En el régimen absolutista, la soberanía recaía exclusivamente en el monarca,
+quien gobernaba por derecho divino. Esta idea justificaba que el poder del rey
+proviniera de Dios y no de los ciudadanos. Fernando VII encarnó este modelo
+durante los periodos absolutistas de su reinado, especialmente tras la abolición
+de la Constitución de Cádiz en 1814.
+●En el régimen constitucional, la soberanía residía en la nación, tal como
+establecía la Constitución de Cádiz de 1812. Este principio significaba que el
+poder emanaba del pueblo, representado en las Cortes, que se convertían en la
+base del sistema político.
+2. División de poderes
+●El absolutismo concentraba todos los poderes (legislativo, ejecutivo y judicial) en
+la figura del monarca. No existían límites efectivos a la autoridad real, lo que
+generaba una administración arbitraria. En este sistema, las instituciones como
+las Cortes sólo tenían un carácter consultivo.
+●El constitucionalismo introdujo la separación de poderes como uno de sus pilares
+fundamentales:
+○El poder legislativo recaía en las Cortes, elegidas por los ciudadanos,
+aunque con sufragio censitario.
+
+=== PAGINA 9 ===
+○El poder ejecutivo se delegaba en el gobierno, bajo la supervisión de las
+Cortes y el monarca.
+○El poder judicial se pretendía independiente, aunque su aplicación práctica
+dependía del contexto. Esta división buscaba evitar abusos y garantizar un
+gobierno basado en leyes claras.
+3. Derechos individuales
+●En el régimen absolutista, los derechos individuales estaban supeditados a la
+voluntad del rey. No existía garantía de libertades como la de expresión, reunión
+o propiedad, y las instituciones represivas, como la Inquisición, aseguraban el
+control ideológico.
+●En el régimen constitucional, se consagraron derechos fundamentales, como la
+libertad de prensa, la igualdad ante la ley y la abolición de privilegios señoriales.
+La Constitución de Cádiz de 1812 fue pionera en reconocer estos derechos,
+aunque su aplicación enfrentó resistencias.
+4. Sociedad y economía
+●El absolutismo defendía un modelo de sociedad estamental, en el que la nobleza y
+el clero mantenían privilegios frente al resto de la población. La economía estaba
+basada en el feudalismo y el control rígido de la propiedad.
+●El constitucionalismo promovió una sociedad basada en la igualdad legal y
+fomentó reformas económicas, como la abolición de los señoríos y la
+desamortización, que buscaban modernizar el sistema productivo.
+En resumen, mientras el absolutismo representaba la continuidad del Antiguo Régimen,
+el constitucionalismo simbolizaba la transición hacia una sociedad moderna, basada en la
+libertad y la igualdad. Estas diferencias marcaron las luchas políticas y sociales de gran
+parte del siglo XIX en España.
+4 b) 2. El papel de la mujer en la República y la dictadura franquista
+La Segunda República (1931-1939) y la dictadura franquista (1939-1975) representaron
+dos momentos históricos completamente opuestos en cuanto al papel de la mujer en la
+sociedad. Durante la República se promovieron avances hacia la igualdad de género,
+mientras que el franquismo supuso un retroceso, relegando a las mujeres a un rol
+tradicional y doméstico.
+1. La mujer durante la Segunda República
+
+=== PAGINA 10 ===
+La Segunda República fue un periodo de avances significativos en los derechos de las
+mujeres, marcando un hito en su participación social, política y laboral:
+●Derechos políticos: En 1931 se reconoció el derecho al voto femenino gracias a
+la lucha de figuras como Clara Campoamor, quien defendió en las Cortes la
+igualdad de derechos entre hombres y mujeres. Por primera vez, las mujeres
+pudieron votar en las elecciones generales de 1933.
+●Participación política: Además de votar, las mujeres pudieron presentarse como
+candidatas en las elecciones, y algunas ocuparon cargos relevantes. Esto fue un
+paso importante hacia su inclusión en la vida pública.
+●Avances laborales: Se aprobaron leyes que mejoraron las condiciones laborales
+de las mujeres, como la regulación de los horarios y el acceso a trabajos
+anteriormente reservados a los hombres.
+●Educación y cultura: La República impulsó una educación laica e igualitaria,
+eliminando las barreras de género en el acceso a la formación. Las mujeres
+comenzaron a participar activamente en actividades culturales y científicas.
+Sin embargo, a pesar de estos avances, las resistencias culturales y religiosas limitaron
+la aplicación de algunas medidas, y muchas mujeres continuaron enfrentando prejuicios.
+2. La mujer durante el franquismo
+Con la llegada del régimen franquista tras la Guerra Civil, los derechos adquiridos por
+las mujeres durante la República fueron eliminados, y su rol quedó definido por valores
+tradicionales vinculados al catolicismo y al nacionalismo:
+●Rol doméstico y subordinado: La mujer fue relegada al ámbito privado,
+desempeñando funciones como madre y esposa. Su principal objetivo debía ser
+cuidar del hogar y obedecer a su marido.
+●Sumisión legal: Las leyes franquistas reforzaron la dependencia de las mujeres
+respecto a los hombres. Necesitaban el permiso del esposo o el padre para
+trabajar, abrir una cuenta bancaria o realizar actividades fuera del hogar.
+●Educación diferenciada: La educación para mujeres estaba orientada a formarlas
+como amas de casa. La Sección Femenina, liderada por Pilar Primo de Rivera,
+impartía cursos sobre labores domésticas, maternidad y valores tradicionales.
+●Control de la moralidad: Se promovía una estricta moral católica, y las mujeres
+solteras o madres solteras eran estigmatizadas. Se prohibió el divorcio y se
+criminalizó el aborto.
+3. Comparación entre ambos periodos
+
+=== PAGINA 11 ===
+La República y el franquismo representaron modelos completamente opuestos respecto
+a la mujer. Mientras que la República promovió su inclusión como ciudadanas plenas, con
+derechos políticos y laborales, el franquismo revirtió estos avances y las relegó a un
+papel secundario. Este contraste refleja los cambios sociales y políticos que
+experimentó España durante el siglo XX.

@@ -1,0 +1,4811 @@
+[
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Càlculs estequiomètrics.** Un mordent és una substància que serveix per a fixar els colors en els teixits. L'acetat de calci s'utilitza com a mordent i es prepara en reaccionar àcid acètic amb hidròxid de calci segons la següent equació química no ajustada:\n\n$$\\ce{CH3-COOH(aq) "
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Cálculos estequiométricos.** Un mordiente es una sustancia que sirve para fijar los colores en los tejidos. El acetato de calcio se utiliza como mordiente y se prepara al reaccionar ácido acético con hidróxido de calcio según la siguiente ecuación química no ajustada:\n\n$$\\ce{CH"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Quin volum d'una dissolució de $\\ce{Ca(OH)2}$ $0{,}5\\,\\mathrm{M}$ es necessita per a reaccionar completament amb $25\\,\\mathrm{mL}$ d'una dissolució d'àcid acètic del $58\\,\\%$ en massa i densitat $1{,}065\\,\\mathrm{g\\cdot mL^{-1}}$? ($1$ punt)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué volumen de una disolución de $\\ce{Ca(OH)2}$ $0{,}5\\,\\mathrm{M}$ se necesita para reaccionar completamente con $25\\,\\mathrm{mL}$ de una disolución de ácido acético de $58\\,\\%$ en masa y densidad $1{,}065\\,\\mathrm{g\\cdot mL^{-1}}$? ($1$ punto)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n4",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si després de mesclar les dues dissolucions de l'apartat anterior s'obtenen $17{,}9\\,\\mathrm{g}$ d'acetat de calci, calcule el rendiment de la reacció, així com la massa d'aigua, en grams, formada en la reacció. ($1$ punt)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n4",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si tras mezclar las dos disoluciones del apartado anterior se obtienen $17{,}9\\,\\mathrm{g}$ de acetato de calcio, calcule el rendimiento de la reacción, así como la masa de agua, en gramos, formada en la reacción. ($1$ punto)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Equilibri químic.** Per a la reacció en equilibri $\\ce{2NOCl(g) <=> 2NO(g) + Cl2(g)}$, $K_{\\mathrm{p}}$ té un valor de $0{,}0168$ a $240\\,^{\\circ}\\mathrm{C}$. En un recipient de $2$ litres, mantingut a la temperatura de $240\\,^{\\circ}\\mathrm{C}$, s'introdueix una quantitat inde"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Equilibrio químico.** Para la reacción en equilibrio $\\ce{2NOCl(g) <=> 2NO(g) + Cl2(g)}$, $K_{\\mathrm{p}}$ tiene un valor de $0{,}0168$ a $240\\,^{\\circ}\\mathrm{C}$. En un recipiente de $2$ litros, mantenido a la temperatura de $240\\,^{\\circ}\\mathrm{C}$, se introduce una cantida"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el valor de $K_{\\mathrm{c}}$ i les pressions parcials dels gasos $\\ce{NO}$ i $\\ce{Cl2}$ en l'equilibri ($1{,}2$ punts)."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el valor de $K_{\\mathrm{c}}$ y las presiones parciales de los gases $\\ce{NO}$ y $\\ce{Cl2}$ en el equilibrio ($1{,}2$ puntos)."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule la cantidad (en moles) de $\\ce{NOCl}$ que se ha introducido inicialmente. ($0{,}8$ puntos)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reaccions àcid-base.** L'àcid benzoic, $\\ce{C7H6O2}$, és un àcid monopròtic que s'utilitza com a conservant i s'identifica amb el codi europeu E-210. En una indústria alimentària, es prepara una dissolució d'àcid benzoic de concentració $0{,}01\\,\\mathrm{mol\\cdot L^{-1}}$.\n\n**Da"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones ácido-base.** El ácido benzoico, $\\ce{C7H6O2}$, es un ácido monoprótico que se utiliza como conservante y se identifica con el código europeo E-210. En una industria alimentaria, se prepara una disolución de ácido benzoico de concentración $0{,}01\\,\\mathrm{mol\\cdot L"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "En la dissolució aquosa preparada, l'àcid benzoic es troba ionitzat en un $7{,}6\\,\\%$. Calcule la constant d'acidesa, $K_{\\mathrm{a}}$, i el pH de la dissolució. ($1{,}2$ punts)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "En la disolución acuosa preparada, el ácido benzoico se encuentra ionizado en un $7{,}6\\,\\%$. Calcule la constante de acidez, $K_{\\mathrm{a}}$, y el pH de la disolución. ($1{,}2$ puntos)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Per a conservar olives, la legislació fixa un màxim de $0{,}5\\,\\mathrm{g}$ d'àcid benzoic per $\\mathrm{kg}$ d'olives. Calcule el volum de la dissolució d'àcid benzoic $0{,}01\\,\\mathrm{M}$ preparada que cal introduir en un pot que conté $2\\,\\mathrm{kg}$ d'olives per a ajustar-se a"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Para conservar aceitunas, la legislación fija un máximo de $0{,}5\\,\\mathrm{g}$ de ácido benzoico por $\\mathrm{kg}$ de aceitunas. Calcule el volumen de la disolución de ácido benzoico $0{,}01\\,\\mathrm{M}$ preparada que hay que introducir en un bote que contiene $2\\,\\mathrm{kg}$ de"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reaccions redox. Càlculs estequiomètrics.** El diòxid de clor, $\\ce{ClO2}$, és un desinfectant i decolorant que pot obtindre's fent reaccionar clorat de sodi, $\\ce{NaClO3}$, amb peròxid d'hidrogen, $\\ce{H2O2}$, en medi àcid, d'acord amb la següent equació química no ajustada:\n\n"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones redox. Cálculos estequiométricos.** El dióxido de cloro, $\\ce{ClO2}$, es un desinfectante y decolorante que puede obtenerse haciendo reaccionar clorato de sodio, $\\ce{NaClO3}$, con peróxido de hidrógeno, $\\ce{H2O2}$, en medio ácido, de acuerdo con la siguiente ecuaci"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Escriga la semireacció d'oxidació i la de reducció, així com l'equació química global ajustada tant en la seua forma iònica com molecular. ($1$ punt)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba la semirreacción de oxidación y la de reducción, así como la ecuación química global ajustada tanto en su forma iónica como molecular. ($1$ punto)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el volum de $\\ce{ClO2}$ obtingut (mesurat a $20\\,^{\\circ}\\mathrm{C}$ i $790\\,\\mathrm{mmHg}$), quan es mescla la dissolució A ($250\\,\\mathrm{mL}$ d'una dissolució $0{,}08\\,\\mathrm{M}$ de $\\ce{H2O2}$ en excés de $\\ce{H2SO4}$) amb la dissolució B ($200\\,\\mathrm{mL}$ d'una di"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el volumen de $\\ce{ClO2}$ obtenido (medido a $20\\,^{\\circ}\\mathrm{C}$ y $790\\,\\mathrm{mmHg}$), cuando se mezcla la disolución A ($250\\,\\mathrm{mL}$ de una disolución $0{,}08\\,\\mathrm{M}$ de $\\ce{H2O2}$ en exceso de $\\ce{H2SO4}$) con la disolución B ($200\\,\\mathrm{mL}$ de "
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Estructura atómica y molecular. Propiedades periódicas.** Considere los elementos A, B, C y D, cuyos números atómicos son $12$, $15$, $17$ y $19$, respectivamente. Responda a las siguientes cuestiones: ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba la configuración electrónica de cada uno de los elementos propuestos e indique en qué grupo y periodo de la tabla periódica se encuentra cada uno."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Ordene justificadamente los elementos por orden creciente de su primera energía de ionización."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Elija dos elementos entre los cuales se formaría un compuesto iónico y obtenga su fórmula molecular. Justifique la respuesta."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Deduzca la fórmula molecular del compuesto que se formaría entre los elementos B y C aplicando la regla del octeto y discuta el tipo de enlace que se establece entre dichos átomos."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Estructura molecular. Estructuras electrónicas de Lewis.** Considere las especies químicas $\\ce{F2CO}$, $\\ce{HCN}$ y $\\ce{NBr3}$. Responda a las siguientes cuestiones:"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Dibuje la estructura electrónica de Lewis de cada una de las moléculas. ($0{,}6$ puntos)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n22",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Deduzca la disposición geométrica de los pares electrónicos que rodean al átomo central de cada molécula e indique el tipo de hibridación de los orbitales de dicho átomo. ($0{,}6$ puntos)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Desplazamiento del equilibrio químico.** Para el equilibrio heterogéneo: $\\ce{NH4HS(s) <=> NH3(g) + H2S(g)}$ ($\\Delta H=103\\,\\mathrm{kJ}$), deduzca si las siguientes afirmaciones son verdaderas o falsas. ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Si se introduce inicialmente en el reactor $\\ce{NH4HS}$, el equilibrio no se alcanza si la cantidad de reactivo introducida no supera un valor mínimo."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, la adición de más $\\ce{NH4HS}$ aumenta la producción de $\\ce{NH3}$ y $\\ce{H2S}$."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, al aumentar la temperatura del reactor, la masa de $\\ce{NH4HS}$ aumenta."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, si se reduce el volumen a la mitad, aumenta la cantidad de $\\ce{H2S}$ formada."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones ácido-base.** Razone si las siguientes afirmaciones son verdaderas o falsas: ($0{,}5$ puntos cada apartado)\n\n**Datos:** $K_{\\mathrm{b}}(\\ce{NH3})=1{,}8\\cdot10^{-5}$; $K_{\\mathrm{w}}=10^{-14}$."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Cinética química.** Considere la reacción química: $\\ce{A(g) + 2B(g) -> C(g)}$. Se ha observado que, al duplicar la concentración de A, la velocidad de la reacción se cuadruplica mientras que, al disminuir la concentración de B a la mitad, la velocidad disminuye en esa misma pr"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n37",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipiente de $5\\,\\mathrm{L}$ de volumen mantenido a temperatura constante se añadieron $1\\,\\mathrm{mol}$ de A y $2$ moles de B. La velocidad inicial de la reacción resultó ser $4{,}72\\cdot10^{-3}\\,\\mathrm{M\\cdot s^{-1}}$. Calcule la constante de velocidad (con unidades)."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n38",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En las condiciones del apartado b), calcule la velocidad de desaparición de B y la velocidad de aparición de C."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n39",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Si una vez iniciada la reacción el reactor se comprime, discuta si ello producirá un aumento o una disminución en la velocidad de la reacción."
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n41",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Complete las siguientes reacciones químicas, nombre todas las moléculas orgánicas que intervienen, e indique qué tipo de reacción tiene lugar en cada caso: ($1{,}2$ puntos)"
+  },
+  {
+    "version": "p4",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n44",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Nombre o formule según corresponda: ($0{,}2$ puntos cada subapartado)"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Dos masas $m_1 = 10\\,\\mathrm{kg}$ y $m_2 = 20\\,\\mathrm{kg}$ cuelgan del techo y están separadas $1\\,\\mathrm{m}$ de distancia. Determine:\n\nDatos: Radio de la Tierra, $R_T = 6{,}37\\times10^6\\,\\mathrm{m}$; Constante de Gravitación Universal, $G = 6{,}67\\times10^{-11}\\,\\mathrm{N\\cdot"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Dos altavoces de $60\\,\\mathrm{W}$ y $40\\,\\mathrm{W}$ de potencia están situados, respectivamente, en los puntos $(0,0,0)$ y $(4,0,0)\\,\\mathrm{m}$. Determine:\n\nDato: Intensidad umbral de audición, $I_0 = 10^{-12}\\,\\mathrm{W\\cdot m^{-2}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El nivel de intensidad sonora en el punto $(4,3,0)\\,\\mathrm{m}$ debido a cada uno de los altavoces."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El nivel de intensidad sonora en el punto $(4,3,0)\\,\\mathrm{m}$ debido a ambos altavoces."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Sea un campo magnético uniforme $\\vec{B} = -B_0\\,\\vec{k}$, con $B_0 = 0{,}3\\,\\mathrm{T}$. En el plano $xy$, hay una espira rectangular cuyos lados miden, inicialmente, $a = 1\\,\\mathrm{m}$ y $b = 0{,}5\\,\\mathrm{m}$. La varilla de longitud $b$ se puede desplazar en la dirección del"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Partiendo del reposo la varilla se desplaza con aceleración constante de $2\\,\\mathrm{m\\cdot s^{-2}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Un sistema óptico está constituido por dos lentes situadas a $50\\,\\mathrm{cm}$ de distancia. La primera es de $10$ dioptrías y la segunda de $-10$ dioptrías. Se sitúa un objeto de altura $10\\,\\mathrm{cm}$ a una distancia de $15\\,\\mathrm{cm}$, a la izquierda de la primera lente."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Determine la posición y el tamaño de la imagen producida por la primera lente y de la imagen final formada por el sistema."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Realice un diagrama de rayos de la formación de la imagen final."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Explique, clara y brevemente, en qué consiste el efecto fotoeléctrico."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si el trabajo de extracción de un metal es de $2\\,\\mathrm{eV}$, ¿con fotones de qué frecuencia habría que iluminar el metal para que los electrones extraídos tuvieran una velocidad máxima de $7\\cdot10^5\\,\\mathrm{m\\cdot s^{-1}}$?\n\nDatos: Constante de Planck, $h = 6{,}63\\cdot10^{-3"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese un satélite de masa $10^3\\,\\mathrm{kg}$ que orbita alrededor de la Tierra en una órbita circular geoestacionaria. Datos: Constante de Gravitación Universal, $G = 6{,}67\\cdot10^{-11}\\,\\mathrm{N\\cdot m^2\\cdot kg^{-2}}$; Masa de la Tierra, $M_T = 5{,}97\\cdot10^{24}\\,\\mat"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Determine el radio que tendría que tener la órbita para que su periodo fuese doble del anterior."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cuál es la diferencia de energía del satélite entre la primera y la segunda órbita?"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese una onda armónica transversal que se propaga en el sentido positivo del eje $x$. La figura 1 muestra la variación de la elongación $y$ en función de $x$ en un instante $t$, mientras que en la figura 2, se representa la oscilación, en función del tiempo, de un punto si"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n24",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese una carga $q_1 = 6\\,\\mathrm{\\mu C}$, situada en el origen de coordenadas. Determine:\n\nDato: Constante de la Ley de Coulomb, $K = 9\\cdot10^9\\,\\mathrm{N\\cdot m^2\\cdot C^{-2}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "El trabajo necesario para llevar una carga $q_2 = 10\\,\\mathrm{\\mu C}$ desde una posición muy alejada, digamos $x \\approx \\infty$, hasta la posición $x = 10\\,\\mathrm{m}$."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "El punto entre ambas cargas en el que una carga $q$ estaría en equilibrio."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un medio de índice de refracción $n_1 = 1$ se propaga un rayo luminoso de frecuencia $f_1 = 6\\cdot10^{14}\\,\\mathrm{Hz}$. Dato: Velocidad de propagación de la luz en el vacío, $c = 3\\cdot10^8\\,\\mathrm{m\\cdot s^{-1}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cuál sería la frecuencia y la longitud de onda de la radiación si el índice de refracción del medio fuese $n_2 = 1{,}25\\,n_1$?"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Determine:\n\nDatos: Constante de Planck, $h = 6{,}63\\cdot10^{-34}\\,\\mathrm{J\\cdot s}$; Valor absoluto de la carga del electrón, $e = 1{,}60\\cdot10^{-19}\\,\\mathrm{C}$; Masa del electrón, $m_e = 9{,}11\\cdot10^{-31}\\,\\mathrm{kg}$; Velocidad de la luz en el vacío, $c = 3\\cdot10^8\\,\\ma"
+  },
+  {
+    "version": "p4",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n31",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La velocidad a la que debe desplazarse un electrón para que su longitud de onda asociada sea la misma que la de un fotón de $0{,}02\\,\\mathrm{MeV}$ de energía."
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n2"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n3"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n4"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n8"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n12"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n17"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n22"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n23"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n27"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n31"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n37"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n40"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n42"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n45"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n50"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n55"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n60"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n64"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n69"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n74"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n79"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n83"
+  },
+  {
+    "version": "p4",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n84"
+  },
+  {
+    "version": "p4",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Expliqueu i compareu els principals processos de reforma agrària en el segle XIX i el segle XX."
+  },
+  {
+    "version": "p4",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Explique y compare los principales procesos de reforma agraria en los siglos XIX y XX."
+  },
+  {
+    "version": "p4",
+    "documento": "49e9ef3c3296",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n12",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "49e9ef3c3296",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n12",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "49e9ef3c3296",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "49e9ef3c3296",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n11",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n11",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n11",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n18",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n20",
+    "padre": "n18",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "53bf68f29024",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n18",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "67eea232db63",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "67eea232db63",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "67eea232db63",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "67eea232db63",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Representeu l'estructura de Lewis de cada una de les espècies químiques proposades."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Represente la estructura de Lewis de cada una de las especies químicas propuestas."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El gasohol és una mescla de gasolina (octà, $\\ce{C8H18}$) i etanol ($\\ce{C2H6O}$) que s'utilitza com a combustible per a reduir les emissions globals de $\\ce{CO2}$. Calculeu:\nDades.- Masses atòmiques relatives: $H: 1; C: 12; O: 16$.\nEntalpies molars de formació, $\\Delta H^{\\circ}"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "El gasohol es una mezcla de gasolina (octano, $\\ce{C8H18}$) y etanol ($\\ce{C2H6O}$) que se utiliza como combustible para reducir las emisiones globales de $\\ce{CO2}$. Calcule:\nDatos.- Masas atómicas relativas: $H: 1; C: 12; O: 16$.\nEntalpías molares de formación, $\\Delta H^{\\circ"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "La quantitat d'energia en forma de calor que s'alliberarà en cremar $1\\,\\mathrm{L}$ d'una mescla de gasohol que conté el $12{,}5\\,\\%$ (en pes) d'etanol (el $87{,}5\\,\\%$ restant és octà) si la densitat de la mescla és $0{,}757\\,\\mathrm{g\\cdot cm^{-3}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "La cantidad de energía en forma de calor que se liberará al quemar $1\\,\\mathrm{L}$ de una mezcla de gasohol que contiene el $12{,}5\\,\\%$ (en peso) de etanol (siendo el $87{,}5\\,\\%$ restante octano) si la densidad de la mezcla es $0{,}757\\,\\mathrm{g\\cdot cm^{-3}}$."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Tenint en compte els potencials estàndard de reducció, $E^{\\circ}$, donats al final de l'enunciat, respongueu raonadament:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Teniendo en cuenta los potenciales estándar de reducción, $E^{\\circ}$, dados al final del enunciado, responda razonadamente:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Què succeeix quan s'introdueix una làmina d'estany en quatre dissolucions àcides cada una d'elles que contenen un dels ions següents en concentració $1\\,\\mathrm{M}$: $\\ce{Cu^2+}$, $\\ce{Fe^2+}$, $\\ce{Ag+}$ i $\\ce{Cd^2+}$?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué sucede cuando se introduce una lámina de estaño en cuatro disoluciones ácidas cada una de ellas conteniendo uno de los iones siguientes en concentración $1\\,\\mathrm{M}$: $\\ce{Cu^2+}$, $\\ce{Fe^2+}$, $\\ce{Ag+}$ y $\\ce{Cd^2+}$?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "L'àcid làctic ($\\ce{C3H5O3H}$) és un àcid monopròtic, $\\ce{HA}$, que s'acumula en la sang i els músculs per realitzar activitat física. Una dissolució aquosa $0{,}0284\\,\\mathrm{M}$ d'aquest àcid està ionitzada en un $6{,}7\\,\\%$.\n$\\ce{C3H5O3H(ac) <=> C3H5O3^-(ac) + H+(ac)}$\nDades."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "El ácido láctico ($\\ce{C3H5O3H}$) es un ácido monoprótico, $\\ce{HA}$, que se acumula en la sangre y los músculos al realizar actividad física. Una disolución acuosa $0{,}0284\\,\\mathrm{M}$ de este ácido está ionizada en un $6{,}7\\,\\%$.\n$\\ce{C3H5O3H(ac) <=> C3H5O3^-(ac) + H+(ac)}$\n"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calculeu la quantitat (en grams) de $\\ce{HCl}$ dissolt en $0{,}5\\,\\mathrm{L}$ de dissolució perquè el seu pH siga el mateix que el de la dissolució d'àcid làctic de l'apartat anterior."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule la cantidad (en gramos) de $\\ce{HCl}$ disuelto en $0{,}5\\,\\mathrm{L}$ de disolución para que su pH sea el mismo que el de la disolución de ácido láctico del apartado anterior."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Considereu la reacció $\\ce{2A + B -> C}$ que resulta ser d'ordre un respecte de cada un dels reactius. Respongueu raonadament les qüestions següents:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Considere la reacción $\\ce{2A + B -> C}$ que resulta ser de orden uno respecto de cada uno de los reactivos. Responda razonadamente las cuestiones siguientes:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si la constant de velocitat té un valor de $0{,}021\\,\\mathrm{M^{-1}\\cdot s^{-1}}$ i les concentracions inicials d'$A$ i $B$ són $0{,}1$ i $0{,}2\\,\\mathrm{M}$ respectivament, quina és la velocitat inicial de la reacció?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Si la constante de velocidad tiene un valor de $0{,}021\\,\\mathrm{M^{-1}\\cdot s^{-1}}$ y las concentraciones iniciales de $A$ y $B$ son $0{,}1$ y $0{,}2\\,\\mathrm{M}$ respectivamente, ¿cuál es la velocidad inicial de la reacción?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si, en un experiment diferent, la concentració d'$A$ es duplica respecte de les condicions de l'apartat a), quina ha de ser la concentració de $B$ perquè la velocitat inicial de la reacció siga la mateixa que en l'apartat a)?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Si, en un experimento distinto, la concentración de $A$ se duplica respecto a las condiciones del apartado a), ¿cuál debe ser la concentración de $B$ para que la velocidad inicial de la reacción sea la misma que en dicho apartado?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n22",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Com variarà la velocitat de la reacció a mesura que avance el temps?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n22",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cómo variará la velocidad de la reacción a medida que avance el tiempo?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n24",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Contesteu, raonadament, si les següents afirmacions són verdaderes o falses:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n24",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Conteste, razonadamente, si las siguientes afirmaciones son verdaderas o falsas:"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Els àtoms neutres $\\ce{^{12}_{6}C}$ i $\\ce{^{14}_{6}C}$ tenen el mateix nombre d'electrons."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Los átomos neutros $\\ce{^{12}_{6}C}$ y $\\ce{^{14}_{6}C}$ tienen el mismo número de electrones."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Un átomo cuya configuración electrónica es $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6$ pertenece al grupo de los halógenos (grupo $17$)."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Un conjunt possible de nombres quàntics per a un electró allotjat en un orbital $3d$ és $(3, 2, 3, -1/2)$."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Un conjunto posible de números cuánticos para un electrón alojado en un orbital $3d$ es $(3, 2, 3, -1/2)$."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Els organismes aerobis tenen aquesta denominació perquè necessiten oxigen pel seu desenvolupament. La reacció principal de la cadena transportadora d'electrons on es necessita l'oxigen és la següent (no ajustada):\n$\\ce{O2(g) + Fe^2+(ac) + H+(ac) -> H2O(l) + Fe^3+(ac)}$\nDades.- $R"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Los organismos aerobios tienen esta denominación porque necesitan oxígeno para su desarrollo. La reacción principal de la cadena transportadora de electrones donde se necesita el oxígeno es la siguiente (no ajustada):\n$\\ce{O2(g) + Fe^2+(ac) + H+(ac) -> H2O(l) + Fe^3+(ac)}$\nDatos."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Escriviu les semireaccions d'oxidació i reducció i la reacció global ajustada."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba las semirreacciones de oxidación y reducción y la reacción global ajustada."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n32",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Quin volum d'aire (que conté un $21\\,\\%$ d'oxigen en volum) serà necessari per a transportar $0{,}2$ mols d'electrons si la pressió parcial de l'$\\ce{O2}$ és de $90\\,\\mathrm{mmHg}$ i a la temperatura corporal de $37\\,^{\\circ}\\mathrm{C}$?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n32",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué volumen de aire (que contiene un $21\\,\\%$ de oxígeno en volumen) será necesario para transportar $0{,}2$ moles de electrones si la presión parcial del $\\ce{O2}$ es de $90\\,\\mathrm{mmHg}$ y a la temperatura corporal de $37\\,^{\\circ}\\mathrm{C}$?"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n33",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Un dels mètodes més eficients dels utilitzats en l'actualitat per a obtindre dihidrogen, $\\ce{H2(g)}$, és el reformat amb vapor d'aigua, $\\ce{H2O(g)}$, del metà, $\\ce{CH4(g)}$, component principal del gas natural:\n$\\ce{CH4(g) + H2O(g) -> CO(g) + 3H2(g)}$ $\\Delta H = +191{,}7\\,\\ma"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n33",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Uno de los métodos más eficientes de los utilizados en la actualidad para obtener dihidrógeno, $\\ce{H2(g)}$, es el reformado con vapor de agua, $\\ce{H2O(g)}$, del metano, $\\ce{CH4(g)}$, componente principal del gas natural:\n$\\ce{CH4(g) + H2O(g) -> CO(g) + 3H2(g)}$ $\\Delta H = +19"
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n34",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La formació de $\\ce{CH4}$ i $\\ce{H2O}$ a partir de $\\ce{CO}$ i $\\ce{H2}$ absorbeix energia en forma de calor."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n34",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La formación de $\\ce{CH4}$ y $\\ce{H2O}$ a partir de $\\ce{CO}$ y $\\ce{H2}$ absorbe energía en forma de calor."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "L'energia que contenen els enllaços covalents dels reactius ($\\ce{CH4}$ i $\\ce{H2O}$) és major que la corresponent als enllaços covalents dels productes ($\\ce{CO}$ i $\\ce{H2}$)."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La energía que contienen los enlaces covalentes de los reactivos ($\\ce{CH4}$ y $\\ce{H2O}$) es mayor que la correspondiente a los enlaces covalentes de los productos ($\\ce{CO}$ y $\\ce{H2}$)."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n36",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La formació de $\\ce{CO}$ i $\\ce{H2}$ a partir de $\\ce{CH4}$ i $\\ce{H2O}$ implica un augment d'entropia del sistema."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n36",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La formación de $\\ce{CO}$ y $\\ce{H2}$ a partir de $\\ce{CH4}$ y $\\ce{H2O}$ implica un aumento de entropía del sistema."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n38",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipient de $25$ litres de volum, en el que s'ha fet prèviament el buit, es depositen $10$ mols de $\\ce{CO}$ i $5$ mols d'$\\ce{H2O}$ a la temperatura de $900\\,^{\\circ}\\mathrm{C}$, establint-se l'equilibri següent:\n$\\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)}$ $K_{\\mathrm{c}} = "
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n38",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipiente de $25$ litros de volumen, en el que se ha hecho previamente el vacío, se depositan $10$ moles de $\\ce{CO}$ y $5$ moles de $\\ce{H2O}$ a la temperatura de $900\\,^{\\circ}\\mathrm{C}$, estableciéndose el siguiente equilibrio:\n$\\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)}$ "
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n41",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Completeu les següents reaccions i anomeneu els compostos orgànics que hi intervenen."
+  },
+  {
+    "version": "p4",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n41",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Complete las siguientes reacciones y nombre los compuestos orgánicos que intervienen en ellas."
+  },
+  {
+    "version": "p4",
+    "documento": "73d799a38839",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n29",
+    "padre": "n28",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "73d799a38839",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n30",
+    "padre": "n28",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "73d799a38839",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n32",
+    "padre": "n31",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "73d799a38839",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n38",
+    "padre": "n31",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "73d799a38839",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n44",
+    "padre": "n31",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n16",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n20",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n23",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n25",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n26",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n27",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n28",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n31",
+    "padre": "n30",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n32",
+    "padre": "n30",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n33",
+    "padre": "n30",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n35",
+    "padre": "n34",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n36",
+    "padre": "n34",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "7e1bad7a80fd",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n37",
+    "padre": "n34",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n6",
+    "padre": "n5",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n7",
+    "padre": "n5",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n20",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "91449450587c",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n20",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n3",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n5",
+    "padre": "n3",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n13",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n20",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n20",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n25",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n26",
+    "padre": "n24",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n28",
+    "padre": "n27",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n29",
+    "padre": "n27",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "9e8570ee562e",
+    "tipo": "estimulo_textual_vacio",
+    "estimulo": "E1"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n5",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n6",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n7",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a05dd314b1f2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n9",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n2",
+    "padre": "n1",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n1",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n1",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n5",
+    "padre": "n1",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n14",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n16",
+    "padre": "n14",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n17",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n21",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n26",
+    "padre": "n21",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n28",
+    "padre": "n27",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n29",
+    "padre": "n27",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n32",
+    "padre": "n31",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n33",
+    "padre": "n31",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n35",
+    "padre": "n34",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "a2af56a74785",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n38",
+    "padre": "n34",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n6",
+    "padre": "n5",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n7",
+    "padre": "n5",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p4",
+    "documento": "fdd6ca513f80",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n10",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "053608cf06ee",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "053608cf06ee",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "053608cf06ee",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "053608cf06ee",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "0fedaac3fe5f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "0fedaac3fe5f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "0fedaac3fe5f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "0fedaac3fe5f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Cálculos estequiométricos.**\nUn mordiente es una sustancia que sirve para fijar los colores en los tejidos. El acetato de calcio se utiliza como mordiente y se prepara al reaccionar ácido acético con hidróxido de calcio según la siguiente ecuación química no ajustada:\n\n$$\\ce{CH"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué volumen de una disolución de $\\ce{Ca(OH)2}$ $0{,}5\\,\\mathrm{M}$ se necesita para reaccionar completamente con $25\\,\\mathrm{mL}$ de una disolución de ácido acético de $58\\,\\%$ en masa y densidad $1{,}065\\,\\mathrm{g\\cdot mL^{-1}}$? ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n4",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si tras mezclar las dos disoluciones del apartado anterior se obtienen $17{,}9\\,\\mathrm{g}$ de acetato de calcio, calcule el rendimiento de la reacción, así como la masa de agua, en gramos, formada en la reacción. ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Equilibrio químico.**\nPara la reacción en equilibrio $\\ce{2NOCl(g) <=> 2NO(g) + Cl2(g)}$, $K_{\\mathrm{p}}$ tiene un valor de $0{,}0168$ a $240\\,^{\\circ}\\mathrm{C}$. En un recipiente de $2$ litros, mantenido a la temperatura de $240\\,^{\\circ}\\mathrm{C}$, se introduce una cantida"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el valor de $K_{\\mathrm{c}}$ y las presiones parciales de los gases $\\ce{NO}$ y $\\ce{Cl2}$ en el equilibrio ($1{,}2$ puntos)."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule la cantidad (en moles) de $\\ce{NOCl}$ que se ha introducido inicialmente ($0{,}8$ puntos)."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones ácido-base.**\nEl ácido benzoico, $\\ce{C7H6O2}$, es un ácido monoprótico que se utiliza como conservante y se identifica con el código europeo E-210. En una industria alimentaria, se prepara una disolución de ácido benzoico de concentración $0{,}01\\,\\mathrm{mol\\cdot L"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "En la disolución acuosa preparada, el ácido benzoico se encuentra ionizado en un $7{,}6\\,\\%$. Calcule la constante de acidez, $K_{\\mathrm{a}}$, y el pH de la disolución. ($1{,}2$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Para conservar aceitunas, la legislación fija un máximo de $0{,}5\\,\\mathrm{g}$ de ácido benzoico por $\\mathrm{kg}$ de aceitunas. Calcule el volumen de la disolución de ácido benzoico $0{,}01\\,\\mathrm{M}$ preparada que hay que introducir en un bote que contiene $2\\,\\mathrm{kg}$ de"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones redox. Cálculos estequiométricos.**\nEl dióxido de cloro, $\\ce{ClO2}$, es un desinfectante y decolorante que puede obtenerse haciendo reaccionar clorato de sodio, $\\ce{NaClO3}$, con peróxido de hidrógeno, $\\ce{H2O2}$, en medio ácido, de acuerdo con la siguiente ecuaci"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba la semirreacción de oxidación y la de reducción, así como la ecuación química global ajustada tanto en su forma iónica como molecular. ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule el volumen de $\\ce{ClO2}$ obtenido (medido a $20\\,^{\\circ}\\mathrm{C}$ y $790\\,\\mathrm{mmHg}$), cuando se mezcla la disolución A ($250\\,\\mathrm{mL}$ de una disolución $0{,}08\\,\\mathrm{M}$ de $\\ce{H2O2}$ en exceso de $\\ce{H2SO4}$) con la disolución B ($200\\,\\mathrm{mL}$ de "
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Estructura atómica y molecular. Propiedades periódicas.**\nConsidere los elementos A, B, C y D, cuyos números atómicos son $12$, $15$, $17$ y $19$, respectivamente. Responda a las siguientes cuestiones: ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba la configuración electrónica de cada uno de los elementos propuestos e indique en qué grupo y periodo de la tabla periódica se encuentra cada uno."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Ordene justificadamente los elementos por orden creciente de su primera energía de ionización."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Elija dos elementos entre los cuales se formaría un compuesto iónico y obtenga su fórmula molecular. Justifique la respuesta."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Deduzca la fórmula molecular del compuesto que se formaría entre los elementos B y C aplicando la regla del octeto y discuta el tipo de enlace que se establece entre dichos átomos."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Estructura molecular. Estructuras electrónicas de Lewis.**\nConsidere las especies químicas $\\ce{F2CO}$, $\\ce{HCN}$ y $\\ce{NBr3}$. Responda a las siguientes cuestiones:\n\n**Datos:** Números atómicos, $Z$: $\\mathrm{H}=1$; $\\mathrm{C}=6$; $\\mathrm{N}=7$; $\\mathrm{O}=8$; $\\mathrm{F}"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Dibuje la estructura electrónica de Lewis de cada una de las moléculas. ($0{,}6$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n22",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Deduzca la disposición geométrica de los pares electrónicos que rodean al átomo central de cada molécula e indique el tipo de hibridación de los orbitales de dicho átomo. ($0{,}6$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Desplazamiento del equilibrio químico.**\nPara el equilibrio heterogéneo $\\ce{NH4HS(s) <=> NH3(g) + H2S(g)}$ ($\\Delta H=103\\,\\mathrm{kJ}$), deduzca si las siguientes afirmaciones son verdaderas o falsas. ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Si se introduce inicialmente en el reactor $\\ce{NH4HS}$, el equilibrio no se alcanza si la cantidad de reactivo introducida no supera un valor mínimo."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, la adición de más $\\ce{NH4HS}$ aumenta la producción de $\\ce{NH3}$ y $\\ce{H2S}$. "
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, al aumentar la temperatura del reactor, la masa de $\\ce{NH4HS}$ aumenta."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Con las tres especies en equilibrio, si se reduce el volumen a la mitad, aumenta la cantidad de $\\ce{H2S}$ formada."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Reacciones ácido-base.**\nRazone si las siguientes afirmaciones son verdaderas o falsas: ($0{,}5$ puntos cada apartado)\n\n**Datos:** $K_{\\mathrm{b}}(\\ce{NH3})=1{,}8\\cdot10^{-5}$; $K_{\\mathrm{w}}=10^{-14}$."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "**Cinética química.**\nConsidere la reacción química: $\\ce{A(g) + 2B(g) -> C(g)}$. Se ha observado que, al duplicar la concentración de A, la velocidad de la reacción se cuadruplica mientras que, al disminuir la concentración de B a la mitad, la velocidad disminuye en esa misma pr"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n37",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipiente de $5\\,\\mathrm{L}$ de volumen mantenido a temperatura constante se añadieron $1\\,\\mathrm{mol}$ de A y $2$ moles de B. La velocidad inicial de la reacción resultó ser $4{,}72\\cdot10^{-3}\\,\\mathrm{M\\cdot s^{-1}}$. Calcule la constante de velocidad (con unidades)."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n38",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En las condiciones del apartado b), calcule la velocidad de desaparición de B y la velocidad de aparición de C."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n39",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Si una vez iniciada la reacción el reactor se comprime, discuta si ello producirá un aumento o una disminución en la velocidad de la reacción."
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n41",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Complete las siguientes reacciones químicas, nombre todas las moléculas orgánicas que intervienen, e indique qué tipo de reacción tiene lugar en cada caso: ($1{,}2$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "17445f0ab770",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n44",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Nombre o fórmula según corresponda: ($0{,}2$ puntos cada subapartado)"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Dos masas $m_1 = 10\\,\\mathrm{kg}$ y $m_2 = 20\\,\\mathrm{kg}$ cuelgan del techo y están separadas $1\\,\\mathrm{m}$ de distancia. Determine:\n\nDatos: Radio de la Tierra, $R_T = 6{,}37\\times10^6\\,\\mathrm{m}$; Constante de Gravitación Universal, $G = 6{,}67\\times10^{-11}\\,\\mathrm{N\\cdot"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Dos altavoces de $60\\,\\mathrm{W}$ y $40\\,\\mathrm{W}$ de potencia están situados, respectivamente, en los puntos $(0, 0, 0)$ y $(4, 0, 0)\\,\\mathrm{m}$. Determine:\n\nDato: Intensidad umbral de audición, $I_0 = 10^{-12}\\,\\mathrm{W\\cdot m^{-2}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El nivel de intensidad sonora en el punto $(4, 3, 0)\\,\\mathrm{m}$ debido a cada uno de los altavoces."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El nivel de intensidad sonora en el punto $(4, 3, 0)\\,\\mathrm{m}$ debido a ambos altavoces."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Sea un campo magnético uniforme $\\vec{B} = -B_0\\vec{k}$, con $B_0 = 0{,}3\\,\\mathrm{T}$. En el plano $xy$, hay una espira rectangular cuyos lados miden, inicialmente, $a = 1\\,\\mathrm{m}$ y $b = 0{,}5\\,\\mathrm{m}$. La varilla de longitud $b$ se puede desplazar en la dirección del e"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Partiendo del reposo la varilla se desplaza con aceleración constante de $2\\,\\mathrm{m\\cdot s^{-2}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Un sistema óptico está constituido por dos lentes situadas a $50\\,\\mathrm{cm}$ de distancia. La primera es de $10$ dioptrías y la segunda de $-10$ dioptrías. Se sitúa un objeto de altura $10\\,\\mathrm{cm}$ a una distancia de $15\\,\\mathrm{cm}$, a la izquierda de la primera lente."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Determine la posición y el tamaño de la imagen producida por la primera lente y de la imagen final formada por el sistema."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Realice un diagrama de rayos de la formación de la imagen final."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Datos: Constante de Planck, $h = 6{,}63\\times10^{-34}\\,\\mathrm{J\\cdot s}$; Valor absoluto de la carga del electrón, $e = 1{,}6\\times10^{-19}\\,\\mathrm{C}$; Masa del electrón, $m_e = 9{,}11\\times10^{-31}\\,\\mathrm{kg}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n15",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Explique, clara y brevemente, en qué consiste el efecto fotoeléctrico."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si el trabajo de extracción de un metal es de $2\\,\\mathrm{eV}$, ¿con fotones de qué frecuencia habría que iluminar el metal para que los electrones extraídos tuvieran una velocidad máxima de $7\\times10^5\\,\\mathrm{m\\cdot s^{-1}}$?"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese un satélite de masa $10^3\\,\\mathrm{kg}$ que orbita alrededor de la Tierra en una órbita circular geoestacionaria.\n\nDatos: Constante de Gravitación Universal, $G = 6{,}67\\times10^{-11}\\,\\mathrm{N\\cdot m^2\\cdot kg^{-2}}$; Masa de la Tierra, $M_T = 5{,}97\\times10^{24}\\,\\"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n19",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Determine el radio que tendría que tener la órbita para que su periodo fuese doble del anterior."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cuál es la diferencia de energía del satélite entre la primera y la segunda órbita?"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese una onda armónica transversal que se propaga en el sentido positivo del eje $x$. La figura 1 muestra la variación de la elongación en función de $x$ en un instante $t$, mientras que en la figura 2, se representa la oscilación, en función del tiempo, de un punto situad"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n24",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Considérese una carga $q_1 = 6\\,\\mathrm{\\mu C}$, situada en el origen de coordenadas. Determine:\n\nDato: Constante de la Ley de Coulomb, $K = 9\\times10^9\\,\\mathrm{N\\cdot m^2\\cdot C^{-2}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "El trabajo necesario para llevar una carga $q_2 = 10\\,\\mathrm{\\mu C}$ desde una posición muy alejada, digamos $x\\approx\\infty$, hasta la posición $x = 10\\,\\mathrm{m}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "El punto entre ambas cargas en el que una carga $q$ estaría en equilibrio."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un medio de índice de refracción $n_1 = 1$ se propaga un rayo luminoso de frecuencia $f_1 = 6\\times10^{14}\\,\\mathrm{Hz}$.\n\nDato: Velocidad de propagación de la luz en el vacío, $c = 3\\times10^8\\,\\mathrm{m\\cdot s^{-1}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cuál sería la frecuencia y la longitud de onda de la radiación si el índice de refracción del medio fuese $n_2 = 1{,}25\\,n_1$?"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Determine:\n\nDatos: Constante de Planck, $h = 6{,}63\\times10^{-34}\\,\\mathrm{J\\cdot s}$; Valor absoluto de la carga del electrón, $e = 1{,}60\\times10^{-19}\\,\\mathrm{C}$; Masa del electrón, $m_e = 9{,}11\\times10^{-31}\\,\\mathrm{kg}$; Velocidad de la luz en el vacío, $c = 3\\times10^8\\"
+  },
+  {
+    "version": "p5",
+    "documento": "1f06fc98f001",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n31",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La velocidad a la que debe desplazarse un electrón para que su longitud de onda asociada sea la misma que la de un fotón de $0{,}02\\,\\mathrm{MeV}$ de energía."
+  },
+  {
+    "version": "p5",
+    "documento": "2422938d704e",
+    "tipo": "pregunta_dentro_pregunta",
+    "nodo": "n40"
+  },
+  {
+    "version": "p5",
+    "documento": "28f5e820a133",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n16",
+    "padre": "n15",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "28f5e820a133",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n15",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "28f5e820a133",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n18",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "28f5e820a133",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n20",
+    "padre": "n18",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "334e3227bf82",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "334e3227bf82",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "334e3227bf82",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "334e3227bf82",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "389c79bb683d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "389c79bb683d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "389c79bb683d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "389c79bb683d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Exposeu l’ordenament constitucional i les principals polítiques administratives en la construcció de l’Estat liberal, abordant també els objectius i l’abast de la reforma agrària ($1833$-$1855$)."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Exponga el ordenamiento constitucional y las principales políticas administrativas en la construcción del Estado liberal, abordando también los objetivos y el alcance de la reforma agraria ($1833$-$1855$)."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Exposeu el problema successori en el regnat de Ferran $\\mathrm{VII}$ i la Primera Guerra Carlina."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Explique el problema sucesorio en el reinado de Fernando $\\mathrm{VII}$ y la Primera Guerra Carlista."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Expliqueu i compareu els principals processos de reforma agrària en el segle $\\mathrm{XIX}$ i el segle $\\mathrm{XX}$."
+  },
+  {
+    "version": "p5",
+    "documento": "3c134e1125e6",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Explique y compare los principales procesos de reforma agraria en los siglos $\\mathrm{XIX}$ y $\\mathrm{XX}$."
+  },
+  {
+    "version": "p5",
+    "documento": "41fdc1fe038d",
+    "tipo": "pregunta_vacia",
+    "nodo": "n6"
+  },
+  {
+    "version": "p5",
+    "documento": "41fdc1fe038d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n7",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "41fdc1fe038d",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "41fdc1fe038d",
+    "tipo": "orden_duplicado",
+    "padre": "n1",
+    "ordenes": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "version": "p5",
+    "documento": "423dd33e007e",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.143,
+    "texto": "Sea $\\lambda$ un número real y considé tense las matrices $A=\\begin{pmatrix}\\lambda&1&\\lambda\\\\0&\\lambda&-1\\end{pmatrix}$ y $B=\\begin{pmatrix}1&\\lambda\\\\0&-1\\\\1&-\\lambda\\end{pmatrix}$. Se pide:"
+  },
+  {
+    "version": "p5",
+    "documento": "42e04e11e8ed",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.167,
+    "texto": "Desarrolla brevemente la historia constitucional española del siglo $XIX$."
+  },
+  {
+    "version": "p5",
+    "documento": "42e04e11e8ed",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.2,
+    "texto": "Describe las principales reformas emprendidas en el marco de la $II$ República, así como su alcance y consecuencias. Utiliza para ello los textos a comentar, en especial el impacto de la reforma agraria."
+  },
+  {
+    "version": "p5",
+    "documento": "42e04e11e8ed",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.111,
+    "texto": "Menciona el peso de la agricultura en la sociedad española y compara esta medida republicana con las desamortizaciones previas."
+  },
+  {
+    "version": "p5",
+    "documento": "570fa053e73a",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.143,
+    "texto": "Calificación máxima: $2{,}5$ puntos.\n\nDada la función $f(x)=\\begin{cases}\\dfrac{x-1}{x^2-1}, & \\text{si } x<1,\\ x\\ne -1,\\\\[4pt]\\dfrac{x^2+1}{4x}, & \\text{si } x\\ge 1\\end{cases}$, se pide:"
+  },
+  {
+    "version": "p5",
+    "documento": "64e2509df555",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.167,
+    "texto": "Dados los planos $\\pi_1:2x-y-z+4=0$ y $\\pi_2:\\begin{cases}x=-1+\\alpha\\\\y=1+\\alpha+\\beta\\\\z=\\alpha-\\beta\\end{cases}$, y la recta $r:\\frac{x-1}{1}=\\frac{y}{2}=\\frac{z-2}{-1}$."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Representeu l'estructura de Lewis de cada una de les espècies químiques proposades. ($0{,}8$ punts)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n3",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Represente la estructura de Lewis de cada una de las especies químicas propuestas. ($0{,}8$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Indiqueu raonadament si les molècules $\\ce{PCl3}$ i $\\ce{Cl2O}$ són polars o apolars. ($0{,}4$ punts)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Indique razonadamente si las moléculas $\\ce{PCl3}$ y $\\ce{Cl2O}$ son polares o apolares. ($0{,}4$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "El gasohol és una mescla de gasolina (octà, $\\ce{C8H18}$) i etanol ($\\ce{C2H6O}$) que s'utilitza com a combustible per a reduir les emissions globals de $\\ce{CO2}$. Calculeu: ($1$ punt cada apartat)\\n\\nDades.- Masses atòmiques relatives: H: $1$; C: $12$; O: $16$.\\n\\nEntalpies mol"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "El gasohol es una mezcla de gasolina (octano, $\\ce{C8H18}$) y etanol ($\\ce{C2H6O}$) que se utiliza como combustible para reducir las emisiones globales de $\\ce{CO2}$. Calcule: ($1$ punto cada apartado)\\n\\nDatos.- Masas atómicas relativas: H: $1$; C: $12$; O: $16$.\\n\\nEntalpías mo"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "La quantitat d'energia en forma de calor que s'alliberarà en cremar $1\\,\\mathrm{L}$ d'una mescla de gasohol que conté el $12{,}5\\,\\%$ (en pes) d'etanol (el $87{,}5\\,\\%$ restant és octà) si la densitat de la mescla és $0{,}757\\,\\mathrm{g\\cdot cm^{-3}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n8",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "La cantidad de energía en forma de calor que se liberará al quemar $1\\,\\mathrm{L}$ de una mezcla de gasohol que contiene el $12{,}5\\,\\%$ (en peso) de etanol (siendo el $87{,}5\\,\\%$ restante octano) si la densidad de la mezcla es $0{,}757\\,\\mathrm{g\\cdot cm^{-3}}$."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Tenint en compte els potencials estàndard de reducció, $E^{\\circ}$, donats al final de l'enunciat, respongueu raonadament:\\n\\nDades.- $E^{\\circ}$ (en V): $\\ce{Fe^2+/Fe}$: $-0{,}44$; $\\ce{Cd^2+/Cd}$: $-0{,}40$; $\\ce{Pb^2+/Pb}$: $-0{,}13$; $\\ce{Sn^2+/Sn}$: $-0{,}14$; $\\ce{Cu^2+/Cu}"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Teniendo en cuenta los potenciales estándar de reducción, $E^{\\circ}$, dados al final del enunciado, responda razonadamente:\\n\\nDatos.- $E^{\\circ}$ (en V): $\\ce{Fe^2+/Fe}$: $-0{,}44$; $\\ce{Cd^2+/Cd}$: $-0{,}40$; $\\ce{Pb^2+/Pb}$: $-0{,}13$; $\\ce{Sn^2+/Sn}$: $-0{,}14$; $\\ce{Cu^2+/C"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Què succeeix quan s'introdueix una làmina d'estany en quatre dissolucions àcides cada una d'elles que contenen un dels ions següents en concentració $1\\,\\mathrm{M}$: $\\ce{Cu^2+}$, $\\ce{Fe^2+}$, $\\ce{Ag+}$ i $\\ce{Cd^2+}$? ($1$ punt)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n10",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué sucede cuando se introduce una lámina de estaño en cuatro disoluciones ácidas cada una de ellas conteniendo uno de los iones siguientes en concentración $1\\,\\mathrm{M}$: $\\ce{Cu^2+}$, $\\ce{Fe^2+}$, $\\ce{Ag+}$ y $\\ce{Cd^2+}$? ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Escriviu les semireaccions que ocorren en l'ànode i el càtode en la pila. ($0{,}5$ punts)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba las semirreacciones que ocurren en el ánodo y el cátodo en la pila. ($0{,}5$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "L'àcid làctic ($\\ce{C3H5O3H}$) és un àcid monopròtic, HA, que s'acumula en la sang i els músculs per realitzar activitat física. Una dissolució aquosa $0{,}0284\\,\\mathrm{M}$ d'aquest àcid està ionitzada en un $6{,}7\\,\\%$.\\n\\n$\\ce{C3H5O3H(ac) <=> C3H5O3^-(ac) + H+(ac)}$\\n\\nDades.-"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n14",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "El ácido láctico ($\\ce{C3H5O3H}$) es un ácido monoprótico, HA, que se acumula en la sangre y los músculos al realizar actividad física. Una disolución acuosa $0{,}0284\\,\\mathrm{M}$ de este ácido está ionizada en un $6{,}7\\,\\%$.\\n\\n$\\ce{C3H5O3H(ac) <=> C3H5O3^-(ac) + H+(ac)}$\\n\\nD"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Calculeu la quantitat (en grams) de $\\ce{HCl}$ dissolt en $0{,}5\\,\\mathrm{L}$ de dissolució perquè el seu pH siga el mateix que el de la dissolució d'àcid làctic de l'apartat anterior. ($1$ punt)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n16",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Calcule la cantidad (en gramos) de $\\ce{HCl}$ disuelto en $0{,}5\\,\\mathrm{L}$ de disolución para que su pH sea el mismo que el de la disolución de ácido láctico del apartado anterior. ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Considereu la reacció $\\ce{2A + B -> C}$ que resulta ser d'ordre un respecte de cada un dels reactius. Responeu raonadament les qüestions següents: ($0{,}5$ punts cada apartat)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n17",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Considere la reacción $\\ce{2A + B -> C}$ que resulta ser de orden uno respecto de cada uno de los reactivos. Responda razonadamente las cuestiones siguientes: ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si la constant de velocitat té un valor de $0{,}021\\,\\mathrm{M^{-1}\\cdot s^{-1}}$ i les concentracions inicials d'A i B són $0{,}1$ i $0{,}2\\,\\mathrm{M}$ respectivament, quina és la velocitat inicial de la reacció?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Si la constante de velocidad tiene un valor de $0{,}021\\,\\mathrm{M^{-1}\\cdot s^{-1}}$ y las concentraciones iniciales de A y B son $0{,}1$ y $0{,}2\\,\\mathrm{M}$ respectivamente, ¿cuál es la velocidad inicial de la reacción?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Si en un experiment diferent, la concentració d'A es duplica respecte a les condicions de l'apartat a), quina ha de ser la concentració de B perquè la velocitat inicial de la reacció siga la mateixa que en l'apartat a)?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n20",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "Si en un experimento distinto, la concentración de A se duplica respecto a las condiciones del apartado a), ¿cuál debe ser la concentración de B para que la velocidad inicial de la reacción sea la misma que en dicho apartado?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "va",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.0,
+    "texto": "Com variarà la velocitat de la reacció a mesura que avance el temps?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n21",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.0,
+    "texto": "¿Cómo variará la velocidad de la reacción a medida que avance el tiempo?"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n23",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Contesteu, raonadament, si les següents afirmacions són verdaderes o falses: ($0{,}5$ punts cada apartat)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n23",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Conteste, razonadamente, si las siguientes afirmaciones son verdaderas o falsas: ($0{,}5$ puntos cada apartado)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Els àtoms neutres $\\ce{^{12}_{6}C}$ i $\\ce{^{14}_{6}C}$ tenen el mateix nombre d'electrons."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n25",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Los átomos neutros $\\ce{^{12}_{6}C}$ y $\\ce{^{14}_{6}C}$ tienen el mismo número de electrones."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n26",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Un átomo cuya configuración electrónica es $1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^6$ pertenece al grupo de los halógenos (grupo $17$)."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Un conjunt possible de nombres quàntics per a un electró allotjat en un orbital $3d$ és $(3,2,3,-1/2)$."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n27",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Un conjunto posible de números cuánticos para un electrón alojado en un orbital $3d$ es $(3,2,3,-1/2)$."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Els organismes aerobis tenen aquesta denominació perquè necessiten oxigen pel seu desenvolupament. La reacció principal de la cadena transportadora d'electrons on es necessita l'oxigen és la següent (no ajustada):\\n\\n$\\ce{O2(g) + Fe^2+(ac) + H+(ac) -> H2O(l) + Fe^3+(ac)}$\\n\\nDade"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n28",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Los organismos aerobios tienen esta denominación porque necesitan oxígeno para su desarrollo. La reacción principal de la cadena transportadora de electrones donde se necesita el oxígeno es la siguiente (no ajustada):\\n\\n$\\ce{O2(g) + Fe^2+(ac) + H+(ac) -> H2O(l) + Fe^3+(ac)}$\\n\\n"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Escriviu les semireaccions d'oxidació i reducció i la reacció global ajustada. ($0{,}6$ punts)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n29",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Escriba las semirreacciones de oxidación y reducción y la reacción global ajustada. ($0{,}6$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Indiqueu l'espècie que actua com a oxidant i la que ho fa com a reductora. ($0{,}4$ punts)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n30",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Indique la especie que actúa como oxidante y la que lo hace como reductora. ($0{,}4$ puntos)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n31",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Quin volum d'aire (que conté un $21\\,\\%$ d'oxigen en volum) serà necessari per a transportar $0{,}2$ mols d'electrons si la pressió parcial de l'$\\ce{O2}$ és de $90\\,\\mathrm{mmHg}$ i a la temperatura corporal de $37\\,^{\\circ}\\mathrm{C}$? ($1$ punt)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n31",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "¿Qué volumen de aire (que contiene un $21\\,\\%$ de oxígeno en volumen) será necesario para transportar $0{,}2$ moles de electrones si la presión parcial del $\\ce{O2}$ es de $90\\,\\mathrm{mmHg}$ y a la temperatura corporal de $37\\,^{\\circ}\\mathrm{C}$? ($1$ punto)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n32",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Un dels mètodes més eficients dels utilitzats en l'actualitat per a obtindre dihidrogen, $\\ce{H2(g)}$, és el reformat amb vapor d'aigua, $\\ce{H2O(g)}$, del metà, $\\ce{CH4(g)}$, component principal del gas natural:\\n\\n$\\ce{CH4(g) + H2O(g) -> CO(g) + 3H2(g)}$\\n\\n$\\Delta H = +191{,}"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n32",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Uno de los métodos más eficientes de los utilizados en la actualidad para obtener dihidrógeno, $\\ce{H2(g)}$, es el reformado con vapor de agua, $\\ce{H2O(g)}$, del metano, $\\ce{CH4(g)}$, componente principal del gas natural:\\n\\n$\\ce{CH4(g) + H2O(g) -> CO(g) + 3H2(g)}$\\n\\n$\\Delta H"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n33",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La formació de $\\ce{CH4}$ i $\\ce{H2O}$ a partir de $\\ce{CO}$ i $\\ce{H2}$ absorbeix energia en forma de calor."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n33",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La formación de $\\ce{CH4}$ y $\\ce{H2O}$ a partir de $\\ce{CO}$ y $\\ce{H2}$ absorbe energía en forma de calor."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n34",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "L'energia que contenen els enllaços covalents dels reactius ($\\ce{CH4}$ i $\\ce{H2O}$) és major que la corresponent als enllaços covalents dels productes ($\\ce{CO}$ i $\\ce{H2}$)."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n34",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La energía que contienen los enlaces covalentes de los reactivos ($\\ce{CH4}$ y $\\ce{H2O}$) es mayor que la correspondiente a los enlaces covalentes de los productos ($\\ce{CO}$ y $\\ce{H2}$)."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "La formació de $\\ce{CO}$ i $\\ce{H2}$ a partir de $\\ce{CH4}$ i $\\ce{H2O}$ implica un augment d'entropia del sistema."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n35",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "La formación de $\\ce{CO}$ y $\\ce{H2}$ a partir de $\\ce{CH4}$ y $\\ce{H2O}$ implica un aumento de entropía del sistema."
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n37",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipient de $25$ litres de volum, en el qual s'ha fet prèviament el buit, es depositen $10$ mols de $\\ce{CO}$ i $5$ mols de $\\ce{H2O}$ a la temperatura de $900\\,^{\\circ}\\mathrm{C}$, establint-se l'equilibri següent:\\n\\n$\\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)}$\\n\\n$K_{\\mathr"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n37",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "En un recipiente de $25$ litros de volumen, en el que se ha hecho previamente el vacío, se depositan $10$ moles de $\\ce{CO}$ y $5$ moles de $\\ce{H2O}$ a la temperatura de $900\\,^{\\circ}\\mathrm{C}$, estableciéndose el siguiente equilibrio:\\n\\n$\\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n40",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Completeu les següents reaccions i anomeneu els compostos orgànics que hi intervenen. ($0{,}4$ punts cada una)"
+  },
+  {
+    "version": "p5",
+    "documento": "6a2a804ce68f",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n40",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Complete las siguientes reacciones y nombre los compuestos orgánicos que intervienen en ellas. ($0{,}4$ puntos cada una)"
+  },
+  {
+    "version": "p5",
+    "documento": "81564bef5faa",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n5",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.143,
+    "texto": "Calificación máxima: $2.5$ puntos.\n\nSea la función\n$$\nf(x)=\\begin{cases}\\dfrac{2}{x+1}&\\text{si }x\\leq 1,\\\\[4pt]\\dfrac{\\ln x}{x-1}&\\text{si }x>1.\\end{cases}\n$$"
+  },
+  {
+    "version": "p5",
+    "documento": "838c30ae94d8",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "838c30ae94d8",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "838c30ae94d8",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "838c30ae94d8",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n12",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n12",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n16",
+    "padre": "n15",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n15",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n20",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "90a0459332b9",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n19",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "93dc23ff9203",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "93dc23ff9203",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "93dc23ff9203",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "93dc23ff9203",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n7",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "9c6c1758e986",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.143,
+    "texto": "Calificación máxima: $2{,}5$ puntos.\n\nSea la función\n$$\nf(x)=\\begin{cases}\n1-\\dfrac{\\operatorname{sen}x}{x},&x<0,\\\\\nx e^{4-x^2},&x\\geq 0.\n\\end{cases}\n$$"
+  },
+  {
+    "version": "p5",
+    "documento": "a1bdfb201724",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.167,
+    "texto": "Analice los aspectos más relevantes de la cohesión léxica del texto."
+  },
+  {
+    "version": "p5",
+    "documento": "a1bdfb201724",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n13",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Comente los principales rasgos de modalización lingüística en el texto."
+  },
+  {
+    "version": "p5",
+    "documento": "a25ae1a53c4f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n28",
+    "padre": "n27",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "a25ae1a53c4f",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n29",
+    "padre": "n27",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "a25ae1a53c4f",
+    "tipo": "orden_duplicado",
+    "padre": null,
+    "ordenes": [
+      1,
+      2,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n8",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n8",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n8",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n12",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n12",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n12",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n16",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n16",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "b996e7795739",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n19",
+    "padre": "n16",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "cab36a516c34",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n6",
+    "idioma": "es",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.167,
+    "texto": "Desarrolla brevemente la historia constitucional española del siglo $XIX$."
+  },
+  {
+    "version": "p5",
+    "documento": "cab36a516c34",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n11",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.158,
+    "texto": "Describe la evolución política de España durante el primer franquismo, incidiendo en el significado de la dictadura y el papel de la represión. Utiliza para ello los textos a comentar, en especial lo que representa el Monasterio del Escorial."
+  },
+  {
+    "version": "p5",
+    "documento": "cab36a516c34",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "va",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.143,
+    "texto": "Mencioneu el paper de la memòria i la història en el context de la Transició a la democràcia."
+  },
+  {
+    "version": "p5",
+    "documento": "cab36a516c34",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n12",
+    "idioma": "es",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.143,
+    "texto": "Menciona el papel de la memoria y la historia en el contexto de la Transición a la democracia."
+  },
+  {
+    "version": "p5",
+    "documento": "cb9d8c2c12d7",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "va",
+    "pagina": [
+      2
+    ],
+    "similitud": 0.167,
+    "texto": "Explique el contingut d’aquest fragment, en el context argumental de l’obra."
+  },
+  {
+    "version": "p5",
+    "documento": "cb9d8c2c12d7",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.0,
+    "texto": "Comente el argumento del fragmento propuesto, en el contexto global del relato."
+  },
+  {
+    "version": "p5",
+    "documento": "cb9d8c2c12d7",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n7",
+    "idioma": "va",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.0,
+    "texto": "Comente l’argument del fragment proposat, en el context global del relat."
+  },
+  {
+    "version": "p5",
+    "documento": "cb9d8c2c12d7",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.111,
+    "texto": "La *metamorfosis* ha sido entendida como una fábula abierta, con sentidos muy diversos. Refiérase a alguno de ellos."
+  },
+  {
+    "version": "p5",
+    "documento": "cb9d8c2c12d7",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n9",
+    "idioma": "va",
+    "pagina": [
+      3
+    ],
+    "similitud": 0.1,
+    "texto": "La *metamorfosi* ha estat entesa com una faula oberta, amb sentits molt diversos. Faça referència a alguns d’aquests sentits."
+  },
+  {
+    "version": "p5",
+    "documento": "cc4ce021beb2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n13",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "cc4ce021beb2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n13",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "cc4ce021beb2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n16",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "cc4ce021beb2",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n18",
+    "padre": "n16",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n3",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n4",
+    "padre": "n2",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "d54d5d841933",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n10",
+    "tipo_padre": "bloque"
+  },
+  {
+    "version": "p5",
+    "documento": "d54d5d841933",
+    "tipo": "pregunta_vacia",
+    "nodo": "n16"
+  },
+  {
+    "version": "p5",
+    "documento": "e28ef720b913",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n2",
+    "idioma": "es",
+    "pagina": [
+      0
+    ],
+    "similitud": 0.143,
+    "texto": "Calificación máxima: $2{,}5$ puntos.\n\nSea la función\n\n$$f(x)=\\begin{cases}\\dfrac{2x+1}{x} & x<0 \\\\ x^2-4x+3 & x\\geq 0\\end{cases}.$$"
+  },
+  {
+    "version": "p5",
+    "documento": "e28ef720b913",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n18",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.167,
+    "texto": "Calificación máxima: $2{,}5$ puntos.\n\nSea la función\n\n$$f(x)=\\begin{cases}x & x\\leq 0 \\\\ x\\ln(x) & x>0\\end{cases}.$$"
+  },
+  {
+    "version": "p5",
+    "documento": "e28ef720b913",
+    "tipo": "baja_similitud_lexica",
+    "nodo": "n22",
+    "idioma": "es",
+    "pagina": [
+      1
+    ],
+    "similitud": 0.222,
+    "texto": "Calificación máxima: $2{,}5$ puntos.\n\nSean las rectas\n\n$$r\\equiv\\begin{cases}x+y+2=0\\\\y-2z+1=0\\end{cases},\\qquad s\\equiv\\begin{cases}x=2-2t\\\\y=5+2t\\\\z=t\\end{cases},\\quad t\\in\\mathbb{R}.$$"
+  },
+  {
+    "version": "p5",
+    "documento": "e96e07529cae",
+    "tipo": "estimulo_textual_vacio",
+    "estimulo": "E1"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n6",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n7",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n8",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n9",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n10",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n11",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n12",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n13",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n14",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n15",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n16",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n17",
+    "padre": "n1",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n21",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n22",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n23",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n24",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n25",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n26",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n27",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n28",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n29",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n30",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n31",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "apartado_fuera_pregunta",
+    "nodo": "n32",
+    "padre": "n2",
+    "tipo_padre": "opcion"
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "orden_duplicado",
+    "padre": "n1",
+    "ordenes": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "version": "p5",
+    "documento": "fda5ea13b6c5",
+    "tipo": "orden_duplicado",
+    "padre": "n2",
+    "ordenes": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

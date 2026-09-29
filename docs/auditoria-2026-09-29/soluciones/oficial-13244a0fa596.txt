@@ -1,0 +1,1022 @@
+DOCUMENTO {"id": "13244a0fa596", "region": "Madrid", "asignatura": "Historia de España", "anio": 2021, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1ejJ6V3OYqPFaVDqyjh6t2HXipkorzu4n/view?usp=sharing", "archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-coincidencias-uc3m-13244a0fa596.pdf", "paginas": 8, "estrato": "piloto · Madrid · Historia de España"}
+FUENTE {"archivo": "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-coincidencias-uc3m-13244a0fa596.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "A.1 ($4$ puntos) CUESTIONES; B.1 ($4$ puntos) CUESTIONES"
+   }
+  ],
+  "puntos": 4.0,
+  "eleccion": {
+   "minimo": null,
+   "maximo": 4,
+   "de": 12,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda a cuatro cuestiones, como máximo, a elegir entre las doce que componen las preguntas A.1 y B.1."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Conquista y romanización de la Península Ibérica. Principales aportaciones romanas en los ámbitos social, económico y cultural."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al Ándalus: reinos de taifas. Reino nazarí."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los reinos cristianos en la Edad Media: organización política, régimen señorial y sociedad estamental."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los Reyes Católicos: unión dinástica e instituciones de gobierno."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La guerra de los Treinta Años y la pérdida de la hegemonía española en Europa."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La nueva Monarquía Borbónica. Los Decretos de Nueva Planta. Modelo de Estado y alcance de las reformas."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 7,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los pueblos prerromanos. Las colonizaciones históricas: fenicios y griegos. Tartesos."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 8,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al Ándalus: la conquista musulmana de la Península Ibérica. Emirato y califato de Córdoba."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 9,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los primeros núcleos de resistencia cristiana. Principales etapas de la Reconquista. Modelos de repoblación."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 10,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas internos. Guerras y sublevación en Europa."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5."
+   }
+  ],
+  "sintetico": false,
+  "orden": 11,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Crisis y decadencia de la Monarquía Hispánica: el reinado de Carlos II y el problema sucesorio."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6."
+   }
+  ],
+  "sintetico": false,
+  "orden": 12,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija una de las fuentes, preguntas A.2 o B.2, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n15",
+  "padre": "n14",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique el contexto histórico de los inicios del desarrollismo en el Franquismo. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n14",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique el contexto histórico de la década moderada durante el reinado de Isabel II. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija entre el tema y el comentario de texto, A.3 o B.3, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": []
+ },
+ {
+  "id": "n22",
+  "padre": "n21",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "TEMA: Las Cortes de Cádiz. La Constitución de 1812."
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n21",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "TEXTO:"
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n23",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resuma con brevedad el contenido del texto. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n23",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Señale las ideas fundamentales del texto. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n23",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Responda a la siguiente cuestión (Puntuación máxima: $3$ puntos): La proclamación de la Segunda República. La Constitución de 1931."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 3 ===
+HISTORIA DE ESPAÑA 
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN 
+CUESTIONES: correspondientes a los 4 primeros bloques del temario, de la Antigüedad hasta el siglo 
+XVIII inclusive, con una puntuación máxima de 4 puntos. 
+Cada cuestión se calificará con un máximo de 1 punto. 
+Se valorará: 
+• La capacidad para sintetizar el proceso histórico en un desarrollo aconsejable de un máximo de 10
+líneas.
+• Responder adecuadamente a alguno de los aspectos históricos que, relacionados con el desarrollo del
+programa y estándares de aprendizaje, atiendan al tema, no siendo preciso para evaluar positivamente el
+ejercicio que el alumno haga referencia a todos ellos.
+• La utilización de un lenguaje apropiado al estudio de la historia.
+• Las referencias espacio-temporales a las que hace referencia la cuestión.
+FUENTE HISTÓRICA: correspondiente a los contenidos de los siglos XIX y XX del programa, 
+puntuación máxima 1,5 puntos, desglosada en dos cuestiones, de 0,5 puntos máximo la 1ª, y 1 punto 
+máximo la 2ª. 
+Se valorará: 
+•
+La explicación de contenido del instrumento de análisis preguntado.
+•
+La conexión temática y cronológica con el proceso histórico correspondiente.
+•
+Se sugiere una extensión máxima de unas 15 líneas, repartidas entre las dos cuestiones: unas 5 líneas
+máximas la primera y 10 líneas máximas la segunda.
+TEMA: correspondiente a los contenidos de los siglos XIX y XX del programa, puntuación máxima 4,5 
+puntos. 
+Se valorará: 
+•
+Responder a alguna de las cuestiones que, relacionadas con el desarrollo del programa y estándares de
+aprendizaje, atiendan al tema. Para evaluar positivamente este apartado, no será preciso que el alumno
+haga referencia a todas ellas.
+•
+La capacidad de síntesis, claridad y organización expositiva.
+•
+Las referencias cronológicas y espaciales.
+•
+La formulación ordenada de los razonamientos expuestos.
+•
+Se sugiere una extensión máxima de en torno a las 50 líneas.
+COMENTARIO DE TEXTO: correspondiente a los contenidos de los siglos XIX y XX del 
+programa, puntuación máxima 4,5 puntos. 
+La 1ª cuestión se calificará con un máximo de 0.5 puntos, la 2ª con un máximo de 1 punto y la 3ª con un 
+máximo de 3 puntos. 
+Se valorará: 
+•
+Responder a alguna de las cuestiones que, relacionadas con el desarrollo del programa y estándares de
+aprendizaje, atiendan al tema. Para evaluar positivamente este apartado, no será preciso que el alumno
+haga referencia a todas ellas.
+•
+La capacidad de síntesis, claridad y organización expositiva.
+•
+Las referencias cronológicas y espaciales.
+•
+La formulación ordenada de los razonamientos expuestos.
+•
+En la 1ª y 2ª pregunta: la capacidad de comprensión del texto, de señalar sus ideas fundamentales.
+•
+En la 3ª pregunta: la capacidad de síntesis, claridad, organización y precisión de las ideas en su
+correspondiente contexto cronológico-espacial, así como la capacidad de reflexión y razonamiento.
+•
+Siempre a título orientativo, se sugiere distribuirlas de la siguiente manera: 20 líneas para contestar a
+las dos primeras preguntas y unas 30 para responder a la cuestión específica sobre el contexto
+histórico del texto.
+
+=== PAGINA 4 ===
+HISTORIA DE ESPAÑA 2º Bachillerato. Orientaciones EVAU 
+ 
+Para la elaboración de las pruebas se seguirán las características, el diseño y el contenido establecido 
+en el currículo básico de las enseñanzas del segundo curso de bachillerato LOMCE que está     
+publicado en el RD 1105/2014, de 26 de diciembre, y Orden PCM/2/2021, de 11 de enero, por la que se 
+determinan las características, el diseño y el contenido de la evaluación de Bachillerato para el acceso a 
+la Universidad, y las fechas máximas de realización y de resolución de los procedimientos de revisión 
+de las calificaciones obtenidas en el curso 2020-2021. 
+ 
+1. MODELO DE EJERCICIO PARA LA EVAU. Los alumnos tienen la opción de responder a 
+preguntas de las opciones A y B. De la siguiente forma: 
+• 
+Cuestiones. El alumno debe responder a cuatro cuestiones, como máximo, a elegir entre las doce que 
+componen las preguntas A.1 y B.1. Su formulación cubrirá los contenidos del Bloque 1 al bloque 4 del 
+programa. Cada cuestión se valora con una puntuación máxima de 1 punto. Únicamente, y a título de 
+sugerencia orientativa, se recomienda una extensión de unas 10 líneas por cuestión. Con el fin de acotar y 
+aclarar las preguntas se facilita un programa de formulación de las cuestiones tal y como serán 
+explicitadas en la EVAU, acorde con los estándares de aprendizaje evaluables que aparecen en la citada 
+Orden. 
+• 
+Fuente Histórica. El alumno debe elegir una de las fuentes, preguntas A.2 o B.2, y responder a las 
+preguntas. Relacionada con la interpretación histórica de un mapa, estadística, gráfico, o imagen que, 
+siendo diferente en cada opción y de centuria distinta al tema o texto que le acompañe, comprenderá los 
+contenidos del bloque 5 al bloque 12. Su calificación podrá alcanzar 1’5 puntos. A título igualmente de 
+orientación, se sugiere una extensión de unas 15 líneas. 
+• 
+Tema o Comentario de Texto. El alumno debe elegir entre el tema y el comentario de texto, A.3 o B.3, y 
+responder a las preguntas. Una opción requerirá contestar a un tema, mientras que la otra reproducirá un 
+texto que el alumno deberá responder guiado por las preguntas que se le formulen. Sus contenidos, que 
+corresponderán a siglos diferentes, versarán sobre el tema del bloque 5 al bloque 12 La calificación de 
+este apartado podrá llegar a los 4’5 puntos. Como sugerencia se recomienda ocupar una extensión de 
+unas 50 líneas. 
+ 
+o Tema.- Su enunciado se ajustará a los contenidos temáticos y cronológicos del 
+programa, aunque para facilitar su acotamiento y comprensión se adjunta un específico 
+programa de formulación de los temas tal y como serán expresados en la EVAU. 
+ 
+o Comentario de Texto.- Incluye 3 apartados que el alumno debe responder: 
+1. Resumir con brevedad y concisión el contenido del texto. La puntuación máxima 
+que se podrá alcanzar es de 0’5 puntos. Extensión recomendada de unas 5 líneas. 
+2. Señalar y explicar las ideas fundamentales del texto. Extensión recomendada de 
+unas 15 líneas. La puntuación máxima que se podrá alcanzar es de 1 punto. 
+3. Responder a 1 pregunta específica sobre el contexto histórico del texto, de su 
+temática y de la relación con sus antecedentes o consecuencias más directas. 
+Valoración de hasta 3 puntos. Extensión aconsejable de unas 30 líneas. 
+
+=== PAGINA 5 ===
+PROGRAMA DE FORMULACIÓN DE LOS TEMAS EN LA EVAU. 
+MATERIA: HISTORIA DE ESPAÑA 
+ 
+ 
+BLOQUE 1. La Península Ibérica desde los primeros humanos hasta la desaparición de 
+la monarquía visigoda (711) 
+ 
+1.1. Sociedad y economía en el Paleolítico y Neolítico. La pintura rupestre. 
+1.2. Los pueblos prerromanos. Las colonizaciones históricas: fenicios y griegos. 
+Tartesos. 
+1.3. Conquista y romanización de la Península Ibérica. Principales aportaciones 
+romanas en los ámbitos social, económico y cultural. 
+1.4. El reino visigodo: origen y organización política. Los concilios. 
+ 
+BLOQUE 2. La Edad Media: Tres culturas y un mapa político en constante cambio 
+(711-1474) 
+ 
+2.1. Al Ándalus: la conquista musulmana de la Península Ibérica. Emirato y 
+califato de Córdoba. 
+2.2. Al Ándalus: reinos de taifas. Reino nazarí. 
+2.3. Al Ándalus: economía, sociedad y cultura. 
+2.4. Los primeros núcleos de resistencia cristiana. Principales etapas de la 
+Reconquista. Modelos de repoblación. 
+2.5. Los reinos cristianos en la Edad Media: organización política, régimen 
+señorial y sociedad estamental. 
+2.6. Organización política de la Corona de Castilla, de la Corona de Aragón y del 
+Reino de Navarra al final de la Edad Media. 
+ 
+BLOQUE 3. La formación de la Monarquía Hispánica y su expansión mundial (1474- 
+1700) 
+ 
+3.1. Los Reyes Católicos: unión dinástica e instituciones de gobierno. 
+3.2. El significado de1492. La guerra de Granada y el descubrimiento de 
+América. 
+3.3. El Imperio de los Austrias: España bajo Carlos I. Política interior y 
+conflictos europeos. 
+3.4. La Monarquía Hispánica de Felipe II. Gobierno y administración. Los 
+problemas internos. Guerras y sublevación en Europa. 
+3.5. Exploración y colonización de América. Consecuencias de los 
+descubrimientos en España, Europa y América. 
+3.6. Los Austrias del siglo XVII: el gobierno de validos. La crisis de 1640. 
+3.7. La guerra de los Treinta Años y la pérdida de la hegemonía española en 
+Europa. 
+3.8. Principales factores de la crisis demográfica y económica del siglo XVII y 
+sus consecuencias. 
+3.9. Crisis y decadencia de la Monarquía Hispánica: el reinado de Carlos II y el 
+problema sucesorio. 
+
+=== PAGINA 6 ===
+BLOQUE 4. España en la órbita francesa: el reformismo de los primeros Borbones 
+(1700-1788) 
+ 
+4.1. La Guerra de Sucesión Española y el sistema de Utrecht. Los Pactos de 
+Familia. 
+4.2. La nueva Monarquía Borbónica. Los Decretos de Nueva Planta. Modelo de 
+Estado y alcance de las reformas. 
+4.3. La España del siglo XVIII. Expansión y transformaciones económicas: 
+agricultura, industria y comercio con América. Causas del despegue económico 
+de Cataluña. 
+4.4. Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III. 
+ 
+ 
+BLOQUE 5. La crisis del Antiguo Régimen (1788-1833): Liberalismo frente a 
+Absolutismo. 
+ 
+ 
+5.1. La Guerra de la Independencia: antecedentes y causas. Bandos en conflicto 
+y fases de la guerra. 
+5.2. Las Cortes de Cádiz. La Constitución de 1812. 
+5.3. El reinado de Fernando VII: liberalismo frente a absolutismo. El proceso de 
+independencia de las colonias americanas. 
+ 
+BLOQUE 6. La conflictiva construcción del Estado Liberal (1833-1868) 
+ 
+ 
+6.1. El reinado de Isabel II (1833-1868): la primera guerra carlista. Evolución 
+política, partidos y conflictos. El Estatuto Real de 1834 y las Constituciones de 
+1837 y 1845. 
+6.2. El reinado de Isabel II (1833-1868): las desamortizaciones de Mendizábal y 
+Madoz. De la sociedad estamental a sociedad de clases. 
+6.3. El Sexenio Democrático (1868-1874): la constitución de 1869. Evolución 
+política: gobierno provisional, reinado de Amadeo de Saboya y Primera 
+República. 
+ 
+BLOQUE 7. La Restauración Borbónica: implantación y afianzamiento de un nuevo 
+Sistema Político (1874-1902) 
+ 
+7.1. La Restauración Borbónica (1874-1902): Cánovas del Castillo y el turno de 
+partidos. La Constitución de 1876. 
+7.2. La Restauración Borbónica (1874-1902): Los nacionalismos catalán y vasco 
+y el regionalismo gallego. El movimiento obrero y campesino. 
+7.3. El problema de Cuba y la guerra entre España y Estados Unidos. La crisis 
+de 1898 y sus consecuencias económicas, políticas e ideológicas. 
+ 
+BLOQUE 8. Pervivencias y transformaciones económicas en el siglo XIX: un 
+desarrollo insuficiente 
+ 
+8.1. Evolución demográfica y movimientos migratorios en el siglo XIX. El 
+desarrollo urbano. 
+
+=== PAGINA 7 ===
+8.2. La revolución industrial en la España del siglo XIX. El sistema de 
+comunicaciones: el ferrocarril. Proteccionismo y librecambismo. La aparición de 
+la banca moderna. 
+ 
+BLOQUE 9: La crisis del Sistema de la Restauración y la caída de la Monarquía (1902- 
+1931) 
+ 
+9.1. Alfonso XIII y la crisis del sistema político de la Restauración: los partidos 
+dinásticos. Las fuerzas políticas de oposición: republicanos, nacionalistas, 
+socialistas y anarcosindicalistas. 
+9.2. La intervención en Marruecos. Repercusiones de la Primera Guerra Mundial 
+en España. La crisis de 1917 y el trienio bolchevique. 
+9.3. La dictadura de Primo de Rivera. El final del reinado de Alfonso XIII. 
+ 
+ 
+BLOQUE 10. La Segunda República. La Guerra Civil en un contexto de Crisis 
+Internacional (1931-1939) 
+ 
+10.1. 
+La proclamación de la Segunda República. La Constitución de 1931. El 
+bienio reformista (1931-1933). 
+10.2. 
+El gobierno radical cedista (1933-1935). La Revolución de Asturias. El 
+Frente Popular, las elecciones de 1936 y el nuevo gobierno. 
+10.3. 
+La Guerra Civil: la sublevación militar y el estallido de la guerra. La 
+dimensión internacional del conflicto. 
+10.4. Fases militares de la Guerra Civil. La evolución política y económica en las 
+dos zonas. Consecuencias económicas y sociales de la guerra. Los costes 
+humanos. 
+ 
+BLOQUE 11. La Dictadura Franquista (1939-1975) 
+ 
+11.1. La creación del Estado franquista. Grupos ideológicos y apoyos sociales. 
+Etapas de la dictadura y principales características de cada una de ellas. El 
+contexto internacional: del aislamiento al reconocimiento exterior. 
+11.2. Política económica del franquismo: de la autarquía al desarrollismo. 
+Transformaciones sociales: causas y evolución. 
+11.3. La oposición a la dictadura: principales grupos y evolución en el tiempo. La 
+crisis del franquismo desde 1973 a la muerte de Franco. 
+ 
+ 
+BLOQUE 12. Normalización Democrática de España e Integración en Europa (desde 
+1975). 
+ 
+12.1. La Transición: alternativas políticas tras la muerte de Franco. El papel del 
+rey y el gobierno de Adolfo Suárez. El restablecimiento de la democracia: las 
+elecciones de junio de 1977. La Constitución de 1978. El Estado de las 
+Autonomías. El terrorismo durante la Transición. 
+ 
+12.2. Las etapas políticas de la democracia. Los gobiernos de la UCD. El golpe de 
+Estado de 23 de febrero de 1981. La alternancia política: gobiernos socialistas y 
+gobiernos del Partido Popular 
+
+=== PAGINA 8 ===
+12.3. La integración de España en Europa. Consecuencias económicas y 
+sociales. La modernización de las infraestructuras. El Programa de 
+Convergencia y la creación del euro. 
+ 
+ 
+ 

@@ -1,0 +1,24 @@
+[
+  {
+    "disponibles": [
+      {
+        "src": "figuras/3068d1110070_E2_de_1.png",
+        "idioma": "de"
+      },
+      {
+        "src": "figuras/3068d1110070_E2_de_2.png",
+        "idioma": "de"
+      },
+      {
+        "src": "figuras/3068d1110070_E2_de_3.png",
+        "idioma": "de"
+      }
+    ],
+    "mostradas_en_es": [
+      {
+        "src": "figuras/3068d1110070_E2_de_1.png",
+        "idioma": "de"
+      }
+    ]
+  }
+]

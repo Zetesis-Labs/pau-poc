@@ -1,0 +1,31 @@
+{
+  "registros": 431,
+  "por_run_fase": {
+    "gpt-6-luna__p4/.": 58,
+    "gpt-6-luna__p5/.": 266,
+    "gpt-6-luna__p5/rubricas/gpt-6-luna__r1": 6,
+    "gpt-6-luna__p5/rubricas/gpt-6-luna__r2": 76,
+    "gpt-6-luna__p5/soluciones/gpt-6-luna__s1/academia": 6,
+    "gpt-6-luna__p5/soluciones/gpt-6-luna__s1/oficial": 19
+  },
+  "pdfs_fuente_unicos_por_ruta": 326,
+  "paginas_fuente": 1691,
+  "paginas_sin_capa_texto_suficiente_menos_40_caracteres": 56,
+  "errores_integridad": 0,
+  "figuras_registradas": 459,
+  "publicado": {
+    "documentos_catalogo": 4633,
+    "examenes": 266,
+    "preguntas": 2697,
+    "referencias_rotas": 0,
+    "figuras_png": 292
+  },
+  "perdidas_o_limitaciones_publicacion": {
+    "instrucciones-generales-no-publicadas": 225,
+    "regla-propia-pregunta-omitida": 80,
+    "entrada-en-nodo-no-publicado": 86
+  },
+  "formulas_comprobadas": 29129,
+  "errores_katex": 2,
+  "limitacion": "Inventario mecánico completo; no certifica semántica, completitud o matemática. Contrastes visuales y semánticos por agentes en carpetas hermanas; sin revisión docente humana."
+}

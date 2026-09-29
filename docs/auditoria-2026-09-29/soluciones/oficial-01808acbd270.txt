@@ -1,0 +1,859 @@
+DOCUMENTO {"id": "01808acbd270", "region": "Madrid", "asignatura": "Historia de España", "anio": 2024, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/13shTR7-tAZvEQBEKP2D_o60s_RlrpAeN/view?usp=drive_link", "archivo": "pdfs/madrid/historia-de-espana/2024-extraordinaria-examen-coincidencias-uc3m-01808acbd270.pdf", "paginas": 7, "estrato": "piloto · Madrid · Historia de España"}
+FUENTE {"archivo": "pdfs/madrid/historia-de-espana/2024-extraordinaria-examen-coincidencias-uc3m-01808acbd270.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "A.1 (3 puntos) CUESTIONES:\nB.1 (3 puntos) CUESTIONES:"
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": {
+   "minimo": null,
+   "maximo": 3,
+   "de": 8,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda a tres cuestiones, como máximo, a elegir entre las ocho que componen las preguntas A.1 y B.1."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija una de las fuentes, preguntas A.2 o B.2, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [],
+  "sintetico": true,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Elija entre el tema y el análisis de texto, A.3 o B.3, y responda a las preguntas."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La monarquía visigoda."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Baja Edad Media en las Coronas de Castilla y de Aragón y en el Reino de Navarra."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los Austrias del siglo XVII. Política interior y exterior."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sociedad, economía y cultura del siglo XVIII."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El Paleolítico y el Neolítico."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al-Ándalus: economía, sociedad y cultura. El legado judío en la Península ibérica."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 7,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Exploración, conquista y colonización de América (desde $1492$ y durante el siglo XVI)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 8,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Guerra de Sucesión. La Paz de Utrecht. Los pactos de familia."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo al siguiente documento. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Relacione esta imagen con las transformaciones económicas durante la dictadura franquista ($1939\\text{-}1975$). (Puntuación máxima: $2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n13",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n13",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Relacione la imagen con el régimen de la Restauración ($1874\\text{-}1902$): la oposición al sistema. (Puntuación máxima: $2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n3",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "TEMA: El reinado de Carlos IV. La Guerra de la Independencia."
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n3",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "TEXTO:\nANÁLISIS DEL TEXTO Y CUESTIONES:"
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n19",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resuma con brevedad el contenido del texto. (Puntuación máxima: $0{,}5$ puntos)."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n19",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Señale y explique las ideas fundamentales del texto. (Puntuación máxima: $1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n19",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Responda a la siguiente cuestión: La Transición ($1975\\text{-}1982$): retos, logros, dificultades y resistencias al establecimiento de la democracia. (Puntuación máxima: $3$ puntos)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 3 ===
+HISTORIA DE ESPAÑA 
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN 
+Cuestiones 
+Tres cuestiones correspondientes al bloque A de los contenidos del Temario: de la Prehistoria al reinado 
+de los primeros Borbones (hasta 1788), inclusive, con una puntuación máxima de 3 puntos.  
+Cada cuestión se calificará con un máximo de 1 punto.  
+Se valorará: 
+-
+La capacidad para sintetizar el período o proceso histórico.
+-
+Responder adecuadamente a algunos de los aspectos históricos que, relacionados con el
+desarrollo del programa, atiendan a la pregunta, no siendo preciso para evaluar positivamente el
+ejercicio que el alumno haga referencia a todos ellos.
+-
+La utilización de un lenguaje apropiado al estudio de la Historia.
+-
+Las referencias espacio-temporales relacionadas con cada una de las cuestiones.
+Únicamente, y a título de sugerencia orientativa, se recomienda una extensión de unas 10 líneas por 
+cuestión.  
+Fuente 
+Corresponderá a los contenidos de los bloques B, C y D (siglos XIX o XX-XXI del programa), con 
+puntuación máxima de 2,5 puntos, desglosada en dos preguntas: 0,5 puntos de calificación máxima la 
+primera pregunta y 2 puntos de calificación máxima la segunda pregunta.  
+Se valorará: 
+-
+La explicación de los contenidos referidos a las preguntas.
+-
+La conexión temática y cronológica con el fenómeno o proceso histórico correspondiente.
+Se sugiere una extensión máxima de unas 25 líneas, repartidas entre las dos preguntas: unas 5 líneas la 
+primera y unas 20 líneas la segunda.  
+Tema o análisis de texto 
+Preguntas correspondientes a los contenidos de los bloques B, C y D del Temario (siglos XIX o XX- XXI). 
+La calificación de esta pregunta podrá llegar a los 4’5 puntos.  
+Como sugerencia se recomienda ocupar una extensión de unas 50 líneas. 
+Los enunciados se ajustarán a la formulación de los temas en el programa.  
+Tema: se preguntará un epígrafe correspondiente a uno de los temas. 
+Se valorará:  
+-
+Responder a algunas de las cuestiones que, relacionadas con el desarrollo del programa, atiendan
+al tema. Para evaluar positivamente este apartado, no será preciso que el alumno haga referencia
+a todas ellas.
+-
+La capacidad de síntesis, claridad y organización expositiva.
+-
+Las referencias cronológicas y espaciales.
+-
+La formulación ordenada de los razonamientos expuestos.
+
+=== PAGINA 4 ===
+Análisis de texto.  
+Incluye tres apartados a los que el alumno debe responder: 
+1. Resumir con brevedad y concisión el contenido del texto. La puntuación máxima que se podrá
+alcanzar es de 0’5 puntos. Extensión recomendada de unas 5 líneas.
+2. Señalar y explicar las ideas fundamentales del texto. La puntuación máxima que se podrá alcanzar
+es de 1 punto. Extensión recomendada de unas 15 líneas.
+3. Responder a una pregunta específica sobre el contexto, período o proceso histórico y
+consecuencias más directas. Valoración de hasta 3 puntos. Extensión aconsejable de unas 30
+líneas del texto.
+Se valorará: 
+-
+Responder a alguna de las cuestiones que, relacionadas con el desarrollo del programa, atiendan
+al tema. Para evaluar positivamente este apartado, no será preciso que el alumno haga referencia
+a todas ellas.
+-
+La capacidad de síntesis, claridad y organización expositiva.
+-
+Las referencias cronológicas y espaciales.
+-
+La formulación ordenada de los razonamientos expuestos.
+-
+En la 1ª y 2ª pregunta: la capacidad de comprensión del texto y de explicar sus ideas
+fundamentales.
+-
+En la 3ª pregunta: la capacidad de síntesis, claridad, organización y precisión de las ideas en su
+correspondiente contexto cronológico-espacial, así como la capacidad de reflexión y
+razonamiento.
+HISTORIA DE ESPAÑA 2º Bachillerato. Orientaciones EVAU 
+Para la elaboración de las pruebas se seguirán las características, el diseño y el contenido establecidos 
+en la normativa vigente y las instrucciones de la Comisión organizadora. Los contenidos están basados 
+en el Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la 
+Comunidad de Madrid la ordenación y el currículo del Bachillerato (BOCM, 26 de julio de 2022). Con el 
+fin de acotar y aclarar las preguntas se facilita un programa de formulación de las cuestiones tal y como 
+serán explicitadas en los exámenes de la EvAU. 
+MODELO DE EJERCICIO PARA LA EVAU 
+Los alumnos y las alumnas tienen la opción de responder a preguntas de las opciones A y B, de la 
+siguiente forma: 
+Cuestiones. Los alumnos y alumnas deberán responder a tres cuestiones, como máximo, a elegir entre 
+las ocho que componen las preguntas A.1 y B.1. Su formulación cubrirá los contenidos del bloque A del 
+programa: en cada pregunta A.1 y B.1, una cuestión corresponderá al tema 1, una cuestión al tema 2, y 
+dos cuestiones al tema 3 (del epígrafe 3.1. al 3.5 y del epígrafe 3.6 al 3.9). 
+Las Cuestiones representan el 30% de la nota. 
+Fuente Histórica. Las alumnas y alumnos deberán elegir una de las fuentes, preguntas A.2 o B.2, y 
+responder a las preguntas. El ejercicio consiste en interpretar, extrayendo y aportando información, una 
+fotografía, pintura u otro tipo de imagen, mapa, cuadro estadístico o gráfico. La fuente histórica se referirá 
+a un contenido de los epígrafes de los temas de los bloques B, C y D, será de tipología diferente en cada 
+opción y de siglo distinto al tema o texto que le acompañe en la pregunta del tema o análisis de texto. 
+La Fuente Histórica representa el 25% de la nota. 
+Tema o Análisis de Texto. El alumnado deberá elegir entre el tema y el análisis de texto, A.3 o B.3, y 
+responder a las preguntas. Una opción requerirá contestar a un tema, mientras que la otra reproducirá un 
+texto que el alumno deberá analizar guiado por las preguntas que se le formulen. Sus contenidos, que 
+
+=== PAGINA 5 ===
+corresponderán a siglos diferentes, versarán sobre alguno de los apartados de los temas de los bloques 
+B, C y D.  
+Tema: se preguntará un epígrafe completo de los temas 4 al 15. 
+Análisis de texto: tres preguntas sobre el texto. 
+Incluye tres apartados que los alumnos y alumnas deben responder: 
+1. Resuma con brevedad y concisión el contenido del texto.
+2. Señale y explique las ideas fundamentales del texto.
+3. Responda a la siguiente cuestión: una pregunta específica, relativa al contexto histórico en el que se
+inscribe el texto.
+El Tema o Análisis de Texto representa el 45% de la nota. 
+
+=== PAGINA 6 ===
+PROGRAMA DE FORMULACIÓN DE LOS TEMAS EN LA EVAU.  MATERIA: HISTORIA DE ESPAÑA 
+A. De la Prehistoria al reinado de los primeros Borbones.
+Tema 1. La Prehistoria y la Edad Antigua en la Península Ibérica: 
+1.1. El Paleolítico y el Neolítico. 
+1.2. Los pueblos prerromanos y las colonizaciones de los pueblos del Mediterráneo. 
+1.3. La Hispania romana. 
+1.4. La monarquía visigoda. 
+Tema 2. La Edad Media en la Península Ibérica: 
+2.1. Al-Ándalus: evolución política. 
+2.2. Al-Ándalus: economía, sociedad y cultura. El legado judío en la Península ibérica. 
+2.3. Los reinos cristianos: evolución de la conquista de la Península y organización política. 
+2.4. Modelos de repoblación. Organización estamental en los reinos cristianos medievales. 
+2.5. La Baja Edad Media en las Coronas de Castilla y de Aragón y en el Reino de Navarra. 
+Tema 3. La Edad Moderna: 
+3.1. Los Reyes Católicos: unión dinástica e instituciones de gobierno. La guerra de Granada. 
+3.2. Exploración, conquista y colonización de América (desde 1492 y durante el siglo XVI). 
+3.3. Los Austrias del siglo XVI. Política interior y exterior. 
+3.4. Los Austrias del siglo XVII. Política interior y exterior. 
+3.5. Sociedad, economía y cultura de los siglos XVI y XVII. 
+3.6. La Guerra de Sucesión. La Paz de Utrecht. Los pactos de familia. 
+3.7. La nueva Monarquía borbónica. Los decretos de Nueva Planta. Modelo de Estado y alcance de las 
+reformas 
+3.8. Las reformas borbónicas en los virreinatos americanos. 
+3.9. Sociedad, economía y cultura del siglo XVIII. 
+B. El siglo XIX español.
+Tema 4. La crisis del Antiguo Régimen (1788-1833): 
+4.1. El reinado de Carlos IV. La Guerra de la Independencia. 
+4.2. Las Cortes de Cádiz y la Constitución de 1812. 
+4.3. El reinado de Fernando VII. La cuestión sucesoria. 
+4.4. El proceso de independencia de las colonias americanas. El legado español en América. 
+Tema 5. La construcción del Estado Liberal (1833-1874): 
+5.1. Isabel II: las Regencias. Las guerras carlistas. Los grupos políticos, el Estatuto Real de 1834 y la 
+Constitución de 1837. 
+5.2. Isabel II: el reinado efectivo. Los grupos políticos y las constituciones. 
+5.3. El Sexenio Revolucionario: la Constitución de 1869. Gobierno provisional, reinado de Amadeo de 
+Saboya y Primera República. 
+Tema 6: El régimen de la Restauración (1874-1902): 
+6.1. El sistema canovista: la Constitución de 1876 y el turno de partidos. La oposición al sistema. 
+6.2. Las guerras de Cuba, el conflicto bélico contra Estados Unidos y la crisis de 1898. 
+Tema 7. Transformaciones económicas y sociales del siglo XIX: 
+7.1. La evolución de la población y de las ciudades. De la sociedad estamental a la sociedad de clases. 
+7.2. Las desamortizaciones. La España rural del siglo XIX. Industrialización, comercio y comunicaciones. 
+C. De la crisis del 98 al fin de la dictadura franquista.
+Tema 8. El reinado de Alfonso XIII (1902-1931): 
+8.1. La crisis de la Restauración: intentos regeneradores y oposición al régimen. 
+8.2. El impacto de los acontecimientos internacionales: Marruecos, la Primera Guerra Mundial y la 
+Revolución rusa. 
+8.3. La Dictadura de Primo de Rivera y el final del reinado de Alfonso XIII. 
+
+=== PAGINA 7 ===
+Tema 9. La Segunda República (1931-1936): 
+9.1. La proclamación de la Segunda República, el Gobierno provisional y la Constitución de 1931. El 
+sufragio femenino. 
+9.2. El bienio reformista: Reformas estructurales y realizaciones sociales, culturales y territoriales. 
+Reacciones desde los diversos posicionamientos. 
+9.3. El bienio de la CEDA y del Partido Radical. El Frente Popular. Desórdenes públicos. Violencia y 
+conflictos sociales. 
+Tema 10. La Guerra Civil (1936-1939): 
+10.1. La Guerra Civil: aproximación a la historiografía sobre el conflicto. Desarrollo de la guerra y 
+consecuencias.  
+10.2. Evolución política y económica en las dos zonas. La dimensión internacional del conflicto. 
+Tema 11. La dictadura franquista: (1939-1975): 
+11.1. El franquismo. Fundamentos ideológicos del régimen franquista en el contexto histórico europeo. 
+11.2. Institucionalización del régimen. Relaciones internacionales y etapas políticas. 
+11.3. Transformaciones sociales y económicas. 
+11.4. La represión, el exilio y los movimientos de protesta contra la dictadura. La cultura durante el 
+Franquismo en España y en el exilio. 
+D. Transición y democracia en España. Los retos del Mundo Actual.
+Tema 12. La Transición (1975-1982): 
+12.1. La evolución política tras la muerte de Franco. Retos, logros, dificultades y resistencias al 
+establecimiento de la democracia.  
+12.2. La Constitución de 1978. El Estado de las Autonomías. 
+Tema 13. La democracia (1982-2018): 
+13.1. La normalización democrática y la alternancia política hasta 2018. La amenaza del terrorismo de 
+ETA y el terrorismo yihadista. 
+13.2. Evolución económica, social y demográfica. Feminismo e igualdad. Compromiso social, 
+asociacionismo y voluntariado. 
+Tema 14. España en Europa: 
+14.1. Derivaciones económicas, sociales y políticas del proceso de integración en la Unión Europea. 
+Participación en las instituciones europeas. 
+14.2. Situación actual de la Unión Europea y expectativas de futuro. Los valores del europeísmo: principios 
+que guían la idea de la Unión Europea y actitud participativa ante los programas y proyectos comunitarios. 
+Tema 15. España y el mundo: 
+15.1. Seguridad, cooperación mundial y participación en organismos internacionales. El compromiso ante 
+los Objetivos de Desarrollo Sostenible. La cultura de la seguridad nacional e internacional. Instrumentos 
+estatales e internacionales para preservar los derechos, las libertades y el bienestar de la ciudadanía. 

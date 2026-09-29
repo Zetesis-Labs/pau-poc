@@ -1,0 +1,1354 @@
+DOCUMENTO {"id": "32384d10aa13", "region": "Madrid", "asignatura": "Historia de España", "anio": 2018, "convocatoria": "modelo", "tipo": "modelo", "fuente": "uc3m", "url": "http://drive.google.com/file/d/1UViIsDFp8R3-ikpd_YNAw4RLAaNYsYHJ/view?usp=sharing", "archivo": "pdfs/madrid/historia-de-espana/2018-modelo-modelo-uc3m-32384d10aa13.pdf", "paginas": 14, "estrato": "piloto · Madrid · Historia de España"}
+FUENTE {"archivo": "pdfs/madrid/historia-de-espana/2018-modelo-modelo-uc3m-32384d10aa13.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CUESTIONES:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": {
+   "minimo": null,
+   "maximo": 4,
+   "de": 6,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Seis cuestiones, debiendo responder a un máximo de cuatro."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Conquista y romanización de la Península Ibérica. Principales aportaciones romanas en los ámbitos social, económico y cultural."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Al Ándalus: la conquista musulmana de la Península Ibérica. Emirato y califato de Córdoba."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los primeros núcleos de resistencia cristiana. Principales etapas de la Reconquista. Modelos de repoblación."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas internos. Guerras y sublevación en Europa."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La Guerra de Sucesión Española y el sistema de Utrecht. Los Pactos de Familia."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n2",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE HISTÓRICA: relacione esta imagen con las Cortes de Cádiz"
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "TEMA: La Transición: alternativas políticas tras la muerte de Franco. El papel del Rey y el gobierno de Adolfo Suárez. El restablecimiento de la democracia: las elecciones de junio de $1977$. La Constitución de $1978$. El estado de las autonomías. El terrorismo durante la transición."
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n11",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "CUESTIONES:"
+   }
+  ],
+  "puntos": null,
+  "eleccion": {
+   "minimo": null,
+   "maximo": 4,
+   "de": 6,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Seis cuestiones, debiendo responder a un máximo de cuatro."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los pueblos prerromanos. Las colonizaciones históricas: fenicios y griegos. Tartessos."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Organización política de la Corona de Castilla, de la Corona de Aragón y del Reino de Navarra al final de la Edad Media."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los Reyes Católicos: unión dinástica e instituciones de gobierno."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El Imperio de los Austrias: España bajo Carlos I. Política interior y conflictos europeos."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Exploración y colonización de América. Consecuencias de los descubrimientos en España, Europa y América."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n12",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "6)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La nueva Monarquía Borbónica. Los Decretos de Nueva Planta. Modelo de Estado y alcance de las reformas."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n11",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "FUENTE HISTÓRICA: relacione la siguiente gráfica con la oposición a la dictadura franquista: principales grupos y evolución en el tiempo."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n11",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "ANÁLISIS DEL TEXTO Y CUESTIÓN:"
+   }
+  ],
+  "puntos": 4.5,
+  "eleccion": null,
+  "estimulos": [
+   "E3"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explique razonadamente el tipo de texto y resuma las ideas fundamentales del mismo (puntuación máxima: $1{,}5$ puntos)."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n20",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Responda a la siguiente cuestión (puntuación máxima: $3$ puntos): El reinado de Isabel II ($1833\\text{-}1868$): las desamortizaciones de Mendizábal y Madoz."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "II Guerra Púnica e inicio de la conquista: Conquista del este y el sur peninsular ($218-197$ a. C. $2.^a$ etapa: Conquista del centro y el oeste peninsular ($155-133$ a. C.) $3.^a$ etapa: Conquista del norte peninsular ($29-19$ a. C.). Definición de romanización. Cambios en la administración territorial, en los asentamientos urbanos, en el sistema de producción (esclavista y exportador) y en la sociedad. Legado cultural de la Hispania Romana: latín, derecho romano….; Siglo $I$ el cristianismo, que se difundió por el imperio romano e Hispania. Arte: heredero del griego, destacan templos (Diana en Mérida), teatro (Mérida), el anfiteatro (Itálica en Sevilla); y las obras de ingeniería, vías militares (Tarraco, Cesar Augusta…), puentes (Alcántara, Mérida), murallas (Lugo) y acueductos (Segovia). En Escultura (busto de Catón el viejo), Villas (en Valladolid)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n4",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Causas inicio de la conquista $711$: debilidad de los visigodos y petición de ayuda. Protagonistas Tariq y Muza. Batalla de Guadalete y duración corta del periodo de conquista. Fases de la evolución política de Al Andalus: Emirato dependiente ($711-756$) y batalla de Poitiers ($732$); Emirato independiente ($756-929$): mandato de Abd al-Rahman I y de sus descendientes Al-Ándalus consigue una organización estatal completa, pero debilidad política por revueltas marcas, población muladí y mozárabe, y resistencia de etnias que protagonizaron la conquista y Califato de Córdoba ($929-1031$): llegada al poder de Abd al-Rahman III y sucesores supone el esplendor de Al Andalus con su dominio sobre los reinos cristianos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Refugio en montañas norte peninsular. Pelayo: batalla Covadonga. Reino Astur, extensión por Galicia y valle Duero. Reino de León. S. $X$ independiente por Fernán González el condado de Castilla. Pirineo occidental: vascones derrotan a Carlomagno en Roncesvalles. S. $IX$ Reino Pamplona. Pirineo central: condados (Sobrarbe, Ribagorza, Aragón –independiente S. $IX$–). Pirineo oriental unificado por Wilfredo el Velloso (Barcelona): independencia S. $X$.\n\nEtapas Reconquista: Primera: siglos $VIII-X$. Formación y consolidación de los reinos: Los diversos núcleos de resistencia se limitaron a ocupar tierras deshabitadas del valle del Duero, de Galicia y del piedemonte de los Pirineos; Segunda: siglos $XI-XIII$. Los siglos de la expansión: Durante el siglo $XI$ el avance cristiano fue inexistente, a causa de los conflictos internos de los reinos, pero la caída del Califato permitirá la conquista del valle del Tajo (Toledo $1085$) y del Ebro (siglo $XII$). Tratados de reparto entre cristianos en el siglo $XII$: Tudilén y Cazorla. Siglo $XIII$ conquista de Extremadura, Valle del Guadalquivir (Andalucía) y Murcia y en la zona oriental Valencia y Baleares; Tercera: siglos $XIV-XV$. Guerra y conquista de Granada ($1492$).\n\nDiversos modelos de repoblación y su cronología: presura, aprisio, concejos (fueros), encomiendas y repartimientos, donadíos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El reinado de Felipe II y centro en España. Gobierno a través de Consejos territoriales y temáticos. Política interior (rebelión Alpujarras, influencias protestantes, problema Antonio Pérez) y exterior: guerra turcos, Lepanto ($1571$); Guerra con Francia, victoria San Quintín ($1557$); Guerra contra Países Bajos y Guerra contra Inglaterra (Armada Invencible). La incorporación del reino de Portugal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n7",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Causa del inicio de la guerra (muerte sin descendencia de Carlos II enfrentamiento internacional candidatura austriaca, archiduque Carlos y francesa, Felipe de Anjou). Proclamación Felipe por testamento. Pactos de Familia y Alianza de La Haya para hacerle frente ($1701$). Guerra de Sucesión ($1702-1714$), protagonistas y desarrollo: inicio victorias austriacas; pero desde $1711$ los Borbones redujeron a los Habsburgo a Cataluña, que cayó el $11$ de septiembre de $1714$. Inicio negociaciones paz con la proclamación Archiduque como emperador. Fin a la guerra con los tratados de Utrecht y Raastatt ($1713-1714$). Acuerdos: Reconocimiento Felipe V y separación Francia-España, acuerdos comerciales (asiento de negros y navío de permiso) y territoriales (Gibraltar y Menorca para Inglaterra; Austria y Saboya beneficiados)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Carlos III ($1759-88$): despotismo ilustrado. Reformas. Motín de Esquilache. Contención poder Iglesia con regalismo (expulsión jesuitas), extensión cultura (centros, Reales Academias, Sociedades Amigos País), regulación economía (limitación privilegios Mesta, libertad circulación mercancías, honorabilidad ejercicio profesiones…)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Las Cortes de Cádiz. Proceso convocatoria (Junta, Regencia). Composición diputados. Tres grandes tendencias ideológicas diferentes: los liberales, los jovellanistas y los absolutistas. Trabajo Cortes: Decretos-leyes para transformar el Antiguo Régimen y elaboración de una Constitución."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La situación política en España a la muerte de Franco. El papel del rey Juan Carlos I y el gobierno de Adolfo Suárez. La Ley para la Reforma Política. La legalización de los partidos políticos. Elecciones democráticas de junio de $1977$ y resultados. La constitución de $1978$: proceso constituyente y características. El estado de las autonomías: autonomías históricas y otras vías. El terrorismo durante la transición: ETA."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "I milenio a. C. habitaban la Península una serie de pueblos que llamamos prerromanos: Iberos (área levantina y prelitoral. Actividad económica agrícola-ganadera, comercio y moneda propia. Lengua y ritos funerarios de incineración. Manifestaciones artísticas Dama de Elche, Bicha de Balazote); Celtas o Celtiberos (ocupaban ambas mesetas y norte peninsular. La economía se basa en la ganadería lanar y vacuna. Todos conocían la metalurgia del hierro); Tartessos (máximo desarrollo entre los siglos $IX$ y $VII$ a. C. entre Huelva y Sevilla, con avances en agricultura, navegación, trabajo metales (Tesoro Carambolo) y escritura).\n\nLos colonizadores, áreas y aportaciones. Fenicios (zona estrecho con factorías y aportan escritura alfabética, torno alfarero), Griegos (zona catalana y nuevos cultivos como el olivo y la vid, uso arado y otras innovaciones en la fabricación de tejidos, moneda), Cartagineses (apogeo siglos $IV$ y $III$ a. C. Se instalaron en las factorías comerciales fenicias y fundaron enclaves Cartago Nova (Cartagena) y Ebussus (Ibiza), para controlar rutas comerciales del sur y Levante de la Península."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Los reinos presentan una estructura política parecida basada en tres instituciones: la monarquía, las Cortes y los municipios, aunque cada reino posee sus propias características.\n\nEn Castilla se produce un fortalecimiento de la Monarquía. Para gobernar se sirve de una administración central compuesta por la Curia Regia (Consejo Real, Cortes), Audiencia o Chancillería, Hacienda (Mayordomo Mayor), Corte (Chanciller, Condestable). En la administración territorial, destacan las merindades y adelantamientos y en la administración local, destacan concejos y regidores.\n\nLa Corona de Aragón no era un Estado único, sino una unión de reinos (Cataluña, Valencia, Baleares, Aragón), en la que cada uno conservaba instituciones y leyes particulares. La debilidad del poder real se manifiesta en el pactismo, por el que se respetaban fueros y privilegios en esos territorios y los nobles tenían libertad y autonomía en sus señoríos. En la administración central destacan el Consejo Real, las Cortes, la Hacienda (Diputación General y Generalitat), la Audiencia y la Corte. En la administración territorial, en cada reino el rey tenía un lugarteniente o gobernador (virrey en Mallorca). Los territorios se dividían en honores, en Cataluña en veguerías. En la administración local, los Concejos o municipios se fueron convirtieron en instituciones controlados por las oligarquías ciudadanas.\n\nEn Navarra, las instituciones representativas fueron las siguientes: el Rey, las Cortes, el Consejo Real, la Corte mayor o Cort general y la Cámara de Comptos. La incorporación de Navarra a Castilla se hizo bajo el principio de que Navarra conservaba su condición de Reino (virrey) y sus instituciones privativas."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n15",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Decidieron gobernar conjuntamente en sus territorios (Concordia de Segovia, $1475$: Fernando rey consorte en Castilla e Isabel en Aragón), la unión de Castilla y Aragón fue meramente dinástica (personal y no institucional), ya que cada reino conservó sus particularidades (leyes, instituciones, monedas, fronteras), por lo que no se estableció una monarquía o estado unificado. Los Reyes Católicos establecieron las bases del Estado Moderno mediante el refuerzo de la institución monárquica (Monarquía autoritaria) con instrumentos de control necesarios (Santa Hermandad, Tribunal de la Inquisición y expulsión de judíos y conversión musulmanes, limitación del poder de la nobleza). Las instituciones de gobierno fueron: los Consejos (Castilla, Estado, Aragón, Indias, Inquisición, Órdenes Militares); Cortes de Castilla, corregidor en municipios. Administración de Justicia en Chancillerías o Audiencias. En la Corona de Aragón, debido al pactismo, aparece la figura del virrey y en Justicia se creó una Audiencia en cada uno de los reinos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Rey extranjero, administración de flamencos y convocatoria Cortes para imponer nuevos impuestos para elección emperador Alemania. Conflictos en Castilla (Comunidades) y Aragón–Valencia (Germanías). Comunidades: aristocracia relegada, peligro de no ser respetadas leyes castellanas, peligro para industria textil lanera, aprovechando viaje de Carlos. Revuelta (Sta. Junta Tordesillas). Derrota Villalar, ejecución Padilla, Bravo y Maldonado. Germanías: peste, y crisis económica. Guerra artesanos y comerciantes con oligarquía y moriscos. Represión del Virrey. Problemas exteriores con Francia (victoria de Pavía), turcos (recuperación de la capital imperial Viena), protestantes (Paz de Augsburgo y libertad religiosa príncipes alemanes)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Conquista y colonización: reinado de Carlos I. La conquista mediante Sistema de Capitulaciones entre la Corona y los conquistadores. $1$) etapa antillana; $2$) etapa continental ($1519-1550$): Hernán Cortés en México ($1519-1521$: Imperio Azteca), Francisco Pizarro en Perú ($1531-1533$: Imperio Inca), F. de Orellana (Amazonas); V. Núñez de Balboa (descubre el Pacífico por istmo de Panamá), Hernando de Soto (Mississippi), Pedro de Mendoza llegó al río de la Plata y Buenos Aires; Pedro de Valdivia, conquistó Chile. En $10$ años ($1540-1550$), se había explorado casi toda América, desde California hasta el río de la Plata. Primera vuelta al mundo ($1519-1522$) capitaneada por Magallanes y luego por Juan Sebastián Elcano. Causas de la rapidez.\n\nLa colonización supuso la explotación económica del territorio: oro, encomienda, estancias y mita. En el ámbito político, América proporcionó a la Monarquía Hispánica su hegemonía en Europa (siglo $XVI$); en el económico permitió la introducción de Nuevos cultivos: patata, tabaco, pimiento, tomate, cacao, maíz, algodón y animales: pavo, y grandes ingresos al controlar el tráfico comercial, lo que generaría en el siglo $XVII$ la revolución de los precios. En el terreno cultural América ofrecía un mundo por descubrir: flora y fauna, cartografía, gentes, lenguas que amplían el horizonte cultural europeo. A nivel social, América fue vía de escape para segundones y aventureros. La influencia de América llegó también se aprecia en el lenguaje, la alimentación o el vestido. Surgió una mentalidad colonial que percibía a América sólo como territorio de explotación. Introducción en América de la economía monetaria, nuevos cultivos (trigo, cebada, olivo) y animales (caballo, oveja, vaca), declive demográfico indígena e importación de esclavos negros, aparición de una sociedad de castas dominada por peninsulares y criollos y la imposición del castellano y cultura europea."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n18",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Felipe V. Objetivos (centralización, absolutismo, modernización del Estado. Decretos de Nueva Planta. Organización del Estado (Secretarías, Consejo de Castilla, Cortes). Organización del territorio (Intendentes, Corregidor) Reformas. Extensión cultura (centros, Reales Academias, Sociedades Amigos País), regulación economía (limitación privilegios Mesta, libertad circulación mercancías, honorabilidad ejercicio profesiones…), Hacienda (Catastro, deuda y vales reales), América (reorganización virreinatos e intendencias)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Oposición al régimen diversas manifestaciones en el tiempo: maquis, huelgas en el interior del país, protesta universitaria, movimiento obrero, oposición nacionalista y militar (UMD).\n\nOposición en el interior años $60$ contexto de huelgas en todos los ámbitos y pérdidas de horas trabajo. En el ámbito laboral con la aparición de los sindicatos (CCOO, UGT, USO) y el desarrollo económico, en el educativo con las manifestaciones estudiantiles universitarias, la oposición nacionalista, tanto en Cataluña como en el País Vasco.\n\nOposición política clandestina del PCE y división en el PSOE. En el exterior, se manifestó la oposición política mediante el documento elaborado en Munich por políticos españoles que tienen como objetivo instaurar un sistema democrático en España para entrar en el Mercado Común. La reacción franquista: encarcelamiento de los políticos participantes y su exilio. Modificación del Fuero del Trabajo y creación del Tribunal de Orden Público como órgano represor. Conclusión manifiesta el deseo de democracia en España, su deseo europeísta, aumento de la oposición antifranquista."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    },
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n22",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Desamortización de Mendizábal. Objetivo: Reforma del régimen de propiedad agraria y consecución de ingresos necesarios para mantener los gastos del Estado. Antecedentes (Carlos IV, Guerra Independencia y Trienio Liberal). Naturaleza: De bienes vinculados a bienes en propiedad plena. Naturaleza bienes expropiados en la desamortización (clero). Proceso de realización: subasta y medio de pago con deuda. Resultado: consolidó la estructura latifundista de la propiedad agraria y no permitió la creación de una agricultura capitalista. Continuación con la desamortización de Madoz que afecta principalmente a los bienes municipales."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "El solucionario no incluye respuesta para el apartado 1 del comentario de texto (n21). El apartado de desamortización de Mendizábal se ha asociado a n22 por su contenido; el documento no separa la respuesta con la numeración de los apartados del árbol."
+ ]
+}
+PDF
+=== PAGINA 3 ===
+HISTORIA DE ESPAÑA 
+CRITERIOS ESPECÍFICOS DE CORRECCIÓN Y CALIFICACIÓN 
+CUESTIONES: puntuación máxima 4 puntos.  
+Cada cuestión se calificará con un máximo de 1 punto. 
+Se valorará 
+•
+precisión conceptual
+•
+utilización del lenguaje histórico
+•
+localización espacial y temporal
+•
+relación con su proceso histórico
+FUENTE HISTÓRICA: puntuación máxima 1,5 puntos 
+Se valorará 
+•
+explicación de contenido del instrumento de análisis preguntado
+•
+conexión temática y cronológica con el proceso histórico correspondiente
+TEMA: puntuación máxima 4,5 puntos. 
+Se valorará 
+•
+correcta expresión lingüística, sintáctica e histórica
+•
+capacidad de síntesis, claridad y organización expositiva
+•
+relación con el tema preguntado
+•
+precisión cronológica y espacial
+•
+formulación ordenada de motivos, causas y efectos
+•
+riqueza argumentativa
+COMENTARIO DE TEXTO: puntuación máxima 4,5 puntos. 
+La primera cuestión se calificará con un máximo de 1,5 puntos y la segunda con un máximo de 3 puntos. 
+Se considerará.  
+En su conjunto: la correcta expresión lingüística, sintáctica e histórica. 
+En la 1ª pregunta: la capacidad de comprensión del texto, de explicar sus ideas fundamentales y el modo de 
+exponerlas.   
+En la 2ª pregunta: síntesis, claridad, organización y precisión de las ideas en su correspondiente contexto 
+cronológico-espacial, así como la capacidad de reflexión y razonamiento. 
+
+=== PAGINA 4 ===
+SOLUCIONARIO 
+HISTORIA DE ESPAÑA 
+OPCIÓN A 
+CUESTIONES 
+1)
+II Guerra Púnica e inicio de la conquista: Conquista del este y el sur peninsular (218-197 a. C. 2ª
+etapa: Conquista del centro y el oeste peninsular (155-133 a. C.)  3ª etapa: Conquista del norte peninsular
+(29-19 a.C.). Definición de romanización. Cambios en la administración territorial, en los asentamientos
+urbanos, en el sistema de producción (esclavista y exportador) y en la sociedad. Legado cultural de la
+Hispania Romana: latín, derecho romano….; Siglo I el cristianismo, que se difundió por el imperio romano e 
+Hispania. Arte: heredero del griego, destacan templos (Diana en Mérida), teatro (Mérida), el anfiteatro 
+(Itálica en Sevilla); y las obras de ingeniería, vías militares (Tarraco, Cesar Augusta…), puentes (Alcántara, 
+Mérida), murallas (Lugo) y acueductos (Segovia). En Escultura (busto de Catón el viejo), Villas (en Valladolid).  
+2) Causas inicio de la conquista 711: debilidad de los visigodos y petición de ayuda. Protagonistas Tariq y Muza.
+Batalla de Guadalete y duración corta del periodo de conquista. Fases de la evolución política de Al Andalus:
+Emirato dependiente (711-756) y batalla de Poitiers (732); Emirato independiente (756-929): mandato de
+Abd al-Rahman I y de sus descendientes Al-Ándalus consigue una organización estatal completa, pero
+debilidad política por revueltas marcas, población muladí y mozárabe, y resistencia de etnias que
+protagonizaron la conquista y Califato de Córdoba (929-1031): llegada al poder de Abd al-Rahman III y
+sucesores supone el esplendor de Al Andalus con su dominio sobre los reinos cristianos.
+3) Refugio en montañas norte peninsular. Pelayo: batalla Covadonga. Reino Astur, extensión por Galicia y valle
+Duero. Reino de León. S. X independiente por Fernán González el condado de Castilla. Pirineo occidental:
+vascones derrotan a Carlomagno en Roncesvalles. S. IX Reino Pamplona. Pirineo central: condados
+(Sobrarbe, Ribagorza, Aragón –independiente S. IX-). Pirineo oriental unificado por Wilfredo el Velloso
+(Barcelona): independencia S. X.
+Etapas Reconquista: Primera: siglos VIII-X. Formación y consolidación de los reinos: Los diversos núcleos de
+resistencia se limitaron a ocupar tierras deshabitadas del valle del Duero, de Galicia y del piedemonte de los
+Pirineos; Segunda: siglos XI-XIII. Los siglos de la expansión: Durante el siglo XI el avance cristiano fue
+inexistente, a causa de los conflictos internos de los reinos, pero la caída del Califato permitirá la conquista
+del valle del Tajo (Toledo 1085) y del Ebro (siglo XII). Tratados de reparto entre cristianos en el siglo XII:
+Tudilén y Cazorla. Siglo XIII conquista de Extremadura, Valle del Guadalquivir (Andalucía) y Murcia y en la
+zona oriental Valencia y Baleares; Tercera: siglos XIV-XV. Guerra y conquista de Granada (1492).
+Diversos modelos de repoblación y su cronología: presura, aprisio, concejos (fueros), encomiendas y
+repartimientos, donadíos.
+4) El reinado de Felipe II y centro en España. Gobierno a través de Consejos territoriales y temáticos. Política
+interior (rebelión Alpujarras, influencias protestantes, problema Antonio Pérez) y exterior: guerra turcos,
+Lepanto (1571); Guerra con Francia, victoria San Quintín (1557); Guerra contra Países Bajos y Guerra contra
+Inglaterra (Armada Invencible). La incorporación del reino de Portugal.
+5)
+Causa del inicio de la guerra (muerte sin descendencia de Carlos II enfrentamiento internacional candidatura
+austriaca, archiduque Carlos y francesa, Felipe de Anjou). Proclamación Felipe por testamento. Pactos de
+Familia y Alianza de La Haya para hacerle frente (1701). Guerra de Sucesión (1702-1714), protagonistas y
+desarrollo: inicio victorias austriacas; pero desde 1711 los Borbones redujeron a los Habsburgo a Cataluña,
+que cayó el 11 de septiembre de 1714. Inicio negociaciones paz con la proclamación Archiduque como
+emperador. Fin a la guerra con los tratados de Utrecht y Raastatt (1713-1714). Acuerdos: Reconocimiento
+Felipe V y separación Francia-España, acuerdos comerciales (asiento de negros y navío de permiso) y
+territoriales (Gibraltar y Menorca para Inglaterra; Austria y Saboya beneficiados).
+6) Carlos III (1759-88): despotismo ilustrado. Reformas. Motín de Esquilache. Contención poder Iglesia con
+regalismo (expulsión jesuitas), extensión cultura (centros, Reales Academias, Sociedades Amigos País),
+regulación economía (limitación privilegios Mesta, libertad circulación mercancías, honorabilidad ejercicio
+profesiones…).
+
+=== PAGINA 5 ===
+FUENTE HISTÓRICA 
+Las Cortes de Cádiz. Proceso convocatoria (Junta, Regencia). Composición diputados. Tres grandes tendencias 
+ideológicas diferentes: los liberales, los jovellanistas y los absolutistas. Trabajo Cortes: Decretos-leyes para 
+transformar el Antiguo Régimen y elaboración de una Constitución. 
+TEMA:  
+La situación política en España a la muerte de Franco. El papel del rey Juan Carlos I y el gobierno de Adolfo Suárez. 
+La Ley para la Reforma Política. La legalización de los partidos políticos. Elecciones democráticas de junio de 1977 y 
+resultados. La constitución de 1978: proceso constituyente y características. El estado de las autonomías: 
+autonomías históricas y otras vías. El terrorismo durante la transición: ETA. 
+OPCIÓN B 
+CUESTIONES 
+1)
+I milenio a. C. habitaban la Península una serie de pueblos que llamamos prerromanos: Iberos (área levantina y
+prelitoral. Actividad económica agrícola-ganadera, comercio y moneda propia. Lengua y ritos funerarios de
+incineración. Manifestaciones artísticas Dama de Elche, Bicha de Balazote); Celtas o Celtiberos (ocupaban ambas
+mesetas y norte peninsular. La economía se basa en la ganadería lanar y vacuna. Todos conocían la metalurgia
+del hierro); Tartessos (máximo desarrollo entre los siglos IX y VII a. C. entre Huelva y Sevilla, con avances en
+agricultura, navegación, trabajo metales (Tesoro Carambolo) y escritura).
+Los colonizadores, áreas y aportaciones. Fenicios (zona estrecho con factorías y aportan escritura alfabética,
+torno alfarero), Griegos (zona catalana y nuevos cultivos como el olivo y la vid, uso arado y otras innovaciones en
+la fabricación de tejidos, moneda), Cartagineses (apogeo siglos IV y III a. C. Se instalaron en las factorías
+comerciales fenicias y fundaron enclaves Cartago Nova (Cartagena) y Ebussus (Ibiza), para controlar rutas
+comerciales del sur y Levante de la Península.
+2)
+Los reinos presentan una estructura política parecida basada en tres instituciones: la monarquía, las Cortes y los
+municipios, aunque cada reino posee sus propias características.
+En Castilla se produce un fortalecimiento de la Monarquía. Para gobernar se sirve de una administración central
+compuesta por la Curia Regia (Consejo Real, Cortes), Audiencia o Chancillería, Hacienda (Mayordomo Mayor),
+Corte (Chanciller, Condestable). En la administración territorial, destacan las merindades y adelantamientos y en
+la administración local, destacan concejos y regidores.
+La Corona de Aragón no era un Estado único, sino una unión de reinos (Cataluña, Valencia, Baleares, Aragón), en
+la que cada uno conservaba instituciones y leyes particulares. La debilidad del poder real se manifiesta en el
+pactismo, por el que se respetaban fueros y privilegios en esos territorios y los nobles tenían libertad y
+autonomía en sus señoríos. En la administración central destacan el Consejo Real, las Cortes, la Hacienda
+(Diputación General y Generalitat), la Audiencia y la Corte. En la administración territorial, en cada reino el rey
+tenía un lugarteniente o gobernador (virrey en Mallorca). Los territorios se dividían en honores, en Cataluña en
+veguerías. En la administración local, los Concejos o municipios se fueron convirtieron en instituciones
+controlados por las oligarquías ciudadanas.
+
+=== PAGINA 6 ===
+En Navarra, las instituciones representativas fueron las siguientes: el Rey, las Cortes, el Consejo Real, la Corte 
+mayor o Cort general y la Cámara de Comptos. La incorporación de Navarra a Castilla se hizo bajo el principio de 
+que Navarra conservaba su condición de Reino (virrey) y sus instituciones privativas. 
+3)
+Decidieron gobernar conjuntamente en sus territorios (Concordia de Segovia, 1475: Fernando rey consorte en
+Castilla e Isabel en Aragón), la unión de Castilla y Aragón fue meramente dinástica (personal y no institucional),
+ya que cada reino conservó sus particularidades (leyes, instituciones, monedas, fronteras), por lo que no se
+estableció una monarquía o estado unificado. Los Reyes Católicos establecieron las bases del Estado Moderno
+mediante el refuerzo de la institución monárquica (Monarquía autoritaria) con instrumentos de control
+necesarios (Santa Hermandad, Tribunal de la Inquisición y expulsión de judíos y conversión musulmanes,
+limitación del poder de la nobleza). Las instituciones de gobierno fueron: los Consejos (Castilla, Estado, Aragón,
+Indias, Inquisición, Órdenes Militares); Cortes de Castilla, corregidor en municipios. Administración de Justicia en
+Chancillerías o Audiencias. En la Corona de Aragón, debido al pactismo, aparece la figura del virrey y en Justicia
+se creó una Audiencia en cada uno de los reinos.
+4)
+Rey extranjero, administración de flamencos y convocatoria Cortes para imponer nuevos impuestos para
+elección emperador Alemania. Conflictos en Castilla (Comunidades) y Aragón–Valencia (Germanías).
+Comunidades: aristocracia relegada, peligro de no ser respetadas leyes castellanas, peligro para industria textil
+lanera, aprovechando viaje de Carlos. Revuelta (Sta. Junta Tordesillas). Derrota Villalar, ejecución Padilla, Bravo y
+Maldonado. Germanías: peste, y crisis económica. Guerra artesanos y comerciantes con oligarquía y moriscos.
+Represión del Virrey. Problemas exteriores con Francia (victoria de Pavía), turcos (recuperación de la capital
+imperial Viena), protestantes (Paz de Augsburgo y libertad religiosa príncipes alemanes).
+5)
+Conquista y colonización: reinado de Carlos I. La conquista mediante Sistema de Capitulaciones entre la Corona y
+los conquistadores. 1) etapa antillana;  2)  etapa continental (1519-1550): Hernán Cortés en México (1519-1521:
+Imperio Azteca), Francisco Pizarro en Perú (1531-1533: Imperio Inca), F. de Orellana (Amazonas); V. Núñez de
+Balboa (descubre el Pacífico por istmo de Panamá), Hernando de Soto (Mississippi), Pedro de Mendoza llegó al
+río de la Plata y Buenos Aires; Pedro de Valdivia, conquistó Chile. En 10 años (1540-1550), se había explorado
+casi toda América, desde California hasta el río de la Plata. Primera vuelta al mundo (1519-1522) capitaneada por
+Magallanes y luego por Juan Sebastián Elcano. Causas de la rapidez.
+La colonización supuso la explotación económica del territorio: oro, encomienda, estancias y mita. En el ámbito
+político, América proporcionó a la Monarquía Hispánica su hegemonía en Europa (siglo XVI); en el económico
+permitió la introducción de Nuevos cultivos: patata, tabaco, pimiento, tomate, cacao, maíz, algodón y animales:
+pavo, y grandes ingresos al controlar el tráfico comercial, lo que generaría en el siglo XVII la revolución de los
+precios. En el terreno cultural América ofrecía un mundo por descubrir: flora y fauna, cartografía, gentes, lenguas
+que amplían el horizonte cultural europeo. A nivel social, América fue vía de escape para segundones y
+aventureros. La influencia de América llegó también se aprecia en el lenguaje, la alimentación o el vestido.
+Surgió una mentalidad colonial que percibía a América sólo como territorio de explotación. Introducción en
+América de la economía monetaria, nuevos cultivos (trigo, cebada, olivo) y animales (caballo, oveja, vaca),
+declive demográfico indígena e importación de esclavos negros, aparición de una sociedad de castas dominada
+por peninsulares y criollos y la imposición del castellano y cultura europea.
+6)
+Felipe V. Objetivos (centralización, absolutismo, modernización del Estado. Decretos de Nueva Planta.
+Organización del Estado (Secretarías, Consejo de Castilla, Cortes). Organización del territorio (Intendentes,
+Corregidor) Reformas. Extensión cultura (centros, Reales Academias, Sociedades Amigos País), regulación
+economía (limitación privilegios Mesta, libertad circulación mercancías, honorabilidad ejercicio profesiones…),
+Hacienda (Catastro, deuda y vales reales), América (reorganización virreinatos e intendencias).
+FUENTE HISTÓRICA 
+Oposición al régimen diversas manifestaciones en el tiempo: maquis, huelgas en el interior del país, protesta 
+universitaria, movimiento obrero, oposición nacionalista y militar (UMD). 
+Oposición en el interior años 60 contexto de huelgas en todos los ámbitos  y pérdidas de horas trabajo. En el ámbito 
+laboral con la aparición de los sindicatos (CCOO, UGT, USO) y el desarrollo económico, en el educativo con las 
+manifestaciones estudiantiles universitarias, la oposición nacionalista, tanto en Cataluña como en el País Vasco. 
+
+=== PAGINA 7 ===
+Oposición política clandestina del PCE y división en el PSOE. En el exterior, se manifestó la oposición política 
+mediante el documento elaborado en Munich por políticos españoles que tienen como objetivo instaurar un sistema 
+democrático en España para entrar en el Mercado Común.  La reacción franquista: encarcelamiento de los políticos 
+participantes y su exilio. Modificación del Fuero del Trabajo y creación del Tribunal de Orden Público como órgano 
+represor. Conclusión manifiesta el deseo de democracia en España, su deseo europeísta, aumento de la oposición 
+antifranquista. 
+CUESTIÓN COMENTARIO DE TEXTO: 
+Desamortización de Mendizábal. Objetivo: Reforma del régimen de propiedad agraria y consecución de ingresos 
+necesarios para mantener los gastos del Estado. Antecedentes (Carlos IV, Guerra Independencia y Trienio Liberal). 
+Naturaleza: De bienes vinculados a bienes en propiedad plena. Naturaleza bienes expropiados en la desamortización 
+(clero). Proceso de realización: subasta y medio de pago con deuda. Resultado: consolidó la estructura latifundista 
+de la propiedad agraria y no permitió la creación de una agricultura capitalista. Continuación con la desamortización 
+de Madoz que afecta principalmente a los bienes municipales. 
+
+=== PAGINA 8 ===
+HISTORIA DE ESPAÑA 2º Bachillerato. Orientaciones EvAU 
+      La Comisión Organizadora de las Pruebas de Acceso a la Universidad 
+de la Comunidad Autónoma de Madrid, oída la Comisión de Materia, en reunión 
+de 19 de septiembre de 2017 ha aprobado el modelo de examen de Historia de 
+España, conforme a los contenidos, porcentajes, y estándares de aprendizaje 
+establecidos en la Orden ECD/1941/2016, de 22 de diciembre (BOE 309, pp. 
+89896-89899).  
+1. PROGRAMA. Rige el publicado como Orden ECD/1941/2016 de 22 de
+diciembre (BOE 23/12/2016).
+2. MODELO DE EJERCICIO PARA LA EvAU. Consta de dos opciones: A
+y B (se adjunta modelo). El alumno elegirá contestar indistintamente,
+pero en su totalidad, a una u otra. Cada una de las opciones se
+compone de:
+Cuestiones. Se ofrecen seis, distintas en cada opción, para que el
+alumno elija cuatro. Su formulación cubrirá los contenidos del
+Bloque 1 al bloque 4 del programa. Cada cuestión se valora con una
+puntuación máxima de 1 punto. Únicamente, y a título de sugerencia
+orientativa, se recomienda una extensión de unas 10 líneas por
+cuestión. Con el fin de acotar y aclarar las preguntas se facilita un
+programa de formulación de las cuestiones tal y como serán
+explicitadas en la EvAU, acorde con los estándares de aprendizaje
+evaluables que aparecen en la citada Orden.
+Fuente Histórica. Relacionada con la interpretación histórica de un
+mapa, estadística, gráfico, o imagen que, siendo diferente en cada
+opción y de centuria distinta al tema o texto que le acompañe,
+comprenderá los contenidos del bloque 5 al bloque 12. Su
+calificación podrá alcanzar 1’5 puntos. A título igualmente de
+orientación, se sugiere una extensión de unas 15 líneas.
+Tema o Comentario de Texto. Una opción requerirá contestar a un
+tema, mientras que la otra reproducirá un texto que el alumno
+deberá responder guiado por las preguntas que se le formulen. Sus
+contenidos, que corresponderán a siglos diferentes, versarán sobre
+el temas del bloque 5 al bloque 12 La calificación de este apartado
+podrá llegar a los 4’5 puntos. Como sugerencia se recomienda
+ocupar una extensión de unas 50 líneas.
+Tema.- Su enunciado se ajustará a los contenidos temáticos y
+cronológicos del programa, aunque para facilitar su acotamiento y
+comprensión se adjunta un específico programa de formulación de
+los temas tal y como serán expresados en la EvAU.
+
+=== PAGINA 9 ===
+Comentario de Texto.- Incluye 2 apartados que el alumno debe 
+responder: 
+1) Explicar razonadamente el tipo de texto y las ideas
+fundamentales del mismo. La puntuación máxima que se
+podrá alcanzar es de 1’5 puntos. Extensión recomendada unas
+5 líneas. Se trata de identifica el tipo de texto y desarrollar de
+manera resumida el contenido del texto, señalando las
+cuestiones más importantes.
+2) Responder a 1 pregunta específica sobre el contexto histórico
+del texto, de su temática y de la relación con sus antecedentes
+o consecuencias más directas. Valoración de hasta 3 puntos.
+Extensión aconsejable unas 30 líneas.
+3. CRITERIOS ESPECÍFICOS DE EVALUACIÓN: se explicitan en hoja
+adjunta, debiéndoseles añadir los generales recomendados por la
+Comisión Organizadora para el conjunto de la EVAU.
+
+=== PAGINA 10 ===
+PROGRAMA DE FORMULACIÓN DE LOS TEMAS EN LA 
+EVAU. MATERIA: HISTORIA DE ESPAÑA 
+ 
+ 
+BLOQUE 1. La Península Ibérica desde los primeros humanos hasta la desaparición 
+de la monarquía visigoda (711) 
+ 
+1.1. Sociedad y economía en el Paleolítico y Neolítico. La pintura rupestre. 
+1.2. Los pueblos prerromanos. Las colonizaciones históricas: fenicios y 
+griegos. Tartesos. 
+1.3. Conquista y romanización de la Península Ibérica. Principales aportaciones 
+romanas en los ámbitos social, económico y cultural. 
+1.4. El reino visigodo: origen y organización política. Los concilios. 
+ 
+BLOQUE 2. La Edad Media: Tres culturas y un mapa político en constante cambio 
+(711-1474) 
+ 
+2.1. Al Ándalus: la conquista musulmana de la Península Ibérica. Emirato y 
+califato de Córdoba. 
+2.2. Al Ándalus: reinos de taifas. Reino nazarí. (El desarrollo del tema ha de 
+incluir los imperios norteafricanos) 
+2.3. Al Ándalus: economía, sociedad y cultura. 
+2.4. Los primeros núcleos de resistencia cristiana. Principales etapas de la 
+Reconquista. Modelos de repoblación. (Incluye estándares de aprendizaje: 
+“Describe las grandes etapas y las causas generales que conducen al mapa 
+político de la península ibérica al final de la Edad Media” y “Comenta el ámbito 
+territorial y características de cada sistema de repoblación, así como sus causas 
+y consecuencias”)  
+2.5. Los reinos cristianos en la Edad Media: organización política, régimen señorial 
+y sociedad estamental. (Incluye los estándares de aprendizaje: “explica el origen 
+de las Cortes en los reinos cristianos y sus principales funciones” y “explica el 
+origen y características del régimen señorial y la sociedad estamental en el 
+ámbito cristiano”) 
+2.6. Organización política de la Corona de Castilla, de la Corona de Aragón y del 
+Reino de Navarra al final de la Edad Media. (responde al estándar de 
+aprendizaje “compara la organización política de la Corona de Castilla, la 
+Corona de Aragón y el Reino de Navarra al final de la Edad Media”) 
+ 
+BLOQUE 3. La formación de la Monarquía Hispánica y su expansión mundial (1474- 
+1700) 
+ 
+3.1. Los Reyes Católicos: unión dinástica e instituciones de gobierno. 
+3.2. El significado de1492. La guerra de Granada y el descubrimiento de 
+América. 
+3.3. El Imperio de los Austrias: España bajo Carlos I. Política interior y 
+conflictos europeos. 
+3.4. La Monarquía Hispánica de Felipe II. Gobierno y administración. Los 
+problemas internos. Guerras y sublevación en Europa. 
+3.5. Exploración y colonización de América. Consecuencias de
+ 
+los descubrimientos en España, Europa y América. 
+3.6. Los Austrias del siglo XVII: el gobierno de validos. La crisis de 1640. 
+3.7. La guerra de los Treinta Años y la pérdida de la hegemonía española en 
+Europa. 
+3.8. Principales factores de la crisis demográfica y económica del siglo XVII y 
+
+=== PAGINA 11 ===
+sus consecuencias. 
+3.9. Crisis y decadencia de la Monarquía Hispánica: el reinado de Carlos II y el 
+problema sucesorio. 
+ 
+BLOQUE 4. España en la órbita francesa: el reformismo de los primeros Borbones 
+(1700-1788) 
+ 
+4.1. La Guerra de Sucesión Española y el sistema de Utrecht. Los Pactos de 
+Familia. 
+4.2. La nueva Monarquía Borbónica. Los Decretos de Nueva Planta. Modelo de 
+Estado y alcance de las reformas. 
+4.3. La España del siglo XVIII. Expansión y transformaciones económicas: 
+agricultura, industria y comercio con América. Causas del despegue económico 
+de Cataluña. 
+4.4. Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III. 
+ 
+ 
+BLOQUE 5. La crisis del Antiguo Régimen (1788-1833): Liberalismo frente a 
+Absolutismo. 
+ 
+5.1. La Guerra de la Independencia: antecedentes y causas. Bandos en conflicto  
+y fases de la guerra. 
+5.2. Las Cortes de Cádiz. La Constitución de 1812. 
+5.3. El reinado de Fernando VII: liberalismo frente a absolutismo. El proceso 
+de independencia de las colonias americanas. 
+ 
+BLOQUE 6. La conflictiva construcción del Estado Liberal (1833-1868) 
+ 
+6.1. El reinado de Isabel II (1833-1868): la primera guerra carlista. Evolución 
+política, partidos y conflictos. El Estatuto Real de 1834 y las Constituciones de 
+1837 y 1845. (Incluye los siguientes estándares: “especifica las causas y 
+consecuencias de las dos primeras guerras carlistas” centrado en la primera de 
+ellas, “describe las características de los partidos políticos que surgieron 
+durante el reinado de Isabel II”, “resume las etapas de la evolución política del 
+reinado de Isabel II desde su minoría de edad, y explica el papel de los 
+militares” y “compara el Estatuto Real de 1834 y las Constituciones de 1837 y 
+1845”) 
+6.2. El reinado de Isabel II (1833-1868): las desamortizaciones de Mendizábal y 
+Madoz. De la sociedad estamental a sociedad de clases. (Incluye los siguientes 
+estándares de aprendizaje: “compara las desamortizaciones de Mendizabal y 
+Madoz, y especifica los objetivos de una y otra” y “especifica las características 
+de la nueva sociedad de clases y la comparación con la sociedad estamental del 
+Antiguo Régimen”) 
+6.3. El Sexenio Democrático (1868-1874): la constitución de 1869. Evolución 
+política: gobierno provisional, reinado de Amadeo de Saboya y Primera 
+República. 
+ 
+BLOQUE 7. La Restauración Borbónica: implantación y afianzamiento de un nuevo 
+Sistema Político (1874-1902) 
+ 
+7.1. La Restauración Borbónica (1874-1902): Cánovas del Castillo y el turno de 
+partidos. La Constitución de 1876. 
+7.2. La Restauración Borbónica (1874-1902): Los nacionalismos catalán y 
+vasco y el regionalismo gallego. El movimiento obrero y campesino. 
+
+=== PAGINA 12 ===
+7.3. El problema de Cuba y la guerra entre España y Estados Unidos. La crisis  
+de 1898 y sus consecuencias económicas, políticas e ideológicas. 
+ 
+BLOQUE 8. Pervivencias y transformaciones económicas en el siglo XIX: un 
+desarrollo insuficiente 
+ 
+8.1. Evolución demográfica y movimientos migratorios en el siglo XIX. El 
+desarrollo urbano. 
+8.2. La revolución industrial en la España del siglo XIX. El sistema de 
+comunicaciones: el ferrocarril. Proteccionismo y librecambismo. La aparición 
+de la banca moderna. 
+ 
+BLOQUE 9: La crisis del Sistema de la Restauración y la caída de la Monarquía 
+(1902- 1931) 
+ 
+9.1. Alfonso XIII y la crisis del sistema político de la Restauración: los partidos 
+dinásticos. Las fuerzas políticas de oposición: republicanos, nacionalistas, 
+socialistas y anarcosindicalistas. 
+9.2. La intervención en Marruecos. Repercusiones de la Primera Guerra 
+Mundial en España. La crisis de 1917 y el trienio bolchevique. 
+9.3. La dictadura de Primo de Rivera. El final del reinado de Alfonso XIII. 
+ 
+ 
+BLOQUE 10. La Segunda República. La Guerra Civil en un contexto de Crisis 
+Internacional (1931-1939) 
+ 
+10.1. La proclamación de la Segunda República. La Constitución de 1931. El 
+bienio reformista (1931-1933). 
+10.2. El gobierno radical cedista (1933-1935). La Revolución de Asturias. El 
+Frente Popular, las elecciones de 1936 y el nuevo gobierno. 
+10.3. 
+La Guerra Civil: la sublevación militar y el estallido de la guerra. La 
+dimensión internacional del conflicto. 
+10.4. Fases militares de la Guerra Civil. La evolución política y económica en 
+las dos zonas. Consecuencias económicas y sociales de la guerra. Los costes 
+humanos. 
+ 
+BLOQUE 11. La Dictadura Franquista (1939-1975) 
+ 
+11.1. La creación del Estado franquista. Grupos ideológicos y apoyos sociales. 
+Etapas de la dictadura y principales características de cada una de ellas. El 
+contexto internacional: del aislamiento al reconocimiento exterior. 
+11.2. Política económica del franquismo: de la autarquía al desarrollismo. 
+Transformaciones sociales: causas y evolución. 
+11.3. La oposición a la dictadura: principales grupos y evolución en el tiempo.  
+La crisis del franquismo desde 1973 a la muerte de Franco. 
+ 
+ 
+BLOQUE 12. Normalización Democrática de España e Integración en Europa (desde 
+1975). 
+ 
+12.1. La Transición: alternativas políticas tras la muerte de Franco. El papel del 
+rey y el gobierno de Adolfo Suárez. El restablecimiento de la democracia: las 
+elecciones de junio de 1977. La Constitución de 1978. El Estado de las 
+Autonomías. El terrorismo durante la Transición. 
+
+=== PAGINA 13 ===
+ 
+12.2. Las etapas políticas de la democracia. Los gobiernos de la UCD. El golpe 
+de Estado de 23 de febrero de 1981. La alternancia política: gobiernos 
+socialistas y gobiernos del Partido Popular 
+12.3. La integración de España en Europa. Consecuencias económicas y sociales. 
+La modernización de las infraestructuras. El Programa de Convergencia y la 
+creación del euro. 
+ 
+ 
+ 
+ 
+
+=== PAGINA 14 ===
+Adenda a los solucionarios 
+ 
+Se recuerda que los solucionarios tienen una función meramente orientativa para los 
+correctores, en ningún caso para los profesores, y que los correctores reciben instrucciones 
+sobre este particular desde la coordinación de materia. 
+ 
+Durante el curso 2017-2018 se revisarán los solucionarios de los modelos de prueba, 
+adaptándolos al nuevo programa de formulación de los temas en la EVAU ya vigente. 
+ 

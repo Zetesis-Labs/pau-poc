@@ -1,0 +1,619 @@
+DOCUMENTO {"id": "053608cf06ee", "region": "Comunidad Valenciana", "asignatura": "Lengua Castellana y Literatura II", "anio": 2013, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "umh", "url": "http://bancdelaselectivitat.umh.es/files/2014/05/EXAMEN_CAS_Juliol2013.pdf", "archivo": "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-extraordinaria-examen-umh-053608cf06ee.pdf", "paginas": 2, "estrato": "piloto · Comunidad Valenciana · Lengua Castellana y Literatura II"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-extraordinaria-criterios-llibreta-2b63a12d4e02.pdf", "desde": 1, "anexo": {"id": "2b63a12d4e02", "tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://aula.academialallibreta.es/pluginfile.php/25681/mod_folder/content/0/004B%20-%20SOL%20-%20Castellano%20Lengua%20y%20Literatura%20-%20julio%202013.pdf", "titulo": "Julio 2013 — Criterios de corrección"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN A"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comentario crítico del texto ($0$-$4$ puntos)"
+   }
+  ],
+  "puntos": 4.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Establecimiento del tema del texto, breve resumen de su contenido y descripción y explicación de su esquema organizativo —partes temáticas constitutivas del texto y articulación de estas— ($3$ puntos)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explicación y valoración de las ideas expuestas a partir de la cultura del alumno y de su conocimiento del mundo ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n1",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Cuestiones ($0$-$2$ puntos cada una)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n5",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Analice sintácticamente la siguiente oración: “Pienso en todos los abuelos que alimentan a los suyos con su pequeña pensión, en los padres que entregan sus ahorros para que sus hijos no pierdan el piso” ($2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n5",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comente los aspectos más relevantes de la modalización en el texto ($2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n5",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Etapas en la poesía de Miguel Hernández ($2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": null,
+  "tipo": "opcion",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "OPCIÓN B"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n9",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comentario crítico del texto ($0$-$4$ puntos)"
+   }
+  ],
+  "puntos": 4.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Establecimiento del tema del texto, breve resumen de su contenido y descripción y explicación de su esquema organizativo —partes temáticas constitutivas del texto y articulación de estas— ($3$ puntos)."
+   }
+  ],
+  "puntos": 3.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "I.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Explicación y valoración de las ideas expuestas a partir de la cultura del alumno y de su conocimiento del mundo ($1$ punto)."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n9",
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Cuestiones ($0$-$2$ puntos cada una)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Analice la estructura interna de las siguientes palabras, descomponiéndolas en sus formantes morfológicos básicos e indicando expresamente el tipo de morfemas que se advierten en cada caso: “cuidadoras” (línea 11), “latinoamericana” (línea 13), “manifestaciones” (línea 14). A continuación, señale la categoría léxica a las que pertenecen (sustantivo, adverbio, etc.) y la clase en la que se incluyen según su estructura (simple, derivada, etc.). Por último, explique el significado de “precarias” (línea 10) y “avasallamiento” (línea 27) en el contexto en que aparecen."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Comente los aspectos más relevantes de la cohesión gramatical en el texto."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "II.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El ‘realismo mágico’ y La casa de los espíritu"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": false,
+ "idiomas": [],
+ "entradas": [],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 1 ===
+ 
+ 
+1 
+ 
+ 
+ 
+COMISSIÓ GESTORA DE LES PROVES D’ACCÉS A LA UNIVERSITAT 
+COMISIÓN GESTORA DE LAS PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+ 
+    PROVES D’ACCÉS A LA UNIVERSITAT                              PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+CONVOCATÒRIA:       JULIOL  2013 
+CONVOCATORIA:        JULIO   2013 
+CASTELLÀ: LLENGUA I LITERATURA II 
+CASTELLANO: LENGUA Y LITERATURA II 
+ 
+ 
+CRITERIS DE CORRECCIÓ  /  CRITERIOS DE CORRECCIÓN 
+ 
+ 
+ 
+De acuerdo con lo establecido en el artículo 9, apartado 1 del REAL DECRETO 1892/2008, de 14 de noviembre, por el que se 
+regulan las condiciones para el acceso a las enseñanzas universitarias oficiales de grado y los procedimientos de admisión a las 
+universidades públicas españolas, el ejercicio de Lengua castellana y literatura presentará la estructura que se detalla a continuación.  
+A partir de un único texto, de carácter divulgativo o informativo (y más específicamente, de naturaleza expositivo-argumentativa), y 
+con una extensión máxima aproximada de 25 a 30 líneas, el alumno deberá elegir una de las siguientes opciones:  
+ 
+Opción A. 
+Comentario de texto: 4 puntos 
+ 
+a.1.) Tema (0,5), organización (1,5) y resumen (1): 3 puntos 
+ 
+a.2) Valoración del texto: 1 punto 
+Cuestiones: 6 puntos 
+a) 
+pregunta sobre el nivel sintáctico: 2 puntos 
+b) 
+pregunta sobre aspectos de cohesión – adecuación: 2 puntos 
+c) 
+pregunta sobre literatura: 2 puntos 
+ 
+Opción B. 
+Comentario de texto: 4 puntos 
+ 
+a.1.) Tema (0,5), organización (1,5) y resumen (1): 3 puntos 
+ 
+a.2) Valoración del texto: 1 punto 
+Cuestiones: 6 puntos 
+a) 
+pregunta sobre morfología y léxico: 2 puntos 
+b) 
+pregunta sobre aspectos de cohesión – adecuación: 2 puntos 
+c) 
+pregunta sobre literatura: 2 puntos 
+ 
+CRITERIOS 
+ 
+I. 
+Comentario de texto 
+ 
+I.1. Establecimiento del tema del texto, breve resumen de su contenido y descripción y explicación del esquema organizativo –partes 
+temáticas constitutivas del texto y articulación de estas- (3 puntos):  
+ 
+a) 
+Describir y explicar el esquema organizativo del texto (1,5 puntos).  
+ 
+Comprende: localizar y seleccionar las ideas principales y secundarias en los diferentes párrafos, así como los diferentes tipos de 
+argumentos y la tesis defendida por el autor; delimitar las secuencias textuales o partes constitutivas; y determinar la estructura u 
+organización de estas. 
+El alumno puede describir y explicar lo anterior mediante la redacción en diferentes párrafos o con un cuadro sinóptico, donde 
+queden explicitadas las tareas anteriores. 
+ 
+b) 
+Elaboración del resumen del texto. Breve resumen de su contenido (1 punto).  
+ 
+El alumno demostrará su capacidad de síntesis produciendo un texto coherente y cohesionado, con la extensión adecuada y 
+respetando el contenido del texto. Se aconseja que dicho resumen no supere el 25% de la extensión del propio texto, ya que, de lo 
+contrario, se desvirtúa su función.  
+ 
+c) 
+Establecimiento del tema o idea central del texto (0,5 puntos). El alumno identificará el tema del que trata el texto o señalará 
+la idea central de este (asimismo, es válido indicar la tesis pero no se acepta el título). 
+ 
+
+=== PAGINA 2 ===
+2 
+I.2. Explicación y valoración de las ideas expuestas a partir de la cultura del alumno y de su conocimiento del mundo (1 punto). 
+ 
+NB. El alumno realizará la valoración crítica del contenido y la expresará mediante secuencias expositivas y argumentativas; 
+manifestará su adhesión o rechazo a las ideas expuestas por el autor, aportando nuevos argumentos a favor y/o en contra de aquellas, 
+así como la justificación de la actualidad o vigencia del texto y su interés general o restringido según los potenciales destinatarios. Es 
+necesario insistir, pues, en el hecho de que se trata de una pregunta sobre el contenido y las ideas del texto, y no sobre su forma. En 
+ese sentido, la pregunta consta de varios apartados, que esquemáticamente podrían resumirse así: a) valoración de las ideas del autor, 
+b) opinión del alumno/a sobre el tema que se aborda en el texto; y c) capacidad de asociación con hechos históricos o de actualidad 
+relacionados. 
+ 
+II. Cuestiones 
+a) 
+Niveles morfológico y léxico-semántico. 
+En lo que respecta a la morfología, la pregunta versará sobre: a) la identificación de la categoría léxica (sustantivo, adjetivo, etc.) a la 
+que pertenecen determinadas palabras (tres); b) la segmentación en sus componentes (señalando lexemas y morfemas, y con la 
+indicación expresa de estos) y c) la identificación de la clase a la que pertenecen las palabras según el procedimiento de formación o 
+estructura (simple, derivada, etc.).  
+• 
+NB. En esta pregunta, no se incluirán ni perífrasis verbales ni locuciones. 
+En lo que atañe al nivel léxico-semántico, la pregunta versará sobre el significado de palabras contextualizadas. El significado de las 
+palabras se podrá delimitar mediante sinónimos o mediante paráfrasis. 
+b) 
+Nivel sintáctico. 
+Análisis sintáctico de una oración (extensión máxima dos líneas); se habrá de indicar la segmentación en proposiciones, la función de 
+los constituyentes y la clasificación de la oración. 
+c) 
+Cohesión. 
+La cohesión comprende dos ámbitos de análisis: la cohesión gramatical (deixis, anáfora, catáfora, elipsis, relaciones temporales, 
+conectores, etc.) y la cohesión léxica (recurrencia, sustitución, relaciones semánticas, redes o campos conceptuales, etc.). 
+d) 
+Adecuación.  
+La adecuación abarca, entre otros, los siguientes elementos de análisis: la intencionalidad o propósito comunicativo relacionados con 
+la función lingüística dominante, la modalidad oracional y/o la modalización; la situación comunicativa, que se corresponde con un 
+ámbito de uso concreto y que requiere de un determinado registro o variedad lingüística, así como de otras peculiaridades de 
+variación diatópica y funcional que pudieran aparecer en el texto; el tipo de texto y el género discursivo, etc.  
+ 
+NB. En las preguntas sobre adecuación y cohesión el alumno deberá comenzar definiendo los conceptos por los que se pregunta y 
+establecerá a continuación una lista razonada de categorías (gramaticales, léxicas, tipográficas…) relacionadas, con la consiguiente 
+ejemplificación a partir de fragmentos del texto. En ningún caso valdrá con una mera enumeración telegráfica de esos elementos.  
+Un ejemplo ilustrativo: ante una posible pregunta sobre los factores de modalización en el texto, el alumno comenzará respondiendo 
+qué se entiende por “modalización”, para justificar seguidamente qué elementos del texto (léxico marcado semánticamente, 
+fraseología, procedimientos de formación de palabas, recursos tipográficos, deixis personal, ironía, humor, cambios de registro...) lo 
+traducen en la práctica. 
+Por otro lado, hay que recordar que los diferentes elementos de análisis de la cohesión y la adecuación no son necesariamente 
+incompatibles, dado que, en la práctica, algunos de ellos pueden funcionar en ambas esferas. Precisamente, el objetivo de esta 
+cuestión es que el alumno sea capaz de justificar su encaje en las categorías discursivas por las que se le pregunta.  
+ 
+e) 
+Literatura: las preguntas de literatura versarán sobre alguna de las tres obras seleccionadas (temática, rasgos de estilo, 
+personajes, conexiones de estas obras con los autores, movimientos literarios y/o épocas en que se inscriben).  
+ 
+Asimismo, la calificación global del ejercicio podrá incrementarse hasta un punto o bien disminuirse hasta tres puntos: 
+1) 
+incremento, cuando la producción escrita del alumno sea excelente o bien cuando valore la eficacia comunicativa del texto 
+(adecuación enunciado-enunciación), cuando comente la interdisciplinariedad del contenido (conexión del tema tratado con otros 
+campos), cuando descubra algunos rasgos muy peculiares y específicos del texto: intertextualidad, ironía, importancia de 
+determinadas estructuras oracionales, progresión temática, etc.; 
+2) 
+disminución: hasta tres puntos por cuestiones de corrección gramatical y ortográfica, o por deficiencias en otras propiedades 
+textuales (adecuación, coherencia, cohesión). En el caso concreto de la ortografía,  se descontará a razón de 0,25 por cada falta que 
+afecte a las grafías y 0,15 por cada tilde. Este cómputo afectará a errores nuevos y no a faltas ortográficas que pudieran repetirse en el 
+examen. 
+ 
+ 
+ 
+ 
+ 

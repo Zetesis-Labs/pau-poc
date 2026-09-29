@@ -1,0 +1,1132 @@
+DOCUMENTO {"id": "3c134e1125e6", "region": "Comunidad Valenciana", "asignatura": "Historia de España", "anio": 2026, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "llibreta", "url": "https://aula.academialallibreta.es/pluginfile.php/25644/mod_folder/content/0/017B%20-%20Historia%20de%20Espa%C3%B1a%20-%20junio%202026.pdf", "archivo": "pdfs/comunidad-valenciana/historia-de-espana/2026-ordinaria-examen-llibreta-3c134e1125e6.pdf", "paginas": 4, "estrato": "especial · escaneado"}
+FUENTE {"archivo": "pdfs/comunidad-valenciana/historia-de-espana/2026-ordinaria-criterios-llibreta-7c5377981b00.pdf", "desde": 1, "anexo": {"id": "7c5377981b00", "tipo": "criterios", "contenido": ["criterios"], "origen": "oficial", "fuente": "llibreta", "acceso": "publico", "coincidencia": "exacta", "url": "https://universitats.gva.es/documents/389338055/393318644/Criterios+HESP+junio+2026.pdf/e2b10360-8493-a1be-c1cf-5c22a25d27cb", "titulo": "Junio 2026 — Criterios de corrección"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "I."
+   },
+   {
+    "idioma": "es",
+    "markdown": "I."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "QÜESTIONS BREUS. DEFINICIONS"
+   },
+   {
+    "idioma": "es",
+    "markdown": "CUESTIONES BREVES. DEFINICIONES"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 2,
+   "maximo": 2,
+   "de": 4,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Definiu DOS dels conceptes següents."
+    },
+    {
+     "idioma": "es",
+     "markdown": "Defina DOS de los conceptos siguientes."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "desamortització"
+   },
+   {
+    "idioma": "es",
+    "markdown": "desamortización"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "reforma agrària"
+   },
+   {
+    "idioma": "es",
+    "markdown": "reforma agraria"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "carlistes"
+   },
+   {
+    "idioma": "es",
+    "markdown": "carlistas"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "isabelins"
+   },
+   {
+    "idioma": "es",
+    "markdown": "isabelinos"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "II."
+   },
+   {
+    "idioma": "es",
+    "markdown": "II."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "COMENTARI DE FONT HISTÒRICA"
+   },
+   {
+    "idioma": "es",
+    "markdown": "COMENTARIO de FUENTE HISTÓRICA"
+   }
+  ],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "trieu UNA de les dues fonts"
+    },
+    {
+     "idioma": "es",
+     "markdown": "elija UNA de las dos fuentes"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2.1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "2.2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "2.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 1
+   },
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "III."
+   },
+   {
+    "idioma": "es",
+    "markdown": "III."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "EXPOSICIÓ TEMA (s’ha de triar UNA opció en la pregunta $3$ i contestar obligatòriament la pregunta $4$)"
+   },
+   {
+    "idioma": "es",
+    "markdown": "EXPOSICIÓN TEMA (se ha de elegir una opción en la pregunta $3$ y contestar obligatoriamente la pregunta $4$)"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n10",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [],
+  "puntos": 3.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "va",
+     "markdown": "Respongueu UNA de les dues opcions."
+    },
+    {
+     "idioma": "es",
+     "markdown": "Responda a UNA de las dos opciones."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3.1"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Exposeu l’ordenament constitucional i les principals polítiques administratives en la construcció de l’Estat liberal, abordant també els objectius i l’abast de la reforma agrària ($1833$-$1855$)."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Exponga el ordenamiento constitucional y las principales políticas administrativas en la construcción del Estado liberal, abordando también los objetivos y el alcance de la reforma agraria ($1833$-$1855$)."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "3.2"
+   },
+   {
+    "idioma": "es",
+    "markdown": "3.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Exposeu el problema successori en el regnat de Ferran $\\mathrm{VII}$ i la Primera Guerra Carlina."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique el problema sucesorio en el reinado de Fernando $\\mathrm{VII}$ y la Primera Guerra Carlista."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n10",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "va",
+    "markdown": "4"
+   },
+   {
+    "idioma": "es",
+    "markdown": "4"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "va",
+    "markdown": "Expliqueu i compareu els principals processos de reforma agrària en el segle $\\mathrm{XIX}$ i el segle $\\mathrm{XX}$."
+   },
+   {
+    "idioma": "es",
+    "markdown": "Explique y compare los principales procesos de reforma agraria en los siglos $\\mathrm{XIX}$ y $\\mathrm{XX}$."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "va",
+    "pagina": 2
+   },
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "va",
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "El primer concepte, desamortització, és el procés pel qual es liberalitzen els béns que estaven a les anomenades mans mortes, per la qual cosa no podien ser alienats, bé per estar vinculats a un llinatge (mayorazgo) o a institucions (Església, ajuntaments, Estat, hospitals, etc.). Constitueix un dels principals aspectes de la política agrària liberal."
+    },
+    {
+     "idioma": "es",
+     "markdown": "El primer concepto, desamortización, es el proceso por el cual se liberalizan los bienes que estaban en las llamadas manos muertas, por lo que no podían ser enajenados, bien por estar vinculados a un linaje (mayorazgo) o a instituciones (Iglesia, ayuntamientos, Estado, hospitales, etc.). Constituye uno de los principales aspectos de la política agraria liberal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n4",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "El segon concepte, reforma agrària, és el conjunt de mesures de caràcter polític, econòmic, social i legislatiu destinades a canviar l’estructura de la propietat i les formes de producció."
+    },
+    {
+     "idioma": "es",
+     "markdown": "El segundo concepto reforma agraria, es el conjunto de medidas de carácter político, económico, social y legislativo destinadas a cambiar la estructura de la propiedad y las formas de producción."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "El tercer concepte, carlistes, eren els partidaris que ocupara el tron l’infant Carles M. Isidre (germà de Ferran VII), defensaven la monarquia absoluta, el manteniment de l’Antic Règim, la preeminència de l’Església i la conservació dels furs (lema: “Déu, pàtria i furs”). Van rebre el suport de la noblesa rural, el clergat i els pagesos."
+    },
+    {
+     "idioma": "es",
+     "markdown": "El tercer concepto, carlistas, eran los partidarios de que ocupara el trono el infante Carlos M.ª Isidro (hermano de Fernando VII), defendían la monarquía absoluta, el mantenimiento del Antiguo Régimen, la preeminencia de la Iglesia y la conservación de los fueros (lema: “Dios, Patria y Fueros”). Recibieron el apoyo de la nobleza rural, el clero y los campesinos."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "El quart concepte, isabelins, eren els partidaris d’Isabel II. Proposaven l’abolició de l’Antic Règim i la implantació d’un Estat liberal. Van comptar amb el suport de l’alta noblesa, el funcionariat, la burgesia i els sectors populars de les ciutats."
+    },
+    {
+     "idioma": "es",
+     "markdown": "El cuarto concepto, isabelinos, eran los partidarios de Isabel II. Proponían la abolición del Antiguo Régimen y la implantación de un Estado Liberal. Contaron con el apoyo de la alta nobleza, los funcionarios, la burguesía y los sectores populares de las ciudades."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "La primera (2.1) és una font primària, pública i de caràcter juridicopolític. En concret l’exposició de Mendizábal a la Reina governadora explicant-li els beneficis que per al país tindria la desamortització. La desamortització duta a terme per Mendizábal el $1836$ es va dirigir als béns eclesiàstics, amb l’objectiu de reduir el deute, fer front a les despeses de la Primera Guerra Carlista, i va buscar, a més, l’augment del suport social a la causa liberal davant el carlisme. Conseqüències: es van beneficiar de la subhasta les classes mitjanes i altes; va pujar el preu dels arrendaments, i els llauradors es van convertir en jornalers, tampoc va aconseguir sanejar la hisenda. Context intern: regència de Mª Cristina ($1833-1840$), Estatut Reial ($1834$), el Motí de la Granja ($1836$) que va obligar la regent a restablir la Constitució de $1812$, la divisió dels liberals entre moderats i progressistes, la promulgació de la Constitució de $1837$. (Finalment, es pot considerar, la marxa de la regent el $1840$ i la regència d’Espartero, $1840-1843$).\n\nEn el context internacional, cal esmentar com a conseqüència del Tractat de la Quàdruple Aliança, signat l’abril de $1834$ entre Gran Bretanya, França, Portugal i Espanya, que França es va comprometre a vigilar les seues fronteres perquè els carlistes no reberen auxilis; Anglaterra a enviar armes i municions, així com forces navals per controlar la costa basca i Portugal a cooperar amb tots els mitjans al seu abast. El $1835$ les tres potències van enviar tropes per donar suport a la causa liberal."
+    },
+    {
+     "idioma": "es",
+     "markdown": "La primera (2.1) es una fuente primaria, pública y de carácter jurídico-político. En concreto la exposición de Mendizábal a la Reina gobernadora explicándole los beneficios que para el país tendría la desamortización. La desamortización llevada a cabo por Mendizábal en $1836$ se dirigió a los bienes eclesiásticos, con el objetivo de reducir la deuda, hacer frente a los gastos de la Primera Guerra Carlista, y buscó, además, el aumento del apoyo social a la causa liberal frente al carlismo. Consecuencias: se beneficiaron de la subasta las clases medias y altas; subió el precio de los arrendamientos, y los campesinos se convirtieron en jornaleros, tampoco logró sanear la Hacienda. Contexto interno: Regencia de M.ª Cristina ($1833-1840$), (Estatuto Real ($1834$), el Motín de la Granja ($1836$) que obligó a la regente a restablecer la Constitución de $1812$, la división de los liberales entre moderados y progresistas, la promulgación de la Constitución de $1837$. (Finalmente, se puede considerar, la marcha de la regente en $1840$ y la Regencia de Espartero, $1840-1843$).\n\nEn el contexto internacional, se debe mencionar como a consecuencia del Tratado de la Cuádruple Alianza, firmado en abril de $1834$ entre Gran Bretaña, Francia, Portugal y España, que Francia se comprometió a vigilar sus fronteras para que los carlistas no recibiesen auxilios; Inglaterra a enviar armas y municiones, así como fuerzas navales para controlar la costa vasca y Portugal a cooperar con todos los medios a su alcance. En $1835$ las tres potencias enviaron tropas para apoyar la causa liberal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 1
+    },
+    {
+     "idioma": "es",
+     "pagina": 4
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "La segona (2.2) és una font primària, pública i de caràcter juridicopolític. Es tracta d’un extracte de la llei de desamortització de Madoz de $1855$ que s’inscriu dins el regnat d’Isabel II (ja amb majoria d’edat, $1843-1868$). La desamortització de Madoz es va centrar sobretot en els béns municipals i els de les ordes militars (els valors de la desamortització civil van superar els eclesiàstics). La seua finalitat era amortitzar el deute i sufragar la construcció del ferrocarril. Conseqüències: en eliminar-se la propietat comunal va afectar els llauradors més pobres. Context: pronunciament d’O’Donnell (Vicalvarada, $1854$), Bienni Progressista ($1854-1856$), motins de subsistència, Constitució de $1856$, etc. Es poden considerar els darrers anys del període isabelí (Pacte d’Ostende, $1866$ i la Gloriosa, $1868$)."
+    },
+    {
+     "idioma": "es",
+     "markdown": "La segunda (2.2) es una fuente primaria, pública y de carácter jurídico-político. Se trata de un extracto de la ley de desamortización de Madoz de $1855$ que se inscribe dentro del reinado de Isabel II (ya con mayoría de edad, $1843-1868$). La desamortización de Madoz se centró sobre todo en los bienes municipales y los de las órdenes militares (los valores de la desamortización civil superaron a los eclesiásticos). Su finalidad era amortizar la Deuda y sufragar la construcción del ferrocarril. Consecuencias: al eliminarse la propiedad comunal afectó a los campesinos más pobres. Contexto: Pronunciamiento de O’Donnell (Vicalvarada, $1854$), Bienio Progresista ($1854-1856$), motines de subsistencia, Constitución de $1856$, etc. Se pueden considerar los últimos años del periodo isabelino (Pacto de Ostende, $1866$ y la Gloriosa, $1868$)."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 2
+    },
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "S’ha de contestar exposant les principals característiques de la Constitució de $1837$ i la moderada Constitució de $1845$, els partits dinàstics, el centralisme polític i la reforma territorial de l’Estat, amb menció a la qüestió foral i els objectius i resultats dels processos desamortitzadors. La reforma agrària liberal va tenir com a objectiu fonamental alliberar la terra de les traves de l’Antic Règim, instaurar la propietat privada i l’economia de mercat.\n\nMesures principals: l’abolició dels senyorius i els drets jurisdiccionals, la desvinculació de la propietat privada i la desamortització de la terra en mans de l’església i els ajuntaments. Es completa amb altres mesures com ara l’abolició de la mesta.\n\nEtapes: $1836$ a $1844$, es correspon amb l’aplicació de la desamortització de Mendizábal i afecta principalment béns eclesiàstics (Regències de M. Cristina i Espartero). $1845$ a $1854$, el procés pràcticament es paralitza per l’arribada dels moderats al poder (Ramón M. Narváez). $1855-1856$, nou impuls desamortitzador, amb els liberals després del pronunciament de Vicálvaro ($1854$), s’aplica la desamortització de Pascual Madoz: béns civils (comunals i propis) i eclesiàstics.\n\nResultats: va afectar més en conjunt els béns eclesiàstics que els civils, no va aconseguir crear una classe de mitjans i xicotets propietaris, persistència del latifundi, empobriment de la pagesia i conflictivitat social. En l’agricultura: va augmentar la producció i la superfície cultivada (cereals, vinyes, pataques, etc.), però no la productivitat (escassa mecanització). El retard agrari va obstaculitzar la industrialització."
+    },
+    {
+     "idioma": "es",
+     "markdown": "Se debe contestar exponiendo las principales características de la Constitución de $1837$ y la moderada Constitución de $1845$, los partidos dinásticos, el centralismo político y la reforma territorial del Estado, con mención a la cuestión foral y los objetivos y resultados de los procesos desamortizadores. La reforma agraria liberal tuvo como objetivo fundamental liberar la tierra de las trabas del Antiguo Régimen, instaurar la propiedad privada y la economía de mercado.\n\nMedidas principales: la abolición de los señoríos y los derechos jurisdiccionales, la desvinculación de la propiedad privada y la desamortización de la tierra en manos de la iglesia y los ayuntamientos. Se completa con otras medidas como la abolición de la mesta.\n\nEtapas: $1836$ a $1844$, se corresponde con la aplicación de la desamortización de Mendizábal y afecta principalmente a bienes eclesiásticos (regencias de M.ª Cristina y Espartero). $1845$ a $1854$, el proceso prácticamente se paraliza por la llegada de los moderados al poder (Ramón M.ª Narváez). $1855-1856$, nuevo impulso desamortizador, con los liberales tras el pronunciamiento de Vicálvaro ($1854$), se aplica la desamortización de Pascual Madoz: bienes civiles (comunales y propios) y eclesiásticos.\n\nResultados: afectó más en conjunto a los bienes eclesiásticos que a los civiles, no consiguió crear una clase de medianos y pequeños propietarios, persistencia del latifundio, empobrecimiento del campesinado y conflictividad social. En la agricultura: aumentó la producción y la superficie cultivada (cereales, viñas, patatas, etc.), pero no la productividad (escasa mecanización). El retraso agrario obstaculizó la industrialización."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 2
+    },
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "En aquest cas han d’explicar el plet dinàstic (Llei sàlica i Pragmàtica sanció). Amb la mort de Ferran VII es produeix l’enfrontament entre els defensors dels drets dinàstics de l’infant Carles M. Isidre, germà del rei, favorables a l’absolutisme i les tradicions (carlistes), i els partidaris d’Isabel, filla i legítima hereva (isabelins o cristins, ja que davant la minoria d’edat d’Isabel II s’estableix la regència de M. Cristina). La Primera Guerra Carlista es va estendre entre $1833$ i $1839$. Carles va rebre el suport dels absolutistes; la segona, dels liberals, en es quals s’havia recolzat M. Cristina per defensar els drets de la seua filla. Internacionalment van donar suport al “pretendent carlista” amb armes i diners potències absolutistes com Àustria, Rússia i Prússia. Isabel II va comptar amb el suport d’Anglaterra, França i Portugal, favorables a la implantació d’un liberalisme moderat a Espanya. S’ha de fer al·lusió a la fi del conflicte amb el Conveni de Vergara ($1839$) pel qual van acordar mantenir els furs a les províncies basques i Navarra i integrar l’oficialitat carlista a l’exèrcit liberal. Així com les conseqüències: despeses quantioses que el govern va haver de fer front amb l’emissió de deute públic, fet que va donar pas a la desamortització eclesiàstica de Mendizábal."
+    },
+    {
+     "idioma": "es",
+     "markdown": "En este caso deberán explicar el pleito dinástico (Ley Sálica y Pragmática Sanción). Con la muerte de Fernando VII se produce el enfrentamiento entre los defensores de los derechos dinásticos del infante Carlos M.ª Isidro, hermano del rey, favorables al absolutismo y las tradiciones (carlistas), y los partidarios de Isabel, hija y legítima heredera (isabelinos o cristinos, ya que ante la minoría de edad de Isabel II se establece la regencia de M.ª Cristina). La Primera Guerra Carlista se extendió entre $1833$ y $1839$. Carlos recibió el apoyo de los absolutistas; la segunda, de los liberales, en los que se había apoyado M.ª Cristina para defender los derechos de su hija. A nivel internacional respaldaron al “pretendiente carlista” con armas y dinero potencias absolutistas como Austria, Rusia y Prusia. Isabel II contó con el soporte de Inglaterra, Francia y Portugal, favorables a la implantación de un liberalismo moderado en España. Se deberá hacer alusión al fin del conflicto con el Convenio de Vergara ($1839$) por el que acordaron mantener los fueros en las provincias vascas y Navarra e integrar a la oficialidad carlista en el ejército liberal. Así como las consecuencias: gastos cuantiosos que el gobierno tuvo que hacer frente emitiendo Deuda Pública lo que dio paso a la desamortización eclesiástica de Mendizábal."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 2
+    },
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "va",
+     "markdown": "S’han de considerar cinc moments al segle XIX: Corts de Cadis ($1810-1814$): abolició dels senyorius, la reducció a propietat particular d’emprius, reialencs i propis i incorporació a l’Estat dels monestirs i convents dissolts per les Corts. Trienni liberal ($1820-1823$): reposició de la llei de desvinculació i dissolució dels senyorius, tancament de finques, incorporació a l’Estat dels béns de les ordres religioses dissoltes durant la invasió francesa. Regència ($1834-1843$): restabliment de les lleis de $1820-1823$, propietat particular de les terres ermes, dissolució de les ordres religioses i llei de béns nacionals. Dècada moderada ($1843-1854$): legalització de les venda i ocupacions i restricció de les vendes de béns nacionals. Bienni progressista ($1854-1856$): llei de desamortització general (comunals). Al segle XX la Llei de reforma agrària de $1932$ amb l’objecte d’acabar amb els latifundis, l’absentisme dels propietaris i estimular la producció. Entre les mesures cal esmentar: la Llei de termes municipals (contractació de jornalers), la creació de l’Institut per a la Reforma Agrària (IRA), encarregat d’assenyalar les finques objecte d’expropiació, la forma d’explotació i el repartiment als llauradors; el problema de les indemnitzacions, l’escàs resultat final i els retrocessos, la mobilització pagesa i la nova Llei de reforma agrària del Front Popular ($18$ de juny de $1936$) que no es va aplicar pel cop d’estat."
+    },
+    {
+     "idioma": "es",
+     "markdown": "Se deben considerar cinco momentos en el siglo XIX: Cortes de Cádiz ($1810-1814$): abolición de los señoríos, la reducción a propiedad particular de baldíos, realengos y propios e incorporación al Estado de los monasterios y conventos disueltos por las Cortes. Trienio Liberal ($1820-1823$): reposición de la ley de desvinculación y disolución de los señoríos, cerramiento de fincas, incorporación al Estado de los bienes de las órdenes religiosas disueltas durante la invasión francesa. Regencia ($1834-1843$): restablecimiento de las leyes de $1820-1823$, propiedad particular de las tierras yermas, disolución de las órdenes religiosas y ley de bienes nacionales. Década Moderada ($1843-1854$): legalización de las venta y ocupaciones y restricción de las ventas de bienes nacionales. Bienio Progresista ($1854-1856$): ley de desamortización general (comunales). En el siglo XX la Ley de Reforma Agraria de $1932$ con el objeto de acabar con los latifundios, el absentismo de los propietarios y estimular la producción. Entre las medidas mencionar: la “Ley de Términos Municipales” (contratación de jornaleros), la creación del Instituto para la Reforma Agraria (IRA) encargado de señalar las fincas objeto de expropiación, la forma de explotación y el reparto a los campesinos; el problema de las indemnizaciones, el escaso resultado final y los retrocesos, la movilización campesina y la nueva Ley de Reforma Agraria del Frente Popular ($18$ de junio de $1936$) que no se aplicó por el golpe de Estado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "va",
+     "pagina": 3
+    },
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": [
+  "En la respuesta de la pregunta 4, el documento contiene la errata gramatical «legalización de las venta» en castellano y «legalització de les venda» en valenciano; se ha transcrito literalmente.",
+  "En la respuesta de la pregunta 2.1 en castellano, el original presenta un paréntesis de apertura adicional en «Regencia de M.ª Cristina (1833-1840), (Estatuto Real (1834)»; se ha conservado."
+ ]
+}
+PDF
+=== PAGINA 1 ===
+1 
+COMISSIÓ GESTORA DE LES PROVES D’ACCÉS A LA UNIVERSITAT 
+COMISIÓN GESTORA DE LAS PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+ PROVES D’ACCÉS A LA UNIVERSITAT PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+CONVOCATÒRIA: ORDINÀRIA 2026 
+CONVOCATORIA: ORDINARIA 2026 
+Assignatura: HISTÒRIA D’ESPANYA 
+Asignatura: HISTORIA DE ESPAÑA 
+CRITERIS DE CORRECCIÓ / CRITERIOS DE CORRECCIÓN 
+I. QÜESTIONS BREUS. DEFINICIONS
+1. Definiu DOS dels conceptes següents (fins a 2 punts)
+Només s’han de corregir dos conceptes. En el cas que se’n responguen més de dos, s’han de corregir 
+només els dos primers. Obtindran fins a 2 punts les respostes que definisquen dos dels conceptes plantejats de 
+forma clara i sàpiguen situar-los històricament, en el seu context. El primer concepte, desamortització, és el 
+procés pel qual es liberalitzen els béns que estaven a les anomenades mans mortes, per la qual cosa no podien 
+ser alienats, bé per estar vinculats a un llinatge (mayorazgo) o a institucions (Església, ajuntaments, Estat, 
+hospitals, etc.). Constitueix un dels principals aspectes de la política agrària liberal. 
+El segon concepte, reforma agrària, és el conjunt de mesures de caràcter polític, econòmic, social i 
+legislatiu destinades a canviar l’estructura de la propietat i les formes de producció.  
+El tercer concepte, carlistes, eren els partidaris que ocupara el tron l’infant Carles M. Isidre (germà de 
+Ferran VII), defensaven la monarquia absoluta, el manteniment de l’Antic Règim, la preeminència de l’Església 
+i la conservació dels furs (lema: “Déu, pàtria i furs”). Van rebre el suport de la noblesa rural, el clergat i els 
+pagesos. 
+El quart concepte, isabelins, eren els partidaris d’Isabel II. Proposaven l’abolició de l’Antic Règim i la 
+implantació d’un Estat liberal. Van comptar amb el suport de l’alta noblesa, el funcionariat, la burgesia i els 
+sectors populars de les ciutats. 
+II. COMENTARI DE FONT HISTÒRICA (trieu UNA de les dues fonts)
+2.1. Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica. 
+(fins a 2,5 punts) 
+2.2. Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica. 
+(fins a 2,5 punts) 
+Només s’ha de corregir el comentari d’una de les dues fonts històriques (2.1 o 2.2). En el cas que se’n 
+responga més d’una, s’ha de corregir només la primera de les analitzades. Obtindran fins a 2,5 punts les 
+respostes que comenten adequadament les fonts: descripció del tipus de document, la seua naturalesa, anàlisi 
+del seu contingut i interpretació en relació amb el seu context històric nacional i internacional a mode de 
+valoració. S’ha d’evitar que l’anàlisi siga només un resum del contingut o una paràfrasi d’aquest en el cas d’un 
+document escrit. 
+La primera (2.1) és una font primària, pública i de caràcter juridicopolític. En concret l’exposició de 
+Mendizábal a la Reina governadora explicant-li els beneficis que per al país tindria la desamortització. La 
+desamortització duta a terme per Mendizábal el 1836 es va dirigir als béns eclesiàstics, amb l’objectiu de reduir 
+el deute, fer front a les despeses de la Primera Guerra Carlista, i va buscar, a més, l’augment del suport social a 
+la causa liberal davant el carlisme. Conseqüències: es van beneficiar de la subhasta les classes mitjanes i altes; 
+va pujar el preu dels arrendaments, i els llauradors es van convertir en jornalers, tampoc va aconseguir sanejar 
+la hisenda. Context intern: regència de Mª Cristina (1833-1840), Estatut Reial (1834), el Motí de la Granja 
+(1836) que va obligar la regent a restablir la Constitució de 1812, la divisió dels liberals entre moderats i 
+
+=== PAGINA 2 ===
+2 
+ 
+progressistes, la promulgació de la Constitució de 1837. (Finalment, es pot considerar, la marxa de la regent el 
+1840 i la regència d’Espartero, 1840-1843). 
+En el context internacional, cal esmentar com a conseqüència del Tractat de la Quàdruple Aliança, 
+signat l’abril de 1834 entre Gran Bretanya, França, Portugal i Espanya, que França es va comprometre a vigilar 
+les seues fronteres perquè els carlistes no reberen auxilis; Anglaterra a enviar armes i municions, així com 
+forces navals per controlar la costa basca i Portugal a cooperar amb tots els mitjans al seu abast. El 1835 les tres 
+potències van enviar tropes per donar suport a la causa liberal. 
+La segona (2.2) és una font primària, pública i de caràcter juridicopolític. Es tracta d’un extracte de la 
+llei de desamortització de Madoz de 1855 que s’inscriu dins el regnat d’Isabel II (ja amb majoria d’edat, 1843-
+1868). La desamortització de Madoz es va centrar sobretot en els béns municipals i els de les ordes militars (els 
+valors de la desamortització civil van superar els eclesiàstics). La seua finalitat era amortitzar el deute i sufragar 
+la construcció del ferrocarril. Conseqüències: en eliminar-se la propietat comunal va afectar els llauradors més 
+pobres. Context: pronunciament d’O’Donnell (Vicalvarada, 1854), Bienni Progressista (1854-1856), motins de 
+subsistència, Constitució de 1856, etc. Es poden considerar els darrers anys del període isabelí (Pacte 
+d’Ostende, 1866 i la Gloriosa, 1868). 
+ 
+III. EXPOSICIÓ TEMA (heu de triar UNA opció en la pregunta 3 i contestar obligatòriament la pregunta 
+4) 
+ 
+3. Respongueu UNA de les dues opcions. (fins a 3 punts) 
+ 
+Només s’ha de corregir l’exposició d’un dels dos temes (3.1 o 3.2). En el cas que se’n responga més 
+d’un, s’ha de corregir només el primer dels exposats. 
+En el primer tema (3.1), obtindrà fins a 3 punts l’alumnat que desenvolupe de manera precisa, ordenada 
+i clara els continguts de la temàtica de la pregunta. S’ha de contestar exposant les principals característiques de 
+la Constitució de 1837 i la moderada Constitució de 1845, els partits dinàstics, el centralisme polític i la 
+reforma territorial de l’Estat, amb menció a la qüestió foral i els objectius i resultats dels processos 
+desamortitzadors. La reforma agrària liberal va tenir com a objectiu fonamental alliberar la terra de les traves de 
+l’Antic Règim, instaurar la propietat privada i l’economia de mercat. 
+Mesures principals: l’abolició dels senyorius i els drets jurisdiccionals, la desvinculació de la propietat 
+privada i la desamortització de la terra en mans de l’església i els ajuntaments. Es completa amb altres mesures 
+com ara l’abolició de la mesta. 
+Etapes: 1836 a 1844, es correspon amb l’aplicació de la desamortització de Mendizábal i afecta 
+principalment béns eclesiàstics (Regències de M. Cristina i Espartero). 1845 a 1854, el procés pràcticament es 
+paralitza per l’arribada dels moderats al poder (Ramón M. Narváez). 1855-1856, nou impuls desamortitzador, 
+amb els liberals després del pronunciament de Vicálvaro (1854), s’aplica la desamortització de Pascual Madoz: 
+béns civils (comunals i propis) i eclesiàstics. 
+Resultats: va afectar més en conjunt els béns eclesiàstics que els civils, no va aconseguir crear una classe 
+de mitjans i xicotets propietaris, persistència del latifundi, empobriment de la pagesia i conflictivitat social. En 
+l’agricultura: va augmentar la producció i la superfície cultivada (cereals, vinyes, pataques, etc.), però no la 
+productivitat (escassa mecanització). El retard agrari va obstaculitzar la industrialització. 
+En el tema 3.2, obtindrà fins a 3 punts l’alumnat que desenvolupe de manera precisa, ordenada i clara 
+els continguts de la temàtica de la pregunta. En aquest cas han d’explicar el plet dinàstic (Llei sàlica i 
+Pragmàtica sanció). Amb la mort de Fernando VII es produeix l’enfrontament entre els defensors dels drets 
+dinàstics de l’infant Carles M. Isidre, germà del rei, favorables a l’absolutisme i les tradicions (carlistes), i els 
+partidaris d’Isabel, filla i legítima hereva (isabelins o cristins, ja que davant la minoria d’edat d’Isabel II 
+s’estableix la regència de M. Cristina). La Primera Guerra Carlista es va estendre entre 1833 i 1839. Carles va 
+rebre el suport dels absolutistes; la segona, dels liberals, en es quals s’havia recolzat M. Cristina per defensar 
+els drets de la seua filla. Internacionalment van donar suport al “pretendent carlista” amb armes i diners 
+potències absolutistes com Àustria, Rússia i Prússia. Isabel II va comptar amb el suport d’Anglaterra, França i 
+Portugal, favorables a la implantació d’un liberalisme moderat a Espanya. S’ha de fer al·lusió a la fi del 
+conflicte amb el Conveni de Vergara (1839) pel qual van acordar mantenir els furs a les províncies basques i 
+Navarra i integrar l’oficialitat carlista a l’exèrcit liberal. Així com les conseqüències: despeses quantioses que el 
+govern va haver de fer front amb l’emissió de deute públic, fet que va donar pas a la desamortització 
+eclesiàstica de Mendizábal. 
+ 
+
+=== PAGINA 3 ===
+3 
+ 
+ 
+4. Pregunta 4 
+ 
+En aquesta última pregunta de caràcter transversal, obtindrà fins a 2,5 punts l’alumnat que desenvolupe 
+de manera precisa, ordenada i clara els continguts de la temàtica de la pregunta. En aquesta última pregunta la 
+resposta és molt oberta i permet diverses argumentacions correctes. Amb això s’ha de valorar si l’alumnat sap 
+refondre dades i idees procedents del procés d’aprenentatge de la matèria i comparar-les adequadament en els 
+seus corresponents contextos històrics. S’han de considerar cinc moments al segle XIX: Corts de Cadis (1810-
+1814): abolició dels senyorius, la reducció a propietat particular d’emprius, reialencs i propis i incorporació a 
+l’Estat dels monestirs i convents dissolts per les Corts. Trienni liberal (1820-1823): reposició de la llei de 
+desvinculació i dissolució dels senyorius, tancament de finques, incorporació a l’Estat dels béns de les ordres 
+religioses dissoltes durant la invasió francesa. Regència (1834-1843): restabliment de les lleis de 1820-1823, 
+propietat particular de les terres ermes, dissolució de les ordres religioses i llei de béns nacionals. Dècada 
+moderada (1843-1854): legalització de les venda i ocupacions i restricció de les vendes de béns nacionals. 
+Bienni progressista (1854-1856): llei de desamortització general (comunals). Al segle XX la Llei de reforma 
+agrària de 1932 amb l’objecte d’acabar amb els latifundis, l’absentisme dels propietaris i estimular la 
+producció. Entre les mesures cal esmentar: la Llei de termes municipals (contractació de jornalers), la creació 
+de l’Institut per a la Reforma Agrària (IRA), encarregat d’assenyalar les finques objecte d’expropiació, la forma 
+d’explotació i el repartiment als llauradors; el problema de les indemnitzacions, l’escàs resultat final i els 
+retrocessos, la mobilització pagesa i la nova Llei de reforma agrària del Front Popular (18 de juny de 1936) que 
+no es va aplicar pel cop d’estat. 
+ 
+ 
+*** 
+La nota final sobre 10 punts s’obté després de sumar les quatre qualificacions citades. El corrector o correctora 
+només pot exigir els coneixements contemplats en els nuclis temàtics de la programació a partir dels que 
+proporcionen les fonts històriques de l’examen. No obstant això, si l’alumnat aporta coneixements no 
+contemplats i estan ben utilitzats en el context, se li han de valorar positivament per augmentar la qualificació 
+obtinguda. Convé recordar que, tot i que l’alumnat ha d’integrar en la composició del text els seus 
+coneixements i la informació facilitada per les fonts, en aquesta prova no es valoren només solament els 
+coneixements, per la qual cosa per establir la qualificació definitiva s’ha de valorar el conjunt de la composició 
+i la redacció. 
+ 
+ 
+OBSERVACIÓ 
+La qualificació global de l’exercici pot disminuir-se fins a 1 punt per qüestions de 
+correcció gramatical i ortogràfica. En el cas concret de l’ortografia, els dos primers errors 
+ortogràfics no es penalitzen; a partir del tercer error, s’ha de descomptar a raó de 0,10 punts per 
+cada falta que afecte les grafies o per cada accent. Aquest còmput afecta errors nous i no faltes 
+ortogràfiques que puguen anar repetint-se en l’examen. 
+El corrector o correctora ha de marcar els errors en l’exercici i especificar clarament la 
+deducció efectuada en la nota global en relació amb els criteris anteriors.
+
+=== PAGINA 4 ===
+ 
+ 
+4 
+ 
+ 
+ 
+I. CUESTIONES BREVES. DEFINICIONES 
+ 
+1. Defina DOS de los conceptos siguientes (hasta 2 puntos) 
+ 
+Solo se corregirán dos conceptos. En el caso de que se respondan más de dos, se corregirán solo los dos 
+primeros. Obtendrán hasta 2 puntos las respuestas que definan dos de los conceptos planteados de forma clara y 
+sepan situarlos históricamente, en su contexto. 
+El primer concepto, desamortización, es el proceso por el cual se liberalizan los bienes que estaban en las 
+llamadas manos muertas, por lo que no podían ser enajenados, bien por estar vinculados a un linaje (mayorazgo) 
+o a instituciones (Iglesia, ayuntamientos, Estado, hospitales, etc.). Constituye uno de los principales aspectos de 
+la política agraria liberal. 
+El segundo concepto reforma agraria, es el conjunto de medidas de carácter político, económico, social 
+y legislativo destinadas a cambiar la estructura de la propiedad y las formas de producción.  
+El tercer concepto, carlistas, eran los partidarios de que ocupara el trono el infante Carlos M.ª Isidro 
+(hermano de Fernando VII), defendían la monarquía absoluta, el mantenimiento del Antiguo Régimen, la pre-
+eminencia de la Iglesia y la conservación de los fueros (lema: “Dios, Patria y Fueros”). Recibieron el apoyo de 
+la nobleza rural, el clero y los campesinos. 
+El cuarto concepto, isabelinos, eran los partidarios de Isabel II. Proponían la abolición del Antiguo Régi-
+men y la implantación de un Estado Liberal. Contaron con el apoyo de la alta nobleza, los funcionarios, la bur-
+guesía y los sectores populares de las ciudades. 
+ 
+ 
+II. COMENTARIO de FUENTE HISTÓRICA (elija UNA de las dos fuentes) 
+ 
+2.1. Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica. 
+(hasta 2,5 puntos) 
+ 
+2.2. Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica. 
+(hasta 2,5 puntos) 
+ 
+Solo se corregirá el comentario de una de las dos fuentes históricas (2.1 o 2.2). En el caso de que se 
+responda más de una, se corregirá solo la primera de las analizadas. Obtendrán hasta 2,5 puntos las respuestas 
+que comenten adecuadamente las fuentes: descripción del tipo de documento, su naturaleza, análisis de su conte-
+nido e interpretación en relación con su contexto histórico nacional e internacional a modo de valoración. Debe 
+evitarse que el análisis sea un mero resumen del contenido o una paráfrasis de este en el caso de un documento 
+escrito. 
+La primera (2.1) es una fuente primaria, pública y de carácter jurídico-político. En concreto la exposición 
+de Mendizábal a la Reina gobernadora explicándole los beneficios que para el país tendría la desamortización. 
+La desamortización llevada a cabo por Mendizábal en 1836 se dirigió a los bienes eclesiásticos, con el objetivo 
+de reducir la deuda, hacer frente a los gastos de la Primera Guerra Carlista, y buscó, además, el aumento del 
+apoyo social a la causa liberal frente al carlismo. Consecuencias: se beneficiaron de la subasta las clases medias 
+y altas; subió el precio de los arrendamientos, y los campesinos se convirtieron en jornaleros, tampoco logró 
+sanear la Hacienda. Contexto interno: Regencia de M.ª Cristina (1833-1840), (Estatuto Real (1834), el Motín de 
+la Granja (1836) que obligó a la regente a restablecer la Constitución de 1812, la división de los liberales entre 
+moderados y progresistas, la promulgación de la Constitución de 1837. (Finalmente, se puede considerar, la mar-
+cha de la regente en 1840 y la Regencia de Espartero, 1840-1843).  
+En el contexto internacional, se debe mencionar como a consecuencia del Tratado de la Cuádruple 
+Alianza, firmado en abril de 1834 entre Gran Bretaña, Francia, Portugal y España, que Francia se comprometió 
+a vigilar sus fronteras para que los carlistas no recibiesen auxilios; Inglaterra a enviar armas y municiones, así 
+como fuerzas navales para controlar la costa vasca y Portugal a cooperar con todos los medios a su alcance. En 
+1835 las tres potencias enviaron tropas para apoyar la causa liberal. 
+La segunda (2.2) es una fuente primaria, pública y de carácter jurídico-político. Se trata de un extracto de 
+la ley de desamortización de Madoz de 1855 que se inscribe dentro del reinado de Isabel II (ya con mayoría de 
+
+=== PAGINA 5 ===
+5 
+ 
+edad, 1843-1868). La desamortización de Madoz se centró sobre todo en los bienes municipales y los de las 
+órdenes militares (los valores de la desamortización civil superaron a los eclesiásticos). Su finalidad era amortizar 
+la Deuda y sufragar la construcción del ferrocarril. Consecuencias: al eliminarse la propiedad comunal afectó a 
+los campesinos más pobres. Contexto: Pronunciamiento de O’Donnell (Vicalvarada, 1854), Bienio Progresista 
+(1854-1856), motines de subsistencia, Constitución de 1856, etc. Se pueden considerar los últimos años del pe-
+riodo isabelino (Pacto de Ostende, 1866 y la Gloriosa, 1868). 
+ 
+ 
+III. EXPOSICIÓN TEMA (se ha de elegir una opción en la pregunta 3 y contestar obligatoriamente la 
+pregunta 4) 
+ 
+3. Responda a UNA de las dos opciones. (hasta 3 puntos) 
+ 
+Solo se corregirá la exposición de uno de los dos temas (3.1 o 3.2). En el caso de que se responda más 
+de uno, se corregirá solo el primero de los expuestos. 
+En el primer tema (3.1), obtendrá hasta 3 puntos el alumnado que desarrolle de manera precisa, ordenada 
+y clara los contenidos de la temática de la pregunta.  
+Se debe contestar exponiendo las principales características de la Constitución de 1837 y la moderada 
+Constitución de 1845, los partidos dinásticos, el centralismo político y la reforma territorial del Estado, con men-
+ción a la cuestión foral y los objetivos y resultados de los procesos desamortizadores. La reforma agraria liberal 
+tuvo como objetivo fundamental liberar la tierra de las trabas del Antiguo Régimen, instaurar la propiedad privada 
+y la economía de mercado. Medidas principales: la abolición de los señoríos y los derechos jurisdiccionales, la 
+desvinculación de la propiedad privada y la desamortización de la tierra en manos de la iglesia y los ayuntamien-
+tos. Se completa con otras medidas como la abolición de la mesta. 
+Etapas: 1836 a 1844, se corresponde con la aplicación de la desamortización de Mendizábal y afecta 
+principalmente a bienes eclesiásticos (regencias de M.ª Cristina y Espartero). 1845 a 1854, el proceso práctica-
+mente se paraliza por la llegada de los moderados al poder (Ramón M.ª Narváez). 1855-1856, nuevo impulso 
+desamortizador, con los liberales tras el pronunciamiento de Vicálvaro (1854), se aplica la desamortización de 
+Pascual Madoz: bienes civiles (comunales y propios) y eclesiásticos. 
+Resultados: afectó más en conjunto a los bienes eclesiásticos que a los civiles, no consiguió crear una 
+clase de medianos y pequeños propietarios, persistencia del latifundio, empobrecimiento del campesinado y con-
+flictividad social. En la agricultura: aumentó la producción y la superficie cultivada (cereales, viñas, patatas, etc.), 
+pero no la productividad (escasa mecanización). El retraso agrario obstaculizó la industrialización. 
+En el tema 3.2, obtendrá hasta 3 puntos el alumnado que desarrolle de manera precisa, ordenada y clara 
+los contenidos de la temática de la pregunta. En este caso deberán explicar el pleito dinástico (Ley Sálica y 
+Pragmática Sanción). Con la muerte de Fernando VII se produce el enfrentamiento entre los defensores de los 
+derechos dinásticos del infante Carlos M.ª Isidro, hermano del rey, favorables al absolutismo y las tradiciones 
+(carlistas), y los partidarios de Isabel, hija y legítima heredera (isabelinos o cristinos, ya que ante la minoría de 
+edad de Isabel II se establece la regencia de M.ª Cristina). La Primera Guerra Carlista se extendió entre 1833 y 
+1839. Carlos recibió el apoyo de los absolutistas; la segunda, de los liberales, en los que se había apoyado M.ª 
+Cristina para defender los derechos de su hija. A nivel internacional respaldaron al “pretendiente carlista” con 
+armas y dinero potencias absolutistas como Austria, Rusia y Prusia. Isabel II contó con el soporte de Inglaterra, 
+Francia y Portugal, favorables a la implantación de un liberalismo moderado en España. Se deberá hacer alusión 
+al fin del conflicto con el Convenio de Vergara (1839) por el que acordaron mantener los fueros en las provincias 
+vascas y Navarra e integrar a la oficialidad carlista en el ejército liberal. Así como las consecuencias: gastos 
+cuantiosos que el gobierno tuvo que hacer frente emitiendo Deuda Pública lo que dio paso a la desamortización 
+eclesiástica de Mendizábal. 
+ 
+ 
+4. Pregunta 4 (hasta 2,5 puntos) 
+ 
+En esta última pregunta de carácter transversal, obtendrá hasta 2,5 puntos el alumnado que desarrolle de 
+manera precisa, ordenada y clara los contenidos de la temática de la pregunta. En esta última pregunta la respuesta 
+es muy abierta y permite diversas argumentaciones correctas. Con ello se valorará si el alumnado sabe refundir 
+datos e ideas procedentes del proceso de aprendizaje de la materia y compararlos adecuadamente en sus corres-
+pondientes contextos históricos. 
+
+=== PAGINA 6 ===
+6 
+ 
+Se deben considerar cinco momentos en el siglo XIX: Cortes de Cádiz (1810-1814): abolición de los 
+señoríos, la reducción a propiedad particular de baldíos, realengos y propios e incorporación al Estado de los 
+monasterios y conventos disueltos por las Cortes. Trienio Liberal (1820-1823): reposición de la ley de desvincu-
+lación y disolución de los señoríos, cerramiento de fincas, incorporación al Estado de los bienes de las órdenes 
+religiosas disueltas durante la invasión francesa. Regencia (1834-1843): restablecimiento de las leyes de 1820-
+1823, propiedad particular de las tierras yermas, disolución de las órdenes religiosas y ley de bienes nacionales. 
+Década Moderada (1843-1854): legalización de las venta y ocupaciones y restricción de las ventas de bienes 
+nacionales. Bienio Progresista (1854-1856): ley de desamortización general (comunales). En el siglo XX la Ley 
+de Reforma Agraria de 1932 con el objeto de acabar con los latifundios, el absentismo de los propietarios y 
+estimular la producción. Entre las medidas mencionar: la “Ley de Términos Municipales” (contratación de jor-
+naleros), la creación del Instituto para la Reforma Agraria (IRA) encargado de señalar las fincas objeto de expro-
+piación, la forma de explotación y el reparto a los campesinos; el problema de las indemnizaciones, el escaso 
+resultado final y los retrocesos, la movilización campesina y la nueva Ley de Reforma Agraria del Frente Popular 
+(18 de junio de 1936) que no se aplicó por el golpe de Estado. 
+*** 
+ 
+La nota final sobre 10 puntos se obtendrá después de sumar las cuatro calificaciones citadas. El corrector 
+o correctora sólo podrá exigir los conocimientos contemplados en los núcleos temáticos de la programación a 
+partir de los que proporcionen las fuentes históricas del examen. No obstante, si el alumnado aporta conocimien-
+tos no contemplados y están bien utilizados en el contexto, se le valorarán positivamente para aumentar la califi-
+cación obtenida. Conviene recordar que, aunque el alumnado deberá integrar en la composición del texto sus 
+conocimientos y la información facilitada por las fuentes, en esta prueba no se valorarán solamente los conoci-
+mientos, por lo que para establecer la calificación definitiva se valorará el conjunto de la composición y la redac-
+ción. 
+ 
+OBSERVACIÓN 
+La calificación global del ejercicio podrá disminuirse hasta 1 punto por cuestiones de co-
+rrección gramatical y ortográfica. En el caso concreto de la ortografía, los dos primeros errores 
+ortográficos no se penalizarán; a partir del tercer error, se descontará a razón de 0,10 puntos 
+por cada falta que afecte a las grafías o por cada tilde. Este cómputo afectará a errores nuevos y 
+no a faltas ortográficas que pudieran ir repitiéndose en el examen. 
+El corrector o correctora marcará los errores en el ejercicio y especificará claramente la 
+deducción efectuada en la nota global en relación con los criterios anteriores. 
+ 
+ 
+ 

@@ -1,0 +1,1253 @@
+DOCUMENTO {"id": "1bc800a06e3b", "region": "Madrid", "asignatura": "Matemáticas II", "anio": 2021, "convocatoria": "ordinaria", "tipo": "examen", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1F1zHKCQFbYvLEP_6v3O4YiA1dIH2kTYA/view?usp=sharing", "archivo": "pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf", "paginas": 7, "estrato": "piloto · Madrid · Matemáticas II"}
+FUENTE {"archivo": "pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf", "desde": 6, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 6}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Tres hermanos quieren repartirse de forma equitativa un total de $540$ acciones valoradas en $1560$ euros, que corresponden a tres empresas $A$, $B$ y $C$. Sabiendo que el valor actual en bolsa de la acción $A$ es el triple que el de $B$ y la mitad que el de $C$, que el número de acciones de $C$ es la mitad que el de $B$ y que el actual valor en bolsa de la acción $B$ es $1$ euro, encuentre el número de cada tipo de acción que le corresponde a cada hermano."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule el área de la región delimitada por las gráficas de las funciones $$f(x)=2+x-x^2,\\qquad g(x)=2x^2-4x.$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sean la recta $r\\equiv\\begin{cases}-x-y+z=0\\\\2x+3y-z+1=0\\end{cases}$ y el plano $\\pi\\equiv 2x+y-z+3=0$. Se pide:"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular el ángulo que forman $r$ y $\\pi$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Hallar el simétrico del punto de intersección de la recta $r$ y el plano $\\pi$ con respecto al plano $z-y=0$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n3",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determinar la proyección ortogonal de la recta $r$ sobre el plano $\\pi$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "A.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El tiempo de vida de los individuos de cierta especie animal tiene una distribución normal con una media de $8.8$ meses y una desviación típica de $3$ meses."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [
+   "E1",
+   "E2"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Qué porcentaje de individuos de esta especie supera los $10$ meses? ¿Qué porcentaje de individuos ha vivido entre $7$ y $10$ meses?"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Si se toman al azar $4$ especímenes, ¿cuál es la probabilidad de que al menos uno no supere los $10$ meses de vida?"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Qué valor de $c$ es tal que el intervalo $(8.8-c,8.8+c)$ incluye el tiempo de vida (medido en meses) del $98\\%$ de los individuos de esta especie?"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.1."
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Se considera el siguiente sistema de ecuaciones dependientes del parámetro real $a$:\n$$\\begin{cases}ax-2y+(a-1)z=4\\\\-2x+3y-6z=2\\\\-ax+y-6z=6\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Discuta el sistema según los diferentes valores de $a$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n11",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Resuelva el sistema para $a=1$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.2."
+   }
+  ],
+  "sintetico": false,
+  "orden": 6,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Se considera la función $$f(x)=\\begin{cases}\\operatorname{sen} x & \\text{si }x<0\\\\xe^x & \\text{si }x\\ge 0\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Estudie la continuidad y la derivabilidad de $f$ en $x=0$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Estudie los intervalos de crecimiento y decrecimiento de $f$ restringida a $(-\\pi,2)$. Demuestre que existe un punto $x_0\\in[0,1]$ de manera que $f(x_0)=2$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcule $\\displaystyle\\int_{-\\pi/2}^{1} f(x)\\,dx$."
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.3."
+   }
+  ],
+  "sintetico": false,
+  "orden": 7,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sean los planos $\\pi_1\\equiv x+y=1$ y $\\pi_2\\equiv x+z=1$."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle los planos paralelos al plano $\\pi_1$ tales que su distancia al origen de coordenadas sea $2$."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle la recta que pasa por el punto $(0,2,0)$ y es perpendicular al plano $\\pi_2$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle la distancia entre los puntos de intersección del plano $\\pi_1$ con los ejes $x$ e $y$."
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "B.4."
+   }
+  ],
+  "sintetico": false,
+  "orden": 8,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Una estación de medición de calidad del aire mide niveles de $\\mathrm{NO_2}$ y de partículas en suspensión. La probabilidad de que en un día se mida un nivel de $\\mathrm{NO_2}$ superior al permitido es $0.16$. En los días en los que se supera el nivel permitido de $\\mathrm{NO_2}$, la probabilidad de que se supere el nivel permitido de partículas es $0.33$. En los días en los que no se supera el nivel de $\\mathrm{NO_2}$, la probabilidad de que se supere el nivel de partículas es $0.08$."
+   }
+  ],
+  "puntos": 2.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Cuál es la probabilidad de que en un día se superen los dos niveles permitidos?"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n24",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Cuál es la probabilidad de que se supere al menos uno de los dos?"
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n25",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "c)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Son independientes los sucesos “en un día se supera el nivel permitido de $\\mathrm{NO_2}$” y “en un día se supera el nivel permitido de partículas”?"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n26",
+  "padre": "n22",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "d)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "¿Cuál es la probabilidad de que en un día se supere el nivel permitido de $\\mathrm{NO_2}$, sabiendo que no se ha superado el nivel permitido de partículas?"
+   }
+  ],
+  "puntos": 0.75,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n1",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sea $A$, $B$ y $C$ el número de acciones de las correspondientes empresas que le tocan a cada hermano. Entonces:\n$$\n\\begin{cases}\n3(A+B+C)=540\\\\\n3\\cdot(3A+1\\cdot B+6C)=1560\\\\\nC=\\dfrac{B}{2}\n\\end{cases}\n\\Rightarrow\n\\begin{cases}\nA+B+C=180\\\\\n3A+B+6C=520\\\\\nB=2C\n\\end{cases}\n\\Rightarrow\n\\begin{cases}\nA+3C=180\\\\\n3A+8C=520\n\\end{cases}\n$$\n$A=180-3C\\Rightarrow 3(180-3C)+8C=520\\Rightarrow$\n$$\n\\begin{cases}\nC=540-520=20\\\\\nB=2C=40\\\\\nA=180-3C=180-60=120\n\\end{cases}\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Las curvas $y=f(x)$ e $y=g(x)$ se cortan en los puntos cuya coordenada $x$ verifica la ecuación\n$$\n0=g(x)-f(x)=3x^2-5x-2\\Rightarrow x=\\dfrac{5\\pm\\sqrt{25+24}}{6}\\Rightarrow x=2,\\quad x=-\\dfrac{1}{3}.\n$$\nPara $x\\in(-1/3,2)$, $g(x)<f(x)$ (ya que, por ejemplo, $g(0)=0<2=f(0)$). Por tanto, el área comprendida por las dos gráficas es\n$$\n\\int_{-1/3}^{2}(f(x)-g(x))\\,dx=\\int_{-1/3}^{2}(-3x^2+5x+2)\\,dx=\n\\left.-x^3+\\dfrac{5x^2}{2}+2x\\right|_{-1/3}^{2}\n$$\n$$\n=-8+10+4-\\dfrac{1}{27}-\\dfrac{5}{18}+\\dfrac{2}{3}=\\dfrac{343}{54}.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n4",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La recta $r$ está en forma implícita y su vector director es $\\vec{d}_r=(2,-1,1)$. El vector normal al plano $\\pi$ es $\\vec{n}=(2,1,-1)$ y por tanto el seno del ángulo $\\alpha$ que forman es\n$$\n\\operatorname{sen}(\\alpha)=\\dfrac{|\\vec{d}_r\\cdot\\vec{n}|}{|\\vec{d}_r||\\vec{n}|}=\\dfrac{1}{3}\\Rightarrow \\alpha=\\operatorname{arcsen}\\left(\\dfrac{1}{3}\\right)\\approx 19{,}47^{\\circ}.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La recta $r$ es $(x,y,z)=(1,-1,0)+\\lambda(2,-1,1)$. El punto $P$ de intersección entre la recta y el plano se obtiene para $\\lambda$ solución de $2(1+2\\lambda)+(-1-\\lambda)-\\lambda+3=0$, es decir, $\\lambda=-2\\Rightarrow P(-3,1,-2)$. La recta $s$ que pasa por $P$ y es perpendicular al plano $z-y=0$, tiene por ecuaciones paramétricas\n$$\ns\\equiv\\begin{cases}\nx=-3\\\\\ny=1-\\lambda\\\\\nz=-2+\\lambda\n\\end{cases}\n$$\nLa recta $s$ y el plano $z-y=0$ se cortan en el punto $M(-3,-1/2,-1/2)$, que es el punto medio de $PP'$. Por tanto $P'(-3,-2,1)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El plano $\\pi'$ que contiene a $r$ y es perpendicular a $\\pi$ es:\n$$\n\\begin{vmatrix}\nx-1&y+1&z\\\\\n2&-1&1\\\\\n2&1&-1\n\\end{vmatrix}=0\\Rightarrow y+z+1=0\n$$\ny por tanto la recta proyección de $r$ sobre $\\pi$ tiene por ecuación\n$$\n\\begin{cases}\n2x+y-z+3=0\\\\\ny+z+1=0\n\\end{cases}\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$T=$ “tiempo de vida (en meses) de un individuo de esta especie tomado al azar” $\\sim \\operatorname{Normal}(\\mu=8{,}8,\\sigma=3)$. Con $Z$ la distribución Normal $(0,1)$:\n$$\nP(T>10)=P(Z>0{,}40)\\approx 0{,}3446\\Rightarrow \\text{Un }34{,}46\\%\\text{ de los individuos.}\n$$\n$$\nP(7<T<10)=P(-0{,}60<Z<0{,}40)\\approx 0{,}6554-0{,}2743=0{,}3811\\Rightarrow \\text{Un }38{,}11\\%\\text{ de los individuos.}\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Elegido al azar un individuo de esta especie $p=P(T\\leq 10)\\approx 0{,}6554$. Tomados $4$ individuos al azar, sus tiempos de vida serán independientes y así la variable $X$ que contabiliza cuántos de estos $4$ no han superado los $10$ meses de vida es una Binomial $(4,p=0{,}6554)$. Se pide\n$$\nP(X\\geq 1)=1-P(X=0)=1-(1-0{,}6554)^4=1-0{,}3446^4\\approx 0{,}985898637.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n10",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P(8{,}8-c\\leq T\\leq 8{,}8+c)=0{,}98\\Leftrightarrow P\\left(0\\leq Z\\leq\\dfrac{c}{3}\\right)=0{,}49.$$\nDe la tabla de la Normal $(0,1)$ se tiene $c/3\\approx 2{,}33$ y así $c\\approx 6{,}99$ es el valor buscado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$|A|=3a^2-29a+26\\Rightarrow a=1\\text{ y }a=\\dfrac{26}{3}.$$\nSi $a\\notin\\{1,26/3\\}$: Sistema compatible determinado.\n\nSi $a=26/3$: Sistema incompatible.\n\nSi $a=1$: Sistema compatible indeterminado."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\n\\begin{cases}\nx-2y=4\\\\\n-y-6z=10\n\\end{cases}\n$$\nSolución: $(-16-12t,-10-6t,t)$ con $t\\in\\mathbb{R}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n15",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\\lim_{x\\to 0^+}f(x)=\\lim_{x\\to 0^-}f(x)=f(0)=0$$\nasí que $f$ es continua en cero. Por lo que se refiere a la derivabilidad,\n$$\n\\lim_{x\\to 0^-}\\dfrac{f(x)-f(0)}{x}=\\lim_{x\\to 0^-}\\dfrac{\\operatorname{sen}x}{x}=1\\quad(\\text{L’Hôpital})\n$$\ny\n$$\n\\lim_{x\\to 0^+}\\dfrac{f(x)-f(0)}{x}=\\lim_{x\\to 0^+}e^x=1,\n$$\npor tanto, $f$ es derivable en $x=0$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Para $-\\pi<x<0$, $f'(x)=\\cos x$, y se tiene que $f$ es decreciente en $(-\\pi,-\\pi/2)$ y creciente en $(-\\pi/2,0)$. Para $x>0$, $f'(x)=e^x(x+1)>0$, así que $f$ es creciente en $(0,2)$, y por ser continua en $x=0$ lo es en $(-\\pi/2,2)$. Para la segunda parte, basta aplicar el teorema de Bolzano ya que $f$ es continua, $f(0)=0$ y $f(1)=e>2$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\\int_{-\\pi/2}^{1}f(x)\\,dx=\\int_{-\\pi/2}^{0}\\operatorname{sen}x\\,dx+\\int_{0}^{1}xe^x\\,dx.$$\nLa función $F=-\\cos x$ es una primitiva de $\\operatorname{sen}x$, mientras que integrando por partes obtenemos que $G(x)=e^x(x-1)$ lo es de $xe^x$. Por Barrow, la integral pedida es\n$$\nF(0)-F(-\\pi/2)+G(1)-G(0)=0.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Los planos que son paralelos a $x+y=1$ son de la forma $x+y=D$, la distancia del origen a un plano que cumpla la ecuación anterior será\n$$\n\\dfrac{|D|}{\\sqrt{2}}=2,\n$$\nesto implica que $D=\\pm 2\\sqrt{2}$. Por tanto los planos son $x+y=2\\sqrt{2}$ y $x+y=-2\\sqrt{2}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n20",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Una recta perpendicular al plano $x+z=1$ tiene como vector director $\\vec{v}=(1,0,1)$ y si corta al eje $y$ en $y=2$ pasa por el punto $(0,2,0)$. Por tanto la ecuación de la recta será $(x,y,z)=(\\lambda,2,\\lambda)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n21",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Los puntos de intersección con los ejes $x$ e $y$ son los puntos $(1,0,0)$ y $(0,1,0)$ respectivamente. La distancia entre ellos es $\\sqrt{2}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n23",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sean los sucesos $N=$ “en un día se supera el nivel permitido de $\\ce{NO2}$” y $P=$ “en un día se supera el nivel permitido de partículas”. Se sabe que $P(N)=0{,}16$, $P(P\\mid N)=0{,}33$ y $P(P\\mid \\overline{N})=0{,}08$. Entonces\n$$\nP(N\\cap P)=P(P\\mid N)\\cdot P(N)=0{,}33\\cdot 0{,}16=0{,}0528.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n24",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P(P)=P(P\\mid N)P(N)+P(P\\mid\\overline{N})\\cdot P(\\overline{N})=0{,}0528+0{,}08\\cdot(1-0{,}16)=0{,}12.$$\n$$\nP(P\\cup N)=P(P)+P(N)-P(P\\cap N)=0{,}12+0{,}16-0{,}0528=0{,}2272.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n25",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$P$ y $N$ no son independientes, ya que $P(P\\cap N)=0{,}0528$ y $P(P)\\cdot P(N)=0{,}12\\cdot 0{,}16=0{,}0192$ no coinciden."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  },
+  {
+   "nodo": "n26",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\nP(N\\mid\\overline{P})=\\dfrac{P(N\\cap\\overline{P})}{P(\\overline{P})}=\\dfrac{P(N)-P(N\\cap P)}{1-P(P)}=\\dfrac{0{,}16-0{,}0528}{1-0{,}12}\\approx 0{,}1218.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 7
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 6 ===
+MATEM ´ATICAS II
+SOLUCIONES
+(Documento de trabajo orientativo)
+A.1.
+Sea A, B y C el n´umero de acciones de las correspondientes empresas que le tocan a cada hermano. Entonces:
+
+
+
+3(A + B + C) = 540
+3 · (3A + 1 · B + 6C) = 1560
+C = B
+2
+=⇒
+
+
+
+A + B + C = 180
+3A + B + 6C = 520
+B = 2C
+=⇒
+ A + 3C = 180
+3A + 8C = 520
+A = 180 −3C
+=⇒
+3(180 −3C) + 8C = 520
+=⇒
+
+
+
+
+
+C = 540 −520 = 20
+B = 2C = 40
+A = 180 −3C = 180 −60 = 120
+A.2.
+Las curvas y = f(x) e y = g(x) se cortan en los puntos cuya coordenada x veriﬁca la ecuaci´on
+0 = g(x) −f(x) = 3x2 −5x −2 ⇒x = 5 ± √25 + 24
+6
+⇒x = 2, x = −1
+3 .
+Para x ∈(−1/3, 2), g(x) < f(x) (ya que, por ejemplo, g(0) = 0 < 2 = f(0)). Por tanto, el ´area comprendida por
+las dos gr´aﬁcas es
+Z 2
+−1/3
+(f(x) −g(x))dx =
+Z 2
+−1/3
+(−3x2 + 5x + 2)dx = −x3 + 5x2
+2
++ 2x
+
+2
+−1/3
+= −8 + 10 + 4 −1
+27 −5
+18 + 2
+3 = 343
+54 .
+A.3.
+a) La recta r est´a en forma impl´ıcita y su vector director es −→
+dr = (2, −1, 1). El vector normal al plano π es
+−→
+n = (2, 1, −1) y por tanto el seno del ´angulo α que forman es sen(α) = |−→
+dr · −→
+n |
+|−→
+dr||−→
+n |
+= 1
+3 ⇒α = arcsen( 1
+3) ≈19.47◦.
+b) La recta r es (x, y, z) = (1, −1, 0) + λ(2, −1, 1). El punto P de intersecci´on entre la recta y el plano se obtiene
+para λ soluci´on de 2(1 + 2λ) + (−1 −λ) −λ + 3 = 0, es decir, λ = −2 ⇒P(−3, 1, −2). La recta s que pasa por P
+y es perpendicular al plano z −y = 0, tiene por ecuaciones param´etricas s ≡
+
+
+
+
+
+x = −3
+y = 1 −λ
+z = −2 + λ
+. La recta s y el plano
+z −y = 0 se cortan en el punto M(−3, −1
+2 , −1
+2 ), que es el punto medio de PP
+′. Por tanto P
+′(−3, −2, 1).
+c) El plano π′ que contiene a r y es perpendicular a π es: π′ ≡
+
+x −1
+y + 1
+z
+2
+−1
+1
+2
+1
+−1
+
+= 0 ⇒y + z + 1 = 0 y por
+tanto la recta proyecci´on de r sobre π tiene por ecuaci´on
+(
+2x + y −z + 3 = 0
+y + z + 1 = 0
+A.4.
+a) T =“tiempo de vida (en meses) de un individuo de esta especie tomado al azar”∼Normal(µ = 8.8, σ = 3). Con
+Z la distribuci´on Normal(0, 1):
+P(T > 10) = P(Z > 0.40) ≈0.3446 ⇒Un 34.46 % de los individuos.
+P(7 < T < 10) = P(−0.60 < Z < 0.40) ≈0.6554 −0.2743 = 0.3811 ⇒Un 38.11 % de los individuos.
+b) Elegido al azar un individuo de esta especie p = P(T ≤10) ≈0.6554. Tomados 4 individuos al azar, sus
+tiempos de vida ser´an independientes y as´ı la variable X que contabiliza cu´antos de estos 4 no han superado los
+10 meses de vida es una Binomial(4, p = 0.6554). Se pide
+P(X ≥1) = 1 −P(X = 0) = 1 −(1 −0.6554)4 = 1 −0.34464 ≈0.985898637.
+c) P(8.8 −c ≤T ≤8.8 + c) = 0.98 ⇔P
+ 0 ≤Z ≤c
+3
+
+= 0.49. De la tabla de la Normal(0, 1) se tiene c
+3 ≈2.33 y as´ı
+c ≈6.99 es el valor buscado.
+
+=== PAGINA 7 ===
+B.1.
+a) |A| = 3a2 −29a + 26 ⇒a = 1 y a = 26
+3 .
+Si a̸ = 1 o 26
+3 ⇒Sistema compatible determinadod
+Si a = 26
+3 ⇒Sistema incompatibled
+Si a = 1 ⇒Sistema compatible indeterminado.
+b)
+x −2y = 4
+−y −6z = 10
+)
+Soluci´on: (−16 −12t, −10 −6t, t) con t ∈R.
+B.2.
+a) limx→0+ f(x) = limx→0−f(x) = f(0) = 0 as´ı que f es continua en cero. Por lo que se reﬁere a la derivabilidad,
+lim
+x→0−
+f(x) −f(0)
+x
+= lim
+x→0−
+sen x
+x
+= 1 (L’Hˆopital) y
+lim
+x→0+
+f(x) −f(0)
+x
+= lim
+x→0+ ex = 1,
+por tanto, f es derivable en x = 0.
+b) Para −π < x < 0, f ′(x) = cos x, y se tiene que f es decreciente en (−π, −π
+2 ) y creciente en (−π
+2 , 0). Para
+x > 0, f ′(x) = ex(x + 1) > 0, as´ı que f es creciente en (0, 2), y por ser continua en x = 0 lo es en (−π
+2 , 2). Para
+la segunda parte, basta aplicar el teorema de Bolzano ya que f es continua, f(0) = 0 y f(1) = e > 2.
+c)
+R 1
+−π
+2 f(x)dx =
+R 0
+−π
+2 sen xdx+
+R 1
+0 xexdx. La funci´on F = −cos x es una primitiva de sen x, mientras que integrando
+por partes obtenemos que G(x) = ex(x−1) lo es de xex. Por Barrow, la integral pedida es F(0)−F(−π
+2 )+G(1)−
+G(0) = 0.
+B.3.
+a) Los planos que son paralelos a x + y = 1 son de la forma x + y = D, la distancia del origen a un plano que
+cumpla la ecuaci´on anterior ser´a |D|
+√
+2 = 2, esto implica que D = ±2
+√
+2. Por tanto los planos son x + y = 2
+√
+2 y
+x + y = −2
+√
+2.
+b) Una recta perpendicular al plano x + z = 1 tiene como vector director −→v = (1, 0, 1) y si corta al eje y en y = 2
+pasa por el punto (0, 2, 0). Por tanto la ecuaci´on de la recta ser´a (x, y, z) = (λ, 2, λ).
+c) Los puntos de intersecci´on con los ejes x e y son los puntos (1, 0, 0) y (0, 1, 0) respectivamente. La distancia
+entre ellos es
+√
+2.
+B.4.
+a) Sean los sucesos N =“en un d´ıa se supera el nivel permitido de NO2” y P =“en un d´ıa se supera el nivel
+permitido de part´ıculas”. Se sabe que P(N) = 0.16, P(P|N) = 0.33 y P(P|N) = 0.08. Entonces P(N ∩P) =
+P(P|N) · P(N) = 0.33 · 0.16 = 0.0528.
+b) P(P) = P(P|N)P(N) + P(P|N) · P(N) = 0.0528 + 0.08 · (1 −0.16) = 0.12.
+P(P ∪N) = P(P) + P(N) −P(P ∩N) = 0.12 + 0.16 −0.0528 = 0.2272.
+c) P y N no son independientes, ya que P(P ∩N) = 0.0528 y P(P) · P(N) = 0.12 · 0.16 = 0.0192 no coinciden.
+d) P(N|P) = P(N ∩P)
+P(P)
+= P(N) −P(N ∩P)
+1 −P(P)
+= 0.16 −0.0528
+1 −0.12
+≈0.1218.

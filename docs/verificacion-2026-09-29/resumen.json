@@ -1,0 +1,36 @@
+{
+  "ejecucion": "gpt-6-luna__p5",
+  "resumen": {
+    "examenes": 266,
+    "pendientes_revision": 247,
+    "controles_superados": 19
+  },
+  "hallazgos_generales": [],
+  "hallazgos_por_regla": {
+    "campo-alterado": 4984,
+    "rubrica-sin-nodo": 82,
+    "apartado-fuera-de-pregunta": 80,
+    "contexto-omitido": 27,
+    "nodo-omitido": 80,
+    "eleccion-hijos-distintos": 15,
+    "figura-sin-imagen": 24,
+    "pregunta-dentro-de-pregunta": 1,
+    "enunciado-vacio": 3,
+    "recorte-con-problemas": 12,
+    "solucion-sin-nodo": 4,
+    "version-linguistica-incompleta": 1,
+    "pagina-sin-idioma": 2,
+    "idioma-sin-textos": 1
+  },
+  "campos_alterados": {
+    "contexto.literalRegla": 1629,
+    "instruccionesExamen": 2329,
+    "regla": 80,
+    "literalRegla": 89,
+    "literalReglaExamen": 857
+  },
+  "banco_anterior_sha256": "473c95893d332b2812137a0122e21f6cfbd8d34834482a3810b7784ef362ff03",
+  "registros_originales_comprobados": 431,
+  "registros_originales_modificados": [],
+  "alcance": "Conservación y estructura del banco; no certifica exhaustividad frente al PDF ni corrección académica. El estado se propaga a las preguntas del examen."
+}

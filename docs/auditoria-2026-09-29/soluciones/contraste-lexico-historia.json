@@ -1,0 +1,2702 @@
+[
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n2",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El Documento 1 y el Documento 2 son fuentes primarias que reflejan el contexto de las Cortes de Cádiz ($1810$-$1812$), un momento clave en la historia",
+    "final": "es propios del sistema feudal. Asimismo, son testimonios directos del proceso de transformación que se vivió en España en los albores del liberalismo.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n3",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 0.943,
+    "inicio": "Por otro lado, el Documento 3 y el Documento 4 son también fuentes primarias, pero de un contexto muy diferente: la dictadura franquista ($1939$-$1975",
+    "final": "tadura sobre la vida privada y pública de las mujeres, utilizando la religión y la moral tradicional como herramientas de represión y adoctrinamiento.",
+    "cambios": [
+      {
+        "op": "insert",
+        "fuente": "",
+        "salida": "por otro lado el documento 3 y el documento 4 son tambien fuentes primarias pero de un contexto muy diferente la dictadura franquista 1939 1975 ambas fuentes"
+      }
+    ]
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n5",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "En el contexto de las Cortes de Cádiz, tanto el Decreto sobre la libertad de imprenta ($1810$) como el Decreto sobre la abolición de los señoríos juri",
+    "final": "ntiguo Régimen. La Constitución de $1812$ consolidaría estas ideas, aunque su vigencia sería breve debido al regreso del absolutismo con Fernando VII.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n6",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "En un contexto muy diferente, los Documentos 3 y 4 muestran la concepción de la mujer durante la dictadura franquista. En ambos textos se insiste en u",
+    "final": "rmación nacional del franquismo, que buscaba imponer un orden social tradicional frente a las ideas progresistas y feministas de la Segunda República.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n8",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Censura"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Censura"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La censura es el control previo o la supresión de información, ideas u opiniones por parte de una autoridad, generalmente el Estado. Su objetivo es ev",
+    "final": " instrumento clave para controlar la prensa, la literatura y el cine, limitando la libertad de expresión y silenciando cualquier oposición al régimen.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n9",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Senyoriu"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Señorío"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El señorío era una institución feudal en la que un señor tenía derechos sobre un territorio y sus habitantes. Los señoríos podían ser jurisdiccionales",
+    "final": "sinos. Fueron abolidos por las Cortes de Cádiz en $1811$, lo que permitió la integración de estas tierras a la nación y promovió la propiedad privada.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n10",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Nacionalcatolicisme"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Nacionalcatolicismo"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Fue la ideología que definió la dictadura franquista, caracterizada por la fusión del nacionalismo español con los valores y principios de la Iglesia ",
+    "final": "licismo otorgaba a la religión un papel central en la vida pública y privada, imponiendo la moral cristiana en la educación, la cultura y la política.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n11",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Dictadura"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Dictadura"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La dictadura es un régimen en el que el poder está concentrado en una sola persona o grupo, sin restricciones legales ni democracia. Las dictaduras su",
+    "final": "res y totalitarias, como la dictadura franquista en España, que anuló los derechos civiles y controló todos los aspectos de la vida social y política.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n13",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Analitzeu les principals mesures legislatives adoptades per les Corts de Cadis per a posar fi a l’Antic Règim."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Analice las principales medidas legislativas adoptadas por las Cortes de Cádiz para acabar con el Antiguo Régimen."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Las Cortes de Cádiz ($1810$-$1814$) representaron un intento revolucionario de acabar con el Antiguo Régimen y sentar las bases de un Estado liberal y",
+    "final": "ión ($1813$) y la promulgación de la Constitución de $1812$, que establecía la soberanía nacional, la división de poderes y los derechos individuales.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n14",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu les principals característiques del marc ideològic de la dictadura franquista. Presteu especial atenció als aspectes relacionats amb la repressió i el control social."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Exponga las principales características del marco ideológico de la dictadura franquista, prestando especial atención a los aspectos relacionados con la represión y el control social."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La dictadura franquista, que se extendió desde $1939$ hasta $1975$, estuvo fundamentada en un marco ideológico autoritario, ultraconservador y naciona",
+    "final": " educación, la censura y la violencia para asegurar su estabilidad y perpetuarse en el poder, sofocando cualquier atisbo de oposición o modernización.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n16",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu les característiques de la Constitució de Cadis i compareu-ne el contingut amb els textos fonamentals de 1845 i 1869 en matèria de sobirania, divisió de poders i drets individuals."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Exponga las características de la Constitución de Cádiz y compare su contenido con los textos fundamentales de 1845 y 1869 en materia de soberanía, división de poderes y derechos individuales."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La Constitución de Cádiz, promulgada el $19$ de marzo de $1812$, fue un texto revolucionario que marcó un antes y un después en la historia del consti",
+    "final": " moderantismo y el poder monárquico, la de $1869$ supuso un avance hacia un sistema democrático y una mayor protección de las libertades individuales.",
+    "cambios": []
+  },
+  {
+    "doc": "09feb8541d90",
+    "nodo": "n17",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Compareu la situació de la dona en la Segona República i la dictadura franquista, remarcant els aspectes polítics i de vida quotidiana."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Compare la situación de la mujer en la Segunda República y la Dictadura franquista, haciendo hincapié en los aspectos políticos y de vida cotidiana."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La situación de la mujer en España durante la primera mitad del siglo XX estuvo marcada por dos etapas profundamente contrastadas: el período progresi",
+    "final": "roladas por la Iglesia y el Estado. Esta dualidad refleja las tensiones ideológicas y sociales que marcaron la historia de España durante el siglo XX.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n2",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 0.972,
+    "inicio": "Ambos documentos son fuentes primarias relacionadas con el contexto histórico del Trienio Liberal. El Documento $1$ recoge las palabras del general Ra",
+    "final": "ue es una obra de ficción, describe acontecimientos históricos del siglo $XIX$. Como fuente, es literaria y refleja los debates políticos de la época.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n3",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El Documento $3$ es una fuente primaria de carácter jurídico: la ley electoral de $1931$ que introdujo avances democráticos como el sufragio universal",
+    "final": "na fuente primaria, política y discursiva, centrada en los debates sobre la igualdad de derechos entre hombres y mujeres durante la Segunda República.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n5",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "- **Ideas principales:** En el Documento $1$, Rafael del Riego argumenta que el levantamiento militar de $1820$ tiene como objetivo restaurar los dere",
+    "final": "ó el enfrentamiento entre absolutistas y liberales, y culminó con la restauración absolutista en $1823$ gracias a la intervención de la Santa Alianza.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n6",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "- **Ideas principales:** El Documento $3$ resalta los cambios democráticos en la Segunda República, como la reducción de la edad electoral y el recono",
+    "final": "tas reformas, como el reconocimiento del sufragio femenino en $1931$, fueron avances clave, aunque generaron divisiones dentro de la propia República.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n8",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Societats patriòtiques"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Sociedades Patrióticas"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Fueron asociaciones formadas en el siglo $XIX$ para promover ideas liberales y constitucionales. Surgieron especialmente durante el Trienio Liberal ($",
+    "final": "ionales. Surgieron especialmente durante el Trienio Liberal ($1820$–$1823$) y se convirtieron en espacios de debate político y movilización ciudadana.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n9",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Pronunciament"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Pronunciamiento"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Es un levantamiento militar típico del siglo $XIX$ en España, liderado por oficiales del ejército con el objetivo de cambiar el régimen político. Ejem",
+    "final": " el objetivo de cambiar el régimen político. Ejemplo destacado es el pronunciamiento de Rafael del Riego en $1820$, que dio inicio al Trienio Liberal.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n10",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Sufragi femení"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Sufragio femenino"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Derecho de las mujeres a participar en elecciones como votantes y candidatas. En España, fue reconocido en $1931$ durante la Segunda República, siendo",
+    "final": "mo votantes y candidatas. En España, fue reconocido en $1931$ durante la Segunda República, siendo Clara Campoamor una figura clave en su consecución.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n11",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "República democràtica"
+      },
+      {
+        "idioma": "es",
+        "markdown": "República democrática"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Forma de gobierno basada en la soberanía popular, la separación de poderes y la igualdad de derechos para todos los ciudadanos. En España, la Segunda ",
+    "final": "os los ciudadanos. En España, la Segunda República ($1931$–$1939$) fue un intento de consolidar este modelo con amplias reformas sociales y políticas.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n13",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu les principals mesures polítiques adoptades a Espanya durant el Trienni Liberal. Utilitzeu per a això els textos proposats 1 i 2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique las principales medidas políticas adoptadas en España durante el Trienio Liberal. Utilice para ello los textos propuestos 1 y 2."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El Trienio Liberal fue un periodo comprendido entre $1820$ y $1823$ en el que España experimentó un intento de reinstaurar el constitucionalismo tras ",
+    "final": "e enfrentó grandes obstáculos y fue suprimido por la fuerza, dejó una huella profunda en las futuras generaciones de políticos y pensadores liberales.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n14",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Desenvolupeu les principals característiques de les polítiques reformismes de la Segona República. Utilitzeu per a això els textos proposats 3 i 4."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Desarrolle las principales características de las políticas reformistas de la Segunda República. Utilice para ello los textos propuestos 3 y 4."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La Segunda República Española se proclamó el $14$ de abril de $1931$ tras la caída de la monarquía de Alfonso $XIII$. Fue un periodo caracterizado por",
+    "final": "pública sentaron las bases para el progreso social y político en España, marcando un precedente en la lucha por la democracia y los derechos sociales.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n16",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu les diferències ideològiques en matèria de sobirania, divisió de poders i drets individuals entre un règim absolutista i un règim constitucional entre 1808 i 1843."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describe las diferencias ideológicas en materia de Soberanía, División de poderes y Derechos individuales entre un régimen absolutista y un régimen constitucional entre 1808 y 1843."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Entre $1808$ y $1843$, España vivió una profunda transformación política marcada por la lucha entre el absolutismo, representado por los partidarios d",
+    "final": "edad moderna, basada en la libertad y la igualdad. Estas diferencias marcaron las luchas políticas y sociales de gran parte del siglo $XIX$ en España.",
+    "cambios": []
+  },
+  {
+    "doc": "16d0161b5c29",
+    "nodo": "n17",
+    "pagina": 9,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Compareu el paper atribuït a la dona en la República i en la dictadura franquista."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Compare el papel atribuido a la mujer en la República y en la dictadura franquista."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La Segunda República ($1931$–$1939$) y la dictadura franquista ($1939$–$1975$) representaron dos momentos históricos completamente opuestos en cuanto ",
+    "final": "stos avances y las relegó a un papel secundario. Este contraste refleja los cambios sociales y políticos que experimentó España durante el siglo $XX$.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n2",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 0.997,
+    "inicio": "Los documentos $1$ y $2$ son fuentes primarias y jurídicas, ya que ambos reflejan decisiones legislativas tomadas en el contexto del Trienio Liberal (",
+    "final": "beralismo y la Iglesia.\n\nAmbos documentos son relevantes para entender las reformas liberales del Trienio y el conflicto entre el Estado y la Iglesia.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n3",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nDescriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4\nDescriba el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Documento $3$:** El discurso de Juan Carlos I ante el Congreso de los Estados Unidos ($2$ de junio de $1976$) es una fuente primaria de carácter pol",
+    "final": "ntos son representativos de la construcción democrática en España durante la Transición y del esfuerzo por integrar pluralidad territorial y política.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n5",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 0.995,
+    "inicio": "**Documento $1$:**\n\n- **Idea principal:** La abolición definitiva del tribunal de la Inquisición, al considerarse incompatible con los principios libe",
+    "final": "bía las medidas liberales como una amenaza a su influencia. Este enfrentamiento fue una constante en los intentos de modernización política en España.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n6",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4\nIdentifiqueu les idees principals dels textos i situeu-les en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4\nIdentifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 0.994,
+    "inicio": "**Documento $3$:**\n\n- **Idea principal:** El discurso de Juan Carlos I destaca la función de la monarquía como garante de la democracia, la justicia y",
+    "final": "Transición Democrática, que buscaba integrar las demandas autonómicas de Cataluña y otras regiones dentro de un modelo de Estado democrático y plural.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n8",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Inquisició"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Inquisición"
+      }
+    ],
+    "ratio": 0.993,
+    "inicio": "La Inquisición Española fue una institución fundada en $1478$ bajo los Reyes Católicos para perseguir y castigar la herejía, garantizando la ortodoxia",
+    "final": " Trienio Liberal ($1820\\text{-}1823$), cuando los valores liberales declararon incompatible su existencia con la libertad de conciencia y la justicia.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n9",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Constitució"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Constitución"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Una constitución es el conjunto de normas fundamentales que rigen la organización política, económica y social de un Estado. Establece los derechos y ",
+    "final": "$1812$ marcó un hito como la primera carta magna liberal, mientras que la Constitución de $1978$ consolidó la democracia tras la dictadura franquista.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n10",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Transició política"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Transición política"
+      }
+    ],
+    "ratio": 0.992,
+    "inicio": "La Transición política en España ($1975\\text{-}1978$) fue el proceso de cambio del régimen franquista a una democracia parlamentaria. Liderada por fig",
+    "final": "1976$), la legalización de partidos políticos y la promulgación de la Constitución de $1978$, que estableció un sistema democrático y descentralizado.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n11",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Autonomia política"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Autonomía política"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La autonomía política es el derecho de una región o territorio a autogobernarse dentro de un Estado, gestionando sus propias instituciones y competenc",
+    "final": "ades y regiones, como Cataluña, a través de estatutos de autonomía, que definieron las relaciones entre el Estado central y las comunidades autónomas.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n13",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu les principals reformes polítiques del Trienni Liberal i feu especial èmfasi en les mesures que van afectar la religió."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique las principales reformas políticas del Trienio Liberal haciendo especial énfasis en las medidas que afectaron a la religión."
+      }
+    ],
+    "ratio": 0.987,
+    "inicio": "El Trienio Liberal ($1820\\text{-}1823$) marcó un esfuerzo por implantar los principios del liberalismo en España tras el pronunciamiento de Riego y la",
+    "final": "ión en la esfera religiosa. Este conflicto entre los valores liberales y la tradición religiosa fue una de las causas de la inestabilidad del Trienio.",
+    "cambios": [
+      {
+        "op": "insert",
+        "fuente": "",
+        "salida": "el trienio liberal 1820 text"
+      }
+    ]
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n14",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu el procés de reforma política a Espanya des de novembre de 1975 i les principals disposicions legals i constitucionals per a la democratització i organització territorial de l’Estat espanyol."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Exponga el proceso de reforma política en España desde noviembre de 1975 y las principales disposiciones legales y constitucionales para la democratización y organización territorial del Estado español"
+      }
+    ],
+    "ratio": 0.999,
+    "inicio": "El proceso de reforma política en España iniciado en noviembre de $1975$ tras la muerte de Francisco Franco marcó el tránsito del régimen dictatorial ",
+    "final": "nfrentó desafíos como intentos golpistas ($23$-F en $1981$) o tensiones territoriales posteriores, sentó las bases de una democracia estable y plural.",
+    "cambios": []
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n16",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu les diferències ideològiques i polítiques entre l’absolutisme i el liberalisme a Espanya entre 1808 i 1837."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa las diferencias ideológicas y políticas entre el absolutismo y el liberalismo en España entre 1808 y 1837."
+      }
+    ],
+    "ratio": 0.923,
+    "inicio": "Entre $1808$ y $1837$, España vivió una profunda transformación política marcada por la confrontación entre absolutismo y liberalismo, dos ideologías ",
+    "final": "lminó con la aprobación del Estatuto Real ($1834$) y la Constitución de $1837$, que consolidaron el liberalismo como el sistema político predominante.",
+    "cambios": [
+      {
+        "op": "insert",
+        "fuente": "",
+        "salida": "entre 1808 y 1837 espana vivio una profunda transformacion politica marcada por la confrontacion entre absolutismo y liberalismo dos ideologias opuestas que luchaban por definir el modelo de estado este periodo estuvo dominado por la guerra de la independencia 1808 text"
+      }
+    ]
+  },
+  {
+    "doc": "1b0c55921d01",
+    "nodo": "n17",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Compareu el procés polític i legal de democratització política a Espanya en 1931 i en 1977-1978."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Compare el proceso político y legal de democratización política en España en 1931 y en 1977-1978."
+      }
+    ],
+    "ratio": 0.992,
+    "inicio": "La democratización en España tuvo dos hitos fundamentales en el siglo XX: la proclamación de la Segunda República ($1931$) y la Transición Democrática",
+    "final": "$1977\\text{-}1978$ fue un proceso pragmático y consensuado que logró superar los traumas del pasado y sentar las bases del sistema democrático actual.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n2",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2. Descriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2. Describa el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Opción a: Documentos $1$ y $2$**\n\n**Tipo de fuentes:**\n\n- **Documento $1$:** Es un fragmento de la Constitución de $1812$, aprobada por las Cortes d",
+    "final": "tiva y reflejan visiones políticas opuestas: el liberalismo representado por la Constitución de Cádiz y el absolutismo personificado por Fernando VII.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n3",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "b)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4. Descriviu el tipus de fonts utilitzades."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4. Describa el tipo de fuentes utilizadas."
+      }
+    ],
+    "ratio": 0.987,
+    "inicio": "**Opción b: Documentos $3$ y $4$**\n\n**Tipo de fuentes:**\n\n- **Documento $3$:** Es un manifiesto obrero publicado en el periódico *El Socialista* en $1",
+    "final": " poder.\n\nAmbos documentos son ejemplos de textos políticos y sociales que buscan movilizar a distintos sectores de la población en momentos de crisis.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n5",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "a)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 1 i 2. Identifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 1 y 2. Identifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 0.995,
+    "inicio": "**Opción a: Documentos $1$ y $2$**\n\n**Documento $1$ (Constitución de $1812$):**\n\nLa Constitución de Cádiz, promulgada en $1812$, fue un esfuerzo pione",
+    "final": "rvadora. Se firma la Santa Alianza, un pacto entre Rusia, Austria y Prusia para sofocar movimientos revolucionarios y garantizar el orden conservador.",
+    "cambios": [
+      {
+        "op": "insert",
+        "fuente": "",
+        "salida": "opcion a documentos 1 y 2"
+      }
+    ]
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n6",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "a)"
+      },
+      {
+        "idioma": "es",
+        "markdown": "b)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "DELS DOCUMENTS 3 i 4. Identifiqueu les idees principals dels textos i situeu-los en el seu context històric i en el nucli temàtic corresponent."
+      },
+      {
+        "idioma": "es",
+        "markdown": "DE LOS DOCUMENTOS 3 y 4. Identifique las ideas principales de los textos, situándolas en su contexto histórico y en el núcleo temático correspondiente."
+      }
+    ],
+    "ratio": 0.997,
+    "inicio": "**Opción b: Documentos $3$ y $4$**\n\n**Documento $3$ (Manifiesto obrero de $1917$):**\n\nEl manifiesto publicado en *El Socialista* en $1917$ es un testi",
+    "final": "), que llevó al derrocamiento del zar Nicolás II y al ascenso del régimen bolchevique de Lenin, instaurando el primer estado comunista en la historia.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n8",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Sobirania"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Soberanía"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La soberanía es el principio según el cual reside el poder supremo en un Estado. En el absolutismo, la soberanía estaba en el monarca, como reflejó Fe",
+    "final": "a las mujeres. La soberanía, por tanto, refleja los modelos políticos de cada época y las luchas por el poder entre monarquía, pueblo e instituciones.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n9",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Absolutisme"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Absolutismo"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El absolutismo es un sistema político donde el poder se concentra en el monarca, que gobierna sin limitaciones legales ni constitucionales. En España,",
+    "final": "ulminaron en conflictos como las guerras carlistas, donde los defensores del absolutismo se enfrentaron a los partidarios de un modelo constitucional.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n10",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Vaga revolucionària"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Huelga revolucionaria"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La huelga revolucionaria es una herramienta de lucha utilizada por los trabajadores para obtener cambios políticos y sociales, más allá de simples mej",
+    "final": "pacto marcó un antes y un después en las movilizaciones obreras y en la articulación de demandas sociales en el contexto de las crisis del siglo $XX$.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n11",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Colp d’Estat"
+      },
+      {
+        "idioma": "es",
+        "markdown": "Golpe de Estado"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Un golpe de Estado es una toma ilegal y generalmente violenta del poder político, organizada por una minoría como militares o políticos. En España, el",
+    "final": "o sociales, como ocurrió en ambos casos, pero terminan imponiendo regímenes autoritarios que afectan profundamente la vida política y social del país.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n13",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu els esdeveniments que van conduir a la convocatòria de Corts el 1810 i la situació posterior després de la restauració de l’absolutisme (1814-1820), fent referència a les fonts documentals."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa los acontecimientos que condujeron a la convocatoria de Cortes en 1810 y la situación posterior tras la restauración del absolutismo (1814-1820), haciendo referencia a las fuentes documentales."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Opción $1$: La convocatoria de Cortes en $1810$ y la restauración del absolutismo ($1814$-$1820$)**\n\nLa convocatoria de Cortes en $1810$ tuvo lugar ",
+    "final": "stado en $1823$ con la intervención de las potencias absolutistas europeas (la Santa Alianza), que reinstauraron a Fernando VII como monarca absoluto.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n14",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu la crisi del liberalisme polític en el regnat d’Alfons XIII, i les conseqüències de la Gran Guerra i l’activitat de l’oposició, fent referència a les fonts documentals."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique la crisis del liberalismo político en el reinado de Alfonso XIII, y las consecuencias de la Gran Guerra y la actividad de la oposición, haciendo referencia a las fuentes documentales."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Opción $2$: La crisis del liberalismo político en el reinado de Alfonso XIII y sus consecuencias**\n\nEl reinado de Alfonso XIII ($1902$-$1931$) estuv",
+    "final": "co condujo a la proclamación de la Segunda República en $1931$, marcando el fin del reinado y la crisis definitiva del liberalismo político en España.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n16",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1."
+      },
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Desplegueu breument com evolucionen els principis de sobirania, separació de poders i llibertats en els textos constitucionals al llarg del segle XIX."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Desarrolle brevemente cómo evolucionan los principios de soberanía, separación de poderes y libertades en los textos constitucionales a lo largo del siglo XIX."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Opción $1$: Evolución de los principios de soberanía, separación de poderes y libertades en el siglo $XIX$**\n\nEl siglo $XIX$ en España estuvo marcad",
+    "final": "ión de $1876$, que restableció un sistema parlamentario limitado, reflejando el equilibrio entre los ideales liberales y el conservadurismo dominante.",
+    "cambios": []
+  },
+  {
+    "doc": "334e3227bf82",
+    "nodo": "n17",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2."
+      },
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu les principals insurreccions socials i colps d’Estat militars en la història de l’Espanya del segle XX."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique las principales insurrecciones sociales y golpes de Estado militares en la historia de la España del siglo XX."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "**Opción $2$: Insurrecciones sociales y golpes de Estado en el siglo $XX$**\n\nEl siglo $XX$ en España fue una etapa de gran inestabilidad política, mar",
+    "final": "tensiones sociales y políticas en España derivaron frecuentemente en soluciones autoritarias, evidenciando la fragilidad de sus sistemas democráticos.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n3",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Sociedad y economía en el Paleolítico y Neolítico. La pintura rupestre."
+      }
+    ],
+    "ratio": 0.992,
+    "inicio": "El Paleolítico ($1200000-5000$ a.C.) es el primer periodo de la Prehistoria y el más extenso. Se divide en: P. Inferior: con economía depredadora (caz",
+    "final": "actos y manos estampadas; así como, las de la zona levantina, con figuras humanas y escenas cotidianas con gran esquematismo y carácter monocromático.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n4",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Al Ándalus: reinos de taifas. Reino nazarí."
+      }
+    ],
+    "ratio": 0.997,
+    "inicio": "Hispania, ocupada por los musulmanes, debido a las crisis de poder, terminó dividiéndose, en el siglo $XI$, en Reinos de Taifas.\n\nDurante las Primeras",
+    "final": "lla y Aragón a partir del matrimonio de los Reyes Católicos. Estos terminaron por conquistar Granada en $1492$, haciendo a Boabdil entregar la ciudad.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n5",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Los reinos cristianos en la Edad Media: organización política, régimen señorial y sociedad estamental."
+      }
+    ],
+    "ratio": 0.975,
+    "inicio": "Tras las fases de la reconquista y la repoblación, se consolidó en la península una sociedad feudal. Esta estaba constituida por el vasallaje y los se",
+    "final": "r último, estaba el campesinado, formado por los que trabajaban la tierra, no poseían ni derechos y estaban sujetos a las dependencias de sus señores.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n6",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "4."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas internos. Guerras y sublevación en Europa."
+      }
+    ],
+    "ratio": 0.991,
+    "inicio": "La anhelada unidad de la Península Ibérica se consiguió con Felipe II que heredó un inmenso territorio en el que “no se ponía el sol” (América y Filip",
+    "final": "española. Por último, la Guerra de Flandes (durante $80$ años) terminará en $1648$ con la independencia de Holanda. Además, continuó la amenaza turca.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n7",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "5."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La guerra de los Treinta Años y la pérdida de la hegemonía española en Europa."
+      }
+    ],
+    "ratio": 0.996,
+    "inicio": "Durante el siglo $XVII$ se consolidará un nuevo orden internacional en Europa. Este estará marcado, sobre todo, por la Guerra de los Treinta Años que ",
+    "final": "ia en $1648$.\n\nEsta paz supondrá la pérdida de la hegemonía de España en Europa, siendo reemplazada por Francia y la entrada de los Borbones a España.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n8",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "6."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La España del siglo XVIII. Expansión y transformaciones económicas: agricultura, industria y comercio con América. Causas del despegue económico de Cataluña."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El siglo $XVIII$ supondrá la transición del Antiguo Régimen al mundo contemporáneo.\n\nSu origen lo encontramos en el movimiento intelectual de la Ilust",
+    "final": "aluña, la aparición de una nueva burguesía, el aumento de intercambios comerciales con el exterior y con América y la instauración del proteccionismo.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n10",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Conquista y romanización de la Península Ibérica. Principales aportaciones romanas en los ámbitos social, económico y cultural."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "En el siglo $III$ a.C. dos imperios emergentes luchan por la supremacía en el Mediterráneo: Cartago (imperio marítimo) y Roma (imperio terrestre). Est",
+    "final": "lización urbana, con una trama de ciudades unidas a través de una intensísima red de calzadas y puentes, acueductos, puertos… Este legado aún pervive.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n11",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Al Ándalus: economía, sociedad y cultura."
+      }
+    ],
+    "ratio": 0.996,
+    "inicio": "Al Ándalus fue el nombre que se le otorgó a la Península durante la ocupación de los musulmanes durante la Edad Media.\n\nCon respecto a su economía fue",
+    "final": "de Traductores de Toledo o las ciencias como la filosofía, geografía o matemáticas fueron algunas de las novedades que incluyeron durante su estancia.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n12",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Organización política de la Corona de Castilla, de la Corona de Aragón y del Reino de Navarra al final de la Edad Media."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "A finales de la Edad Media, existían diferencias de gobierno entre estos territorios:\n\nMientras que en Castilla la monarquía era unitaria, hereditaria",
+    "final": "3$ cortes con poder vinculante.\n\nEn Navarra, también existía una monarquía que se basaba en un sistema foral y en el que las cortes eran estamentales.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n13",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "4."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Los Reyes Católicos: unión dinástica e instituciones de gobierno."
+      }
+    ],
+    "ratio": 0.992,
+    "inicio": "El reinado de los Reyes Católicos es una parte importante de la Historia española pues será el momento en el que se sentarán las bases de una monarquí",
+    "final": "quisición. Las reformas institucionales sobre todo se realizan en Castilla. En la corona de Aragón, debido al pactismo, apareció la figura del virrey.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n14",
+    "pagina": 8,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "5."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Exploración y colonización de América. Consecuencias de los descubrimientos en España, Europa y América."
+      }
+    ],
+    "ratio": 0.996,
+    "inicio": "La exploración del nuevo continente comienza un año después de su descubrimiento en $1492$. Se conquistan entonces $2$ imperios: el Azteca que forma a",
+    "final": "nerales para financiar las guerras españolas y una revolución de los precios.\n\nCulturalmente, se realizaron grandes avances en geografía y navegación.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n15",
+    "pagina": 9,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "6."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El pensamiento ilustrado nutrió de ideas y programas a los economistas y pensadores del siglo $XVIII$ que se enfrentaron al Antiguo Régimen. Pero tamb",
+    "final": "tración, ahora bien, siempre que no atentaran contra su poder absoluto Su lema “todo para el pueblo, pero sin el pueblo” fue el mayor ejemplo de esto.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n18",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La imagen que podemos ver a continuación se trata de una pintura al óleo realizada por el artista Francisco de Goya en el año $1814$.\n\n“Los fusilamien",
+    "final": "de España. En esta imagen, se representa Madrid, pero los levantamientos serán seguidos por toda España llegando incluso a organizar esta resistencia.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n19",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Explique el contexto histórico del inicio de la Guerra de la Independencia. (Puntuación máxima: $1$ punto)."
+      }
+    ],
+    "ratio": 0.998,
+    "inicio": "Francia y España eran aliadas. En $1807$, Napoleón ejercía el poder sobre la mayor parte de Europa continental. Para doblegar a Gran Bretaña, había de",
+    "final": "tas acciones.\n\nLa reacción española contra la ocupación daría lugar a una guerra de cinco años que se conoce con el nombre de Guerra de Independencia.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n21",
+    "pagina": 9,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Explique brevemente el tipo de fuente, la localización cronológica y el contenido atendiendo a la siguiente imagen. (Puntuación máxima: $0{,}5$ puntos)."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La imagen que vemos a continuación se trata de una fotografía tomada en el momento en el que se sucedían los acontecimientos, por tanto, decimos que s",
+    "final": "istinguir a Felipe González y a una serie de hombres a su alrededor que deben de tratarse del grupo de ministros escogidos para su equipo de gobierno.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n22",
+    "pagina": 9,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Explique el contexto histórico de la alternancia política en $1982$. (Puntuación máxima: $1$ punto)."
+      }
+    ],
+    "ratio": 0.998,
+    "inicio": "En $1982$, después de las primeras elecciones democráticas ganadas por el partido UCD y con Adolfo Suárez a la cabeza, llega el momento del PSOE, con ",
+    "final": "\nDurante su gobierno, deberá sanear la economía, impulsar el crecimiento económico y reformar, su economía y preparar su entrada en política exterior.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n24",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "A.3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "(4,5 puntos) TEMA: Política económica del franquismo: de la autarquía al desarrollismo. Transformaciones sociales: causas y evolución."
+      }
+    ],
+    "ratio": 0.926,
+    "inicio": "El régimen franquista buscaba, como objetivo económico, establecer un sistema autárquico, para emprender la reconstrucción y el posterior desarrollo p",
+    "final": "población que contribuyó al crecimiento de la sociedad de consumo, de la mejora de la sanidad y de la implantación de una Seguridad Social para todos.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n26",
+    "pagina": 10,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Resuma con brevedad el contenido del texto. (Puntuación máxima: $0{,}5$ puntos)."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Alfonso XII agradece las felicitaciones y se muestra firme en la creencia de que la única manera de dotar seguridad a España es a través de la vuelta ",
+    "final": ".\n\nPropone un entendimiento entre él y el pueblo español, pudiendo llegar a un acuerdo legal y no arbitrario, pero aboliendo la Constitución anterior.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n27",
+    "pagina": 10,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Señale las ideas fundamentales del texto. (Puntuación máxima: $1$ punto)."
+      }
+    ],
+    "ratio": 0.998,
+    "inicio": "El texto que tenemos a continuación se trata de una fuente primaria, ya que es coetánea a los hechos históricos a los que hace referencia.\n\nEn concret",
+    "final": "onclusión, Alfonso XII se presenta como una solución viable a la desestabilidad política que garantice el funcionamiento liberal de las instituciones.",
+    "cambios": []
+  },
+  {
+    "doc": "6426459db740",
+    "nodo": "n28",
+    "pagina": 11,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Responda a la siguiente cuestión (Puntuación máxima: $3$ puntos): La Restauración Borbónica. Cánovas del Castillo y el turno de partidos."
+      }
+    ],
+    "ratio": 0.997,
+    "inicio": "Tras el golpe de Estado del General Pavía que pone fin a la I República, y el gobierno “extraño” de Serrano se fue imponiendo la idea de que la restau",
+    "final": "e del rey, se hizo cargo de la Regencia su esposa, María Cristina de Habsburgo: ocuparía el cargo hasta la mayoría de edad de Alfonso XIII, en $1902$.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n3",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Conquista y romanización de la Península Ibérica. Principales aportaciones romanas en los ámbitos social, económico y cultural."
+      }
+    ],
+    "ratio": 0.977,
+    "inicio": "II Guerra Púnica e inicio de la conquista: Conquista del este y el sur peninsular ($218-197$ a. C. $2.^a$ etapa: Conquista del centro y el oeste penin",
+    "final": " Cesar Augusta…), puentes (Alcántara, Mérida), murallas (Lugo) y acueductos (Segovia). En Escultura (busto de Catón el viejo), Villas (en Valladolid).",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n4",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Al Ándalus: la conquista musulmana de la Península Ibérica. Emirato y califato de Córdoba."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Causas inicio de la conquista $711$: debilidad de los visigodos y petición de ayuda. Protagonistas Tariq y Muza. Batalla de Guadalete y duración corta",
+    "final": " Córdoba ($929-1031$): llegada al poder de Abd al-Rahman III y sucesores supone el esplendor de Al Andalus con su dominio sobre los reinos cristianos.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n5",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Los primeros núcleos de resistencia cristiana. Principales etapas de la Reconquista. Modelos de repoblación."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Refugio en montañas norte peninsular. Pelayo: batalla Covadonga. Reino Astur, extensión por Galicia y valle Duero. Reino de León. S. $X$ independiente",
+    "final": "ta de Granada ($1492$).\n\nDiversos modelos de repoblación y su cronología: presura, aprisio, concejos (fueros), encomiendas y repartimientos, donadíos.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n6",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "4)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La Monarquía Hispánica de Felipe II. Gobierno y administración. Los problemas internos. Guerras y sublevación en Europa."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El reinado de Felipe II y centro en España. Gobierno a través de Consejos territoriales y temáticos. Política interior (rebelión Alpujarras, influenci",
+    "final": "cia, victoria San Quintín ($1557$); Guerra contra Países Bajos y Guerra contra Inglaterra (Armada Invencible). La incorporación del reino de Portugal.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n7",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "5)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La Guerra de Sucesión Española y el sistema de Utrecht. Los Pactos de Familia."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Causa del inicio de la guerra (muerte sin descendencia de Carlos II enfrentamiento internacional candidatura austriaca, archiduque Carlos y francesa, ",
+    "final": "aña, acuerdos comerciales (asiento de negros y navío de permiso) y territoriales (Gibraltar y Menorca para Inglaterra; Austria y Saboya beneficiados).",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n8",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "6)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Ideas fundamentales de la Ilustración. El despotismo ilustrado: Carlos III."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Carlos III ($1759-88$): despotismo ilustrado. Reformas. Motín de Esquilache. Contención poder Iglesia con regalismo (expulsión jesuitas), extensión cu",
+    "final": "s, Sociedades Amigos País), regulación economía (limitación privilegios Mesta, libertad circulación mercancías, honorabilidad ejercicio profesiones…).",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n9",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "FUENTE HISTÓRICA: relacione esta imagen con las Cortes de Cádiz"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Las Cortes de Cádiz. Proceso convocatoria (Junta, Regencia). Composición diputados. Tres grandes tendencias ideológicas diferentes: los liberales, los",
+    "final": "liberales, los jovellanistas y los absolutistas. Trabajo Cortes: Decretos-leyes para transformar el Antiguo Régimen y elaboración de una Constitución.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n10",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "TEMA: La Transición: alternativas políticas tras la muerte de Franco. El papel del Rey y el gobierno de Adolfo Suárez. El restablecimiento de la democracia: las elecciones de junio de $1977$. La Constitución de $1978$. El estado de las autonomías. El terrorismo durante la transición."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La situación política en España a la muerte de Franco. El papel del rey Juan Carlos I y el gobierno de Adolfo Suárez. La Ley para la Reforma Política.",
+    "final": "$: proceso constituyente y características. El estado de las autonomías: autonomías históricas y otras vías. El terrorismo durante la transición: ETA.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n13",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "1)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Los pueblos prerromanos. Las colonizaciones históricas: fenicios y griegos. Tartessos."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "I milenio a. C. habitaban la Península una serie de pueblos que llamamos prerromanos: Iberos (área levantina y prelitoral. Actividad económica agrícol",
+    "final": "merciales fenicias y fundaron enclaves Cartago Nova (Cartagena) y Ebussus (Ibiza), para controlar rutas comerciales del sur y Levante de la Península.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n14",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Organización política de la Corona de Castilla, de la Corona de Aragón y del Reino de Navarra al final de la Edad Media."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Los reinos presentan una estructura política parecida basada en tres instituciones: la monarquía, las Cortes y los municipios, aunque cada reino posee",
+    "final": "incorporación de Navarra a Castilla se hizo bajo el principio de que Navarra conservaba su condición de Reino (virrey) y sus instituciones privativas.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n15",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "3)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Los Reyes Católicos: unión dinástica e instituciones de gobierno."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Decidieron gobernar conjuntamente en sus territorios (Concordia de Segovia, $1475$: Fernando rey consorte en Castilla e Isabel en Aragón), la unión de",
+    "final": " o Audiencias. En la Corona de Aragón, debido al pactismo, aparece la figura del virrey y en Justicia se creó una Audiencia en cada uno de los reinos.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n16",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "4)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "El Imperio de los Austrias: España bajo Carlos I. Política interior y conflictos europeos."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Rey extranjero, administración de flamencos y convocatoria Cortes para imponer nuevos impuestos para elección emperador Alemania. Conflictos en Castil",
+    "final": "ncia (victoria de Pavía), turcos (recuperación de la capital imperial Viena), protestantes (Paz de Augsburgo y libertad religiosa príncipes alemanes).",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n17",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "5)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Exploración y colonización de América. Consecuencias de los descubrimientos en España, Europa y América."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Conquista y colonización: reinado de Carlos I. La conquista mediante Sistema de Capitulaciones entre la Corona y los conquistadores. $1$) etapa antill",
+    "final": "rtación de esclavos negros, aparición de una sociedad de castas dominada por peninsulares y criollos y la imposición del castellano y cultura europea.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n18",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "6)"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "La nueva Monarquía Borbónica. Los Decretos de Nueva Planta. Modelo de Estado y alcance de las reformas."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Felipe V. Objetivos (centralización, absolutismo, modernización del Estado. Decretos de Nueva Planta. Organización del Estado (Secretarías, Consejo de",
+    "final": "ión mercancías, honorabilidad ejercicio profesiones…), Hacienda (Catastro, deuda y vales reales), América (reorganización virreinatos e intendencias).",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n19",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "FUENTE HISTÓRICA: relacione la siguiente gráfica con la oposición a la dictadura franquista: principales grupos y evolución en el tiempo."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Oposición al régimen diversas manifestaciones en el tiempo: maquis, huelgas en el interior del país, protesta universitaria, movimiento obrero, oposic",
+    "final": "den Público como órgano represor. Conclusión manifiesta el deseo de democracia en España, su deseo europeísta, aumento de la oposición antifranquista.",
+    "cambios": []
+  },
+  {
+    "doc": "32384d10aa13",
+    "nodo": "n22",
+    "pagina": 7,
+    "etiqueta": [
+      {
+        "idioma": "es",
+        "markdown": "2."
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "es",
+        "markdown": "Responda a la siguiente cuestión (puntuación máxima: $3$ puntos): El reinado de Isabel II ($1833\\text{-}1868$): las desamortizaciones de Mendizábal y Madoz."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Desamortización de Mendizábal. Objetivo: Reforma del régimen de propiedad agraria y consecución de ingresos necesarios para mantener los gastos del Es",
+    "final": " permitió la creación de una agricultura capitalista. Continuación con la desamortización de Madoz que afecta principalmente a los bienes municipales.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n3",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "desamortització"
+      },
+      {
+        "idioma": "es",
+        "markdown": "desamortización"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El primer concepte, desamortització, és el procés pel qual es liberalitzen els béns que estaven a les anomenades mans mortes, per la qual cosa no podi",
+    "final": " (mayorazgo) o a institucions (Església, ajuntaments, Estat, hospitals, etc.). Constitueix un dels principals aspectes de la política agrària liberal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n3",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "desamortització"
+      },
+      {
+        "idioma": "es",
+        "markdown": "desamortización"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El primer concepto, desamortización, es el proceso por el cual se liberalizan los bienes que estaban en las llamadas manos muertas, por lo que no podí",
+    "final": "azgo) o a instituciones (Iglesia, ayuntamientos, Estado, hospitales, etc.). Constituye uno de los principales aspectos de la política agraria liberal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n4",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "reforma agrària"
+      },
+      {
+        "idioma": "es",
+        "markdown": "reforma agraria"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El segon concepte, reforma agrària, és el conjunt de mesures de caràcter polític, econòmic, social i legislatiu destinades a canviar l’estructura de l",
+    "final": " el conjunt de mesures de caràcter polític, econòmic, social i legislatiu destinades a canviar l’estructura de la propietat i les formes de producció.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n4",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "reforma agrària"
+      },
+      {
+        "idioma": "es",
+        "markdown": "reforma agraria"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El segundo concepto reforma agraria, es el conjunto de medidas de carácter político, económico, social y legislativo destinadas a cambiar la estructur",
+    "final": "njunto de medidas de carácter político, económico, social y legislativo destinadas a cambiar la estructura de la propiedad y las formas de producción.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n5",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "carlistes"
+      },
+      {
+        "idioma": "es",
+        "markdown": "carlistas"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El tercer concepte, carlistes, eren els partidaris que ocupara el tron l’infant Carles M. Isidre (germà de Ferran VII), defensaven la monarquia absolu",
+    "final": "preeminència de l’Església i la conservació dels furs (lema: “Déu, pàtria i furs”). Van rebre el suport de la noblesa rural, el clergat i els pagesos.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n5",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "carlistes"
+      },
+      {
+        "idioma": "es",
+        "markdown": "carlistas"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El tercer concepto, carlistas, eran los partidarios de que ocupara el trono el infante Carlos M.ª Isidro (hermano de Fernando VII), defendían la monar",
+    "final": "cia de la Iglesia y la conservación de los fueros (lema: “Dios, Patria y Fueros”). Recibieron el apoyo de la nobleza rural, el clero y los campesinos.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n6",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "isabelins"
+      },
+      {
+        "idioma": "es",
+        "markdown": "isabelinos"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El quart concepte, isabelins, eren els partidaris d’Isabel II. Proposaven l’abolició de l’Antic Règim i la implantació d’un Estat liberal. Van comptar",
+    "final": " i la implantació d’un Estat liberal. Van comptar amb el suport de l’alta noblesa, el funcionariat, la burgesia i els sectors populars de les ciutats.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n6",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "isabelins"
+      },
+      {
+        "idioma": "es",
+        "markdown": "isabelinos"
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "El cuarto concepto, isabelinos, eran los partidarios de Isabel II. Proponían la abolición del Antiguo Régimen y la implantación de un Estado Liberal. ",
+    "final": " implantación de un Estado Liberal. Contaron con el apoyo de la alta nobleza, los funcionarios, la burguesía y los sectores populares de las ciudades.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n8",
+    "pagina": 1,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2.1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2.1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+      }
+    ],
+    "ratio": 0.998,
+    "inicio": "La primera (2.1) és una font primària, pública i de caràcter juridicopolític. En concret l’exposició de Mendizábal a la Reina governadora explicant-li",
+    "final": "sta basca i Portugal a cooperar amb tots els mitjans al seu abast. El $1835$ les tres potències van enviar tropes per donar suport a la causa liberal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n8",
+    "pagina": 4,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2.1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2.1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "La primera (2.1) es una fuente primaria, pública y de carácter jurídico-político. En concreto la exposición de Mendizábal a la Reina gobernadora expli",
+    "final": "lar la costa vasca y Portugal a cooperar con todos los medios a su alcance. En $1835$ las tres potencias enviaron tropas para apoyar la causa liberal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n9",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2.2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2.2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+      }
+    ],
+    "ratio": 0.989,
+    "inicio": "La segona (2.2) és una font primària, pública i de caràcter juridicopolític. Es tracta d’un extracte de la llei de desamortització de Madoz de $1855$ ",
+    "final": "de subsistència, Constitució de $1856$, etc. Es poden considerar els darrers anys del període isabelí (Pacte d’Ostende, $1866$ i la Gloriosa, $1868$).",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n9",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "2.2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "2.2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Descriviu el tipus de font, analitzeu-ne el contingut i comenteu el context històric de la font històrica."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Describa el tipo de fuente, analice el contenido y comente el contexto histórico de la fuente histórica."
+      }
+    ],
+    "ratio": 0.814,
+    "inicio": "La segunda (2.2) es una fuente primaria, pública y de carácter jurídico-político. Se trata de un extracto de la ley de desamortización de Madoz de $18",
+    "final": "bsistencia, Constitución de $1856$, etc. Se pueden considerar los últimos años del periodo isabelino (Pacto de Ostende, $1866$ y la Gloriosa, $1868$).",
+    "cambios": [
+      {
+        "op": "insert",
+        "fuente": "",
+        "salida": "la segunda 2 2 es una fuente primaria publica y de caracter juridico politico se trata de un extracto de la ley de desamortizacion de madoz de 1855 que se inscribe dentro del reinado de isabel ii ya con mayoria de"
+      }
+    ]
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n12",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3.1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3.1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu l’ordenament constitucional i les principals polítiques administratives en la construcció de l’Estat liberal, abordant també els objectius i l’abast de la reforma agrària ($1833$-$1855$)."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Exponga el ordenamiento constitucional y las principales políticas administrativas en la construcción del Estado liberal, abordando también los objetivos y el alcance de la reforma agraria ($1833$-$1855$)."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "S’ha de contestar exposant les principals característiques de la Constitució de $1837$ i la moderada Constitució de $1845$, els partits dinàstics, el ",
+    "final": " cultivada (cereals, vinyes, pataques, etc.), però no la productivitat (escassa mecanització). El retard agrari va obstaculitzar la industrialització.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n12",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3.1"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3.1"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu l’ordenament constitucional i les principals polítiques administratives en la construcció de l’Estat liberal, abordant també els objectius i l’abast de la reforma agrària ($1833$-$1855$)."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Exponga el ordenamiento constitucional y las principales políticas administrativas en la construcción del Estado liberal, abordando también los objetivos y el alcance de la reforma agraria ($1833$-$1855$)."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "Se debe contestar exponiendo las principales características de la Constitución de $1837$ y la moderada Constitución de $1845$, los partidos dinástico",
+    "final": "ficie cultivada (cereales, viñas, patatas, etc.), pero no la productividad (escasa mecanización). El retraso agrario obstaculizó la industrialización.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n13",
+    "pagina": 2,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3.2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3.2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu el problema successori en el regnat de Ferran $\\mathrm{VII}$ i la Primera Guerra Carlina."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique el problema sucesorio en el reinado de Fernando $\\mathrm{VII}$ y la Primera Guerra Carlista."
+      }
+    ],
+    "ratio": 0.996,
+    "inicio": "En aquest cas han d’explicar el plet dinàstic (Llei sàlica i Pragmàtica sanció). Amb la mort de Ferran VII es produeix l’enfrontament entre els defens",
+    "final": "es quantioses que el govern va haver de fer front amb l’emissió de deute públic, fet que va donar pas a la desamortització eclesiàstica de Mendizábal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n13",
+    "pagina": 5,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "3.2"
+      },
+      {
+        "idioma": "es",
+        "markdown": "3.2"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Exposeu el problema successori en el regnat de Ferran $\\mathrm{VII}$ i la Primera Guerra Carlina."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique el problema sucesorio en el reinado de Fernando $\\mathrm{VII}$ y la Primera Guerra Carlista."
+      }
+    ],
+    "ratio": 1.0,
+    "inicio": "En este caso deberán explicar el pleito dinástico (Ley Sálica y Pragmática Sanción). Con la muerte de Fernando VII se produce el enfrentamiento entre ",
+    "final": "cias: gastos cuantiosos que el gobierno tuvo que hacer frente emitiendo Deuda Pública lo que dio paso a la desamortización eclesiástica de Mendizábal.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n14",
+    "pagina": 3,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu i compareu els principals processos de reforma agrària en el segle $\\mathrm{XIX}$ i el segle $\\mathrm{XX}$."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique y compare los principales procesos de reforma agraria en los siglos $\\mathrm{XIX}$ y $\\mathrm{XX}$."
+      }
+    ],
+    "ratio": 0.993,
+    "inicio": "S’han de considerar cinc moments al segle XIX: Corts de Cadis ($1810-1814$): abolició dels senyorius, la reducció a propietat particular d’emprius, re",
+    "final": "retrocessos, la mobilització pagesa i la nova Llei de reforma agrària del Front Popular ($18$ de juny de $1936$) que no es va aplicar pel cop d’estat.",
+    "cambios": []
+  },
+  {
+    "doc": "3c134e1125e6",
+    "nodo": "n14",
+    "pagina": 6,
+    "etiqueta": [
+      {
+        "idioma": "va",
+        "markdown": "4"
+      },
+      {
+        "idioma": "es",
+        "markdown": "4"
+      }
+    ],
+    "enunciado": [
+      {
+        "idioma": "va",
+        "markdown": "Expliqueu i compareu els principals processos de reforma agrària en el segle $\\mathrm{XIX}$ i el segle $\\mathrm{XX}$."
+      },
+      {
+        "idioma": "es",
+        "markdown": "Explique y compare los principales procesos de reforma agraria en los siglos $\\mathrm{XIX}$ y $\\mathrm{XX}$."
+      }
+    ],
+    "ratio": 0.994,
+    "inicio": "Se deben considerar cinco momentos en el siglo XIX: Cortes de Cádiz ($1810-1814$): abolición de los señoríos, la reducción a propiedad particular de b",
+    "final": "sos, la movilización campesina y la nueva Ley de Reforma Agraria del Frente Popular ($18$ de junio de $1936$) que no se aplicó por el golpe de Estado.",
+    "cambios": []
+  }
+]

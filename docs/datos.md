@@ -1,7 +1,14 @@
 # Contrato del conjunto publicado (`datos/`)
 
 `datos/` es lo único que la web consume y lo único del corpus que se versiona. Lo
-escribe `pau publicar` a partir de una ejecución de extracción; nunca se edita a mano.
+escribe `pau publicar` a partir de una ejecución de extracción; no se edita a mano.
+La reparación local de PAU-REV-03/04 es una excepción acotada al banco existente,
+con [plan de IDs y huellas de entrada/salida](correcciones-2026-09-29/README.md).
+No regenera extracciones ni habilita publicaciones completas con controles pendientes.
+La [recuperación de respuestas de rúbricas](recuperacion-respuestas-2026-09-29/README.md)
+es otra reparación local acotada, con su propio plan de huellas e identificadores.
+La publicación pasa primero el [control de conservación](verificacion-banco.md):
+si hay pérdidas o no se puede comprobar el conjunto, se conserva el banco anterior.
 
 ```
 datos/
@@ -54,6 +61,8 @@ Las rutas dentro de los JSON son relativas a `datos/`.
     "contexto": [{ "etiqueta": Textos, "tipo": "bloque" | "opcion" | "pregunta", "enunciado": Textos, "regla": "", "sintetico": false }],
     "etiqueta": Textos,
     "enunciado": Textos,             // markdown + LaTeX (KaTeX, mhchem)
+    "regla": "elegir 2 de 4",         // regla propia; "" si no hay, opcional en bancos anteriores
+    "literalRegla": Textos,          // instrucción original por idioma, solo si la elección la contiene
     "puntos": 2.5 | null,
     "rubrica": Rubrica | null,       // lo que dicen los criterios oficiales de este nodo
     "solucion": Solucion | null,     // la respuesta de este nodo: oficial si la hay, de academia si no
@@ -83,6 +92,20 @@ aparte (`pau rubricas`, prompt `r2`) con el árbol del examen ya extraído, y so
 la respuesta literal del documento del que sale, con su procedencia (`url` y `pdf` solo si no va dentro del PDF del examen).
 Se extrae en otra etapa (`pau soluciones`, prompt `s1`): primero `--origen oficial` y después `--origen academia`, que
 solo se consulta para los exámenes en los que lo oficial deja preguntas sin respuesta.
+
+Si falta solución propia y de ancestro, el constructor puede recuperar `respuesta` de
+la rúbrica seleccionada. Conserva las soluciones existentes, identifica estas respuestas
+con `"extraccion": "rubrica"` y mantiene texto, idioma, página y procedencia. Comprueba
+identidad, fuente pública y coincidencia exacta, y excluye ambigüedades y casos conocidos
+de la auditoría. El informe de verificación registra las exclusiones; una respuesta
+recuperada que no llega al banco produce un hallazgo de conservación. Esto no certifica
+fidelidad al PDF ni corrección académica. La web indica «Respuesta en los criterios…»
+y muestra el PDF correspondiente también en el acordeón de soluciones.
+
+Las versiones candidatas `p6`, `r3` y `s2` y su evaluación están descritas en
+[prompts-extraccion.md](prompts-extraccion.md). `pau banco` y `pau publicar` permiten seleccionar
+`--rubricas modelo__prompt` y `--soluciones modelo__prompt` dentro de la ejecución de preguntas;
+sin esas opciones conservan `gpt-6-luna__r2` y `gpt-6-luna__s1`. No se mezclan versiones automáticamente.
 
 `Textos` es un objeto `{ [idioma]: markdown }` con idiomas `es`, `va`, `eu`, `en`, `fr`, …
 

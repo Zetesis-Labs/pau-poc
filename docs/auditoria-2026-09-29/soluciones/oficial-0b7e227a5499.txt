@@ -1,0 +1,1500 @@
+DOCUMENTO {"id": "0b7e227a5499", "region": "Madrid", "asignatura": "Matemáticas II", "anio": 2026, "convocatoria": "modelo", "tipo": "modelo", "fuente": "uc3m", "url": "https://drive.google.com/file/d/1OUpayLXPGhp5gZtmYU6nmcK1xqRWbano/view?usp=drive_link", "archivo": "pdfs/madrid/matematicas-ii/2026-modelo-modelo-uc3m-0b7e227a5499.pdf", "paginas": 7, "estrato": "piloto · Madrid · Matemáticas II"}
+FUENTE {"archivo": "pdfs/madrid/matematicas-ii/2026-modelo-modelo-uc3m-0b7e227a5499.pdf", "desde": 3, "anexo": {"tipo": "criterios", "contenido": ["criterios", "solucion"], "origen": "oficial", "fuente": "uc3m", "acceso": "publico", "coincidencia": "exacta", "incrustado": {"pagina": 3}}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Responda a las tres preguntas siguientes (calificación: $2$ puntos por pregunta):"
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Un equipo de ingenieros está trabajando en un nuevo modelo de dron para tomar fotografías del estado del tráfico. Elegido un sistema de coordenadas, el dron tiene $A(1,0,2)$ como punto de partida y un cierto tramo de autopista está contenido en el plano $\\pi:x+y+2z+1=0$. Las fotografías se deben tomar perpendicularmente al plano $\\pi$. Se toma el punto $C(0,-3,1)$ de $\\pi$ para calibrar el dron."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determine la distancia del dron en el punto de partida $A$ al plano $\\pi$ y halle una ecuación del plano en el que el dron vuela manteniendo en todo momento la misma distancia al plano $\\pi$. Este plano recibe el nombre de plano de vuelo."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": "n2",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": 1.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda solo a uno de los dos apartados siguientes:"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b1)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "El dron se mueve en línea recta en el plano de vuelo desde el punto de partida $A$ al punto más cercano a $C$. Halle una ecuación de la recta que contiene la trayectoria lineal que recorre el dron para fotografiar $C$."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b2)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "La fotografía obtenida de $C$ a esa distancia no tiene buena definición. Se decide acercar el dron desde el punto de partida $A$ descendiendo perpendicularmente al plano $\\pi$ para situarse en $A'$, a la mitad de la distancia original. Calcule el ángulo formado por el plano $\\pi$ y la recta que pasa por $C$ y $A'$."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Dada $f(x)=\\dfrac{x^2+1}{|x|+1}$, se pide:"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Analizar la paridad y los extremos relativos de $f(x)$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Hallar $\\displaystyle\\int_{-1}^{0} f(x)\\,dx$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": "n1",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Una envasadora de aceitunas comercializa bolsas con $12$ aceitunas. La cosecha de este año ha sido atacada por el hongo *Sphaeropsis dalmatica* y una de cada veinte aceitunas presenta la enfermedad escudete. Se pide:"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular la probabilidad de que una bolsa no tenga aceitunas con la enfermedad."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n10",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Los controles sanitarios han fallado y se han distribuido $100$ bolsas de aceitunas de esta cosecha. Calcular, aproximando por una distribución normal adecuada, la probabilidad de que al menos el $60\\%$ de las bolsas distribuidas tenga alguna aceituna con escudete."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [
+   "E1"
+  ],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 1
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "2"
+   }
+  ],
+  "sintetico": true,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos preguntas siguientes (calificación máxima: $2$ puntos):"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n13",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "4.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sean $a\\in\\mathbb{R}$, $A=\\begin{pmatrix}2a&-2\\\\a&1\\end{pmatrix}$ y $B=\\begin{pmatrix}1&2\\\\-1&2\\end{pmatrix}$. Se pide:"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular, si existen, los valores de $a$ tales que la matriz $AA^{t}$ sea una matriz diagonal."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n14",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcular, si existen, los valores de $a$ tales que $(A-B)(A+B)=A^2-B^2$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "3"
+   }
+  ],
+  "sintetico": true,
+  "orden": 3,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responda a una de las dos preguntas siguientes (calificación máxima: $2$ puntos):"
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n17",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5.1"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sea la función:\n$$f(x)=\\begin{cases}\\dfrac{1}{2}(-8+\\cos x),&0\\le x<\\dfrac{\\pi}{2},\\\\a\\operatorname{sen}(x)+4,&\\dfrac{\\pi}{2}\\le x<\\pi,\\\\2\\operatorname{sen}(2x)+b,&\\pi\\le x\\le2\\pi.\\end{cases}$$"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Halle los valores de $a$ y $b$ para que se verifiquen las hipótesis del Teorema de Bolzano en $[0,2\\pi]$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n20",
+  "padre": "n18",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Justifique razonadamente que la función $f(x)$ tiene una única raíz en el intervalo $(0,2\\pi)$ y calcule dicha raíz."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n21",
+  "padre": "n17",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "5.2"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Se considera la función\n$$f(x)=\\begin{cases}\\dfrac{\\ln(x^2+1)}{x},&x\\ne0,\\\\0,&x=0.\\end{cases}$$\nSe pide:"
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n22",
+  "padre": "n21",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determinar si $f(x)$ es continua en todo $\\mathbb{R}$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ },
+ {
+  "id": "n23",
+  "padre": "n21",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Determinar si $f(x)$ es derivable en el punto $x=0$ y, si existe, calcular la ecuación de la recta tangente a la gráfica de $f(x)$ para $x=0$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 2
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La distancia del punto $A$ al plano $\\pi$ es\n$$\nd(A,\\pi)=\\frac{|1+0+2\\cdot 2+1|}{\\sqrt{1^2+1^2+2^2}}=\\sqrt{6}.\n$$\nEl dron vuela en un plano paralelo a $\\pi$ que pasa por $A$ con ecuación $x+y+2z-5=0$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El punto desde el que se fotografía $C$ es $B(1,-2,3)$, punto de corte de la recta perpendicular al plano $\\pi$ por $C$, $(x,y,z)=(\\mu,-3+\\mu,1+2\\mu)$, $\\mu\\in\\mathbb{R}$ y el plano de vuelo del apartado anterior. Una ecuación de la recta que contiene la trayectoria lineal del dron es la recta que pasa por $A$ y $B$: $(x,y,z)=(1,-2\\lambda,2+\\lambda)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La proyección ortogonal de $A$ sobre el plano $\\pi$ es el punto $P(0,-1,0)$. El punto medio de $A$ y $P$ es el punto $A'(1/2,-1/2,1)$. El ángulo que se pide es el formado por los vectores $\\overrightarrow{CA'}$ y $\\overrightarrow{CP}$.\n$$\n\\cos(\\alpha)=\\frac{|\\overrightarrow{CA'}\\cdot\\overrightarrow{CP}|}{\\|\\overrightarrow{CA'}\\|\\,\\|\\overrightarrow{CP}\\|}=\\frac{\\sqrt{130}}{13}\\Longleftrightarrow \\alpha=\\arccos\\left(\\frac{\\sqrt{130}}{13}\\right)=28{,}71^{\\circ}.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$f(x)$ es una función con simetría par, $f(-x)=f(x)$, derivable si $x>0$ y $x<0$, y su derivada es\n$$\nf'(x)=\\frac{x^2+2x-1}{(x+1)^2}\\quad\\text{y}\\quad f'(x)=-\\frac{x^2-2x-1}{(1-x)^2}\n$$\nen cada uno de los conjuntos anteriores. Además, si $x>0$, $f'(x)=0$ si $x^2+2x-1=0\\Rightarrow x=x_1=-1+\\sqrt{2}$ o $x=-1-\\sqrt{2}$, descartando esta última por ser menor que $0$. Por la paridad de la función $f(x)$, $f'(-x_1)=0$ y $x_2=-x_1$ es otro extremo relativo. Estudiando el signo de $f'(x)$, tenemos que $f(x)$ es creciente si $x>x_1$ y si $x_2<x<0$, y decreciente si $0<x<x_1$ y $x<x_2$. Por lo tanto, los puntos $(1-\\sqrt{2},2\\sqrt{2}-2)$ y $(-1+\\sqrt{2},2\\sqrt{2}-2)$ son mínimos locales de $f(x)$ y $(0,1)$ es un máximo local de $f(x)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Por la paridad de la función $f(x)$:\n$$\n\\int_{-1}^{0}f(x)\\,dx=\\int_{0}^{1}\\frac{x^2+1}{x+1}\\,dx=\\int_{0}^{1}\\left(x-1+\\frac{2}{x+1}\\right)\\,dx=\\left[\\frac{x^2}{2}-x+2\\ln(x+1)\\right]_{0}^{1}=2\\ln 2-\\frac{1}{2}.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La variable aleatoria $X=$ «número de aceitunas de entre las $12$ que al azar conforman una bolsa que no tienen la enfermedad» sigue una distribución Binomial $(n=12,p_e=0{,}95)$. Se pide\n$$\nP(X=12)=p_e^{12}=0{,}95^{12}\\approx 0{,}5404.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Sea $T$ la variable aleatoria «número de bolsas con alguna aceituna con escudete entre las $100$ bolsas empaquetadas sin control sanitario». Esta es una variable con distribución Binomial $(n=100,p)$ con\n$$\np=P(\\text{bolsa con alguna aceituna con escudete})=1-0{,}95^{12}\\approx 0{,}4596.\n$$\nEsta distribución tiene media $n\\cdot p=45{,}96$ y desviación típica $\\sqrt{n\\cdot p\\cdot(1-p)}\\approx 4{,}98$ y así podemos aproximar\n$$\nP(T\\geq 0{,}6\\cdot 100)=P(T\\geq 60)\\approx P(Y\\geq 59{,}5),\n$$\nmediante la aproximación de Yates, siendo $Y$ una variable aleatoria normal de media $45{,}96$ y desviación típica $4{,}98$. Tipificando $Y$ y utilizando la tabla de la normal $Z$ de media $0$ y desviación típica $1$, se obtiene\n$$\nP(T\\geq 60)\\approx P(Y\\geq 59{,}5)\\approx P\\left(Z\\geq\\frac{13{,}54}{4{,}98}\\right)\\approx P(Z\\geq 2{,}72)=1-P(Z\\leq 2{,}72)=1-0{,}9967=0{,}0033.\n$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 5
+    }
+   ]
+  },
+  {
+   "nodo": "n15",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La matriz $AA^t$ es\n$$\n\\begin{pmatrix}4a^2+4&2a^2-2\\\\2a^2-2&a^2+1\\end{pmatrix}\n$$\ny la matriz será diagonal si $2a^2-2=0$, es decir, si $a=1$ o $a=-1$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El producto $(A-B)(A+B)=A^2+AB-BA-B^2$ y será igual a $A^2-B^2$ solo si $AB=BA$. Como\n$$\nAB=\\begin{pmatrix}2a+2&4a-4\\\\a-1&2a+2\\end{pmatrix}\n$$\ny\n$$\nBA=\\begin{pmatrix}4a&0\\\\0&4\\end{pmatrix},\n$$\nsolo si $a=1$ se da la igualdad $(A-B)(A+B)=A^2-B^2$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Cada una de las funciones que definen $f$ son continuas en $\\mathbb{R}$. Si $a=-8$, $f(x)$ es continua en $x=\\frac{\\pi}{2}$. Si $b=4$, $f(x)$ es continua en $x=\\pi$. Entonces si $a=-8$ y $b=4$, $f(x)$ es continua en $[0,2\\pi]$, $f(0)=-\\frac{7}{2}<0$, $f(2\\pi)=4>0$. Por lo tanto, se cumplen las hipótesis del Teorema de Bolzano."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n20",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El Teorema de Bolzano garantiza que existe un valor $c\\in(0,2\\pi)$ tal que $f(c)=0$. Puesto que las funciones coseno y seno toman valores en $[-1,1]$, solo la función $-8\\operatorname{sen}(x)+4$ corta al eje de abscisas. Por lo tanto, la raíz $c$ pertenece al intervalo $\\left(\\frac{\\pi}{2},\\pi\\right)$ y cumple que $\\operatorname{sen}(c)=\\frac{1}{2}$. El único valor de $c$ posible es $\\frac{5\\pi}{6}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n22",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Si $x\\neq 0$, $f(x)$ es continua por las propiedades de las funciones continuas. Dado que\n$$\n\\lim_{x\\to 0}\\frac{\\ln(x^2+1)}{x}\\overset{\\text{L'Hôpital}}{=}0=f(0),\n$$\nla función es continua en $x=0$. Se concluye que la función es continua en todo $\\mathbb{R}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  },
+  {
+   "nodo": "n23",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Por la definición\n$$\nf'(0)=\\lim_{h\\to 0}\\frac{\\frac{\\ln(h^2+1)}{h}-0}{h}=\\lim_{h\\to 0}\\frac{\\ln(h^2+1)}{h^2}\\overset{\\text{L'Hôpital}}{=}1,\n$$\nluego $f(x)$ es derivable en $x=0$ y, además, $f'(0)=1$. La ecuación de la recta tangente pedida es $y=x$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 6
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 3 ===
+Distribuci´on Normal
+z
+Ejemplo: si Z tiene distribuci´on N(0, 1), P(Z < 0,45) = 0,6736.
+z
+0,00
+0,01
+0,02
+0,03
+0,04
+0,05
+0,06
+0,07
+0,08
+0,09
+0,0
+0,5000
+0,5040
+0,5080
+0,5120
+0,5160
+0,5199
+0,5239
+0,5279
+0,5319
+0,5359
+0,1
+0,5398
+0,5438
+0,5478
+0,5517
+0,5557
+0,5596
+0,5636
+0,5675
+0,5714
+0,5753
+0,2
+0,5793
+0,5832
+0,5871
+0,5910
+0,5948
+0,5987
+0,6026
+0,6064
+0,6103
+0,6141
+0,3
+0,6179
+0,6217
+0,6255
+0,6293
+0,6331
+0,6368
+0,6406
+0,6443
+0,6480
+0,6517
+0,4
+0,6554
+0,6591
+0,6628
+0,6664
+0,6700
+0,6736
+0,6772
+0,6808
+0,6844
+0,6879
+0,5
+0,6915
+0,6950
+0,6985
+0,7019
+0,7054
+0,7088
+0,7123
+0,7157
+0,7190
+0,7224
+0,6
+0,7257
+0,7291
+0,7324
+0,7357
+0,7389
+0,7422
+0,7454
+0,7486
+0,7517
+0,7549
+0,7
+0,7580
+0,7611
+0,7642
+0,7673
+0,7704
+0,7734
+0,7764
+0,7794
+0,7823
+0,7852
+0,8
+0,7881
+0,7910
+0,7939
+0,7967
+0,7995
+0,8023
+0,8051
+0,8078
+0,8106
+0,8133
+0,9
+0,8159
+0,8186
+0,8212
+0,8238
+0,8264
+0,8289
+0,8315
+0,8340
+0,8365
+0,8389
+1,0
+0,8413
+0,8438
+0,8461
+0,8485
+0,8508
+0,8531
+0,8554
+0,8577
+0,8599
+0,8621
+1,1
+0,8643
+0,8665
+0,8686
+0,8708
+0,8729
+0,8749
+0,8770
+0,8790
+0,8810
+0,8830
+1,2
+0,8849
+0,8869
+0,8888
+0,8907
+0,8925
+0,8944
+0,8962
+0,8980
+0,8997
+0,9015
+1,3
+0,9032
+0,9049
+0,9066
+0,9082
+0,9099
+0,9115
+0,9131
+0,9147
+0,9162
+0,9177
+1,4
+0,9192
+0,9207
+0,9222
+0,9236
+0,9251
+0,9265
+0,9279
+0,9292
+0,9306
+0,9319
+1,5
+0,9332
+0,9345
+0,9357
+0,9370
+0,9382
+0,9394
+0,9406
+0,9418
+0,9429
+0,9441
+1,6
+0,9452
+0,9463
+0,9474
+0,9484
+0,9495
+0,9505
+0,9515
+0,9525
+0,9535
+0,9545
+1,7
+0,9554
+0,9564
+0,9573
+0,9582
+0,9591
+0,9599
+0,9608
+0,9616
+0,9625
+0,9633
+1,8
+0,9641
+0,9649
+0,9656
+0,9664
+0,9671
+0,9678
+0,9686
+0,9693
+0,9699
+0,9706
+1,9
+0,9713
+0,9719
+0,9726
+0,9732
+0,9738
+0,9744
+0,9750
+0,9756
+0,9761
+0,9767
+2,0
+0,9772
+0,9778
+0,9783
+0,9788
+0,9793
+0,9798
+0,9803
+0,9808
+0,9812
+0,9817
+2,1
+0,9821
+0,9826
+0,9830
+0,9834
+0,9838
+0,9842
+0,9846
+0,9850
+0,9854
+0,9857
+2,2
+0,9861
+0,9864
+0,9868
+0,9871
+0,9875
+0,9878
+0,9881
+0,9884
+0,9887
+0,9890
+2,3
+0,9893
+0,9896
+0,9898
+0,9901
+0,9904
+0,9906
+0,9909
+0,9911
+0,9913
+0,9916
+2,4
+0,9918
+0,9920
+0,9922
+0,9925
+0,9927
+0,9929
+0,9931
+0,9932
+0,9934
+0,9936
+2,5
+0,9938
+0,9940
+0,9941
+0,9943
+0,9945
+0,9946
+0,9948
+0,9949
+0,9951
+0,9952
+2,6
+0,9953
+0,9955
+0,9956
+0,9957
+0,9959
+0,9960
+0,9961
+0,9962
+0,9963
+0,9964
+2,7
+0,9965
+0,9966
+0,9967
+0,9968
+0,9969
+0,9970
+0,9971
+0,9972
+0,9973
+0,9974
+2,8
+0,9974
+0,9975
+0,9976
+0,9977
+0,9977
+0,9978
+0,9979
+0,9979
+0,9980
+0,9981
+2,9
+0,9981
+0,9982
+0,9982
+0,9983
+0,9984
+0,9984
+0,9985
+0,9985
+0,9986
+0,9986
+3,0
+0,9987
+0,9987
+0,9987
+0,9988
+0,9988
+0,9989
+0,9989
+0,9989
+0,9990
+0,9990
+
+=== PAGINA 4 ===
+Modelo
+MATEM ´ATICAS II
+CRITERIOS ESPEC´IFICOS DE CORRECCI ´ON
+En cada pregunta, aunque el procedimiento seguido sea diferente al propuesto en el documento soluciones,
+cualquier argumento v´alido que conduzca a la soluci´on ser´a valorado con la puntuaci´on asignada.
+Los contenidos correspondientes al bloque F se evaluar´an transversalmente en cualquiera de los ejerci-
+cios. Se penalizar´a en la calificaci´on de cada respuesta la falta de justificaci´on razonada o de precisi´on y
+se valorar´an las estrategias, razonamientos y toma adecuada de decisiones.
+1.
+a) Distancia: 0.5 puntos. Ecuaci´on del plano: 0.5 puntos.
+b1) Planteamiento: 0.5 puntos. Resoluci´on: 0.5 puntos.
+b2) Planteamiento: 0.5 puntos. Resoluci´on: 0.5 puntos.
+2.
+a) Paridad: 0.5 puntos. Extremos relativos: 0.5 puntos.
+b) Planteamiento: 0.3 puntos. C´alculo de la primitiva: 0.5 puntos. Regla de Barrow: 0.2 puntos.
+3.
+a) Distribuci´on correcta: 0.5 puntos. C´alculo correcto de la probabilidad: 0.5 puntos.
+b) Distribuci´on correcta: 0.2 puntos. Planteamiento correcto de la aproximaci´on por una normal: 0.5 puntos.
+C´alculo correcto de la aproximaci´on: 0.3 puntos. El c´alculo sin correcci´on por continuidad, o una incorrecta, se
+penalizar´a con 0.2 puntos. Si la soluci´on de a) es incorrecta, pero el planteamiento y resoluci´on de b) con el dato
+err´oneo es correcta, se otorga la puntuaci´on m´axima en b).
+4.1.
+a) Planteamiento: 0.5 puntos. Resoluci´on: 0.5 puntos.
+b) Planteamiento: 0.5 puntos. C´alculo del valor de a: 0.5 puntos.
+4.2.
+a) C´alculo de los valores de λ para la discusi´on: 0.1 puntos. Por cada caso correctamente resuelto: 0.3 puntos.
+b) Planteamiento: 0.5 puntos. Resoluci´on: 0.5 puntos.
+5.1.
+a) C´alculo de a y b para que se verifique el Teorema de Bolzano: 0.5 puntos. Comprobaci´on del resto de hip´otesis
+del Teorema: 0.5 puntos.
+b) Respuesta razonada: 0.5 puntos. C´alculo de la ra´ız de la funci´on: 0.5 puntos.
+5.2.
+a) Continuidad en x̸ = 0: 0.3 puntos. Continuidad en x = 0: 0.7 puntos.
+b) Planteamiento: 0.2 puntos. C´alculo de f ′(0): 0.3 puntos. Ecuaci´on de la recta tangente: 0.5 puntos.
+
+=== PAGINA 5 ===
+Modelo
+MATEM ´ATICAS II–SOLUCIONES
+(Documento de trabajo orientativo)
+1.
+a) La distancia del punto A al plano π es
+d(A, π) = |1 + 0 + 2 · 2 + 1|
+√
+12 + 12 + 22
+=
+√
+6.
+El dron vuela en un plano paralelo a π que pasa por A con ecuaci´on x + y + 2z −5 = 0.
+b1) El punto desde el que se fotograf´ıa C es B(1, −2, 3), punto de corte de la recta perpendicular al plano π por
+C, (x, y, z) = (µ, −3 + µ, 1 + 2µ), µ ∈R y el plano de vuelo del apartado anterior. Una ecuaci´on de la recta que
+contiene la trayectoria lineal del dron es la recta que pasa por A y B: (x, y, z) = (1, −2λ, 2 + λ).
+b2) La proyecci´on ortogonal de A sobre el plano π es el punto P(0, −1, 0). El punto medio de A y P es el punto
+A′(1/2, −1/2, 1). El ´angulo que se pide es el formado por los vectores −−→
+CA′ y −−→
+CP.
+cos(α) =
+|−−→
+CA′ · −−→
+CP|
+∥−−→
+CA′∥∥−−→
+CP∥
+=
+√
+130
+13
+⇔α = arccos
+ √
+130
+13
+!
+= 28.71◦.
+2.
+a) f(x) es una funci´on con simetr´ıa par, f(−x) = f(x), derivable si x > 0 y x < 0, y su derivada es f ′(x) = x2+2x−1
+(x+1)2
+y f ′(x) = −x2−2x−1
+(1−x)2
+en cada uno de los conjuntos anteriores. Adem´as, si x > 0, f ′(x) = 0 si x2 + 2x −1 = 0 ⇒
+x = x1 = −1+
+√
+2 o x = −1−
+√
+2, descartando esta ´ultima por ser menor que 0. Por la paridad de la funci´on f(x),
+f ′(−x1) = 0 y x2 = −x1 es otro extremo relativo. Estudiando el signo de f ′(x), tenemos que f(x) es creciente
+si x > x1 y si x2 < x < 0, y decreciente si 0 < x < x1 y x < x2. Por lo tanto, los puntos (1 −
+√
+2, 2
+√
+2 −2) y
+(−1 +
+√
+2, 2
+√
+2 −2) son m´ınimos locales de f(x) y (0, 1) es un m´aximo local de f(x).
+b) Por la paridad de la funci´on f(x):
+Z 0
+−1
+f(x) dx =
+Z 1
+0
+x2 + 1
+x + 1 dx =
+Z 1
+0
+
+x −1 +
+2
+x + 1
+
+dx =
+x2
+2 −x + 2 ln (x + 1)
+1
+0
+= 2 ln 2 −1
+2.
+3.
+a) La variable aleatoria X =“n´umero de aceitunas de entre las 12 que al azar conforman una bolsa que no tienen
+la enfermedad” sigue una distribuci´on Binomial(n = 12, pe = 0.95). Se pide
+P(X = 12) = p12
+e = 0.9512 ≈0.5404.
+b) Sea T la variable aleatoria “n´umero de bolsas con alguna aceituna con escudete entre las 100 bolsas empa-
+quetadas sin control sanitario”. Esta es una variable con distribuci´on Binomial(n = 100, p) con
+p = P(bolsa con alguna aceituna con escudete) = 1 −0.9512 ≈0.4596 .
+Esta distribuci´on tiene media n · p = 45.96 y desviaci´on t´ıpica
+p
+n · p · (1 −p) ≈4.98 y as´ı podemos aproximar
+P(T ≥0.6 · 100) = P(T ≥60) ≈P(Y ≥59.5),
+mediante la aproximaci´on de Yates, siendo Y una variable aleatoria normal de media 45.96 y desviaci´on t´ıpica
+4.98. Tipificando Y y utilizando la tabla de la normal Z de media 0 y desviaci´on t´ıpica 1, se obtiene
+P(T ≥60) ≈P(Y ≥59.5) ≈P
+ Z ≥13.54
+4.98
+
+≈P(Z ≥2.72) = 1 −P(Z ≤2.72) = 1 −0.9967 = 0.0033.
+
+=== PAGINA 6 ===
+4.1.
+a) La matriz AAt es
+4a2 + 4
+2a2 −2
+2a2 −2
+a2 + 1
+
+y la matriz ser´a diagonal si 2a2 −2 = 0, es decir, si a = 1 o a = −1.
+b) El producto (A −B)(A + B) = A2 + AB −BA −B2 y ser´a igual a A2 −B2 solo si AB = BA. Como
+AB =
+2a + 2
+4a −4
+a −1
+2a + 2
+
+y BA =
+4a
+0
+0
+4
+
+, solo si a = 1 se da la igualdad (A −B)(A + B) = A2 −B2.
+4.2.
+a) La matriz ampliada del sistema es
+
+
+1
+2
+−1
+2
+2
+λ
+1
+7
+1
+2
+λ
+2
+
+equivalente por filas con
+
+
+1
+2
+−1
+2
+0
+λ −4
+3
+3
+0
+0
+λ + 1
+0
+
+.
+Si λ /∈{−1, 4} el sistema es compatible determinado; si λ = −1 es compatible indeterminado y es incompatible
+si λ = 4.
+b) Para λ = −1 el sistema es compatible indeterminado con soluciones
+  16
+5 , −3
+5, 0
+
++ t(1, −3, −5) | t ∈R
+	
+.
+5.1.
+a) Cada una de las funciones que definen f son continuas en R. Si a = −8, f(x) es continua en x = π
+2 . Si b = 4,
+f(x) es continua en x = π. Entonces si a = −8 y b = 4, f(x) es continua en [0, 2π], f(0) = −7
+2 < 0, f(2π) = 4 > 0.
+Por lo tanto, se cumplen las hip´otesis del Teorema de Bolzano.
+b) El Teorema de Bolzano garantiza que existe un valor c ∈(0, 2π) tal que f(c) = 0. Puesto que las funciones
+coseno y seno toman valores en [−1, 1], solo la funci´on −8 sen (x)+4 corta al eje de abscisas. Por lo tanto, la ra´ız
+c pertenece al intervalo ( π
+2 , π) y cumple que sen (c) = 1
+2. El ´unico valor de c posible es 5π
+6 .
+5.2.
+a) Si x̸ = 0, f(x) es continua por las propiedades de las funciones continuas. Dado que
+lim
+x→0
+ln (x2 + 1)
+x
+(L’Hˆopital)
+=
+0 = f(0),
+la funci´on es continua en x = 0. Se concluye que la funci´on es continua en todo R.
+b) Por la definici´on f ′(0) = lim
+h→0
+ln (h2+1)
+h
+−0
+h
+= lim
+h→0
+ln (h2 + 1)
+h2
+(L’Hˆopital)
+=
+1, luego f(x) es derivable en x = 0 y, adem´as, f ′(0) =
+1. La ecuaci´on de la recta tangente pedida es y = x.
+
+=== PAGINA 7 ===
+Documento de orientaciones para la PAU 2026
+MATEM ´ATICAS II–Curso 2025/26
+El examen constar´a de siete problemas distribuidos en cuatro bloques correspondientes a
+´Algebra, Geometr´ıa, An´alisis y Probabilidad. El bloque de An´alisis tendr´a una ponderaci´on del
+40% y los otros tres bloques del 20% cada uno.
+Habr´a tres preguntas obligatorias, una de ellas de An´alisis. Como m´ınimo una de las tres
+preguntas obligatorias ser´a de car´acter competencial. La pregunta competencial puede co-
+rresponder a cualquiera de los cuatro bloques mencionados anteriormente.
+Habr´a dos preguntas de An´alisis optativas y se deber´a responder a una pregunta de las dos
+dadas. Si se respondiese a ambas preguntas solo se corregir´a la pregunta que aparezca
+f´ısicamente primero.
+Habr´a dos preguntas optativas del bloque que todav´ıa no haya aparecido en el examen. Se
+deber´a responder a una pregunta de las dos dadas. Si se respondiese a ambas preguntas
+solo se corregir´a la pregunta que aparezca f´ısicamente primero.
+Para garantizar que un 50% de la calificaci´on total del examen corresponda a apartados o ejer-
+cicios optativos, en una de las tres preguntas obligatorias se tendr´a que escoger un apartado
+de entre dos posibles, tal y como aparece en el modelo orientativo.
+Los problemas estar´an dise˜nados para evaluar las competencias espec´ıficas que figuran en el
+Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenaci´on y las ense˜nanzas
+m´ınimas del Bachillerato, y en el Decreto 64/2022 (BOCM de 26 de Julio) por el que se es-
+tablecen para la Comunidad de Madrid la ordenaci´on y el curr´ıculo del Bachillerato.
+Se podr´a pedir en los problemas la realizaci´on de tareas acerca de los contenidos correspon-
+dientes a la materia Matem´aticas II, tal y como aparecen en el Decreto 64/2022.
+La extensi´on y nivel de dificultad de los problemas propuestos ser´an similares a los de cursos
+anteriores.

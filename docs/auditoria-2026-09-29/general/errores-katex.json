@@ -1,0 +1,20 @@
+[
+  {
+    "run": "gpt-6-luna__p4",
+    "fase": ".",
+    "id": "3ad09f75385c",
+    "campo": "nodos[22].enunciado[0].markdown",
+    "tex": "\\varepsilon=NABw\\sen(wt)",
+    "bloque": false,
+    "error": "KaTeX parse error: Undefined control sequence: \\sen at position 17: …varepsilon=NABw\\̲s̲e̲n̲(wt)"
+  },
+  {
+    "run": "gpt-6-luna__p5",
+    "fase": "soluciones/gpt-6-luna__s1/academia",
+    "id": "25fcf7208b8f",
+    "campo": "entradas[0].respuesta[0].markdown",
+    "tex": "\\operatorname{rg}(B)=\\operatorname{rg}(A)=2<\\text{n.^{\\circ} de incógnitas}",
+    "bloque": false,
+    "error": "KaTeX parse error: Expected 'EOF', got '^' at position 53: …}(A)=2<\\text{n.^̲{\\circ} de incó…"
+  }
+]

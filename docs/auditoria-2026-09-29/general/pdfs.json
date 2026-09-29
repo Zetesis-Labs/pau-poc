@@ -1,0 +1,3323 @@
+{
+  "pdfs/comunidad-valenciana/historia-del-arte/2022-ordinaria-examen-llibreta-012555da3d70.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3202,
+      1488,
+      3212,
+      1509,
+      382,
+      484
+    ]
+  },
+  "pdfs/madrid/frances/2025-ordinaria-examen-uc3m-03364198c8fb.pdf": {
+    "paginas": 11,
+    "caracteres_por_pagina": [
+      3063,
+      0,
+      1605,
+      1510,
+      454,
+      3602,
+      3274,
+      2224,
+      2271,
+      1957,
+      454
+    ]
+  },
+  "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-examen-ehu-070c3795d83c.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      587,
+      2129,
+      299,
+      382,
+      1993,
+      274,
+      325
+    ]
+  },
+  "pdfs/comunidad-valenciana/ciencias-de-la-tierra-y-medioambientales/2014-extraordinaria-examen-umh-08621369dc34.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2913,
+      2906,
+      3605,
+      1903
+    ]
+  },
+  "pdfs/madrid/dibujo-artistico-ii/2026-ordinaria-examen-uc3m-0a50595f8036.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2766,
+      3728,
+      1988
+    ]
+  },
+  "pdfs/comunidad-valenciana/empresa-y-diseno-de-modelos-de-negocio/2015-ordinaria-examen-umh-0ac57a998ad1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3813,
+      4186,
+      3885,
+      4334
+    ]
+  },
+  "pdfs/madrid/italiano/2018-extraordinaria-examen-uc3m-0bed555f767c.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3189,
+      2780,
+      1517
+    ]
+  },
+  "pdfs/pais-vasco/historia-de-la-filosofia/2021-extraordinaria-examen-ehu-172579fa76d4.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      47,
+      1882,
+      1880,
+      1590,
+      1615,
+      2206,
+      2488
+    ]
+  },
+  "pdfs/comunidad-valenciana/quimica/2023-ordinaria-examen-llibreta-17445f0ab770.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      0,
+      0
+    ]
+  },
+  "pdfs/madrid/fisica/2018-ordinaria-examen-uc3m-1f06fc98f001.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      0,
+      0,
+      0
+    ]
+  },
+  "pdfs/comunidad-valenciana/biologia/2022-extraordinaria-examen-llibreta-2422938d704e.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      1871,
+      1696,
+      3212,
+      2429,
+      1860,
+      1707,
+      3317,
+      2460
+    ]
+  },
+  "pdfs/madrid/quimica/2019-modelo-modelo-uc3m-2787fc4d640f.pdf": {
+    "paginas": 11,
+    "caracteres_por_pagina": [
+      3014,
+      2738,
+      1347,
+      2854,
+      3453,
+      1593,
+      1833,
+      3163,
+      2316,
+      0,
+      0
+    ]
+  },
+  "pdfs/comunidad-valenciana/ingles/2022-ordinaria-examen-umh-2e1486f4d824.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3786,
+      1788,
+      3835,
+      1886
+    ]
+  },
+  "pdfs/pais-vasco/analisis-musical-ii/2011-extraordinaria-examen-ehu-3068d1110070.pdf": {
+    "paginas": 10,
+    "caracteres_por_pagina": [
+      2386,
+      803,
+      62,
+      0,
+      0,
+      0,
+      64,
+      0,
+      0,
+      0
+    ]
+  },
+  "pdfs/pais-vasco/tecnologia-e-ingenieria-ii/2011-extraordinaria-examen-ehu-3ad09f75385c.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      1921,
+      1663,
+      687,
+      1240,
+      1563,
+      1000,
+      607
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2026-ordinaria-examen-llibreta-3c134e1125e6.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "pdfs/pais-vasco/portugues/2011-ordinaria-examen-ehu-3e560f6e17a7.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      524,
+      0,
+      1407,
+      1429,
+      1005,
+      1110
+    ]
+  },
+  "pdfs/pais-vasco/matematicas-ii/2026-extraordinaria-examen-ehu-49e9ef3c3296.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      974,
+      3253,
+      1857,
+      1082
+    ]
+  },
+  "pdfs/pais-vasco/historia-de-la-musica-y-de-la-danza/2012-extraordinaria-examen-ehu-4a7c96ae2912.pdf": {
+    "paginas": 15,
+    "caracteres_por_pagina": [
+      216,
+      2133,
+      1645,
+      1428,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2552,
+      2591,
+      2283
+    ]
+  },
+  "pdfs/madrid/coro-y-tecnica-vocal-ii/2025-ordinaria-examen-uc3m-4afa0f0f8a54.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2466,
+      1351,
+      1455,
+      1858,
+      2912,
+      2451
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2021-extraordinaria-examen-llibreta-53bf68f29024.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3928,
+      3267,
+      2733,
+      401
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-del-arte/2024-ordinaria-examen-llibreta-56bd7dc00fe3.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3478,
+      931,
+      3607,
+      785,
+      551,
+      165
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2018-ordinaria-examen-uc3m-5bf79e24ec75.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3799,
+      3644,
+      3207,
+      4294
+    ]
+  },
+  "pdfs/pais-vasco/dibujo-tecnico-ii/2024-extraordinaria-examen-ehu-67eea232db63.pdf": {
+    "paginas": 22,
+    "caracteres_por_pagina": [
+      40,
+      1073,
+      1048,
+      1185,
+      202,
+      653,
+      202,
+      960,
+      202,
+      646,
+      200,
+      1156,
+      208,
+      425,
+      60,
+      79,
+      1413,
+      1318,
+      44,
+      250,
+      112,
+      61
+    ]
+  },
+  "pdfs/pais-vasco/latin-ii/2022-extraordinaria-examen-ehu-68febd0b4352.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      30,
+      1757,
+      2203,
+      2221,
+      2073,
+      1863,
+      2682,
+      2664
+    ]
+  },
+  "pdfs/comunidad-valenciana/quimica/2016-ordinaria-examen-umh-6a2a804ce68f.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "pdfs/pais-vasco/lengua-vasca-y-literatura-ii/2025-ordinaria-examen-ehu-73d799a38839.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      597,
+      2263,
+      2143,
+      2128,
+      1517
+    ]
+  },
+  "pdfs/madrid/aleman/2018-ordinaria-examen-uc3m-785105ac7ec2.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2874,
+      1893,
+      1756,
+      1969,
+      2858
+    ]
+  },
+  "pdfs/pais-vasco/ciencias-generales/2025-ordinaria-examen-ehu-7e1bad7a80fd.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      926,
+      2237,
+      805,
+      1110,
+      854,
+      1050,
+      969
+    ]
+  },
+  "pdfs/comunidad-valenciana/fisica/2019-extraordinaria-examen-umh-8298a6121d59.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3177,
+      3104
+    ]
+  },
+  "pdfs/madrid/historia-de-la-filosofia/2019-extraordinaria-examen-uc3m-85dac4a830fa.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2352,
+      1053,
+      2630
+    ]
+  },
+  "pdfs/madrid/cultura-audiovisual/2023-ordinaria-examen-uc3m-8daec23be074.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2245,
+      1448,
+      33,
+      0,
+      148,
+      0,
+      667,
+      1227,
+      1189
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2016-ordinaria-examen-llibreta-8f1700eef6e5.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3178,
+      4001,
+      3241,
+      4058
+    ]
+  },
+  "pdfs/comunidad-valenciana/fisica/2025-ordinaria-examen-umh-91449450587c.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3519,
+      3533,
+      3572,
+      3295
+    ]
+  },
+  "pdfs/madrid/geografia/2019-ordinaria-examen-uc3m-933b666312f9.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      1662,
+      309,
+      921,
+      609,
+      278,
+      2191,
+      62,
+      62
+    ]
+  },
+  "pdfs/madrid/frances/2025-extraordinaria-examen-coincidencias-uc3m-9c4cbc92103b.pdf": {
+    "paginas": 10,
+    "caracteres_por_pagina": [
+      3142,
+      1916,
+      1541,
+      468,
+      3610,
+      3274,
+      2225,
+      1718,
+      2421,
+      771
+    ]
+  },
+  "pdfs/pais-vasco/matematicas-ii/2021-ordinaria-examen-ehu-9e8570ee562e.pdf": {
+    "paginas": 12,
+    "caracteres_por_pagina": [
+      35,
+      1474,
+      166,
+      1054,
+      1324,
+      1047,
+      1363,
+      1290,
+      1528,
+      1179,
+      934,
+      1007
+    ]
+  },
+  "pdfs/madrid/literatura-dramatica/2026-extraordinaria-examen-uc3m-a05dd314b1f2.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3576,
+      3247,
+      3298,
+      4726,
+      5355,
+      5196
+    ]
+  },
+  "pdfs/pais-vasco/geologia-y-ciencias-ambientales/2026-extraordinaria-examen-ehu-a2af56a74785.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      1402,
+      1444,
+      823,
+      863,
+      958,
+      575,
+      592,
+      697
+    ]
+  },
+  "pdfs/comunidad-valenciana/fundamentos-artisticos/2026-modelo-modelo-llibreta-a91229e62578.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2789,
+      2813,
+      2795,
+      2026,
+      2090,
+      2887
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-la-filosofia/2021-extraordinaria-examen-umh-a95cacf9e10e.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2791,
+      4310,
+      3256,
+      1430,
+      2915,
+      3846,
+      3026,
+      1845
+    ]
+  },
+  "pdfs/comunidad-valenciana/ingles/2018-extraordinaria-examen-llibreta-ab690a84e30c.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2438,
+      1457,
+      2143,
+      1844,
+      779
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-aplicadas-a-las-ccss-ii/2022-ordinaria-examen-umh-acbda9a58213.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3193,
+      3425,
+      3114,
+      3572
+    ]
+  },
+  "pdfs/madrid/diseno/2023-ordinaria-examen-uc3m-be1849698853.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2921,
+      2400,
+      2389,
+      2782,
+      3289,
+      3285,
+      2578
+    ]
+  },
+  "pdfs/madrid/italiano/2021-extraordinaria-examen-coincidencias-uc3m-c1e0cd9998cb.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2959,
+      2085,
+      1486,
+      407
+    ]
+  },
+  "pdfs/comunidad-valenciana/geologia-y-ciencias-ambientales/2022-extraordinaria-examen-umh-cbf947ff0c0c.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3021,
+      2559,
+      1443,
+      1068,
+      3065,
+      2609,
+      1457,
+      1099
+    ]
+  },
+  "pdfs/pais-vasco/literatura-universal/2013-extraordinaria-examen-ehu-ce17d1837c64.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      200,
+      1119,
+      1489,
+      2217,
+      1709,
+      1321
+    ]
+  },
+  "pdfs/pais-vasco/movimientos-culturales-y-artisticos/2024-ordinaria-examen-ehu-cf8f175f86e7.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      59,
+      706,
+      1023,
+      911,
+      978,
+      1039,
+      1638
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2019-extraordinaria-examen-llibreta-d54d5d841933.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4213,
+      2132
+    ]
+  },
+  "pdfs/comunidad-valenciana/economia-de-la-empresa/2024-ordinaria-examen-llibreta-e1f43a3363d4.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3164,
+      3021,
+      2578,
+      3276,
+      2934,
+      2594
+    ]
+  },
+  "pdfs/comunidad-valenciana/geografia/2021-extraordinaria-examen-llibreta-e300944f0ec3.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      3027,
+      562,
+      468,
+      454,
+      453
+    ]
+  },
+  "pdfs/comunidad-valenciana/geografia/2025-ordinaria-examen-umh-e731338592c5.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2785,
+      376,
+      1173
+    ]
+  },
+  "pdfs/comunidad-valenciana/valenciano/2026-ordinaria-examen-llibreta-e7907173dac8.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3205,
+      2441,
+      2164
+    ]
+  },
+  "pdfs/madrid/artes-escenicas-ii/2020-ordinaria-examen-coincidencias-uc3m-ed03ea4e6cf8.pdf": {
+    "paginas": 12,
+    "caracteres_por_pagina": [
+      3428,
+      0,
+      119,
+      0,
+      2750,
+      0,
+      153,
+      0,
+      1720,
+      1378,
+      1826,
+      1852
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-aplicadas-a-las-ccss-ii/2017-extraordinaria-examen-umh-f5a8aadc050b.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2508,
+      1334,
+      2554,
+      1338
+    ]
+  },
+  "pdfs/madrid/griego-ii/2024-ordinaria-examen-uc3m-fb33d4fddeab.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2496,
+      1651,
+      1275,
+      1672,
+      1756
+    ]
+  },
+  "pdfs/comunidad-valenciana/ciencias-de-la-tierra-y-medioambientales/2013-extraordinaria-examen-umh-fda5ea13b6c5.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2759,
+      3186,
+      2489,
+      3278
+    ]
+  },
+  "pdfs/comunidad-valenciana/dibujo-tecnico-ii/2026-ordinaria-examen-llibreta-fdd6ca513f80.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2505,
+      1099,
+      1375,
+      1,
+      821,
+      945,
+      664,
+      831
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-extraordinaria-examen-coincidencias-uc3m-01808acbd270.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2101,
+      2267,
+      2311,
+      3383,
+      595,
+      3167,
+      2459
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-extraordinaria-examen-umh-053608cf06ee.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4003,
+      1986
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2018-extraordinaria-examen-umh-0698620afa36.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3386,
+      1887,
+      1646,
+      1839
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-uc3m-0743849de2d6.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4067,
+      2017,
+      3413,
+      4588,
+      1940,
+      2309
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-modelo-modelo-llibreta-09fa045004f2.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4374,
+      4157
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2021-ordinaria-examen-umh-09feb8541d90.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2525,
+      817,
+      3730,
+      3003
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2026-modelo-modelo-uc3m-0b7e227a5499.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2559,
+      1330,
+      2433,
+      2104,
+      2666,
+      1766,
+      1923
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2019-extraordinaria-examen-uc3m-0d5e5806192a.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3749,
+      3557,
+      3318,
+      4174
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2011-extraordinaria-examen-llibreta-0fedaac3fe5f.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3404,
+      2062
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-ordinaria-examen-coincidencias-uc3m-114bff1bacb1.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4102,
+      3863,
+      3233,
+      4958,
+      2149,
+      2012
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2022-extraordinaria-examen-umh-12d25f00833d.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2426,
+      1069,
+      2038
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-coincidencias-uc3m-13244a0fa596.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2293,
+      2631,
+      3114,
+      3279,
+      2171,
+      2178,
+      2445,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2020-ordinaria-examen-umh-16d0161b5c29.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      1749,
+      3329,
+      1784,
+      3416
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2014-extraordinaria-examen-umh-16eb4becf2b2.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4414,
+      3523,
+      4497,
+      3622
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2019-modelo-modelo-uc3m-184bfaad518f.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3259,
+      1619,
+      2433,
+      2430,
+      2781,
+      1782,
+      2252,
+      2274
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2025-ordinaria-examen-umh-19e1e026fa90.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2980,
+      1712,
+      1163,
+      2394,
+      1880,
+      6599,
+      3978
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2020-ordinaria-examen-martes-uc3m-1a86b8a6273d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3798,
+      3211,
+      3210,
+      4341,
+      4828,
+      3687
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2022-ordinaria-examen-umh-1b0c55921d01.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3171,
+      4242,
+      3199,
+      3220
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2021-ordinaria-examen-uc3m-1bc800a06e3b.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2085,
+      2061,
+      2433,
+      2748,
+      2087,
+      2598,
+      2257
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-extraordinaria-examen-coincidencias-uc3m-1d26a968086e.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2606,
+      3013,
+      3120
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2017-ordinaria-examen-umh-208b83b7e460.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3298,
+      2351
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2021-ordinaria-examen-coincidencias-uc3m-20f477248bf5.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4101,
+      2962,
+      3117,
+      4311,
+      1953,
+      1884
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-extraordinaria-examen-uc3m-215c4577b13a.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2710,
+      3209,
+      3116
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2018-extraordinaria-examen-uc3m-224e5e634fab.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3433,
+      2971,
+      3208
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2018-ordinaria-examen-uc3m-2290f27c0d9c.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2766,
+      1773,
+      2448,
+      2332
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-modelo-modelo-uc3m-244a2772cd9c.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2382,
+      2937,
+      3164,
+      3083,
+      2169,
+      2176,
+      2439,
+      174
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2022-ordinaria-examen-uc3m-25fcf7208b8f.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2315,
+      2172,
+      2433,
+      3609,
+      3233,
+      1802,
+      2495
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2019-ordinaria-examen-uc3m-26b80e1966f5.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2003,
+      2771,
+      2386
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-extraordinaria-examen-coincidencias-uc3m-28f5e820a133.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2271,
+      2985,
+      3117
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2026-extraordinaria-examen-uc3m-297407c89a0a.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2542,
+      1046,
+      3534,
+      1642,
+      2371
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2021-ordinaria-examen-martes-uc3m-2b2153c3b2ce.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4314,
+      3210,
+      3121,
+      4312,
+      1959,
+      1701
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2025-extraordinaria-examen-coincidencias-uc3m-2d573323997e.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2260,
+      2167,
+      2433,
+      0,
+      1986,
+      2150,
+      1771
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2023-ordinaria-examen-coincidencias-uc3m-2d925fa916b9.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2624,
+      2039,
+      2433,
+      0,
+      3242,
+      3265,
+      2631,
+      2675
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2018-extraordinaria-examen-uc3m-2f32a4ccbaab.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2881,
+      1996,
+      2448,
+      2535
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2019-extraordinaria-examen-uc3m-2f3ff3e8cb8c.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2737,
+      2111,
+      2433,
+      2478
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-extraordinaria-examen-coincidencias-uc3m-317634da39e8.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4547,
+      2055,
+      3413,
+      4586,
+      2065,
+      2842
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2018-modelo-modelo-uc3m-32384d10aa13.pdf": {
+    "paginas": 14,
+    "caracteres_por_pagina": [
+      2267,
+      3115,
+      1380,
+      4510,
+      3267,
+      5090,
+      1252,
+      2364,
+      794,
+      2821,
+      2703,
+      2588,
+      371,
+      434
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2015-ordinaria-examen-llibreta-32e15229d4e3.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3699,
+      3869,
+      3757,
+      3940
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2023-extraordinaria-examen-llibreta-334e3227bf82.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      1893,
+      3841,
+      3067,
+      1943,
+      3441,
+      3623
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2016-extraordinaria-examen-llibreta-3469f9a1dc3e.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3843,
+      4265,
+      3863,
+      4453
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2011-ordinaria-examen-llibreta-36ac1674aa0b.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3783,
+      2054
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2026-ordinaria-examen-uc3m-37d3ea174a4a.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4177,
+      3337,
+      4313,
+      5509,
+      4484,
+      1828
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2023-modelo-modelo-uc3m-387b76d59962.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2844,
+      2393,
+      3622,
+      3319,
+      2146,
+      2184,
+      457
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2024-ordinaria-examen-umh-389c79bb683d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      1755,
+      4132,
+      2437,
+      1704,
+      4073,
+      2422
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2025-extraordinaria-examen-dana-llibreta-3999e499d821.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2866,
+      2181,
+      3610,
+      1311
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2018-modelo-modelo-uc3m-3e33052fedf6.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2473,
+      1635,
+      2433,
+      2294,
+      2222,
+      2133,
+      2281,
+      2274
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2019-modelo-modelo-uc3m-4043dfadf4dd.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2111,
+      2706,
+      2386,
+      2665,
+      796,
+      2172,
+      2182,
+      2440,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2024-extraordinaria-examen-umh-41369b24aea3.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      1860,
+      2869,
+      1790,
+      1812,
+      3798,
+      812
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2013-extraordinaria-examen-umh-41fdc1fe038d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3648,
+      3559,
+      3698,
+      3657
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2025-modelo-modelo-uc3m-423dd33e007e.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2114,
+      1827,
+      2433,
+      2691,
+      2070,
+      2659,
+      1332
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2020-extraordinaria-examen-umh-42576f6f84fc.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3708,
+      3878,
+      2916
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2010-extraordinaria-examen-llibreta-42e04e11e8ed.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2762,
+      2175,
+      2445,
+      2176
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-extraordinaria-examen-uc3m-43cb911fd6fb.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4089,
+      2052,
+      3413,
+      4586,
+      2786,
+      1455
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-ordinaria-examen-coincidencias-uc3m-43d8d44c5114.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2191,
+      2467,
+      2311,
+      3383,
+      605,
+      3167,
+      2474
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2018-extraordinaria-examen-uc3m-45c44a65437e.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2070,
+      2525,
+      1429
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2023-ordinaria-examen-uc3m-46a7525321b4.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2172,
+      1908,
+      2433,
+      0,
+      2886,
+      2792,
+      2394,
+      2601
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2024-extraordinaria-examen-uc3m-47ffbcd1fca6.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2269,
+      1919,
+      2433,
+      0,
+      2592,
+      0,
+      2294,
+      2339
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2012-ordinaria-examen-llibreta-488817140d92.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3628,
+      2579,
+      3623,
+      2659
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2015-ordinaria-examen-umh-4a9b9f03ca14.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4048,
+      1955
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2020-extraordinaria-examen-uc3m-4dcc02e32509.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4860,
+      2769,
+      2757,
+      4799,
+      3808,
+      4375
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-ordinaria-examen-umh-4e4bbca013d1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3152,
+      3169,
+      2907,
+      1651
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2017-extraordinaria-examen-llibreta-4e703d87e493.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3694,
+      3517,
+      3813,
+      3578
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2020-ordinaria-examen-umh-503de18296eb.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3013,
+      1904,
+      1622,
+      1995
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2022-extraordinaria-examen-umh-5091bd5d23ad.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4057,
+      2933,
+      2505,
+      1203
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2026-extraordinaria-examen-coincidencias-uc3m-52d217fa097d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4139,
+      3367,
+      4452,
+      5315,
+      4092,
+      1007
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2012-extraordinaria-examen-llibreta-54df7fdb158b.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4014,
+      2059
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2021-extraordinaria-examen-umh-56d8a75a668c.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3135,
+      3657,
+      2830
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2020-extraordinaria-examen-uc3m-570fa053e73a.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2548,
+      1970,
+      2549,
+      2761,
+      2706,
+      1759
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2024-extraordinaria-examen-umh-57c556902e6d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2719,
+      2799,
+      2228,
+      1787,
+      5318,
+      4764
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2018-ordinaria-examen-umh-57fdd40780e1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3016,
+      1967,
+      1486,
+      1891
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-ordinaria-examen-lunes-uc3m-5a168e605053.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2302,
+      2431,
+      3093,
+      20,
+      3241,
+      2157,
+      2154,
+      2423,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2015-extraordinaria-examen-umh-5ac286f9ac79.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4063,
+      2025
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-ordinaria-examen-martes-uc3m-5e8b4ad65b41.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2347,
+      2668,
+      3116
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2019-ordinaria-examen-umh-619d7c4c0d6d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3889,
+      2707,
+      2370,
+      2711
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2025-modelo-modelo-cv-llibreta-61e34b1b42fa.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3089,
+      2434
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2020-ordinaria-examen-coincidencias-uc3m-6286420bd955.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3747,
+      4192,
+      2870,
+      4571,
+      3590,
+      3683
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2018-modelo-modelo-uc3m-62b3755b8573.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3964,
+      3005,
+      2480,
+      2202
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-extraordinaria-examen-uc3m-6426459db740.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2349,
+      2566,
+      3166,
+      3281,
+      2171,
+      2178,
+      2624
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2019-ordinaria-examen-llibreta-6446ce8ed0cf.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3133,
+      2083
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2022-ordinaria-examen-umh-64e2509df555.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3031,
+      944,
+      2520
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-ordinaria-examen-martes-uc3m-659fff1375be.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4178,
+      3631,
+      3331,
+      4857,
+      2007,
+      2216
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2023-ordinaria-examen-umh-6649ce9eecb2.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4396,
+      3204,
+      2666,
+      2127
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2020-extraordinaria-examen-umh-698abffe77ea.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      1824,
+      4116,
+      1844,
+      4182
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2019-ordinaria-examen-uc3m-6bfd1db9d487.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4149,
+      3674,
+      3321,
+      4177
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-ordinaria-examen-coincidencias-uc3m-6e24013db05c.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4301,
+      3975,
+      3206,
+      4538,
+      2275,
+      2096
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2024-ordinaria-examen-coincidencias-uc3m-7159ec231c04.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2751,
+      1934,
+      2433,
+      0,
+      2279,
+      0,
+      2634,
+      2629
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2016-ordinaria-examen-umh-7241ab1f5341.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3752,
+      2039
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2019-extraordinaria-examen-umh-73126b12ba41.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3129,
+      2040,
+      1626,
+      2181
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2018-extraordinaria-examen-llibreta-7336bed75af4.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4161,
+      2788,
+      4256,
+      2870
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2019-ordinaria-examen-uc3m-78f2610feda8.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2829,
+      1822,
+      2433,
+      2246
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2026-extraordinaria-examen-coincidencias-uc3m-794badfb1034.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2417,
+      1290,
+      3323,
+      1592,
+      2189
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-modelo-modelo-uc3m-79bbdbfe8cb1.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      4346,
+      3727,
+      3257,
+      4557,
+      2345,
+      2597,
+      3183,
+      1610
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-ordinaria-examen-martes-uc3m-7a299e5b3671.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3931,
+      3253,
+      3206,
+      4538,
+      2871,
+      2349
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2019-ordinaria-examen-umh-7a8748608425.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2676,
+      3712,
+      2734,
+      3724
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-ordinaria-examen-lunes-uc3m-7f137014114d.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2324,
+      3058,
+      3180
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2021-modelo-modelo-uc3m-81564bef5faa.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2234,
+      1591,
+      2359,
+      2353,
+      2131,
+      2557,
+      2656,
+      2284
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2012-ordinaria-examen-llibreta-838c30ae94d8.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3197,
+      2027
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-modelo-modelo-uc3m-84c4013b5265.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3849,
+      3086,
+      3553,
+      4909,
+      3315,
+      2291,
+      2864,
+      1607
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-extraordinaria-examen-lunes-uc3m-86f7a5b9022d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3950,
+      3174,
+      3365,
+      4857,
+      2250,
+      2103
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2025-ordinaria-examen-uc3m-872e799df038.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2310,
+      2886,
+      2631,
+      3031,
+      914
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2017-ordinaria-examen-llibreta-873535963f9d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2987,
+      4949,
+      3049,
+      5025
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-ordinaria-examen-lunes-uc3m-89098e676403.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2282,
+      2887,
+      3117
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2021-ordinaria-examen-lunes-uc3m-894b8afeb2b8.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3967,
+      3305,
+      3119,
+      4313,
+      1656,
+      1785
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2024-ordinaria-examen-martes-uc3m-8a6f0c48cf59.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4378,
+      4149,
+      3400,
+      5030,
+      2520,
+      2725
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2016-ordinaria-examen-umh-8ab0c6fffdcf.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3378,
+      1982,
+      1917,
+      2069
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-extraordinaria-examen-uc3m-8d4709dd94fc.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2360,
+      2865,
+      3114
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2025-ordinaria-examen-umh-9079cba0f003.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2386,
+      2893,
+      2162,
+      2906
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2017-extraordinaria-examen-umh-907fb92539f2.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3348,
+      2419
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2026-extraordinaria-examen-coincidencias-uc3m-90a0459332b9.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2762,
+      2208,
+      2780,
+      3030,
+      637
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2023-ordinaria-examen-coincidencias-uc3m-90dce8c112ac.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2849,
+      2462,
+      3116
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2022-ordinaria-examen-umh-929807ad22eb.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3170,
+      3274,
+      3177,
+      2684
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2025-extraordinaria-examen-umh-930487e13b75.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2875,
+      1054,
+      3168,
+      566
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2023-ordinaria-examen-llibreta-93dc23ff9203.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      1759,
+      3959,
+      1807,
+      4069
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2018-extraordinaria-examen-umh-942b1778f510.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3303,
+      2117
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2024-ordinaria-examen-lunes-uc3m-9467e9ab2b2f.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3962,
+      3442,
+      3499,
+      4932,
+      2629,
+      2443
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2017-extraordinaria-examen-umh-956df9272cca.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3513,
+      1635,
+      2050,
+      1638
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2026-modelo-modelo-llibreta-98dbad03a155.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2521,
+      3225,
+      3029,
+      2746,
+      2688,
+      944,
+      1190,
+      1077,
+      859
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2011-ordinaria-examen-llibreta-98f921b58193.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3384,
+      3587,
+      3078,
+      3672
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2025-extraordinaria-examen-uc3m-9a5ffea388d0.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2310,
+      2331,
+      2780,
+      2815,
+      847
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-modelo-modelo-uc3m-9c232efc4ff3.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2334,
+      2487,
+      2592,
+      3549,
+      487,
+      3193,
+      2473
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2026-extraordinaria-examen-llibreta-9c694c304495.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3474,
+      2775,
+      2402
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2022-modelo-modelo-uc3m-9c6c1758e986.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2647,
+      1790,
+      2759,
+      2578,
+      2296,
+      1461,
+      790
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2023-extraordinaria-examen-uc3m-9d2c2caffedb.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2100,
+      1763,
+      2433,
+      0,
+      3109,
+      2996,
+      2351,
+      2625
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2026-extraordinaria-examen-uc3m-9d70af4a5d41.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4296,
+      3541,
+      4317,
+      5509,
+      4393,
+      1512
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2026-ordinaria-examen-llibreta-a0e4c2414f7c.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3127,
+      2782,
+      3096
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2010-extraordinaria-examen-llibreta-a1bdfb201724.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3600,
+      4238
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-ordinaria-examen-lunes-uc3m-a25ae1a53c4f.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2658,
+      2646,
+      3116
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-ordinaria-examen-martes-uc3m-a46252664577.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2380,
+      2215,
+      3118
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2020-ordinaria-examen-umh-a48e0ad45b08.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3450,
+      4132,
+      3621
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2014-ordinaria-examen-umh-a64fafe8c661.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2932,
+      2590,
+      2959,
+      2614
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-extraordinaria-examen-dana-llibreta-a657e3b0b744.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3165,
+      2304,
+      2758
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-ordinaria-examen-martes-uc3m-a776d935bdc1.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2656,
+      2749,
+      3115
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2025-extraordinaria-examen-coincidencias-uc3m-aa5655e3b9e2.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2760,
+      2186,
+      2780,
+      3030,
+      637
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-ordinaria-examen-coincidencias-uc3m-aac3495c1069.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2369,
+      3305,
+      3180
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2026-modelo-modelo-uc3m-ac1e68a880cb.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4646,
+      3521,
+      4208,
+      5618,
+      3026,
+      3628
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2026-extraordinaria-examen-uc3m-ad5e5f0a2ac6.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2411,
+      2625,
+      2780,
+      3030,
+      637
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-ordinaria-examen-umh-af54b4044118.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3798,
+      1942
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2023-ordinaria-examen-lunes-uc3m-aff3651802a6.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3849,
+      3326,
+      3332,
+      4858,
+      1967,
+      3004
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2014-ordinaria-examen-umh-b2350f7349fb.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3766,
+      2070
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-extraordinaria-examen-coincidencias-uc3m-b318836e0ed7.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3219,
+      3277,
+      3206,
+      4538,
+      2038,
+      2781
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-extraordinaria-examen-coincidencias-uc3m-b33ba5342851.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2653,
+      2438,
+      3114
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2021-extraordinaria-examen-uc3m-b33f8ac01792.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2259,
+      1559,
+      2433,
+      2717,
+      2313,
+      2059,
+      2600
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2012-extraordinaria-examen-llibreta-b3ab481497c0.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2498,
+      3343,
+      2553,
+      3441
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2022-ordinaria-examen-coincidencias-uc3m-b5604273f1c3.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2353,
+      2019,
+      2433,
+      3367,
+      2756,
+      1871,
+      1663
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2019-extraordinaria-examen-umh-b5ab08876761.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3316,
+      3474,
+      3365,
+      3622
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2013-ordinaria-examen-umh-b5cd88c6008c.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3256,
+      1488,
+      3293,
+      1523
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2021-modelo-modelo-uc3m-b70554fe0f17.pdf": {
+    "paginas": 10,
+    "caracteres_por_pagina": [
+      3700,
+      997,
+      3322,
+      3151,
+      4329,
+      2368,
+      1687,
+      935,
+      3065,
+      1614
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2025-ordinaria-examen-coincidencias-uc3m-b7806bfd43fe.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2600,
+      2238,
+      2780,
+      3030,
+      633
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2011-extraordinaria-examen-llibreta-b8bc434a54f5.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3222,
+      1976,
+      3253,
+      1999
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2021-extraordinaria-examen-umh-b8fa0d73f649.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2897,
+      2685,
+      1922
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-extraordinaria-examen-llibreta-b996e7795739.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2097,
+      1215,
+      1669,
+      1115,
+      1843,
+      918
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2026-modelo-modelo-llibreta-b9c4b6fda9fd.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2393,
+      2325,
+      4041,
+      2432,
+      3091,
+      814
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2025-ordinaria-examen-uc3m-bbe9725b0e0f.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2390,
+      1937,
+      1893,
+      2658,
+      1245
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-extraordinaria-examen-uc3m-bd13236e87fb.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3994,
+      3500,
+      3206,
+      4538,
+      2161,
+      2618
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-modelo-modelo-uc3m-be3eae38d7a8.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2457,
+      2592,
+      2386
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-modelo-modelo-uc3m-c09cb7258334.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2374,
+      2645,
+      3166,
+      3317,
+      2157,
+      2154,
+      2423,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-umh-c159097f9120.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      4244,
+      2887,
+      1991
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2016-extraordinaria-examen-umh-c18e08692807.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      4402,
+      2028
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2022-ordinaria-examen-lunes-uc3m-c1d9f1b76c4c.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4143,
+      3107,
+      3206,
+      4538,
+      2206,
+      2776
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2017-ordinaria-examen-umh-c2e6925690c1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3785,
+      1985,
+      2203,
+      2014
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-ordinaria-examen-coincidencias-uc3m-c422fff5f7b9.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2396,
+      2306,
+      2888,
+      223,
+      3238,
+      2157,
+      2154,
+      2423,
+      174
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2021-extraordinaria-examen-uc3m-c84489a2b62f.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      4482,
+      3281,
+      3121,
+      4311,
+      1487,
+      1156,
+      2033
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2018-ordinaria-examen-uc3m-c84f682ed0b2.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2077,
+      2384,
+      1419
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2013-extraordinaria-examen-umh-c85cd1758e28.pdf": {
+    "paginas": 1,
+    "caracteres_por_pagina": [
+      3310
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2010-ordinaria-examen-llibreta-cab36a516c34.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2271,
+      2924,
+      2039,
+      3006
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2024-ordinaria-examen-uc3m-cb74892cb60e.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2227,
+      2324,
+      2267,
+      2121,
+      2979
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2010-ordinaria-examen-llibreta-cb9d8c2c12d7.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2578,
+      2720,
+      1630,
+      2499
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-ordinaria-examen-lunes-uc3m-cc4ce021beb2.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2234,
+      2493,
+      2311,
+      3383,
+      595,
+      3167,
+      2459
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2018-ordinaria-examen-llibreta-cd011dfc3111.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3700,
+      2978,
+      3757,
+      3048
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2026-extraordinaria-examen-llibreta-cdd0f4f759e1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2463,
+      963,
+      2517,
+      980
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2020-extraordinaria-examen-uc3m-ce6f09d504dc.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2424,
+      2373,
+      3178
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2020-ordinaria-examen-lunes-uc3m-d0639c51e9f8.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3751,
+      3075,
+      3079,
+      4477,
+      4448,
+      3106
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-modelo-modelo-uc3m-d0cb552cbd36.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2301,
+      2631,
+      3110,
+      3236,
+      2171,
+      2174,
+      2443,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2015-extraordinaria-examen-llibreta-d1e0bad7ac24.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3033,
+      3824,
+      3090,
+      3846
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2018-ordinaria-examen-umh-d33db3386e53.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3464,
+      2043
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2024-modelo-modelo-uc3m-d38f6dafa9bd.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3729,
+      2930,
+      3469,
+      4990,
+      2436,
+      3192,
+      4468,
+      1354
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-extraordinaria-examen-uc3m-d487a226ab90.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2209,
+      2989,
+      2372,
+      3437,
+      605,
+      3194,
+      2474
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-ordinaria-examen-martes-uc3m-d5bb406de29e.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2306,
+      2614,
+      3114,
+      3238,
+      2157,
+      2154,
+      2423,
+      174
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2013-ordinaria-examen-umh-d779a6b74aba.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4126,
+      3269,
+      4192,
+      3324
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2014-extraordinaria-examen-umh-d8d3b89285b6.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3385,
+      2090
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-extraordinaria-examen-umh-db08dd7416d3.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2547,
+      3461,
+      2006,
+      2743
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2021-ordinaria-examen-umh-dfa70105641a.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3905,
+      3143,
+      2876,
+      1960
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2025-extraordinaria-examen-uc3m-dff10bd824da.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      1718,
+      2050,
+      2433,
+      0,
+      1896,
+      2078,
+      3235
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2024-modelo-modelo-uc3m-e181c850e8ce.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2918,
+      1870,
+      1791,
+      972,
+      2241,
+      2605,
+      1521
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2020-modelo-modelo-uc3m-e20bc6ac4790.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3910,
+      3421,
+      3263,
+      4164,
+      2298,
+      2022,
+      2675,
+      1935
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2023-extraordinaria-examen-umh-e2595a3b7e0d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2774,
+      2285,
+      2360,
+      1400
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2022-extraordinaria-examen-coincidencias-uc3m-e28ef720b913.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2768,
+      1936,
+      2433,
+      3338,
+      3682,
+      2475,
+      2351
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2022-extraordinaria-examen-umh-e3b38fbda57d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3047,
+      4666,
+      4625,
+      3542
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2020-modelo-modelo-uc3m-e71581fd27e5.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2237,
+      1803,
+      2433,
+      3066,
+      2523,
+      2382,
+      2634,
+      2398,
+      2220
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2025-extraordinaria-examen-umh-e734936a32d3.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2375,
+      1855,
+      2428,
+      1775,
+      6693,
+      3882
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2025-ordinaria-examen-coincidencias-uc3m-e762bb621d48.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      1935,
+      2664,
+      2003,
+      2303,
+      2757
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-ordinaria-examen-coincidencias-uc3m-e880b6f47a91.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3854,
+      2049,
+      3413,
+      4586,
+      2806,
+      1281
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2026-ordinaria-examen-uc3m-e887d3851c95.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      1826,
+      1423,
+      2433,
+      0,
+      2882,
+      2258,
+      1400
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2020-ordinaria-examen-uc3m-e901e02fbd0a.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2377,
+      1788,
+      2744,
+      2179,
+      1817,
+      2182
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2016-extraordinaria-examen-umh-e921bcde8ddb.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3614,
+      2803,
+      2080,
+      2754
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2024-ordinaria-examen-umh-e96e07529cae.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2820,
+      2606,
+      2529,
+      1446,
+      5318,
+      4764
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2023-extraordinaria-examen-umh-eb1d77ddf433.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3803,
+      3761,
+      2663,
+      1166
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2023-ordinaria-examen-umh-ed9f75746f60.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      2941,
+      2291,
+      2683,
+      1434
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2020-ordinaria-examen-coincidencias-uc3m-f14d74605043.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2155,
+      1753,
+      2433,
+      0,
+      3050,
+      1729,
+      2022,
+      2230
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2024-extraordinaria-examen-uc3m-f4aa680c156d.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4020,
+      3186,
+      3400,
+      5032,
+      2012,
+      2471
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-ii/2021-ordinaria-examen-umh-f6ae3b95185b.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      3040,
+      1020,
+      2569
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2022-ordinaria-examen-coincidencias-uc3m-f7ba90e6218e.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2366,
+      2630,
+      3115
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2019-extraordinaria-examen-uc3m-f88f210f0efc.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2150,
+      2590,
+      2387
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2026-ordinaria-examen-uc3m-f924b77166cd.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      2368,
+      2552,
+      2780,
+      3030,
+      637
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2024-ordinaria-examen-martes-uc3m-fa08351c342d.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2278,
+      3002,
+      2372,
+      3437,
+      605,
+      3194,
+      2474
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2026-modelo-modelo-uc3m-fae5d170fbef.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2622,
+      2753,
+      2834,
+      3097,
+      646,
+      3027,
+      2566
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2019-modelo-modelo-uc3m-fb159fb1bc3a.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      3771,
+      3335,
+      3322,
+      4177,
+      4024,
+      4424,
+      2493,
+      2220
+    ]
+  },
+  "pdfs/madrid/lengua-castellana-y-literatura-ii/2025-modelo-modelo-uc3m-fb49d9b64ac1.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      4390,
+      1538,
+      3657,
+      4380,
+      2732,
+      1138
+    ]
+  },
+  "pdfs/comunidad-valenciana/quimica/2023-ordinaria-criterios-llibreta-93c019930f9d.pdf": {
+    "paginas": 1,
+    "caracteres_por_pagina": [
+      3571
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2026-ordinaria-criterios-llibreta-7c5377981b00.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3665,
+      5076,
+      3353,
+      4289,
+      4822,
+      2951
+    ]
+  },
+  "pdfs/pais-vasco/matematicas-ii/2026-extraordinaria-solucion-ehu-a77749e62a45.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      1539,
+      1585,
+      1040,
+      2364,
+      1452,
+      626
+    ]
+  },
+  "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-solucion-ehu-d84a81a0f038.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      1380,
+      1818,
+      1519,
+      1787
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2014-extraordinaria-criterios-llibreta-56d8eca4f480.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3605,
+      4087,
+      3674,
+      4178
+    ]
+  },
+  "pdfs/comunidad-valenciana/ingles/2022-ordinaria-criterios-llibreta-02a263ae6aa6.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      3577,
+      2993,
+      2879,
+      3486,
+      2871,
+      2721,
+      329
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2015-ordinaria-criterios-llibreta-cbf2b68f28e4.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3563,
+      3196,
+      3740,
+      3338
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2016-extraordinaria-criterios-llibreta-4988a8bfdafc.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3301,
+      3364,
+      3453,
+      3527
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2013-extraordinaria-criterios-llibreta-fa8d9f01f2bb.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4134,
+      3511,
+      4123,
+      3580
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2020-extraordinaria-criterios-llibreta-3be7c4d2789f.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2882,
+      3418
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2012-ordinaria-criterios-llibreta-bfb9aecda4b2.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3380,
+      2929,
+      3524,
+      3071
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-ordinaria-criterios-llibreta-1c8617a16bb4.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      1876,
+      2153,
+      1186,
+      2020,
+      1278,
+      1860,
+      2450,
+      2477,
+      302
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2017-extraordinaria-criterios-llibreta-897d080bd341.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4820,
+      4299,
+      4875,
+      4439
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2022-extraordinaria-criterios-llibreta-8399809a0379.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      1882,
+      1465,
+      794,
+      1417,
+      2266,
+      1053,
+      1891,
+      2113,
+      1830
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2021-extraordinaria-criterios-llibreta-aabb95c9b4c7.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2689,
+      3387
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2019-ordinaria-criterios-llibreta-1de3dcc88832.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2538,
+      5771
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2023-ordinaria-criterios-llibreta-c4afc8d9c75a.pdf": {
+    "paginas": 11,
+    "caracteres_por_pagina": [
+      2619,
+      2271,
+      1376,
+      1238,
+      654,
+      2543,
+      1008,
+      1683,
+      2346,
+      2624,
+      538
+    ]
+  },
+  "pdfs/comunidad-valenciana/quimica/2016-ordinaria-criterios-llibreta-eec87a4e121c.pdf": {
+    "paginas": 1,
+    "caracteres_por_pagina": [
+      3402
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2018-extraordinaria-criterios-llibreta-626c9a4b4e3c.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3681,
+      4352,
+      3848,
+      4528
+    ]
+  },
+  "pdfs/pais-vasco/lengua-vasca-y-literatura-ii/2025-ordinaria-solucion-ehu-3f8e49538d86.pdf": {
+    "paginas": 5,
+    "caracteres_por_pagina": [
+      3070,
+      2784,
+      2333,
+      1681,
+      344
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2019-ordinaria-criterios-llibreta-db1138ec6522.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4740,
+      5261,
+      4833,
+      5363
+    ]
+  },
+  "pdfs/pais-vasco/ciencias-generales/2025-ordinaria-solucion-ehu-87ed6f23bee3.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      1129,
+      691,
+      850,
+      1338,
+      1818,
+      1138,
+      1418
+    ]
+  },
+  "pdfs/comunidad-valenciana/fisica/2019-extraordinaria-criterios-llibreta-c27668c730a9.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3468,
+      3329
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2017-ordinaria-criterios-llibreta-4d17545945cd.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4293,
+      4866,
+      4450,
+      5059
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2016-ordinaria-criterios-llibreta-4937469543e4.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3404,
+      3637,
+      3537,
+      3805
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2017-extraordinaria-criterios-llibreta-db0e3f40ff5a.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3788,
+      3209
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2022-ordinaria-criterios-llibreta-b073b8e5856e.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      1763,
+      1782,
+      2034,
+      1179,
+      1110,
+      2649,
+      1844,
+      2247,
+      1378
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2018-extraordinaria-criterios-llibreta-308a96165b02.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3821,
+      3192
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2011-ordinaria-criterios-llibreta-03700fae00e8.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3019,
+      4009,
+      2805,
+      4182
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2026-extraordinaria-criterios-llibreta-7ce8d18d74a3.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2779,
+      3923,
+      3846
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2026-ordinaria-criterios-llibreta-9c933ec786f1.pdf": {
+    "paginas": 3,
+    "caracteres_por_pagina": [
+      2792,
+      3947,
+      3880
+    ]
+  },
+  "pdfs/pais-vasco/geologia-y-ciencias-ambientales/2026-extraordinaria-solucion-ehu-5efbf34ebedd.pdf": {
+    "paginas": 7,
+    "caracteres_por_pagina": [
+      2093,
+      2366,
+      2267,
+      1330,
+      1777,
+      2489,
+      1149
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2020-ordinaria-criterios-llibreta-ed0edcc753de.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2883,
+      3418
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2014-ordinaria-criterios-llibreta-5e0d20f9ae2d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3836,
+      3303,
+      3883,
+      3359
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-extraordinaria-criterios-dana-llibreta-36eb613ac5e3.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2702,
+      2917
+    ]
+  },
+  "pdfs/comunidad-valenciana/ingles/2018-extraordinaria-criterios-llibreta-02c5957c411d.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3721,
+      3529,
+      2309,
+      2400
+    ]
+  },
+  "pdfs/comunidad-valenciana/matematicas-aplicadas-a-las-ccss-ii/2022-ordinaria-criterios-llibreta-62af687fbe22.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2680,
+      2487,
+      928,
+      2700,
+      2287,
+      895
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2012-extraordinaria-criterios-llibreta-64d48c69f111.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3596,
+      4368,
+      3734,
+      4555
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2019-extraordinaria-criterios-llibreta-ca573ed5c4a1.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4441,
+      5780,
+      4494,
+      5903
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2011-extraordinaria-criterios-llibreta-92af7f25d59b.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3200,
+      2885,
+      2955,
+      2975
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-extraordinaria-criterios-llibreta-361720afddf5.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2097,
+      1215,
+      2267,
+      1842,
+      1146,
+      2152,
+      2030,
+      2650
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2025-ordinaria-criterios-llibreta-7cbb3317ab4c.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      2471,
+      1618,
+      1973,
+      1169,
+      1199,
+      740
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2016-extraordinaria-criterios-llibreta-e05165015213.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3129,
+      5168
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2018-ordinaria-criterios-llibreta-1f26a8daac4b.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      4038,
+      4839,
+      4217,
+      5036
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2026-extraordinaria-criterios-llibreta-a94284193403.pdf": {
+    "paginas": 6,
+    "caracteres_por_pagina": [
+      3413,
+      5429,
+      3459,
+      4562,
+      5471,
+      3472
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2015-extraordinaria-criterios-llibreta-f68f760ed36b.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3403,
+      3905,
+      3570,
+      4056
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2018-ordinaria-criterios-llibreta-c98a4e164b4e.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3819,
+      3192
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2019-extraordinaria-criterios-llibreta-8ab2c47bc539.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2623,
+      5687
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2013-ordinaria-criterios-llibreta-9db6504234c3.pdf": {
+    "paginas": 4,
+    "caracteres_por_pagina": [
+      3486,
+      3539,
+      3513,
+      3630
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2024-extraordinaria-criterios-llibreta-cfcd341d1891.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      2047,
+      2162,
+      996,
+      1090,
+      2496,
+      1134,
+      2234,
+      2344,
+      2128
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2021-ordinaria-criterios-llibreta-bfe03280bb50.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      2687,
+      3387
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2023-extraordinaria-criterios-llibreta-73c25f2247ec.pdf": {
+    "paginas": 10,
+    "caracteres_por_pagina": [
+      2143,
+      2060,
+      1289,
+      1753,
+      1417,
+      2234,
+      2054,
+      1727,
+      2352,
+      1195
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2021-ordinaria-solucion-llibreta-e91853eaf194.pdf": {
+    "paginas": 11,
+    "caracteres_por_pagina": [
+      1924,
+      2291,
+      2470,
+      2168,
+      2225,
+      2290,
+      2008,
+      2192,
+      2623,
+      2567,
+      783
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2020-ordinaria-solucion-llibreta-cc054e488195.pdf": {
+    "paginas": 11,
+    "caracteres_por_pagina": [
+      1908,
+      2167,
+      2052,
+      1606,
+      2158,
+      1734,
+      1863,
+      2062,
+      2070,
+      2392,
+      375
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2022-ordinaria-solucion-llibreta-b2c85fae1b4e.pdf": {
+    "paginas": 8,
+    "caracteres_por_pagina": [
+      2092,
+      1852,
+      2122,
+      2127,
+      2093,
+      2228,
+      2618,
+      1449
+    ]
+  },
+  "pdfs/madrid/matematicas-ii/2022-ordinaria-solucion-mundoestudiante-3ad37f8a71fd.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      367,
+      323,
+      22,
+      563,
+      707,
+      947,
+      608,
+      22,
+      812
+    ]
+  },
+  "pdfs/comunidad-valenciana/historia-de-espana/2023-extraordinaria-solucion-llibreta-31af0002c6ff.pdf": {
+    "paginas": 9,
+    "caracteres_por_pagina": [
+      1659,
+      2366,
+      2351,
+      2438,
+      2302,
+      2454,
+      2646,
+      2460,
+      0
+    ]
+  },
+  "pdfs/madrid/historia-de-espana/2021-extraordinaria-solucion-mundoestudiante-419c32445ca2.pdf": {
+    "paginas": 12,
+    "caracteres_por_pagina": [
+      2608,
+      3011,
+      2703,
+      2803,
+      2927,
+      376,
+      2567,
+      2894,
+      2390,
+      2500,
+      3224,
+      1911
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2013-extraordinaria-criterios-llibreta-2b63a12d4e02.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3108,
+      5164
+    ]
+  },
+  "pdfs/comunidad-valenciana/lengua-castellana-y-literatura-ii/2011-extraordinaria-criterios-llibreta-d1dfca4e69b9.pdf": {
+    "paginas": 2,
+    "caracteres_por_pagina": [
+      3498,
+      3461
+    ]
+  }
+}

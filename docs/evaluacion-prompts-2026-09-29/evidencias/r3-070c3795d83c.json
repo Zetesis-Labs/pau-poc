@@ -1,0 +1,380 @@
+{
+ "documento": "070c3795d83c",
+ "fuente": {
+  "archivo": "pdfs/pais-vasco/tecnicas-de-expresion-grafico-plastica/2026-extraordinaria-solucion-ehu-d84a81a0f038.pdf",
+  "desde": 1,
+  "anexo": {
+   "id": "d84a81a0f038",
+   "tipo": "solucion",
+   "contenido": [
+    "solucion"
+   ],
+   "origen": "oficial",
+   "fuente": "ehu",
+   "acceso": "publico",
+   "coincidencia": "exacta",
+   "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/tecnicas-expresion-grafico-plastica-solucionario-extraord-2026",
+   "titulo": "Técnicas de Expresión Gráfico-Plástica — Solucionario"
+  }
+ },
+ "modelo": "gpt-6-luna",
+ "esfuerzo": "high",
+ "prompt": "r3",
+ "esquema": "r1",
+ "segundos": 55.9,
+ "uso": {
+  "input_tokens": 16202,
+  "input_tokens_details": {
+   "cache_write_tokens": 16199,
+   "cached_tokens": 0
+  },
+  "output_tokens": 8474,
+  "output_tokens_details": {
+   "reasoning_tokens": 5696
+  },
+  "total_tokens": 24676
+ },
+ "estado": "completed",
+ "respuesta": "resp_086b811a3cd4ce8b016abb17b46c1887d1a3d633f4d8175045",
+ "resultado": {
+  "contiene_criterios": true,
+  "idiomas": [
+   "es"
+  ],
+  "generales": [],
+  "entradas": [
+   {
+    "nodo": "n2",
+    "puntos": null,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "El texto ha de explicar y comparar los siguientes aspectos de ambas obras. Si únicamente explica una de las imágenes, la puntuación en este apartado ponderará la mitad, $1$ punto:"
+     }
+    ],
+    "desglose": [
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Nivel de iconicidad (figurativo o abstracto)"
+       }
+      ],
+      "puntos": 0.2
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Descripción del color o de la escala de grises (qué colores predominan y cuál es su saturación)"
+       }
+      ],
+      "puntos": 0.4
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Soporte y técnica"
+       }
+      ],
+      "puntos": 0.2
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Descripción del procedimiento empleado (trazos y pinceladas)"
+       }
+      ],
+      "puntos": 0.4
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Composición (simétrica o asimétrica)"
+       }
+      ],
+      "puntos": 0.2
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Formato (vertical, horizontal, cuadrado, etc.)"
+       }
+      ],
+      "puntos": 0.2
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Nomenclatura (uso del lenguaje técnico)"
+       }
+      ],
+      "puntos": 0.1
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Coherencia y adecuación del texto en relación al planteamiento"
+       }
+      ],
+      "puntos": 0.1
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Cohesión de las ideas que se expresan"
+       }
+      ],
+      "puntos": 0.1
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Corrección gramatical, léxica y ortográfica"
+       }
+      ],
+      "puntos": 0.1
+     }
+    ],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 1
+     }
+    ]
+   },
+   {
+    "nodo": "n4",
+    "puntos": null,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "**Imágenes $1/2/3$ ($2.1$). Responde al planteamiento: sí / no**\n\n| ¿Las imágenes realizadas presentan propiedades distintas en relación a los siguientes aspectos? | Poco | Algo | Mucho |\n|---|---:|---:|---:|\n| Técnica empleada (o su aplicación) | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| El color | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| La composición | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| La textura | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| Nivel de iconicidad | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| Total |  |  | sobre $1{,}5$ |\n\n**Imágenes $1/2/3$ ($2.1$). Responde al planteamiento: sí / no**\n\n| ¿En qué medida se ha profundizado en los siguientes aspectos? | Poco | Algo | Mucho |\n|---|---:|---:|---:|\n| Técnica empleada (o su aplicación) | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| El color | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| La composición | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| La textura | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| Nivel de iconicidad | $0$ puntos | $0{,}15$ puntos | $0{,}3$ puntos |\n| Total |  |  | sobre $1{,}5$ |"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 1
+     }
+    ]
+   },
+   {
+    "nodo": "n5",
+    "puntos": 5.0,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "La imagen $2.2$ se valorará según tres aspectos: el desarrollo técnico (la manera en la que se ha empleado el procedimiento elegido), el desarrollo formal (las relaciones formales que guarda con la obra de origen) y el desarrollo conceptual (la idea, ¿es genuina y original?).\n\nEn qué medida se ha profundizado en el desarrollo técnico, forma y/o conceptual:\n\n$1.$ Apenas se ha profundizado en aspectos técnicos, formales y/o conceptuales. ($0$ puntos)\n\n$2.$ Se ha profundizado en alguno de los aspectos (como en lo relativo al/ a la ___________, por ejemplo), pero los otros se han descuidado. ($0 - 1{,}5$ puntos)\n\n$3.$ Se ha profundizado en varios aspectos, pero convendría profundizar en el aspecto ________________. ($1{,}5 - 3{,}5$ puntos)\n\n$4.$ Se ha profundizado en todos los aspectos constitutivos de la obra. ($3{,}5 - 5$ puntos)\n\nSeñala, si las hubiera, propuestas de mejora relativas a los tres aspectos analizados:\n\nLa obra es sensible y conmovedora, a pesar de que no todos los aspectos técnicos, formales y/o conceptuales están resueltos. (_ puntos)"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 2
+     }
+    ]
+   },
+   {
+    "nodo": "n7",
+    "puntos": null,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "Si únicamente explica una de las imágenes, la puntuación en este apartado ponderará la mitad, $1$ punto:"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n8",
+    "puntos": null,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "El texto ha de explicar y comparar los siguientes aspectos de ambas obras."
+     }
+    ],
+    "desglose": [
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Nivel de iconicidad (figurativo o abstracto) y del contexto o movimiento artístico (visión onírica, expresionismo, pop art)"
+       }
+      ],
+      "puntos": 0.25
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Descripción del procedimiento empleado (punta seca, aguafuerte, aguatinta, linóleo, xilografía, serigrafía)"
+       }
+      ],
+      "puntos": 0.5
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Soporte y técnica"
+       }
+      ],
+      "puntos": 0.35
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Descripción del color o de la escala de grises (qué colores predominan y cuál es su saturación)"
+       }
+      ],
+      "puntos": 0.25
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Composición (simétrica o asimétrica) y Formato (díptico, vertical, horizontal, cuadrado, el espacio en blanco, etc.)"
+       }
+      ],
+      "puntos": 0.25
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Coherencia y adecuación del texto en relación al planteamiento"
+       }
+      ],
+      "puntos": 0.1
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Cohesión de las ideas que se expresan"
+       }
+      ],
+      "puntos": 0.1
+     },
+     {
+      "descripcion": [
+       {
+        "idioma": "es",
+        "markdown": "Corrección gramatical, léxica y ortográfica"
+       }
+      ],
+      "puntos": 0.1
+     }
+    ],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n9",
+    "puntos": 0.1,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "Nomenclatura (uso del lenguaje específico)"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n11",
+    "puntos": 0.1,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "Coherencia y adecuación del texto en relación al planteamiento"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n12",
+    "puntos": null,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "**Boceto $1$. Responde al planteamiento: sí / no**\n\n| ¿Se corresponden los aspectos descritos con las características de la imagen? | Poco | Algo | Mucho |\n|---|---:|---:|---:|\n| La composición | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Técnica empleada | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Dibujo y color | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| La textura | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Nivel didáctico o comunicativo | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Total |  |  | sobre $0{,}1$ |\n\n**Boceto $2$. Responde al planteamiento: sí / no**\n\n| ¿Se corresponden los aspectos descritos con las características de la imagen? | Poco | Algo | Mucho |\n|---|---:|---:|---:|\n| La composición | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Técnica empleada | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Dibujo y color | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| La textura | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Nivel didáctico o comunicativo | $0$ puntos | $0{,}1$ puntos | $0{,}2$ puntos |\n| Total |  |  | sobre $0{,}1$ |"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 3
+     }
+    ]
+   },
+   {
+    "nodo": "n13",
+    "puntos": 5.0,
+    "criterios": [
+     {
+      "idioma": "es",
+      "markdown": "La imagen $2.3$ se valorará según tres aspectos: el desarrollo técnico (la manera en la que se ha empleado el procedimiento elegido), el desarrollo formal (las relaciones formales que guarda con las ideas y boceto generados),y el desarrollo conceptual (la idea, ¿es genuina y original?).\n\nEn qué medida se ha profundizado en el desarrollo técnico, forma y/o conceptual:\n\n$1.$ Apenas se ha profundizado en aspectos técnicos, formales y/o conceptuales. ($0$ puntos)\n\n$2.$ Se ha profundizado en alguno de los aspectos (como en lo relativo al/ a la ___________, por ejemplo), pero los otros se han descuidado. ($0 - 1{,}5$ puntos)\n\n$3.$ Se ha profundizado en varios aspectos, pero convendría profundizar en el aspecto ________________. ($1{,}5 - 3{,}5$ puntos)\n\n$4.$ Se ha profundizado en todos los aspectos constitutivos de la obra. ($3{,}5 - 5$ puntos)\n\nSeñala, si las hubiera, propuestas de mejora relativas a los tres aspectos analizados:\n\nLa obra es sensible y conmovedora, a pesar de que no todos los aspectos técnicos, formales y/o conceptuales están resueltos. (_ puntos)"
+     }
+    ],
+    "desglose": [],
+    "respuesta": [],
+    "paginas": [
+     {
+      "idioma": "es",
+      "pagina": 4
+     }
+    ]
+   }
+  ],
+  "sin_correspondencia": [],
+  "incidencias": [
+   "n12, páginas 3-4: las tablas asignan hasta $0{,}2$ puntos por cada uno de cinco aspectos, pero en ambas indican «Total (sobre $0{,}1$)»; los valores por aspecto y el total indicado son contradictorios.",
+   "n5, página 2, y n13, página 4: la línea «La obra es sensible y conmovedora, a pesar de que no todos los aspectos técnicos, formales y/o conceptuales están resueltos. (_ puntos)» deja sin especificar la puntuación."
+  ]
+ },
+ "hallazgos": []
+}

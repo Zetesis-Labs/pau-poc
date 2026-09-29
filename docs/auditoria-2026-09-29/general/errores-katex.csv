@@ -1,0 +1,3 @@
+run,fase,id,campo,tex,bloque,error
+gpt-6-luna__p4,.,3ad09f75385c,nodos[22].enunciado[0].markdown,\varepsilon=NABw\sen(wt),False,KaTeX parse error: Undefined control sequence: \sen at position 17: …varepsilon=NABw\̲s̲e̲n̲(wt)
+gpt-6-luna__p5,soluciones/gpt-6-luna__s1/academia,25fcf7208b8f,entradas[0].respuesta[0].markdown,\operatorname{rg}(B)=\operatorname{rg}(A)=2<\text{n.^{\circ} de incógnitas},False,"KaTeX parse error: Expected 'EOF', got '^' at position 53: …}(A)=2<\text{n.^̲{\circ} de incó…"

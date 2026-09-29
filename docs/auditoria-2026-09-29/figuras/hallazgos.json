@@ -1,0 +1,148 @@
+[
+  {
+    "id": "FIG-01",
+    "prioridad": "P1",
+    "documentos": [
+      "184bfaad518f"
+    ],
+    "estimulos": [
+      "E1"
+    ],
+    "paginas": [
+      2
+    ],
+    "causa": "modelo",
+    "estado": "confirmado",
+    "descripcion": "La gráfica se sustituye por texto de otras preguntas."
+  },
+  {
+    "id": "FIG-02",
+    "prioridad": "P1",
+    "documentos": [
+      "1f06fc98f001"
+    ],
+    "estimulos": [
+      "E2",
+      "E3"
+    ],
+    "paginas": [
+      2
+    ],
+    "causa": "modelo",
+    "estado": "confirmado",
+    "descripcion": "Gráficas incompletas: se corta su zona inferior y ejes."
+  },
+  {
+    "id": "FIG-03",
+    "prioridad": "P1",
+    "documentos": [
+      "fdd6ca513f80"
+    ],
+    "estimulos": [
+      "E5"
+    ],
+    "paginas": [
+      7
+    ],
+    "causa": "ajuste_pdf",
+    "estado": "confirmado",
+    "descripcion": "La pieza A2 se sustituye por la casilla de identificación del alumno."
+  },
+  {
+    "id": "FIG-04",
+    "prioridad": "P1",
+    "documentos": [
+      "61e34b1b42fa"
+    ],
+    "estimulos": [
+      "E4",
+      "E5"
+    ],
+    "paginas": [
+      2
+    ],
+    "causa": "modelo_y_ajuste_pdf",
+    "estado": "confirmado",
+    "descripcion": "Tabla siderúrgica sustituida por tabla de electrodomésticos; segunda tabla reducida a última fila."
+  },
+  {
+    "id": "FIG-05",
+    "prioridad": "P1",
+    "documentos": [
+      "9c4cbc92103b"
+    ],
+    "estimulos": [
+      "E2",
+      "E3"
+    ],
+    "paginas": [
+      4
+    ],
+    "causa": "modelo_y_recorte",
+    "estado": "confirmado",
+    "descripcion": "Jóvenes con móviles sustituidos por conejo; recorte del conejo casi vacío."
+  },
+  {
+    "id": "FIG-06",
+    "prioridad": "P2",
+    "documentos": [
+      "03364198c8fb"
+    ],
+    "estimulos": [
+      "E2"
+    ],
+    "paginas": [
+      4
+    ],
+    "causa": "modelo",
+    "estado": "confirmado",
+    "descripcion": "Primera de cuatro posiciones cortada casi por completo."
+  },
+  {
+    "id": "FIG-07",
+    "prioridad": "P1",
+    "documentos": [
+      "67eea232db63"
+    ],
+    "estimulos": [
+      "E2"
+    ],
+    "paginas": [
+      3
+    ],
+    "causa": "modelo",
+    "estado": "confirmado",
+    "descripcion": "Se pierde parte superior del contorno de Dibujo Técnico."
+  },
+  {
+    "id": "FIG-08",
+    "prioridad": "P1",
+    "documentos": [
+      "4a7c96ae2912",
+      "3068d1110070"
+    ],
+    "estimulos": [],
+    "paginas": [],
+    "causa": "validacion_geometrica",
+    "estado": "confirmado",
+    "descripcion": "12 páginas de partituras descartadas por casi-pagina. Contraste visual de páginas representativas 5 y 7."
+  },
+  {
+    "id": "FIG-09",
+    "prioridad": "P1",
+    "documentos": [
+      "3068d1110070"
+    ],
+    "estimulos": [
+      "E2"
+    ],
+    "paginas": [
+      4,
+      5,
+      6
+    ],
+    "causa": "web",
+    "estado": "confirmado",
+    "descripcion": "Fallback de idioma muestra una de tres páginas publicadas; ejecución del cuerpo real de figurasDe, sin navegador."
+  }
+]

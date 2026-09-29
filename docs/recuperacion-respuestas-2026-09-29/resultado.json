@@ -1,0 +1,17 @@
+{
+  "antes": "959be99e530f85cf7f9fd35532fe392ec725ce16d5cb75eee07e307fcbad42fb",
+  "despues": "2858d10e748e2e516f444754d04322181d7f99349cd4f86a4ff9d45becc8334d",
+  "respuestas": 479,
+  "preguntas": 285,
+  "examenes": 36,
+  "motivos_exclusion": {
+    "solucion-existente": 55,
+    "nodo_no_publicado": 1,
+    "idiomas-paginas-distintos": 34,
+    "correspondencia-parcial": 18,
+    "origen-no-acreditado": 34,
+    "idioma-repetido": 6,
+    "baremo-distinto": 24,
+    "pagina-incorrecta": 1
+  }
+}

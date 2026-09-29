@@ -1,0 +1,1116 @@
+DOCUMENTO {"id": "49e9ef3c3296", "region": "País Vasco", "asignatura": "Matemáticas II", "anio": 2026, "convocatoria": "extraordinaria", "tipo": "examen", "fuente": "ehu", "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/matematicas-ii-examen-extraord-2026", "archivo": "pdfs/pais-vasco/matematicas-ii/2026-extraordinaria-examen-ehu-49e9ef3c3296.pdf", "paginas": 4, "estrato": "País Vasco · pau-2025"}
+FUENTE {"archivo": "pdfs/pais-vasco/matematicas-ii/2026-extraordinaria-solucion-ehu-a77749e62a45.pdf", "desde": 1, "anexo": {"id": "a77749e62a45", "tipo": "solucion", "contenido": ["solucion"], "origen": "oficial", "fuente": "ehu", "acceso": "publico", "coincidencia": "exacta", "url": "https://www.ehu.eus/documents/d/unibertsitaterako-sarbidea/matematicas-ii-solucionario-extraord-2026", "titulo": "Matemáticas II — Solucionario"}}
+ARBOL
+[
+ {
+  "id": "n1",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "PRIMER EJERCICIO"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos). Una central lechera recoge leche de tres productores locales, A, B y C. El productor A lleva su leche en recipientes de $10$ litros y se le paga a $5\\,\\mathrm{€}$ por cada recipiente. La productora B utiliza recipientes de $15$ litros y recibe $9\\,\\mathrm{€}$ por cada recipiente. Por último, la productora C aporta recipientes de $12$ litros y se le paga a $4\\,\\mathrm{€}$ por cada uno. En la última semana, se han recogido un total de $612$ litros de leche, en $48$ recipientes y se debe pagar en total $304\\,\\mathrm{€}$, a repartir entre los tres ganaderos."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n2",
+  "padre": "n1",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Plantea el sistema de ecuaciones que modeliza la situación descrita."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n3",
+  "padre": "n1",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) ¿Cuánto se debe pagar a cada productor por la leche que ha llevado a la central la última semana?"
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n4",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "SEGUNDO EJERCICIO"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos). Sea $f(x)=x^3+Ax^2+Bx+C$."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n5",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1{,}5$ puntos) Encuentra los valores de $A$, $B$ y $C$ para que la tangente a la gráfica de $f$ en el punto de abscisa $x=0$ sea la recta $y=3-3x$ y $f$ tenga un extremo relativo en $x=1$."
+   }
+  ],
+  "puntos": 1.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n6",
+  "padre": "n4",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($0{,}5$ puntos) El extremo relativo de $f$ en el punto $x=1$, ¿es un máximo o un mínimo?"
+   }
+  ],
+  "puntos": 0.5,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n7",
+  "padre": null,
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "TERCER EJERCICIO"
+   }
+  ],
+  "sintetico": false,
+  "orden": 3,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos). Se ha realizado un estudio de la venta de coches del año $2025$ en España. De un total de $1.148.650$ unidades vendidas, el $10\\,\\%$ corresponde a coches totalmente eléctricos, siendo todos ellos de cambio automático; el $52\\,\\%$ de las unidades vendidas corresponde a coches híbridos, siendo de cambio manual el $6\\,\\%$ de ellos; del resto de unidades vendidas, tienen cambio automático el $53\\,\\%$ de ellos."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n8",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Calcula la cantidad de coches con cambio automático vendidos en España en $2025$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n9",
+  "padre": "n7",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Elegido al azar un coche vendido en España en $2025$ y sabiendo que tiene cambio automático, calcula la probabilidad de que sea híbrido."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 3
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "CUARTO EJERCICIO"
+   }
+  ],
+  "sintetico": false,
+  "orden": 4,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responde solo a una de las opciones."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n11",
+  "padre": "n10",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(4A)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sea $P$ el punto de corte de las rectas $$r_1\\equiv\\begin{cases}x=1+t,\\\\y=0,\\\\z=-t;\\end{cases}\\qquad r_2\\equiv\\begin{cases}x=s,\\\\y=-1+s,\\\\z=0.\\end{cases}$$ Calcula el punto $P'$ simétrico de $P$ con respecto al plano de ecuación $2x+y-z=3$."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n12",
+  "padre": "n10",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(4B)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Sea $r$ la recta que pasa por el punto $P(1,7,4)$ y cuyo vector director es $\\vec{v}=(6,3,-5)$ y sea $\\pi\\equiv 2x+y-3z=-13$."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n13",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Calcula el punto de corte de la recta $r$ con el plano $\\pi$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n14",
+  "padre": "n12",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Calcula el ángulo mínimo formado por la recta $r$ y el plano $\\pi$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n15",
+  "padre": null,
+  "tipo": "bloque",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "QUINTO EJERCICIO"
+   }
+  ],
+  "sintetico": false,
+  "orden": 5,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($2$ puntos)."
+   }
+  ],
+  "puntos": 2.0,
+  "eleccion": {
+   "minimo": 1,
+   "maximo": 1,
+   "de": 2,
+   "agregacion": "suma",
+   "literal": [
+    {
+     "idioma": "es",
+     "markdown": "Responde solo a una de las opciones."
+    }
+   ]
+  },
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n16",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(5A)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "Calcula la integral $$\\int \\frac{x^2-2x+3}{x^2-x-2}\\,dx,$$ explicando los pasos realizados."
+   }
+  ],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n17",
+  "padre": "n15",
+  "tipo": "pregunta",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(5B)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [],
+  "puntos": null,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n18",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(a)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 1,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Dibuja el recinto limitado por la parábola de ecuación $y=x^2-\\pi^2$ y la gráfica de la función $f(x)=\\cos(x/2)$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ },
+ {
+  "id": "n19",
+  "padre": "n17",
+  "tipo": "apartado",
+  "etiqueta": [
+   {
+    "idioma": "es",
+    "markdown": "(b)"
+   }
+  ],
+  "sintetico": false,
+  "orden": 2,
+  "enunciado": [
+   {
+    "idioma": "es",
+    "markdown": "($1$ punto) Calcula el área del recinto del apartado anterior, escribiendo el resultado en función del número $\\pi$."
+   }
+  ],
+  "puntos": 1.0,
+  "eleccion": null,
+  "estimulos": [],
+  "paginas": [
+   {
+    "idioma": "es",
+    "pagina": 4
+   }
+  ]
+ }
+]
+SALIDA
+{
+ "contiene_soluciones": true,
+ "idiomas": [
+  "es"
+ ],
+ "entradas": [
+  {
+   "nodo": "n2",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$\\begin{cases}\n10x+15y+12z=612,\\\\\nx+y+z=48,\\\\\n5x+9y+4z=304.\n\\end{cases}$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n3",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La solución de este sistema es $x=12$, $y=20$, $z=16$. Multiplicando cada uno de estos valores por el importe que recibe cada productor por recipiente entregado, se tiene que el productor A recibe $60\\,\\mathrm{€}$, la productora B, $180\\,\\mathrm{€}$ y la productora C, $64\\,\\mathrm{€}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n5",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Para que la recta tangente a la gráfica de $f$ en el punto de abscisa $x=0$ sea $y=3-3x$ deben ser $f(0)=3$ y $f'(0)=-3$, es decir, $C=3$ y $B=-3$. Para que $f$ tenga un extremo relativo en el punto $x=1$ debe ser $f'(1)=0$, o sea, $A=0$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n6",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$f(x)=x^3-3x+3$, $f'(x)=3x^2-3$ y $f''(x)=6x$. Por tanto, $f''(1)>0$ y $f$ tiene un mínimo relativo en el punto $x=1$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 1
+    }
+   ]
+  },
+  {
+   "nodo": "n8",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$P(A)=P(A\\mid E)P(E)+P(A\\mid H)P(H)+P(A\\mid R)P(R)=1\\times 0{,}1+0{,}94\\times 0{,}52+0{,}53\\times 0{,}38=0{,}7902$. Multiplicando esta probabilidad por el total de coches, se deduce que se vendieron $907.663$ coches con cambio automático."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n9",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "$$P(H\\mid A)=\\frac{P(A\\mid H)P(H)}{P(A)}=\\frac{0{,}94\\times 0{,}52}{0{,}7902}=0{,}6186.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n11",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "En primer lugar, el punto de corte de las rectas $r_1$ y $r_2$ es $P=(1,0,0)$. La recta perpendicular al plano $\\pi\\equiv 2x+y-z=3$ y que pasa por el punto $P$ tiene ecuación paramétrica\n\n$$r\\equiv\\begin{cases}\nx=1+2t,\\\\\ny=t,\\\\\nz=-t.\n\\end{cases}$$\n\nPara calcular el simétrico de $P$ con respecto al plano dado, se puede calcular el punto de corte de la recta $r$ con el plano $\\pi$, que es el punto $M\\left(\\frac{4}{3},\\frac{1}{6},-\\frac{1}{6}\\right)$. El punto $P'$ cumple que $M$ es el punto medio entre $P$ y $P'$, por tanto, $P'=\\left(\\frac{5}{3},\\frac{1}{3},-\\frac{1}{3}\\right)$. Otra posibilidad es tener en cuenta que $d(P,\\pi)=d(P',\\pi)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n12",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La ecuación paramétrica de la recta $r$ es\n\n$$\\begin{cases}\nx=1+6t,\\\\\ny=7+3t,\\\\\nz=4-5t.\n\\end{cases}$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n13",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El punto de corte de esa recta con el plano, que corresponde a $t=-1/3$. Es decir, $Q=(-1,6,17/3)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n14",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Si denotamos por $\\alpha$ el ángulo buscado y por $\\beta$ el ángulo formado por el vector director de la recta y el vector normal al plano, entonces $\\alpha+\\beta=90^{\\circ}$.\n\n$$\\cos\\beta=\\frac{\\vec{v}\\cdot\\vec{n}}{\\lVert\\vec{v}\\rVert\\,\\lVert\\vec{n}\\rVert}=\\frac{(6,3,-5)\\cdot(2,1,-3)}{\\sqrt{6^2+3^2+(-5)^2}\\,\\sqrt{2^2+1^2+(-3)^2}}=0{,}9583.$$\n\nPor tanto, $\\beta=16{,}60^{\\circ}$ y $\\alpha=73{,}4^{\\circ}$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 2
+    }
+   ]
+  },
+  {
+   "nodo": "n16",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "Comenzamos descomponiendo el integrando como suma de un polinomio y una fracción propia:\n\n$$\\frac{x^2-2x+3}{x^2-x-2}=1+\\frac{-x+5}{x^2-x-2}.$$\n\nEn segundo lugar, descomponemos la fracción propia en suma de dos fracciones simples:\n\n$$\\frac{-x+5}{x^2-x-2}=\\frac{1}{x-2}-\\frac{2}{x+1}.$$\n\nEntonces,\n\n$$\\begin{aligned}\n\\int\\frac{x^2-2x+3}{x^2-x-2}\\,dx\n&=\\int\\left(1+\\frac{1}{x-2}-\\frac{2}{x+1}\\right)\\,dx\\\\\n&=x+\\ln|x-2|-2\\ln|x+1|+C\\\\\n&=x+\\ln\\frac{|x-2|}{(x+1)^2}+C.\n\\end{aligned}$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n17",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "La parábola corta al eje horizontal cuando $x=-\\pi$ y cuando $x=\\pi$ y tiene el vértice en el punto $(0,-\\pi^2)$. $f(x)=\\cos(x/2)$ se hace cero cuando $x=-\\pi$ y $x=\\pi$ y su gráfica tiene un máximo en el punto $(0,1)$."
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n18",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El recinto solicitado es: (ver figura en la solución original)"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  },
+  {
+   "nodo": "n19",
+   "respuesta": [
+    {
+     "idioma": "es",
+     "markdown": "El área se calcula mediante la siguiente integral:\n\n$$\\int_{-\\pi}^{\\pi}\\left(\\cos\\left(\\frac{x}{2}\\right)-(x^2-\\pi^2)\\right)\\,dx=\\left(2\\sin\\left(\\frac{x}{2}\\right)-\\frac{x^3}{3}+\\pi^2x\\right)\\Bigg|_{-\\pi}^{\\pi}=4+\\frac{4\\pi^3}{3}.$$"
+    }
+   ],
+   "paginas": [
+    {
+     "idioma": "es",
+     "pagina": 3
+    }
+   ]
+  }
+ ],
+ "sin_correspondencia": [],
+ "incidencias": []
+}
+PDF
+=== PAGINA 1 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+PRIMER EJERCICIO.
+Sea x la cantidad de recipientes que ha llevado el productor A, y la correspondiente a la
+productora B y z la cantidad aportada por la productora C. El sistema de ecuaciones lineales
+que modeliza la situación descrita es:
+
+
+
+
+
+
+
+10x + 15y + 12z = 612,
+x + y + z = 48,
+5x + 9y + 4z = 304.
+La solución de este sistema es x = 12, y = 20, z = 16.
+Multiplicando cada uno de estos valores por el importe que recibe cada productor por reci-
+piente entregado, se tiene que el productor A recibe 60€, la productora B, 180€ y la produc-
+tora C, 64€.
+SEGUNDO EJERCICIO.
+(a) Para que la recta tangente a la gráfica de f en el punto de abscisa x = 0 sea y = 3 −3x
+deben ser f(0) = 3 y f ′(0) = −3, es decir, C = 3 y B = −3.
+Para que f tenga un extremo relativo en el punto x = 1 debe ser f ′(1) = 0, o sea, A = 0.
+(b) f(x) = x3 −3x + 3, f ′(x) = 3x2 −3 y f ′′(x) = 6x. Por tanto, f ′′(1) > 0 y f tiene un mínimo
+relativo en el punto x = 1.
+TERCER EJERCICIO.
+Los datos del problema se resumen en el siguiente árbol
+Coches
+vendidos
+en 2025
+en España
+Coches
+totalmente
+eléctricos (E)
+Coches
+híbridos (H)
+Coches de
+otro tipo (R)
+Cambio automático (A)
+Cambio manual (M)
+Cambio automático (A)
+Cambio manual (M)
+Cambio automático (A)
+Cambio manual (M)
+10 %
+38 %
+52 %
+100 %
+0 %
+94 %
+6 %
+53 %
+47 %
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
+
+=== PAGINA 2 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+(a) P(A) = P(A|E)P(E) + P(A|H)P(H) + P(A|R)P(R) = 1 × 0, 1 + 0, 94 × 0, 52 + 0, 53 ×
+0, 38 = 0, 7902. Multiplicando esta probabilidad por el total de coches, se deduce que se
+vendieron 907.663 coches con cambio automático.
+(b) P(H|A) = P(A|H)P(H)
+P(A)
+= 0, 94 × 0, 52
+0, 7902
+= 0, 6186.
+CUARTO EJERCICIO.
+(4A) En primer lugar, el punto de corte de las rectas r1 y r2 es P = (1, 0, 0). La recta perpen-
+dicular al plano π ≡2x + y −z = 3 y que pasa por el punto P tiene ecuación paramétrica
+r ≡
+
+
+
+
+
+
+
+x = 1 + 2t,
+y = t,
+z = −t.
+Para calcular el simétrico de P con respecto al plano dado, se puede calcular el punto de
+corte de la recta r con el plano π, que es el punto M
+(4
+3, 1
+6, −1
+6
+)
+. El punto P ′ cumple que
+M es el punto medio entre P y P ′, por tanto, P ′ =
+(5
+3, 1
+3, −1
+3
+)
+. Otra posibilidad es tener en
+cuenta que d(P, π) = d(P ′, π).
+(4B) La ecuación paramétrica de la recta r es
+
+
+
+
+
+
+
+x = 1 + 6t,
+y = 7 + 3t,
+z = 4 −5t.
+(a) El punto de corte de esa recta con el plano, que corresponde a t = −1/3. Es decir,
+Q = (−1, 6, 17/3).
+(b) Si denotamos por α el ángulo buscado y por β el ángulo formado por el vector director
+de la recta y el vector normal al plano, entonces α + β = 90◦.
+cos β =⃗
+v ·⃗n
+||⃗v|| ||⃗n|| =
+(6, 3, −5) · (2, 1, −3)
+√
+62 + 32 + (−5)2
+√
+22 + 12 + (−3)2 = 0, 9583.
+Por tanto, β = 16, 60◦y α = 73, 4◦.
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
+
+=== PAGINA 3 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+QUINTO EJERCICIO.
+(5A) Comenzamos descomponiendo el integrando como suma de un polinomio y una frac-
+ción propia:
+x2 −2x + 3
+x2 −x −2 = 1 +
+−x + 5
+x2 −x −2.
+En segundo lugar, descomponemos la fracción propia en suma de dos fracciones simples:
+−x + 5
+x2 −x −2 =
+1
+x −2 −
+2
+x + 1.
+Entonces,
+∫x2 −2x + 3
+x2 −x −2 dx =
+∫(
+1 +
+1
+x −2 −
+2
+x + 1
+)
+dx
+=x + ln |x −2| −2 ln |x + 1| + C
+=x + ln |x −2|
+(x + 1)2 + C.
+(5B) La parábola corta al eje horizontal cuando x = −π y cuando x = π y tiene el vértice en
+el punto (0, −π2). f(x) = cos(x/2) se hace cero cuando x = −π y x = π y su gráfica tiene un
+máximo en el punto (0, 1).
+(a) El recinto solicitado es:
+−π
+π
+−π2
+1
+(b) El área se calcula mediante la siguiente integral:
+∫π
+−π
+(
+cos
+(x
+2
+)
+−(x2 −π2)
+)
+dx =
+(
+2 sin
+(x
+2
+)
+−x3
+3 + π2x
+)
+π
+−π
+= 4 + 4π3
+3 .
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
+
+=== PAGINA 4 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+CRITERIOS GENERALES DE CORRECCIÓN
+1. El examen se valorará con una puntuación entre 0 y 10 puntos.
+2. Todos los problemas tienen el mismo valor: hasta 2 puntos.
+3. Si no se demanda una técnica particular de resolución, cualquier desarrollo que conduzca
+a la solución será válido.
+4. Si el ejercicio está correcto (siguiendo la técnica indicada, en su caso), se dará por bueno
+íntegramente. Sólo en el caso de no ser completamente correcto, se aplicarán las pun-
+tuaciones indicadas para cada paso en los criterios de corrección.
+5. Se valorará el planteamiento correcto, tanto global como de cada una de las partes, si
+las hubiere.
+6. La mera descripción del planteamiento, sin que se lleve a cabo la resolución de manera
+efectiva, no es suficiente para obtener una valoración completa del ejercicio.
+7. En los ejercicios en los que se pida expresamente una deducción razonada, la mera
+aplicación de una fórmula no será suficiente para obtener una valoración completa de los
+mismos.
+8. Los errores cometidos en un apartado, por ejemplo, en el cálculo del valor de un cierto
+parámetro, no se tendrán en cuenta en la calificación de los desarrollos posteriores que
+puedan verse afectados, siempre que resulten de una complejidad equivalente.
+9. No se tomarán en consideración errores numéricos, de cálculo, etc, siempre que no sean
+de tipo conceptual.
+10. Las ideas, gráficos, presentaciones, esquemas, etc, que ayuden a visualizar mejor el
+problema y su solución se valorarán positivamente.
+11. Se valorará la buena presentación del examen.
+12. Se valorarán negativamente los planteamientos incorrectos, la confusión de conceptos y
+la abundancia de errores de cálculo.
+13. Los errores aislados se valorarán negativamente cuando indiquen falta de reflexión crítica
+o de sentido común.
+14. Se valorará negativamente la falta de rigor matemático en las explicaciones y la incorrecta
+utilización de los símbolos matemáticos, con una penalización de hasta 0,2 puntos en
+cada ejercicio.
+15. Las respuestas deben estar escritas con bolígrafo azul o negro. No pueden usarse ni
+lápiz, ni bolígrafo borrable, ni bolígrafo de otro color.
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
+
+=== PAGINA 5 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+CRITERIOS DE CALIFICACIÓN de cada uno de los problemas
+PRIMER EJERCICIO
+Planteamiento del sistema (1 punto).
+Resolución del sistema (0,75 puntos).
+Cálculo del importe a pagar a cada productor (0,25 puntos).
+SEGUNDO EJERCICIO
+Cálculo correcto del parámetro C (0,5 puntos).
+Cálculo correcto del parámetro B (0,5 puntos).
+Cálculo correcto del parámetro A (0,5 puntos).
+Análisis del extremo en x = 1 (0,5 puntos).
+TERCER EJERCICIO
+Árbol o tabla que resume los datos del problema (0,5 puntos).
+Resolución correcta del apartado (a) (0,75 puntos).
+Resolución correcta del apartado (b) (0,75 puntos).
+CUARTO EJERCICIO
+4A
+Cálculo correcto del punto de intersección de las rectas (0,5 puntos).
+Cálculo correcto de la ecuación de la recta r perpendicular al plano y que
+pasa por P (0,5 puntos).
+Obtención correcta del punto simétrico P ′ (1 punto).
+4B
+(a)
+Cálculo correcto de la ecuación de la recta r que tiene vector director⃗v y
+que pasa por el punto P (0,5 puntos).
+Cálculo correcto del punto de intersección de la recta r y el plano dado
+(0,5 puntos).
+(b)
+Cálculo correcto del ángulo formado por el vector director de la recta r y
+el vector normal al plano (0,5 puntos).
+Cálculo correcto del ángulo pedido (0,5 puntos).
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
+
+=== PAGINA 6 ===
+UNIBERTSITATEAN SARTZEKO
+PROBA
+2026ko EZOHIKOA
+EBAZPENA ETA IRIZPIDEAK
+MATEMATIKA II
+PRUEBA DE ACCCESO A LA
+UNIVERSIDAD
+EXTRAORDINARIA 2026
+SOLUCIONARIO Y CRITERIOS
+MATEMÁTICAS II
+ 
+ 
+QUINTO EJERCICIO
+5A
+Separación del integrando como suma de un polinomio y una fracción propia
+(0,5 puntos).
+Descomposición de la fracción propia en fracciones simples (0,5 puntos).
+Cálculo de la integral (0,5 puntos).
+Explicación de los pasos realizados (0,5 puntos).
+5B
+(a) Dibujo correcto del recinto (1 punto).
+(b) Cálculo del área del recinto, aplicando la regla de Barrow (1 punto).
+EBAZPENA ETA IRIZPIDEAK / SOLUCIONARIO Y CRITERIOS
+EHU
